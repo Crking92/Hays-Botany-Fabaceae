@@ -1,0 +1,59 @@
+name: Preserve GBIF43 read-only audit as private evidence (no photo publication)
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fabaceae-gbif43-preserve-verified-evidence.yml'
+  workflow_dispatch:
+permissions: {actions: read, contents: write}
+jobs:
+  preserve-evidence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout private Fabaceae staging
+        uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staged
+          persist-credentials: true
+      - name: Download exact first GBIF43 read-only report
+        uses: actions/download-artifact@v4
+        with:
+          name: fabaceae-gbif43-readonly-source-and-pixel-report
+          run-id: 40789725425
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: inspected
+      - name: Validate 43 source decisions and exact image proof
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          o=json.loads(Path("inspected/fabaceae-gbif43-source-research.json").read_text())
+          s=o["summary"]
+          assert s["source_original_gbif_photo_holds"]==43 and len(o["entries"])==43
+          assert s["multimedia_and_pixel_verified_candidates"]==35
+          assert all(x["status"]=="CANDIDATE_SOURCE_AND_PIXEL_VERIFIED" or x["status"].startswith("HOLD") for x in o["entries"])
+          assert all(e["evidence"]["license"].startswith(("CC BY","CC0")) and e["evidence"]["pixel_phash_distance"]<=12
+                     for e in o["entries"] if e["status"]=="CANDIDATE_SOURCE_AND_PIXEL_VERIFIED")
+          assert s["file_changes"]==0 and not s["site_published"]
+          print("FABACEAE_GBIF43_REPORT_INTEGRITY_PASS",s)
+          PY
+      - name: Record private source evidence only; leave site and originals unchanged
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp inspected/fabaceae-gbif43-source-research.json staged/migration/fabaceae-gbif43-source-research.json
+          cd staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/fabaceae-gbif43-source-research.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Record independent GBIF evidence for 35 source-matched Fabaceae photo candidates"
+            git fetch origin staging/fabaceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          fi
