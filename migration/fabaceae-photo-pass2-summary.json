@@ -1,0 +1,30 @@
+{
+  "status": "FABACEAE_COMMONS_SECOND_PASS_PRIVATE_ONLY_NOT_PUBLISHED",
+  "source_originals_total": 200,
+  "originals_physically_byte_verified": 35,
+  "source_originals_held": 165,
+  "originals_newly_verified_in_commons_pass2": 25,
+  "source_photo_species_with_verified_archives": 28,
+  "species_total": 91,
+  "commons_held_records_rechecked": 42,
+  "commons_pass2_hold_reasons": {
+    "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM": 3,
+    "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain": 6,
+    "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0": 6,
+    "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us": 2
+  },
+  "remaining_original_holds_by_first_pass_reason": {
+    "INAT_OBSERVATION_TAXON_NOT_EXACT": 3,
+    "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED": 74,
+    "NO_UNIQUE_IMAGE_SOURCE_CSV_ENTRY": 4,
+    "INAT_OBSERVATION_ID_MISSING": 21,
+    "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD": 5,
+    "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE": 46,
+    "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError": 11,
+    "COMMONS_FILENAME_TAXON_REVIEW_REQUIRED": 1
+  },
+  "canonical_source_subtree_sha": "947ac940c97f273db03e7b42f5dc992241871527",
+  "public_pages_deployed": false,
+  "main_hub_changed": false,
+  "manual_field_anatomy_approved": false
+}

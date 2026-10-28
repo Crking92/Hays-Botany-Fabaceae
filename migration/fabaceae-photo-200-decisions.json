@@ -217,8 +217,21 @@
     "claimed_creator": "sonnia hill",
     "claimed_license": "CC BY 2.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Astragalus_leptocarpus_-_fruit.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Astragalus_leptocarpus_-_fruit.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Astragalus leptocarpus - fruit.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/images/01-slimpod-milkvetch-mature-fruit.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/images/gbif-manual-5108100988-d4eff7545.jpg",
@@ -288,7 +301,8 @@
     "claimed_license": "Public domain",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Astragalus_flowers_and_fruit.jpg",
     "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD",
+    "pass2_commons_recheck_reason": "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM"
   },
   {
     "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/joey-inat-349030024.jpg",
@@ -413,8 +427,21 @@
     "claimed_creator": "woodleywonderworks",
     "claimed_license": "CC BY 2.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis_var._texensis_(3453948807).jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "woodleywonderworks",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis_var._texensis_(3453948807).jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Cercis canadensis var. texensis (3453948807).jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/01-flowering-branches.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/02-texensis-oklahoma-branch.jpg",
@@ -427,8 +454,21 @@
     "claimed_creator": "David J. Stang",
     "claimed_license": "CC BY-SA 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis_var._texensis_Oklahoma_1zz.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Photo by David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis_var._texensis_Oklahoma_1zz.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Cercis canadensis var. texensis Oklahoma 1zz.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/02-texensis-oklahoma-branch.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-flowers-commons.jpg",
@@ -441,8 +481,21 @@
     "claimed_creator": "Fritzflohrreynolds",
     "claimed_license": "CC BY-SA 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Chamaecrista_fasciculata_-_Partridge_Pea.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chamaecrista_fasciculata_-_Partridge_Pea.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Chamaecrista fasciculata - Partridge Pea.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-flowers-commons.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-pods-seeds-commons.jpg",
@@ -455,8 +508,21 @@
     "claimed_creator": "Alex Abair",
     "claimed_license": "CC BY 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Chamaecrista_fasciculata_346279052.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chamaecrista_fasciculata_346279052.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Chamaecrista fasciculata 346279052.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-pods-seeds-commons.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-aurea/images/01-habit-head.jpg",
@@ -470,7 +536,8 @@
     "claimed_license": "Public Domain",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Dalea_aurea.jpg",
     "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-aurea/images/library-review027-5ae8fe34525b184.jpg",
@@ -633,8 +700,21 @@
     "claimed_creator": "",
     "claimed_license": "CC BY-SA / GFDL (see source page)",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Dalea-frutescens-20080325.JPG",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Miwasatoshi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dalea-frutescens-20080325.JPG",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Dalea-frutescens-20080325.JPG",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/01-habit.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/02-joey-wild-host.jpg",
@@ -675,8 +755,21 @@
     "claimed_creator": "Stan Shebs",
     "claimed_license": "CC BY-SA 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Dalea_greggii_flowers.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dalea_greggii_flowers.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Dalea greggii flowers.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/dalea-greggii-provisional-face.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/joey-inat-429060045.jpg",
@@ -1020,7 +1113,8 @@
     "claimed_license": "CC0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-leaves-flowers.jpg",
@@ -1034,7 +1128,8 @@
     "claimed_license": "CC0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_leaf_and_flowers.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-pods.jpg",
@@ -1048,7 +1143,8 @@
     "claimed_license": "CC0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_pods.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-heads-and-fruit.jpg",
@@ -1061,8 +1157,21 @@
     "claimed_creator": "Joozwa",
     "claimed_license": "CC BY-SA 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_inflorescence_&_fruits_01.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Joozwa",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_inflorescence_&_fruits_01.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Desmanthus illinoensis inflorescence & fruits 01.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-heads-and-fruit.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-ripe-pods.jpg",
@@ -1075,8 +1184,21 @@
     "claimed_creator": "Dehaan",
     "claimed_license": "CC BY 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_pods.JPG",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Dehaan",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_pods.JPG",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Desmanthus illinoensis pods.JPG",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-ripe-pods.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-seeds.jpg",
@@ -1090,7 +1212,8 @@
     "claimed_license": "Public domain, U.S. Federal Government",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_seeds.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-face-cc0.jpg",
@@ -1174,7 +1297,8 @@
     "claimed_license": "Public domain, U.S. Federal Government",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_velutinus.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/joey-inat-100333720.jpg",
@@ -1201,8 +1325,21 @@
     "claimed_creator": "Krzysztof Ziarnek, Kenraiz",
     "claimed_license": "CC BY-SA 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_virgatus_kz03.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_virgatus_kz03.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Desmanthus virgatus kz03.jpg",
+      "pixel_phash_distance": 2,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-detail.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-face.jpg",
@@ -1215,8 +1352,21 @@
     "claimed_creator": "Krzysztof Ziarnek, Kenraiz",
     "claimed_license": "CC BY-SA 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_virgatus_kz01.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_virgatus_kz01.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Desmanthus virgatus kz01.jpg",
+      "pixel_phash_distance": 2,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-face.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/inat-312240929.jpg",
@@ -1719,8 +1869,21 @@
     "claimed_creator": "New York State IPM Program at Cornell University",
     "claimed_license": "CC BY 2.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Medicago_lupulina_-_whole_plant_(18436946954).jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "NY State IPM Program at Cornell University from New York, USA",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Medicago_lupulina_-_whole_plant_(18436946954).jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Medicago lupulina - whole plant (18436946954).jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Medicago/medicago-lupulina/images/commons-medicago-lupulina.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Medicago/medicago-polymorpha/images/commons-medicago-polymorpha.jpg",
@@ -1733,8 +1896,21 @@
     "claimed_creator": "Harry Rose (Macleay Grass Man)",
     "claimed_license": "CC BY 2.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Medicago_polymorpha_burr1_(10589408844).jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Harry Rose from South West Rocks, Australia",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Medicago_polymorpha_burr1_(10589408844).jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Medicago polymorpha burr1 (10589408844).jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Medicago/medicago-polymorpha/images/commons-medicago-polymorpha.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Medicago/medicago-sativa/images/commons-medicago-sativa.jpg",
@@ -1747,8 +1923,21 @@
     "claimed_creator": "Matt Lavin",
     "claimed_license": "CC BY-SA 2.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Medicago_sativa_(5182408299).jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Matt Lavin from Bozeman, Montana, USA",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Medicago_sativa_(5182408299).jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Medicago sativa (5182408299).jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Medicago/medicago-sativa/images/commons-medicago-sativa.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/images/inat-101299131.jpg",
@@ -1832,7 +2021,8 @@
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Mimosa_biuncifera_554240946.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
   },
   {
     "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-675675349.jpg",
@@ -2026,7 +2216,8 @@
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Honey_Mesquite_Flowers_in_the_DBR's_Mesquite_Bosque.png",
     "status": "HOLD",
-    "reason": "COMMONS_FILENAME_TAXON_REVIEW_REQUIRED"
+    "reason": "COMMONS_FILENAME_TAXON_REVIEW_REQUIRED",
+    "pass2_commons_recheck_reason": "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM"
   },
   {
     "source_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-481811604-bipinnate-leaf-detail.jpg",
@@ -2068,7 +2259,8 @@
     "claimed_license": "Public domain (author released)",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Neptunia_lutea.jpg",
     "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
   },
   {
     "source_path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/images/inat-138736196.jpg",
@@ -2095,8 +2287,21 @@
     "claimed_creator": "Zeynel Cebeci",
     "claimed_license": "CC BY-SA 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Parkinsonia_aculeata.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Zeynel Cebeci",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parkinsonia_aculeata.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Parkinsonia aculeata.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Parkinsonia/parkinsonia-aculeata/images/commons-parkinsonia-aculeata.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/images/inat-119185226.jpg",
@@ -2291,8 +2496,21 @@
     "claimed_creator": "Przemysław Malkowski",
     "claimed_license": "CC BY 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_flower.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Przemysław Malkowski",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_flower.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Robinia pseudoacacia flower.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/images/robinia-pseudoacacia-pmalkowski.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/01-field-photo.jpg",
@@ -2305,8 +2523,21 @@
     "claimed_creator": "Alex Abair",
     "claimed_license": "CC BY 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Senegalia_greggii_46448741.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Senegalia_greggii_46448741.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Senegalia greggii 46448741.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/01-field-photo.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/02-hooked-catclaw-thorns.jpg",
@@ -2319,8 +2550,21 @@
     "claimed_creator": "Stan Shebs",
     "claimed_license": "CC BY-SA 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_thorns.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_thorns.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Acacia greggii thorns.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/02-hooked-catclaw-thorns.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/03-flower-spike.jpg",
@@ -2334,7 +2578,8 @@
     "claimed_license": "Public domain — author dedicated",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Acacia-greggii-flower.jpg",
     "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/04-seeds-scale.jpg",
@@ -2348,7 +2593,8 @@
     "claimed_license": "Public domain — US federal government",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Acgr_001_lhp.jpg",
     "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD",
+    "pass2_commons_recheck_reason": "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM"
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/05-whole-leafy-branch.jpg",
@@ -2361,8 +2607,21 @@
     "claimed_creator": "Stan Shebs",
     "claimed_license": "CC BY-SA 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_branch.jpg",
-    "status": "HOLD",
-    "reason": "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_branch.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Acacia greggii branch.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/05-whole-leafy-branch.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/06-ripening-curled-pods.webp",
@@ -2389,8 +2648,21 @@
     "claimed_creator": "JerryFriedman",
     "claimed_license": "CC BY-SA 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_flora.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "JerryFriedman",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_flora.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Acacia roemeriana flora.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/01-roundflower-heads.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/02-flat-pods.jpg",
@@ -2404,7 +2676,8 @@
     "claimed_license": "Public domain — US federal government work",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_01nsh.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
   },
   {
     "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/03-bipinnate-shoot.jpg",
@@ -2708,8 +2981,21 @@
     "claimed_creator": "Alex Abair",
     "claimed_license": "CC BY 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Sesbania_herbacea_48614538.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sesbania_herbacea_48614538.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Sesbania herbacea 48614538.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/images/commons-sesbania-herbacea.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/images/commons-strophostyles-helvola.jpg",
@@ -2722,8 +3008,21 @@
     "claimed_creator": "Fritzflohrreynolds",
     "claimed_license": "CC BY-SA 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Strophostyles_helvola_-_Amberique_Bean.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Strophostyles_helvola_-_Amberique_Bean.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Strophostyles helvola - Amberique Bean.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/images/commons-strophostyles-helvola.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/images/commons-styphnolobium-affine.jpg",
@@ -2737,7 +3036,8 @@
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Styphnolobium_affine.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
   },
   {
     "source_path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/images/inat-378385091.jpg",
@@ -2778,8 +3078,21 @@
     "claimed_creator": "NY State IPM Program at Cornell University",
     "claimed_license": "CC BY 2.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Trifolium_repens_-_whole_plant%2C_flowers%2C_leaves_(18877103990).jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "NY State IPM Program at Cornell University from New York, USA",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Trifolium_repens_-_whole_plant%2C_flowers%2C_leaves_(18877103990).jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Trifolium repens - whole plant, flowers, leaves (18877103990).jpg",
+      "pixel_phash_distance": 2,
+      "current_license_original": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Trifolium/trifolium-repens/images/commons-trifolium-repens.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/01-field-photo.jpg",
@@ -2792,8 +3105,21 @@
     "claimed_creator": "Alex Abair",
     "claimed_license": "CC BY 4.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Vachellia_constricta_28225005.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vachellia_constricta_28225005.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Vachellia constricta 28225005.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/01-field-photo.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/02-slender-constricted-pods.jpg",
@@ -2806,8 +3132,21 @@
     "claimed_creator": "Stan Shebs",
     "claimed_license": "CC BY-SA 3.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Acacia_constricta_pods.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_constricta_pods.jpg",
+      "provenance": "COMMONS_EXACT_IMAGEINFO_PASS2",
+      "file_title": "File:Acacia constricta pods.jpg",
+      "pixel_phash_distance": 0,
+      "current_license_original": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/02-slender-constricted-pods.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/joey-inat-211356848.jpg",
@@ -2835,7 +3174,8 @@
     "claimed_license": "CC BY 3.0 US",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Starr-101229-6241-Vachellia_farnesiana-flower_and_leaves-Moaulanui-Kahoolawe_(24941726442).jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us"
   },
   {
     "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/02-thick-dark-pods.jpg",
@@ -2849,7 +3189,8 @@
     "claimed_license": "CC BY 3.0 US",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Starr-030202-0023-Vachellia_farnesiana-seed_pods-Wailea_670-Maui_(23991674164).jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us"
   },
   {
     "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/joey-inat-184863939.jpg",
@@ -2905,7 +3246,8 @@
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Vicia_ludoviciana_-_Flickr_-_aspidoscelis.jpg",
     "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError"
+    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
   },
   {
     "source_path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/images/inat-40019219.jpg",

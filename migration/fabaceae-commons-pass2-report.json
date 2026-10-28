@@ -1,0 +1,146 @@
+{
+  "summary": {
+    "status": "FABACEAE_COMMONS_SECOND_PASS_PRIVATE_ONLY_NOT_PUBLISHED",
+    "source_originals_total": 200,
+    "originals_physically_byte_verified": 35,
+    "source_originals_held": 165,
+    "originals_newly_verified_in_commons_pass2": 25,
+    "source_photo_species_with_verified_archives": 28,
+    "species_total": 91,
+    "commons_held_records_rechecked": 42,
+    "commons_pass2_hold_reasons": {
+      "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM": 3,
+      "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain": 6,
+      "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0": 6,
+      "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us": 2
+    },
+    "remaining_original_holds_by_first_pass_reason": {
+      "INAT_OBSERVATION_TAXON_NOT_EXACT": 3,
+      "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED": 74,
+      "NO_UNIQUE_IMAGE_SOURCE_CSV_ENTRY": 4,
+      "INAT_OBSERVATION_ID_MISSING": 21,
+      "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD": 5,
+      "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE": 46,
+      "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError": 11,
+      "COMMONS_FILENAME_TAXON_REVIEW_REQUIRED": 1
+    },
+    "canonical_source_subtree_sha": "947ac940c97f273db03e7b42f5dc992241871527",
+    "public_pages_deployed": false,
+    "main_hub_changed": false,
+    "manual_field_anatomy_approved": false
+  },
+  "new_files": [
+    "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/images/01-slimpod-milkvetch-mature-fruit.jpg",
+    "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/01-flowering-branches.jpg",
+    "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/02-texensis-oklahoma-branch.jpg",
+    "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-flowers-commons.jpg",
+    "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-pods-seeds-commons.jpg",
+    "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/01-habit.jpg",
+    "content/taxa/Fabaceae/Dalea/dalea-greggii/images/dalea-greggii-provisional-face.jpg",
+    "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-heads-and-fruit.jpg",
+    "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-ripe-pods.jpg",
+    "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-detail.jpg",
+    "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-face.jpg",
+    "content/taxa/Fabaceae/Medicago/medicago-lupulina/images/commons-medicago-lupulina.jpg",
+    "content/taxa/Fabaceae/Medicago/medicago-polymorpha/images/commons-medicago-polymorpha.jpg",
+    "content/taxa/Fabaceae/Medicago/medicago-sativa/images/commons-medicago-sativa.jpg",
+    "content/taxa/Fabaceae/Parkinsonia/parkinsonia-aculeata/images/commons-parkinsonia-aculeata.jpg",
+    "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/images/robinia-pseudoacacia-pmalkowski.jpg",
+    "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/01-field-photo.jpg",
+    "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/02-hooked-catclaw-thorns.jpg",
+    "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/05-whole-leafy-branch.jpg",
+    "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/01-roundflower-heads.jpg",
+    "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/images/commons-sesbania-herbacea.jpg",
+    "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/images/commons-strophostyles-helvola.jpg",
+    "content/taxa/Fabaceae/Trifolium/trifolium-repens/images/commons-trifolium-repens.jpg",
+    "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/01-field-photo.jpg",
+    "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/02-slender-constricted-pods.jpg"
+  ],
+  "held_checks": [
+    {
+      "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/astragalus-nuttallianus-provisional-face.jpg",
+      "species_id": "astragalus-nuttallianus",
+      "reason": "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-aurea/images/01-habit-head.jpg",
+      "species_id": "dalea-aurea",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-face.jpg",
+      "species_id": "desmanthus-acuminatus",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-leaves-flowers.jpg",
+      "species_id": "desmanthus-acuminatus",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-pods.jpg",
+      "species_id": "desmanthus-acuminatus",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-seeds.jpg",
+      "species_id": "desmanthus-illinoensis",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/velutinus-usda-recon.jpg",
+      "species_id": "desmanthus-velutinus",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/mimosa-biuncifera-provisional-face.jpg",
+      "species_id": "mimosa-biuncifera",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/02-flower-spikes.png",
+      "species_id": "neltuma-glandulosa",
+      "reason": "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Neptunia/neptunia-lutea/images/commons-neptunia-lutea.jpg",
+      "species_id": "neptunia-lutea",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/03-flower-spike.jpg",
+      "species_id": "senegalia-greggii",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/04-seeds-scale.jpg",
+      "species_id": "senegalia-greggii",
+      "reason": "COMMONS_TAXON_NOT_PROVEN_BY_TITLE_OR_SYNONYM"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/02-flat-pods.jpg",
+      "species_id": "senegalia-roemeriana",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:public domain"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/images/commons-styphnolobium-affine.jpg",
+      "species_id": "styphnolobium-affine",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/01-flower-leaves.jpg",
+      "species_id": "vachellia-farnesiana",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/02-thick-dark-pods.jpg",
+      "species_id": "vachellia-farnesiana",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/images/commons-vicia-ludoviciana.jpg",
+      "species_id": "vicia-ludoviciana",
+      "reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    }
+  ]
+}
