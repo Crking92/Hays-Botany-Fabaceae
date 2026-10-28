@@ -12,6 +12,16 @@ index=json.loads((STAGING/"data/collection-index.json").read_text())
 ledger=json.loads((STAGING/"migration/fabaceae-verified-photo-ledger.json").read_text())
 decisions=json.loads((STAGING/"migration/fabaceae-photo-200-decisions.json").read_text())
 audit=json.loads((STAGING/"migration/fabaceae-photo-pass1-summary.json").read_text())
+pass2_path=STAGING/"migration/fabaceae-photo-pass2-summary.json"
+if pass2_path.is_file():
+ current=json.loads(pass2_path.read_text())
+ assert current["source_originals_total"]==200
+ assert current["originals_physically_byte_verified"]+current["source_originals_held"]==200
+ assert current["canonical_source_subtree_sha"]==audit["canonical_source_subtree_sha"]
+ assert current["originals_physically_byte_verified"]>=audit["original_photos_byte_archived_in_private_staging"]
+ audit={**audit,
+    "original_photos_byte_archived_in_private_staging":current["originals_physically_byte_verified"],
+    "photos_held_with_documented_reasons":current["source_originals_held"]}
 assert config["publication"]["enabled"] is False
 assert index["authority"]=="STAGING_ONLY" and len(index["entries"])==91
 assert audit["original_photos_accounted_for"]==200 and len(decisions)==200
