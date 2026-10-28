@@ -1,0 +1,24 @@
+{
+  "status": "FABACEAE_GBIF_SOURCE_VERIFIED_PRIVATE_ARCHIVE_COMPLETE_NOT_PUBLIC",
+  "source_original_photos_total": 200,
+  "original_photos_archived": 70,
+  "source_original_photos_held": 130,
+  "new_gbif_multimedia_photos_archived": 35,
+  "photo_covered_species": 48,
+  "species_total": 91,
+  "held_reason_counts": {
+    "INAT_OBSERVATION_TAXON_NOT_EXACT": 3,
+    "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED": 39,
+    "NO_UNIQUE_IMAGE_SOURCE_CSV_ENTRY": 4,
+    "INAT_OBSERVATION_ID_MISSING": 21,
+    "CURRENT_COMMONS_REUSE_LICENSE_NOT_STRICT_CC_OR_PD": 5,
+    "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE": 46,
+    "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError": 11,
+    "COMMONS_FILENAME_TAXON_REVIEW_REQUIRED": 1
+  },
+  "held_gbif_multimedia_records": 8,
+  "source_family_subtree_sha": "947ac940c97f273db03e7b42f5dc992241871527",
+  "main_hub_unchanged": true,
+  "public_site_deployed": false,
+  "diagnostic_arrow_approval": false
+}

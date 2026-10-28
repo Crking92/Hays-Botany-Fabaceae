@@ -52,8 +52,21 @@
     "claimed_creator": "Cleveland Powell",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6399588334",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6399588334",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/674348536/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6399588334,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/images/library-review018-bed5a45cbae1533.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/images/amorpha-fruticosa_inflorescence-buds-bracts_15-15.0.jpg",
@@ -147,8 +160,21 @@
     "claimed_creator": "Cleveland Powell",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6274158385",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6274158385",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/648776321/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6274158385,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/library-review010-e0bd61424bd6d31.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/library-review033-9fea63b2fcea81c.jpg",
@@ -161,8 +187,21 @@
     "claimed_creator": "Reid Hardin",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/5187704575",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Reid Hardin",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/5187704575",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/501268042/original.jpeg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5187704575,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/library-review033-9fea63b2fcea81c.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/gbif-first-3382042308-c2e03f6b10.jpg",
@@ -189,8 +228,21 @@
     "claimed_creator": "Michelle W. （鍾偉瑋）",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6188311977",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6188311977",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/632959280/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6188311977,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/library-review013-0120fbc5600d918.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/library-review013-e063f53de1c602d.jpg",
@@ -203,8 +255,21 @@
     "claimed_creator": "Michelle W. （鍾偉瑋）",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6185703934",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6185703934",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/262736713/original.jpeg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6185703934,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/library-review013-e063f53de1c602d.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/images/01-slimpod-milkvetch-mature-fruit.jpg",
@@ -244,8 +309,21 @@
     "claimed_creator": "Nautilus 211",
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://www.gbif.org/occurrence/5108100988",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Nautilus 211",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.gbif.org/occurrence/5108100988",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/479347175/original.jpeg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5108100988,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/images/gbif-manual-5108100988-d4eff7545.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/images/astragalus-lindheimeri-provisional-face.jpg",
@@ -272,8 +350,21 @@
     "claimed_creator": "CH Hemphill",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6184971854",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "CH Hemphill",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6184971854",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/626190846/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6184971854,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/images/gbif-manual-6184971854-8f0e942ba.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus-var-pleianthus/images/gbif-first-1841244826-e9033956eb.jpg",
@@ -357,8 +448,21 @@
     "claimed_creator": "Donna H.",
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://www.gbif.org/occurrence/5140729847",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Donna H.",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.gbif.org/occurrence/5140729847",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/494561662/original.jpeg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5140729847,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Astragalus/astragalus-plattensis/images/gbif-manual-5140729847-19b7a5e80.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/images/inat-640369868.jpg",
@@ -413,8 +517,21 @@
     "claimed_creator": "Michelle W. （鍾偉瑋）",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6235148381",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6235148381",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/636205198/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6235148381,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/images/library-review012-cb5b46a700292bf.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/01-flowering-branches.jpg",
@@ -550,8 +667,21 @@
     "claimed_creator": "Cleveland Powell",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6188153650",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6188153650",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/632668285/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6188153650,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-aurea/images/library-review027-5ae8fe34525b184.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-candida/images/dalea-candida-provisional-face.jpg",
@@ -630,8 +760,21 @@
     "claimed_creator": "Sam Kieschnick",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6236463984",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6236463984",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/645229233/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6236463984,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-compacta/images/library-review027-271f28131baf7be.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-compacta/images/library-review027-8c2ad479e42270e.jpg",
@@ -644,8 +787,21 @@
     "claimed_creator": "ashleyrsteel",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6273849789",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "ashleyrsteel",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6273849789",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/645955272/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6273849789,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-compacta/images/library-review027-8c2ad479e42270e.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/glass-root-735431022-first-photo.jpg",
@@ -672,8 +828,21 @@
     "claimed_creator": "ashleyrsteel",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6195669838",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "ashleyrsteel",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6195669838",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/636923238/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6195669838,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-695fa6fa8f62b62.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-932b1b31df3bcb6.jpg",
@@ -686,8 +855,21 @@
     "claimed_creator": "ashleyrsteel",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6195669838",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "ashleyrsteel",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6195669838",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/636923304/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6195669838,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-932b1b31df3bcb6.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/01-habit.jpg",
@@ -852,8 +1034,21 @@
     "claimed_creator": "Vince Hale",
     "claimed_license": "CC0",
     "claimed_source_page": "https://www.gbif.org/occurrence/6186158439",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Vince Hale",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.gbif.org/occurrence/6186158439",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/628316900/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6186158439,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/library-review014-725ce09df227f6c.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/library-review033-a9bf6230f39f81d.jpg",
@@ -866,8 +1061,21 @@
     "claimed_creator": "Eric Knight",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6234795491",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Eric Knight",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6234795491",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/630708306/original.jpg",
+      "pixel_phash_distance": 2,
+      "source_gbif_occurrence_id": 6234795491,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/library-review033-a9bf6230f39f81d.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/images/dalea-multiflora-provisional-face.jpg",
@@ -894,8 +1102,21 @@
     "claimed_creator": "Cleveland Powell",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6188527015",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6188527015",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/631604348/original.jpg",
+      "pixel_phash_distance": 2,
+      "source_gbif_occurrence_id": 6188527015,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/images/gbif-manual-6188527015-4ad7d4c48.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/dalea-nana-provisional-face.jpg",
@@ -1031,8 +1252,21 @@
     "claimed_creator": "Cleveland Powell",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6235138829",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6235138829",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/648572595/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6235138829,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/images/library-review010-010069164f6d82f.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/images/library-review010-ff5b6a31bb18628.jpg",
@@ -1045,8 +1279,21 @@
     "claimed_creator": "Cleveland Powell",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6235138829",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Cleveland Powell",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6235138829",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/648572708/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6235138829,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/images/library-review010-ff5b6a31bb18628.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/images/dermatophyllum-secundiflorum_habit-source-label_13-30.jpg",
@@ -1407,8 +1654,21 @@
     "claimed_creator": "Sam Kieschnick",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6251657328",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6251657328",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/646971007/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6251657328,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/library-review036-52d965a3c8cfb6d.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/library-review036-a718394463db8d7.jpg",
@@ -1449,8 +1709,21 @@
     "claimed_creator": "Aspen Frisch",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/5897159618",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Aspen Frisch",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/5897159618",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/592094328/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5897159618,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/images/library-review041-ce8aa6357c8acc4.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/inat-91911378.jpg",
@@ -1477,8 +1750,21 @@
     "claimed_creator": "Michelle W. （鍾偉瑋）",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/5205856553",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/5205856553",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/516762946/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5205856553,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-0a6382aefa921e2.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-4e58fb69521e2aa.jpg",
@@ -1491,8 +1777,21 @@
     "claimed_creator": "Michelle W. （鍾偉瑋）",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/5205856553",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/5205856553",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/516763686/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5205856553,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-4e58fb69521e2aa.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/inat-3851803.jpg",
@@ -1519,8 +1818,21 @@
     "claimed_creator": "Chet Burrier",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6131539130",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Chet Burrier",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6131539130",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/606946454/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6131539130,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-ab0070be4422652.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-d14b7d09dfe972b.jpg",
@@ -1533,8 +1845,21 @@
     "claimed_creator": "Michelle W. （鍾偉瑋）",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6130820333",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6130820333",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/608562855/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6130820333,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-d14b7d09dfe972b.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/images/joey-99698514.jpg",
@@ -1645,8 +1970,21 @@
     "claimed_creator": "Sam Kieschnick",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/5938235618",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/5938235618",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604856147/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5938235618,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-438eb39d0a83bdc.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-917ac57f26a3fca.jpg",
@@ -1659,8 +1997,21 @@
     "claimed_creator": "EJ Burns",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/5938352883",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "EJ Burns",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/5938352883",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605422140/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5938352883,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-917ac57f26a3fca.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-d9d74ebe02bcc0c.jpg",
@@ -1757,8 +2108,21 @@
     "claimed_creator": "Sam Kieschnick",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6551475361",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6551475361",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/731565741/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6551475361,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/images/library-review054-53cfbf11948eb20.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Lespedeza/lespedeza-texana/images/inat-272775439.jpg",
@@ -1964,8 +2328,21 @@
     "claimed_creator": "Sam Kieschnick",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6234690943",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6234690943",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/645299966/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6234690943,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/images/library-review056-6fca386ee0e930e.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/images/inat-595592253.jpg",
@@ -2119,8 +2496,21 @@
     "claimed_creator": "Reid Hardin",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/4852922106",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Reid Hardin",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/4852922106",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/369680889/original.jpeg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 4852922106,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/images/gbif-manual-4852922106-3b70815b2.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/images/mimosa-roemeriana-provisional-face.jpg",
@@ -2468,8 +2858,21 @@
     "claimed_creator": "Salem De La Luna",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6185179860",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Salem De La Luna",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6185179860",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/630559147/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6185179860,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/gbif-manual-6185179860-060fb5382.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/inat-631156962.jpg",
@@ -2844,8 +3247,21 @@
     "claimed_creator": "April Coulon",
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://www.gbif.org/occurrence/6431822939",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "April Coulon",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://www.gbif.org/occurrence/6431822939",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/692204066/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6431822939,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/gbif-first-6431822939-9ca58a139a.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-10b329a7758a956.jpg",
@@ -2858,8 +3274,21 @@
     "claimed_creator": "Ian McFaul",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6352610351",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Ian McFaul",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6352610351",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/668738183/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6352610351,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-10b329a7758a956.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-12bbd97d3f95bdf.jpg",
@@ -2872,8 +3301,21 @@
     "claimed_creator": "Clifton Ladd, C.W.B.",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/6130028254",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Clifton Ladd, C.W.B.",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/6130028254",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/607020787/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 6130028254,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-12bbd97d3f95bdf.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/01-flower.jpg",
@@ -2953,8 +3395,21 @@
     "claimed_creator": "Jackie T",
     "claimed_license": "CC BY",
     "claimed_source_page": "https://www.gbif.org/occurrence/5938619114",
-    "status": "HOLD",
-    "reason": "UPSTREAM_PLATFORM_NOT_FIRST_PASS_VERIFIED"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "evidence": {
+      "creator": "Jackie T",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.gbif.org/occurrence/5938619114",
+      "media_identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605465916/original.jpg",
+      "pixel_phash_distance": 0,
+      "source_gbif_occurrence_id": 5938619114,
+      "provenance": "GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE"
+    },
+    "destination_path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/gbif-manual-5938619114-403e5ef30.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/inat-566513341.jpg",
