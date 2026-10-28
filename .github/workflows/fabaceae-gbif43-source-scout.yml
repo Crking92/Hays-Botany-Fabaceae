@@ -1,0 +1,52 @@
+name: Read-only source and image matching for Fabaceae GBIF43 (NO website changes)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/scout_fabaceae_gbif43.py'
+      - '.github/workflows/fabaceae-gbif43-source-scout.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  scout-gbif:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout read-only GBIF source checker
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - name: Checkout existing private Fabaceae source/rights ledgers
+        uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staged
+          persist-credentials: false
+      - name: Set up perceptual image verifier
+        run: |
+          python -m pip install 'Pillow>=10,<12' 'ImageHash>=4,<5'
+          python -m py_compile shell/scripts/scout_fabaceae_gbif43.py
+      - name: Clone authoritative original photos for exact matching
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set content/taxa/Fabaceae
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+          test "$(git -C "$RUNNER_TEMP/hays-source" rev-parse HEAD:content/taxa/Fabaceae)" = 947ac940c97f273db03e7b42f5dc992241871527
+      - name: Verify exact GBIF multimedia sources and current reuse licenses read-only
+        shell: bash
+        run: |
+          python3 shell/scripts/scout_fabaceae_gbif43.py "$RUNNER_TEMP/hays-source" staged shell/qa-report/fabaceae-gbif43
+      - name: Save source evidence without committing source or touching website
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-gbif43-readonly-source-and-pixel-report
+          path: shell/qa-report/fabaceae-gbif43/
+          retention-days: 30
+          if-no-files-found: warn
