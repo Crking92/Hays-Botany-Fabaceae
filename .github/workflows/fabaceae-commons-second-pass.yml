@@ -1,0 +1,74 @@
+name: Fabaceae Commons photo second pass — exact file, rights and pixels (private)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/recover_fabaceae_commons_pass2.py'
+      - '.github/workflows/fabaceae-commons-second-pass.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: fabaceae-commons-private-stage
+  cancel-in-progress: false
+jobs:
+  commons-pass2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Read current vetted Commons checker from main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - name: Read existing source-photo rights ledgers and images
+        uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staged
+          persist-credentials: true
+      - name: Install source pixel verification
+        run: |
+          python -m pip install 'Pillow>=10,<12' 'ImageHash>=4,<5'
+          python -m py_compile shell/scripts/recover_fabaceae_commons_pass2.py
+      - name: Clone authoritative original Fabaceae image folder
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set content/taxa/Fabaceae
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+          test "$(git -C "$RUNNER_TEMP/hays-source" rev-parse HEAD:content/taxa/Fabaceae)" = 947ac940c97f273db03e7b42f5dc992241871527
+      - name: Recheck Commons current license, taxon and exact photo pixels; preserve held originals
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 shell/scripts/recover_fabaceae_commons_pass2.py "$RUNNER_TEMP/hays-source" staged
+          python3 staged/scripts/validate_collection.py
+      - name: Keep all verified images and decisions private in staging only
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Fabaceae/ migration/fabaceae-photo-200-decisions.json migration/fabaceae-verified-photo-ledger.json migration/fabaceae-commons-pass2-report.json migration/fabaceae-photo-pass2-summary.json
+          git diff --cached --check -- migration/
+          if ! git diff --cached --quiet; then
+            git commit -m "Recover individually verified Fabaceae Commons originals; keep unresolved photo holds"
+            git fetch origin staging/fabaceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          fi
+      - name: Preserve private image-rights audit result, never publish
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-commons-pass2-rights-pixel-audit
+          path: |
+            staged/migration/fabaceae-commons-pass2-report.json
+            staged/migration/fabaceae-photo-pass2-summary.json
+          retention-days: 30
+          if-no-files-found: warn
