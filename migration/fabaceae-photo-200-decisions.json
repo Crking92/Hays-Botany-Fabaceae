@@ -1359,9 +1359,23 @@
     "claimed_creator": "Btcpg",
     "claimed_license": "CC0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0",
+    "evidence": {
+      "creator": "Btcpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus.jpg",
+      "provenance": "COMMONS_EXPLICIT_CC0_OR_US_LICENSE_IMAGEINFO",
+      "pixel_phash_distance": 0,
+      "file_title": "File:Desmanthus acuminatus.jpg",
+      "current_commons_license_short_name": "cc0",
+      "current_commons_license_field": "cc0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-face.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-leaves-flowers.jpg",
@@ -1374,9 +1388,23 @@
     "claimed_creator": "Btcpg",
     "claimed_license": "CC0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_leaf_and_flowers.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0",
+    "evidence": {
+      "creator": "Btcpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_leaf_and_flowers.jpg",
+      "provenance": "COMMONS_EXPLICIT_CC0_OR_US_LICENSE_IMAGEINFO",
+      "pixel_phash_distance": 0,
+      "file_title": "File:Desmanthus acuminatus leaf and flowers.jpg",
+      "current_commons_license_short_name": "cc0",
+      "current_commons_license_field": "cc0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-leaves-flowers.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-pods.jpg",
@@ -1391,7 +1419,8 @@
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_pods.jpg",
     "status": "HOLD",
     "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0",
+    "pass4_explicit_license_recheck_reason": "COMMONS_PIXELS_NOT_MATCHED"
   },
   {
     "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-heads-and-fruit.jpg",
@@ -2397,9 +2426,23 @@
     "claimed_creator": "Daniel",
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Mimosa_biuncifera_554240946.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0",
+    "evidence": {
+      "creator": "Daniel",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mimosa_biuncifera_554240946.jpg",
+      "provenance": "COMMONS_EXPLICIT_CC0_OR_US_LICENSE_IMAGEINFO",
+      "pixel_phash_distance": 0,
+      "file_title": "File:Mimosa biuncifera 554240946.jpg",
+      "current_commons_license_short_name": "cc0",
+      "current_commons_license_field": "cc0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/mimosa-biuncifera-provisional-face.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-675675349.jpg",
@@ -3492,7 +3535,8 @@
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Styphnolobium_affine.jpg",
     "status": "HOLD",
     "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0",
+    "pass4_explicit_license_recheck_reason": "COMMONS_PIXELS_NOT_MATCHED"
   },
   {
     "source_path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/images/inat-378385091.jpg",
@@ -3628,9 +3672,23 @@
     "claimed_creator": "Forest & Kim Starr",
     "claimed_license": "CC BY 3.0 US",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Starr-101229-6241-Vachellia_farnesiana-flower_and_leaves-Moaulanui-Kahoolawe_(24941726442).jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us",
+    "evidence": {
+      "creator": "Forest and Kim Starr",
+      "license": "CC BY 3.0 US",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/us/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-101229-6241-Vachellia_farnesiana-flower_and_leaves-Moaulanui-Kahoolawe_(24941726442).jpg",
+      "provenance": "COMMONS_EXPLICIT_CC0_OR_US_LICENSE_IMAGEINFO",
+      "pixel_phash_distance": 0,
+      "file_title": "File:Starr-101229-6241-Vachellia farnesiana-flower and leaves-Moaulanui-Kahoolawe (24941726442).jpg",
+      "current_commons_license_short_name": "cc by 3.0 us",
+      "current_commons_license_field": "cc by 3 0 us"
+    },
+    "destination_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/01-flower-leaves.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/02-thick-dark-pods.jpg",
@@ -3645,7 +3703,8 @@
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Starr-030202-0023-Vachellia_farnesiana-seed_pods-Wailea_670-Maui_(23991674164).jpg",
     "status": "HOLD",
     "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us"
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc by 3 0 us",
+    "pass4_explicit_license_recheck_reason": "COMMONS_PIXELS_NOT_MATCHED"
   },
   {
     "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/joey-inat-184863939.jpg",
@@ -3700,9 +3759,23 @@
     "claimed_creator": "Patrick Alexander",
     "claimed_license": "CC0 1.0",
     "claimed_source_page": "https://commons.wikimedia.org/wiki/File:Vicia_ludoviciana_-_Flickr_-_aspidoscelis.jpg",
-    "status": "HOLD",
-    "reason": "COMMONS_API_OR_IMAGE_RECHECK_FAILED:HTTPError",
-    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0"
+    "status": "STAGED_PRIVATE_PUBLIC_COMPATIBLE",
+    "pass2_commons_recheck_reason": "CURRENT_COMMONS_CC_LICENSE_UNVERIFIED:cc0",
+    "evidence": {
+      "creator": "Patrick Alexander from Las Cruces, NM",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vicia_ludoviciana_-_Flickr_-_aspidoscelis.jpg",
+      "provenance": "COMMONS_EXPLICIT_CC0_OR_US_LICENSE_IMAGEINFO",
+      "pixel_phash_distance": 0,
+      "file_title": "File:Vicia ludoviciana - Flickr - aspidoscelis.jpg",
+      "current_commons_license_short_name": "cc0",
+      "current_commons_license_field": "cc0"
+    },
+    "destination_path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/images/commons-vicia-ludoviciana.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/images/inat-40019219.jpg",

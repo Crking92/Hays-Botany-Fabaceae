@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "original_source_photos": 200,
+    "previous_archived": 70,
+    "additional_explicit_CC0_CC_BY_US_photos": 5,
+    "archived": 75,
+    "held": 125,
+    "photo_species": 52,
+    "source_held_image_checks": 8,
+    "held_check_reasons": {
+      "COMMONS_PIXELS_NOT_MATCHED": 3
+    },
+    "canonical_source_tree_unchanged": true,
+    "public_deployment": false
+  },
+  "individual_checks": [
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-face.jpg",
+      "species_id": "desmanthus-acuminatus",
+      "status": "ARCHIVED_PRIVATE_VERIFIED",
+      "license": "CC0 1.0",
+      "creator": "Btcpg",
+      "pixel_distance": 0
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-leaves-flowers.jpg",
+      "species_id": "desmanthus-acuminatus",
+      "status": "ARCHIVED_PRIVATE_VERIFIED",
+      "license": "CC0 1.0",
+      "creator": "Btcpg",
+      "pixel_distance": 0
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-pods.jpg",
+      "species_id": "desmanthus-acuminatus",
+      "status": "HOLD",
+      "reason": "COMMONS_PIXELS_NOT_MATCHED"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/mimosa-biuncifera-provisional-face.jpg",
+      "species_id": "mimosa-biuncifera",
+      "status": "ARCHIVED_PRIVATE_VERIFIED",
+      "license": "CC0 1.0",
+      "creator": "Daniel",
+      "pixel_distance": 0
+    },
+    {
+      "path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/images/commons-styphnolobium-affine.jpg",
+      "species_id": "styphnolobium-affine",
+      "status": "HOLD",
+      "reason": "COMMONS_PIXELS_NOT_MATCHED"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/01-flower-leaves.jpg",
+      "species_id": "vachellia-farnesiana",
+      "status": "ARCHIVED_PRIVATE_VERIFIED",
+      "license": "CC BY 3.0 US",
+      "creator": "Forest and Kim Starr",
+      "pixel_distance": 0
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/02-thick-dark-pods.jpg",
+      "species_id": "vachellia-farnesiana",
+      "status": "HOLD",
+      "reason": "COMMONS_PIXELS_NOT_MATCHED"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/images/commons-vicia-ludoviciana.jpg",
+      "species_id": "vicia-ludoviciana",
+      "status": "ARCHIVED_PRIVATE_VERIFIED",
+      "license": "CC0 1.0",
+      "creator": "Patrick Alexander from Las Cruces, NM",
+      "pixel_distance": 0
+    }
+  ]
+}
