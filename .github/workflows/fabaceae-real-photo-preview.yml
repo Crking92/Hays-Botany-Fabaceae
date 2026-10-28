@@ -1,12 +1,10 @@
 name: Test Fabaceae real-photo learner on desktop and mobile (NEVER publish)
 on:
   push:
-    branches: [main]
+    branches: [staging/fabaceae-metadata]
     paths:
-      - 'scripts/build_fabaceae_photo_preview.py'
-      - 'scripts/test_fabaceae_photo_preview_browser.py'
-      - 'site/**'
-      - '.github/workflows/fabaceae-real-photo-preview.yml'
+      - 'migration/fabaceae-verified-photo-ledger.json'
+      - 'migration/fabaceae-photo-pass1-summary.json'
   workflow_dispatch:
 permissions: {contents: read}
 jobs:
