@@ -1,0 +1,49 @@
+name: Preserve Fabaceae iNaturalist source-check diagnostics
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fabaceae-inat25-preserve-errors.yml'
+  workflow_dispatch:
+permissions: {actions: read, contents: write}
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staging
+      - uses: actions/download-artifact@v4
+        with:
+          run-id: 40790732513
+          name: fabaceae-inat25-original-photo-link-evidence
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: evidence
+      - name: Validate read-only audit and record errors
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, pathlib
+          p=pathlib.Path('evidence/fabaceae-inat25-link-audit.json')
+          report=json.loads(p.read_text())
+          assert len(report['entries'])==25
+          assert report['summary']['photo_files_transferred']==0
+          assert report['summary']['source_records_checked']==25
+          print('FAILURE_REASON_COUNTS')
+          from collections import Counter
+          print(dict(Counter(e.get('error') for e in report['entries'])))
+          PY
+          cp evidence/fabaceae-inat25-link-audit.json staging/migration/fabaceae-inat25-readonly-source-audit.json
+          cd staging
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/fabaceae-inat25-readonly-source-audit.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Preserve Fabaceae individual iNaturalist photo link check evidence"
+            git fetch origin staging/fabaceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          fi
