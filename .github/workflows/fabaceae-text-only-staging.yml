@@ -1,0 +1,76 @@
+name: Stage Fabaceae text only — hold all photos, never deploy
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/stage_fabaceae_text_only.py'
+      - '.github/workflows/fabaceae-text-only-staging.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fabaceae-source-text-staging
+  cancel-in-progress: false
+jobs:
+  private-metadata:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out destination
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+      - name: Work only on isolated staging branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code origin refs/heads/staging/fabaceae-metadata >/dev/null 2>&1; then
+            git fetch --depth 1 origin staging/fabaceae-metadata
+            git switch -c staging/fabaceae-metadata --track origin/staging/fabaceae-metadata
+          else
+            git switch -c staging/fabaceae-metadata
+          fi
+      - name: Clone original public hub with selective text-only checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set --no-cone \
+            '/content/taxa/Fabaceae/**/*.json' \
+            '/content/taxa/Fabaceae/**/*.txt' \
+            '/content/taxa/Fabaceae/**/*.csv'
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+          echo "Current Fabaceae tree:"
+          git -C "$RUNNER_TEMP/hays-source" rev-parse HEAD:content/taxa/Fabaceae
+      - name: Verify and migrate exactly 291 text/provenance files; zero image bytes
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/stage_fabaceae_text_only.py "$RUNNER_TEMP/hays-source"
+          python3 scripts/validate_collection.py
+          git diff --check -- data/collection-index.json migration/fabaceae-text-only-stage-summary.json
+      - name: Save private staging only; source and website remain unchanged
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Fabaceae data/collection-index.json migration/fabaceae-text-only-stage-summary.json
+          git diff --cached --check -- data/collection-index.json migration/fabaceae-text-only-stage-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Stage Fabaceae 91 species and 291 source-matched text files; hold all 200 photos"
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          else
+            echo "Fabaceae text-only staging already matches source."
+          fi
+      - name: Preserve source-matched private metadata stage report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-text-only-staging-report
+          path: migration/fabaceae-text-only-stage-summary.json
+          if-no-files-found: warn
+          retention-days: 30
