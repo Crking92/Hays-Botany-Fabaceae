@@ -22,6 +22,16 @@ if pass2_path.is_file():
  audit={**audit,
     "original_photos_byte_archived_in_private_staging":current["originals_physically_byte_verified"],
     "photos_held_with_documented_reasons":current["source_originals_held"]}
+pass3_path=STAGING/"migration/fabaceae-photo-pass3-gbif-summary.json"
+if pass3_path.is_file():
+ current=json.loads(pass3_path.read_text())
+ assert current["source_original_photos_total"]==200
+ assert current["original_photos_archived"]+current["source_original_photos_held"]==200
+ assert current["source_family_subtree_sha"]==audit["canonical_source_subtree_sha"]
+ assert current["original_photos_archived"]>=audit["original_photos_byte_archived_in_private_staging"]
+ audit={**audit,
+    "original_photos_byte_archived_in_private_staging":current["original_photos_archived"],
+    "photos_held_with_documented_reasons":current["source_original_photos_held"]}
 assert config["publication"]["enabled"] is False
 assert index["authority"]=="STAGING_ONLY" and len(index["entries"])==91
 assert audit["original_photos_accounted_for"]==200 and len(decisions)==200
