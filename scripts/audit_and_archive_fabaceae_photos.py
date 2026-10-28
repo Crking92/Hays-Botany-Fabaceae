@@ -111,7 +111,7 @@ def common_check(row,card,original):
         if not any(n in name_text for n in accepted_names(card)):
             return None,"COMMONS_FILENAME_TAXON_REVIEW_REQUIRED"
         upstream=download_image(info.get("thumburl") or info["url"])
-        dist=phash(original)-phash(upstream)
+        dist=int(phash(original)-phash(upstream))
         if dist>12:return None,"UPSTREAM_COMMONS_PIXELS_NOT_MATCHED"
         return {"creator":creator[:300],"license":label,"license_url":license_url,
             "source_page":source_url,"provenance":"COMMONS_EXACT_IMAGEINFO",
@@ -149,7 +149,7 @@ def inat_check(row,card,original):
         if not photo_url.startswith("https://"):return None,"INAT_CURRENT_IMAGE_URL_MISSING"
         # Prefer returned photo bytes, with exact photo ID already verified against obs.
         upstream=download_image(photo_url.replace("/square.","/large.").replace("/medium.","/large."))
-        dist=phash(original)-phash(upstream)
+        dist=int(phash(original)-phash(upstream))
         if dist>12:return None,"UPSTREAM_INAT_PIXELS_NOT_MATCHED"
         license_name,license_url=license_map[code]
         return {"creator":creator[:300],"license":license_name,"license_url":license_url,
