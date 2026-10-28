@@ -1,0 +1,175 @@
+{
+  "id": "dermatophyllum-secundiflorum",
+  "entry_type": "species",
+  "family": "Fabaceae",
+  "genus": "Dermatophyllum",
+  "species": "secundiflorum",
+  "scientific_name": "Dermatophyllum secundiflorum",
+  "authority": "(Ortega) Gandhi & Reveal",
+  "common_name": "Texas mountain laurel / mescal bean",
+  "synonyms": [
+    "Sophora secundiflora (Ortega) Lag. ex DC.",
+    "Calia secundiflora (Ortega) Yakovlev",
+    "Dermatophyllum speciosum Scheele",
+    "Sophora speciosa (Scheele) Benth."
+  ],
+  "taxonomic_note": "Current Kew POWO accepts Dermatophyllum secundiflorum. Sophora secundiflora, the name used in the B096 source row and in much Texas horticultural literature, is a synonym.",
+  "look_here_first": "Evergreen limestone shrub or small tree with glossy pinnate leaves, dense hanging clusters of purple pea-flowers, and thick woody pods containing bright red seeds.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Bexar",
+    "Kendall"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola natural-plants list records Sophora secundiflora as natural. Bexar — historical herbarium specimens from San Antonio/Bejar. Kendall — USDA GRIN wild accession from Tapatio Springs, Kendall County.",
+    "range_guardrail": "Historical synonym records are mapped to the accepted species; landscape plantings are not counted as native county evidence."
+  },
+  "morphology_keys": {
+    "family_pattern": "Fabaceae: alternate compound leaves, papilionoid pea-flowers, and legume pods.",
+    "best_field_traits": [
+      "evergreen shrub or small tree",
+      "alternate odd-pinnate leaves",
+      "thick glossy dark-green leaflets",
+      "dense pendulous clusters of violet-purple papilionoid flowers",
+      "strong grape-like floral fragrance",
+      "thick woody pods",
+      "bright red hard seeds",
+      "rocky calcareous and limestone habitat"
+    ],
+    "comparison_training": "Compared with Lupinus texensis and Senna roemeriana, Texas mountain laurel is woody and evergreen. Its glossy pinnate leaves, hanging purple flower clusters, and woody seed pods make it unmistakable among local Fabaceae once mature."
+  },
+  "curation_status": {
+    "version": "1.0-b096",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03"
+  },
+  "images": [
+    {
+      "file": "images/dermatophyllum-secundiflorum_silvery-foliage_00-21-44.0.jpg",
+      "role": "Dense evergreen gray-green foliage context.",
+      "caption": "Dense gray-green evergreen foliage of Texas mountain laurel. Use the compact compound-leaf texture and silvery cast as a vegetative cue; this frame is not a flower or fruit ID.",
+      "diagnostic_roles": [
+        "evergreen foliage",
+        "gray-green foliage texture",
+        "compound-leaf context"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=mA0uMKVyswA",
+      "source_record_id": "jvid-mA0uMKVyswA-013",
+      "timestamp": "00:21:44.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/dermatophyllum-secundiflorum_habit-source-label_13-30.jpg",
+      "role": "Source-labeled Texas mountain laurel whole-plant/branch habit.",
+      "caption": "Source-labeled Dermatophyllum secundiflorum showing the woody habit and dense evergreen foliage. Pair this with the fruit-development frame for a more complete ID.",
+      "diagnostic_roles": [
+        "whole-plant habit",
+        "evergreen woody shrub/tree",
+        "source label"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=m1rrQfljKAo",
+      "source_record_id": "m1rrQfljKAo-08",
+      "timestamp": "13:30",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/dermatophyllum-secundiflorum_swollen-ovaries-forming-legumes_15-00.jpg",
+      "role": "Spent flowers with swollen ovaries developing into legumes.",
+      "caption": "Post-bloom Texas mountain laurel: spent flowers and swollen ovaries are developing into legumes, a useful Fabaceae fruit-development cue.",
+      "diagnostic_roles": [
+        "developing legumes",
+        "spent flowers",
+        "post-bloom fruit development"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=m1rrQfljKAo",
+      "source_record_id": "m1rrQfljKAo-09",
+      "timestamp": "15:00",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/public-inat-dermatophyllum-secundiflorum-745542712.jpg",
+      "role": "Provisional exact-species public Texas mountain laurel photo. Use evergreen pinnate leaves and violet pea-like flowers as field cues where visible; record leaves, flowers and legumes separately before anatomical arrows.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Dermatophyllum secundiflorum. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) mattmsa, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/745542712",
+      "source_observation_page": "https://www.inaturalist.org/observations/405852555",
+      "source_photo_id": "745542712",
+      "source_observation_id": "405852555",
+      "source_taxon": "Dermatophyllum secundiflorum",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/745542712/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "6ab88441939c02161960af4969a93ec3f59ad6dea3cf8a831474acb5e0e1ce7e",
+      "published_jpeg_sha256": "ce9d76209b1ceaf84217c81662da9c382295c883f025460aeb1fd5ba228ef4f4",
+      "published_jpeg_dimensions": [
+        771,
+        1024
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "mA0uMKVyswA",
+      "timestamp": "00:21:44.0",
+      "record_id": "jvid-mA0uMKVyswA-013",
+      "role": "Dense evergreen gray-green foliage context.",
+      "source_taxon": "Dermatophyllum secundiflorum",
+      "source_confidence": "source-explicit video context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/mA0uMKVyswA/dermatophyllum-secundiflorum_silvery-foliage_00-21-44.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "m1rrQfljKAo",
+      "timestamp": "13:30",
+      "record_id": "m1rrQfljKAo-08",
+      "role": "Source-labeled Texas mountain laurel whole-plant/branch habit.",
+      "source_taxon": "Dermatophyllum secundiflorum",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/m1rrQfljKAo/dermatophyllum-secundiflorum_habit-source-label_13-30.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "m1rrQfljKAo",
+      "timestamp": "15:00",
+      "record_id": "m1rrQfljKAo-09",
+      "role": "Spent flowers with swollen ovaries developing into legumes.",
+      "source_taxon": "Dermatophyllum secundiflorum",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/m1rrQfljKAo/dermatophyllum-secundiflorum_swollen-ovaries-forming-legumes_15-00.jpg"
+    }
+  ],
+  "photo_note": "Saved Joey Santore video frames installed locally for private study. This set covers evergreen foliage, woody habit, and post-bloom legume development; public-reuse restrictions are preserved.",
+  "diagnostic_image_needs": [
+    "Flower cluster close-up, mature pod/seed view, and bark/trunk context."
+  ]
+}

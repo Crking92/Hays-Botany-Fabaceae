@@ -1,0 +1,24 @@
+Cercis canadensis subsp. mexicana — B124 visual lock
+
+Taxonomy:
+- Current Kew POWO accepts Cercis canadensis subsp. mexicana (Rose) A.E.Murray.
+- Cercis canadensis var. mexicana and Cercis mexicana are synonyms.
+
+Range:
+- Existing B085 FAIL/comparison status retained under the project three-county threshold.
+- Kew native range: southwestern Texas to northeastern Mexico.
+
+Identification:
+- Smaller, thick glossy leaves with characteristically stronger wavy/undulate margins than Texas redbud.
+- Compact xeric tree/large-shrub habit; spring flowers before or with expanding leaves.
+
+Visuals:
+- Two exact private-study image leads selected for strongly wavy foliage and flower/leaf habit.
+- Reuse rights remain review-needed before any future public release.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Cercis canadensis subsp. mexicana
+Creator: Michelle W. （鍾偉瑋）; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6235148381
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/cercis-canadensis-subsp-mexicana/gbif-f399d6123a1d32.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

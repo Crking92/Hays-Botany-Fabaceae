@@ -1,0 +1,630 @@
+{
+  "rank": "genus",
+  "family": "Fabaceae",
+  "name": "Senegalia",
+  "authority": "Raf.",
+  "common_group": "Catclaw acacias and related acacias",
+  "project_scope": {
+    "selection_mode": "Master Plant Pool field-ID comparison; not automatically a canonical species install",
+    "species_ids": [
+      "senegalia-greggii",
+      "senegalia-roemeriana",
+      "senegalia-wrightii"
+    ],
+    "species_count": 3,
+    "approved_source_pool_taxa": [
+      "Senegalia greggii",
+      "Senegalia roemeriana",
+      "Senegalia wrightii"
+    ],
+    "native_range_status": "All three Texas native at state level; 3-target-county verification unresolved. No invented county PASS.",
+    "primary_local_anchor": "Senegalia roemeriana — Hays flora confirms wild local occurrence",
+    "current_status": "All three Senegalia species now installed in canonical manifest; roemeriana has 2 physical images, wrightii 1, greggii 2. Scientific native-range decisions remain independent and unresolved.",
+    "source_pool_names": [
+      "Senegalia greggii",
+      "Senegalia roemeriana",
+      "Senegalia wrightii"
+    ]
+  },
+  "look_here_first": "1) Look for hooked PRICKLES on the woody twig. 2) Compare the flower cluster: ROUND cream head = S. roemeriana; elongated cream SPIKE = S. greggii or S. wrightii. 3) For Gregg versus Wright, measure several leaflets and petioles and inspect mature pods; no single size or pod curl is an absolute species test.",
+  "study_strategy": {
+    "shared_traits": [
+      "Thorny woody members of the mimosoid legume clade with alternate BIPINNATE leaves.",
+      "Sharp hooked prickles occur along branches, unlike paired straight stipular spines typical of Vachellia.",
+      "Flower clusters of many tiny staminate-looking flowers, often cream to white, are HEADS in one local species and SPIKES in the others.",
+      "Flattened legumes; mature pod constriction, curling and width can help but vary, so use multiple traits."
+    ],
+    "priority": [
+      "LOOK 1: globose pale inflorescences versus elongated spikes (the quickest split).",
+      "LOOK 2: identify strongly hooked stem PRICKLES, contrasting paired straight Vachellia spines.",
+      "LOOK 3: Wright's dry pods show flattened bulges separated by deep constrictions, but pod outline varies and is not an absolute species split.",
+      "LOOK 4: Wright typically has larger/broader mature leaflets than Gregg; only use photographs with matching real scales for measurement.",
+      "LOOK 5: Gregg generally has denser spikes and may have more strongly curled ripe pods, but overlapping key characters require combinations.",
+      "FINAL FINE PASS: macro of petiole glands, fully isolated prickle insertion, same-mm-ruler Gregg vs Wright leaflets, and additional mature pod comparisons."
+    ],
+    "warning": "Texas A&M and a 2024 morphology key differ somewhat in numeric leaflet ranges for Wright catclaw. Both agree Wright tends to have larger leaflets than Gregg; avoid exact cutoff without examining several leaves. S. roemeriana is taxonomically distinct from Senna roemeriana (twoleaf senna), despite sharing species epithet."
+  },
+  "quick_key": [
+    {
+      "if": "round or nearly spherical pale cream flower HEAD and hooked prickles",
+      "then": "Senegalia roemeriana — roundflower catclaw"
+    },
+    {
+      "if": "elongated cream flower SPIKE and small numerous obovate leaflets (typically smaller than Wright), dense spike",
+      "then": "Senegalia greggii — Gregg's catclaw"
+    },
+    {
+      "if": "elongated cream flower SPIKE but noticeably broader/larger obovate leaflets, somewhat looser spike",
+      "then": "Senegalia wrightii — Wright acacia; confirm with mature pods"
+    },
+    {
+      "if": "yellow/gold spherical flower heads, paired straight stipular spines at leaf node",
+      "then": "Vachellia constricta or V. farnesiana, NOT Senegalia"
+    },
+    {
+      "if": "yellow flowers with five large distinct petals and exactly 1 pair of broad compound leaflets",
+      "then": "Senna roemeriana and relatives — DIFFERENT genus"
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Inflorescence shape",
+      "roemeriana": "Spherical pale cream capitulum (<2× as long as broad)",
+      "greggii": "Dense, cream cylindrical spike (2–6× as long as broad)",
+      "wrightii": "Often lax / less dense pale cylinder (2–6× as long as broad)",
+      "weight": "Primary split"
+    },
+    {
+      "character": "Leaflet length — regional key",
+      "roemeriana": "Don't use size alone",
+      "greggii": "About 3–6 mm long",
+      "wrightii": "About 5–9(–12) mm long",
+      "weight": "High-value supporting trait, overlap from 5–6 mm"
+    },
+    {
+      "character": "Petiole length — regional key",
+      "roemeriana": "check local original key",
+      "greggii": "Usually 2–5 mm",
+      "wrightii": "Usually 6–11 mm (some as short as 4)",
+      "weight": "Supporting; measure several"
+    },
+    {
+      "character": "Pinna and leaflet pairs",
+      "roemeriana": "Usually 2–4 pinna pairs, 6–13 leaflet pairs per pinna",
+      "greggii": "Several pairs, often smaller obovate leaflets; source-key detailed count not yet reconciled",
+      "wrightii": "Usually 1–4 pinna pairs, 3–6 leaflet pairs per pinna",
+      "weight": "Supporting: compare complete leaves"
+    },
+    {
+      "character": "Mature legumes",
+      "roemeriana": "Flattened, slightly curved, darkening brown",
+      "greggii": "Frequently curling when ripe",
+      "wrightii": "Frequently straighter in regional key, BUT morphology description allows coiled pods",
+      "weight": "Supporting, NEVER absolute"
+    },
+    {
+      "character": "Curved hooked prickle",
+      "roemeriana": "Present, often curved at/between nodes",
+      "greggii": "Present on stem",
+      "wrightii": "Present on stem",
+      "weight": "Genus cue, not diagnostic within these three"
+    },
+    {
+      "character": "Possible hybrid/atypical specimen",
+      "roemeriana": "Use full reproductive specimen if ambiguous",
+      "greggii": "Gregg/Wright/berlandieri complexes have documented hybridization",
+      "wrightii": "Do not force species if intermediate",
+      "weight": "Conservative ID rule"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Three catclaws: flower clusters, prickles, leaflets, and pods",
+    "subtitle": "Use the exact-species Gregg and Wright foliage photographs as a SHAPE comparison, NOT a measured size comparison. Both photos have different camera scales. Rounded cream heads distinguish Roemer's; elongated pale spikes lead to Gregg/Wright.",
+    "memory_rule": "ROEMER = nearly round cream heads. GREGG vs WRIGHT = elongated spikes; compare several leaflets against real millimeter rulers and look at pod traits together.",
+    "items": [
+      {
+        "label": "ACTUAL STEM HOOKS",
+        "scientific_name": "Senegalia roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/04-hooked-stem-prickles.jpg",
+        "image_fit": "contain",
+        "image_role": "Uvalde County Roemer catclaw twig with broad-based backward-curving stem prickles, round heads and leaflets",
+        "caption": "At the bottom of the Uvalde twig, the broad-based dark recurved prickles point backward along the stem. They are stem prickles, not the straight paired stipular spines of Vachellia. Pale round flower heads provide independent species context.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — dedicated by photographer at backyardnature.net",
+        "source_page": "https://www.backyardnature.net/n/w/acacia-r.htm",
+        "markers": [
+          {
+            "label": "recurved prickle",
+            "label_x": 67,
+            "label_y": 77,
+            "target_x": 51,
+            "target_y": 91,
+            "verification": "Visible large structure manually inspected in original Jim Conrad photograph; pointer coordinates relative to actual pixels"
+          },
+          {
+            "label": "round flower head",
+            "label_x": 72,
+            "label_y": 10,
+            "target_x": 81,
+            "target_y": 58,
+            "verification": "Visible large structure manually inspected in original Jim Conrad photograph; pointer coordinates relative to actual pixels"
+          }
+        ],
+        "annotation_status": "Photographed morphological structures visibly distinguishable; small glands and individual hairs NOT annotated"
+      },
+      {
+        "label": "ROUND CREAM FLOWER HEAD",
+        "scientific_name": "Senegalia roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/01-roundflower-heads.jpg",
+        "image_fit": "contain",
+        "image_role": "Many cream almost spherical flower heads beside bipinnate foliage",
+        "caption": "Look at the round flower heads. This is the fastest way to separate Roemer's catclaw from Gregg/Wright flower spikes. The pale heads are many flowers, not one large flower.",
+        "creator": "JerryFriedman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_flora.jpg",
+        "markers": [
+          {
+            "label": "rounded flower head",
+            "label_x": 6,
+            "label_y": 11,
+            "target_x": 61,
+            "target_y": 21
+          },
+          {
+            "label": "bipinnate leaf",
+            "label_x": 54,
+            "label_y": 7,
+            "target_x": 86,
+            "target_y": 8
+          }
+        ],
+        "annotation_status": "Manual coarse pixel targets from directly inspected original photograph; inspect in learner at each screen size"
+      },
+      {
+        "label": "COMPLETE LEAF IN HAND",
+        "scientific_name": "Senegalia roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/05-hand-held-leaf.jpg",
+        "image_fit": "contain",
+        "image_role": "Roemer catclaw complete fine bipinnate leaf in a hand, approximate human scale and obovate leaflets",
+        "caption": "The whole hand-held leaf shows two levels of divisions: central compound leaf axes and little oval leaflets. Fingers give visual scale only, not a calibrated ruler. An entire leaf, not one tiny leaflet, must be used for pair counts.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — dedicated by photographer at backyardnature.net",
+        "source_page": "https://www.backyardnature.net/n/w/acacia-r.htm",
+        "markers": [
+          {
+            "label": "tiny leaflet",
+            "label_x": 72,
+            "label_y": 15,
+            "target_x": 77,
+            "target_y": 38,
+            "verification": "Visible large structure manually inspected in original Jim Conrad photograph; pointer coordinates relative to actual pixels"
+          },
+          {
+            "label": "pinna axis",
+            "label_x": 4,
+            "label_y": 71,
+            "target_x": 47,
+            "target_y": 51,
+            "verification": "Visible large structure manually inspected in original Jim Conrad photograph; pointer coordinates relative to actual pixels"
+          }
+        ],
+        "annotation_status": "Photographed morphological structures visibly distinguishable; small glands and individual hairs NOT annotated"
+      },
+      {
+        "label": "BROAD FIELD VIEW · ROEMER",
+        "scientific_name": "Senegalia roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/03-bipinnate-shoot.jpg",
+        "image_fit": "contain",
+        "image_role": "Roemer's catclaw in Big Bend Chisos Mountains, complete bipinnate leafy shoots and round cream flower heads",
+        "caption": "This original Big Bend specimen shows whole bipinnate leaf axes with rows of small obovate leaflets plus the pale globular head. Hooked prickle insertion is not reliably resolved; do NOT use this photograph to teach exact spine attachment.",
+        "creator": "Patrick J. Alexander",
+        "license": "Public domain — author photo release as indexed by WildflowerSearch",
+        "source_page": "https://www.polyploid.net/swplants/pages/Acacia_roem.html",
+        "markers": [
+          {
+            "label": "one leaf axis",
+            "label_x": 5,
+            "label_y": 12,
+            "target_x": 26,
+            "target_y": 64,
+            "verification": "Large photographed compound leaflet row; coarse view, not a thorn macro"
+          },
+          {
+            "label": "round flower head",
+            "label_x": 67,
+            "label_y": 14,
+            "target_x": 58,
+            "target_y": 42,
+            "verification": "Prominent cream sphere, visible original photograph"
+          }
+        ],
+        "annotation_status": "Real licensed photo structurally examined; flower and leaf only, no guessed prickle arrow"
+      },
+      {
+        "label": "PALE ELONGATE FLOWER SPIKE",
+        "scientific_name": "Senegalia wrightii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/images/01-flower-spike.jpg",
+        "image_fit": "contain",
+        "image_role": "Cream flower spike and broad oval leaflets",
+        "caption": "An elongated pale spike is several times longer than wide. Individual leaflets in Wright's often look bigger than Gregg's; verify with other fully mature leaves.",
+        "creator": "Alison Northup",
+        "license": "CC BY 4.0 · iNaturalist photo 23060929",
+        "source_page": "https://www.inaturalist.org/guide_taxa/1557820",
+        "markers": [
+          {
+            "label": "cream flower spike",
+            "label_x": 4,
+            "label_y": 17,
+            "target_x": 40,
+            "target_y": 41
+          },
+          {
+            "label": "obovate leaflets",
+            "label_x": 58,
+            "label_y": 11,
+            "target_x": 77,
+            "target_y": 30
+          }
+        ],
+        "annotation_status": "Manual coarse pixel targets from directly inspected original photograph; inspect in learner at each screen size"
+      },
+      {
+        "label": "WRIGHT · MATURE PODS",
+        "scientific_name": "Senegalia wrightii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/images/02-mature-pods.jpg",
+        "image_fit": "contain",
+        "image_role": "clusters of hanging pale dry pods with deep sinuses between bean-bearing bulges",
+        "caption": "A verified Wright acacia fruiting shrub at Cooks Slough, Uvalde County. The broad flattened pods have conspicuous bulges and narrow connections. Their shape varies; pod curling is not an absolute Gregg-vs-Wright rule.",
+        "creator": "Jim Conrad",
+        "license": "Public domain",
+        "source_page": "https://www.backyardnature.net/n/w/wrightii.htm",
+        "markers": [
+          {
+            "label": "flattened mature pod",
+            "label_x": 5,
+            "label_y": 85,
+            "target_x": 40,
+            "target_y": 71,
+            "verification": "Major visible structure on Jim Conrad source photograph; no claim of microscopic or measured feature"
+          },
+          {
+            "label": "pod with seed bulges",
+            "label_x": 65,
+            "label_y": 12,
+            "target_x": 60,
+            "target_y": 69,
+            "verification": "Major visible structure on Jim Conrad source photograph; no claim of microscopic or measured feature"
+          }
+        ],
+        "annotation_status": "Original Jim Conrad Uvalde photo visibly inspected, coarse large-pod annotation only"
+      },
+      {
+        "label": "GREGG · COMPOUND LEAF (UNSCALED)",
+        "scientific_name": "Senegalia greggii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/05-whole-leafy-branch.jpg",
+        "image_fit": "contain",
+        "image_role": "Exact Gregg's catclaw whole leafy branch showing small obovate paired leaflets along multiple pinnae; source photo has no ruler",
+        "caption": "Gregg's catclaw branch showing numerous tiny leaflets in pairs. Compare leaflet shape and arrangement to the Wright photograph, but NOT size: the pictures lack matched millimeter rulers and cannot prove a species-level length difference.",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_branch.jpg",
+        "markers": [],
+        "annotation_status": "No precise arrows assigned before inspecting local installed original pixels; source verified exact species and reusable license."
+      },
+      {
+        "label": "WRIGHT · LEAFLET SHAPE",
+        "scientific_name": "Senegalia wrightii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/images/03-leaflets.jpg",
+        "image_fit": "contain",
+        "image_role": "oval leaflets with visible venation, plant described by original author as drought stressed",
+        "caption": "Several broader oval leaflets on a drought-stunted Wright acacia. This image teaches leaflet shape, NOT actual length. The original photograph contains no millimeter scale, so do not use it for a matched-size Gregg comparison.",
+        "creator": "Jim Conrad",
+        "license": "Public domain",
+        "source_page": "https://www.backyardnature.net/n/w/wrightii.htm",
+        "markers": [
+          {
+            "label": "obovate leaflet",
+            "label_x": 5,
+            "label_y": 79,
+            "target_x": 77,
+            "target_y": 78,
+            "verification": "Major visible structure on Jim Conrad source photograph; no claim of microscopic or measured feature"
+          },
+          {
+            "label": "another leaflet",
+            "label_x": 62,
+            "label_y": 12,
+            "target_x": 55,
+            "target_y": 40,
+            "verification": "Major visible structure on Jim Conrad source photograph; no claim of microscopic or measured feature"
+          }
+        ],
+        "annotation_status": "Visible leaflets annotated; no false length measurement or rigid species cutoff"
+      },
+      {
+        "label": "GREGG'S · ELONGATED SPIKE",
+        "scientific_name": "Senegalia greggii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/03-flower-spike.jpg",
+        "image_fit": "contain",
+        "image_role": "elongate creamy bloom cluster, small pinnules and buds",
+        "caption": "Gregg's and Wright's both form pale SPIKES, unlike Roemer's round heads. Here the spike is visibly longer than wide, and multiple tiny leaflets appear on the right. The difference between Gregg and Wright requires several mature leaflets and reproductive details, not this photograph alone.",
+        "creator": "Sue in az",
+        "license": "Public domain — photographer's dedication",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acacia-greggii-flower.jpg",
+        "markers": [
+          {
+            "label": "cream flower spike",
+            "label_x": 5,
+            "label_y": 13,
+            "target_x": 55,
+            "target_y": 60
+          },
+          {
+            "label": "tiny leaflets",
+            "label_x": 66,
+            "label_y": 12,
+            "target_x": 87,
+            "target_y": 57
+          }
+        ],
+        "annotation_status": "Original public-domain photo inspected; obvious flower cluster and foliage targets, no inferred gland/prickle markers."
+      },
+      {
+        "label": "Senegalia greggii",
+        "scientific_name": "Senegalia greggii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/01-field-photo.jpg",
+        "image_fit": "contain",
+        "image_role": "western catclaw acacia habit or structure, photo details to confirm before arrows",
+        "caption": "Licensed exact-species western catclaw source photo; structure-specific arrows not yet reviewed.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Senegalia_greggii_46448741.jpg",
+        "markers": [],
+        "visual_status": "licensed exact-species external reference; finer arrows not inspected and not claimed",
+        "image_status": "Local actual downloaded photo verified in successful curation run; no arrows until image pixel targets verified."
+      },
+      {
+        "label": "RECURVED STEM PRICKLES",
+        "scientific_name": "Senegalia greggii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/02-hooked-catclaw-thorns.jpg",
+        "image_fit": "contain",
+        "image_role": "Hook-shaped prickles on catclaw twig",
+        "caption": "Catclaw's hooks project from the woody twig; they differ from the straight paired stipular spines typical of Vachellia.",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_thorns.jpg",
+        "markers": [
+          {
+            "label": "curved prickle",
+            "label_x": 6,
+            "label_y": 82,
+            "target_x": 36,
+            "target_y": 48
+          },
+          {
+            "label": "opposing prickle",
+            "label_x": 76,
+            "label_y": 9,
+            "target_x": 65,
+            "target_y": 48
+          }
+        ],
+        "annotation_status": "Actual Stan Shebs photo checked; two curved prickle points, coordinates refer to source photo pixels. Other fine targets deferred."
+      },
+      {
+        "label": "ROUND-CATCLAW DRY FRUIT",
+        "scientific_name": "Senegalia roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/02-flat-pods.jpg",
+        "image_fit": "contain",
+        "image_role": "Flattened specimen pod with mature seed chambers",
+        "caption": "The mature flattened legume is useful to confirm catclaw morphology. It is not the species' round flower head.",
+        "creator": "Tracey Slotta / USDA ARS",
+        "license": "US Federal Government public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_01nsh.jpg",
+        "markers": [],
+        "annotation_status": "No verified fine arrow targets yet"
+      },
+      {
+        "label": "GREGG'S · SEED SIZE REFERENCE",
+        "scientific_name": "Senegalia greggii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/04-seeds-scale.jpg",
+        "image_fit": "contain",
+        "image_role": "six seeds with one-centimeter printed measurement scale",
+        "caption": "Separate SEEDS from the POD. The 1 cm scale lets the crew visualize seed size; seed anatomy by itself is a supporting character, not definitive evidence between Gregg and Wright.",
+        "creator": "Steve Hurst / USDA NRCS PLANTS Database",
+        "license": "Public domain — federal employee work",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acgr_001_lhp.jpg",
+        "markers": [
+          {
+            "label": "individual seed",
+            "label_x": 4,
+            "label_y": 13,
+            "target_x": 20,
+            "target_y": 22
+          },
+          {
+            "label": "1 cm scale",
+            "label_x": 64,
+            "label_y": 86,
+            "target_x": 49,
+            "target_y": 90
+          }
+        ],
+        "annotation_status": "Source photo and ruler visually inspected; only obvious whole-seed and scale arrows."
+      },
+      {
+        "label": "FLAT PODS ON THE PLANT",
+        "scientific_name": "Senegalia roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/06-green-fruits-in-situ.jpg",
+        "image_fit": "contain",
+        "image_role": "Roemer catclaw green maturing broad flattened pods hanging from woody stems, native Uvalde habitat",
+        "caption": "This in-situ photograph shows green flattening legumes hanging from an attached twig. The seed-bearing bulges are visible; fruit is not fully dried in this image, so compare with the existing mature dry specimen photo.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — dedicated by photographer at backyardnature.net",
+        "source_page": "https://www.backyardnature.net/n/w/acacia-r.htm",
+        "markers": [
+          {
+            "label": "green flattened pod",
+            "label_x": 7,
+            "label_y": 86,
+            "target_x": 67,
+            "target_y": 78,
+            "verification": "Visible large structure manually inspected in original Jim Conrad photograph; pointer coordinates relative to actual pixels"
+          },
+          {
+            "label": "fruit stalk",
+            "label_x": 59,
+            "label_y": 7,
+            "target_x": 69,
+            "target_y": 60,
+            "verification": "Visible large structure manually inspected in original Jim Conrad photograph; pointer coordinates relative to actual pixels"
+          }
+        ],
+        "annotation_status": "Photographed morphological structures visibly distinguishable; small glands and individual hairs NOT annotated"
+      },
+      {
+        "label": "GREGG · TWISTED RIPENING PODS",
+        "scientific_name": "Senegalia greggii",
+        "image_url": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/06-ripening-curled-pods.webp",
+        "image_fit": "contain",
+        "image_role": "Gregg's catclaw attached green-to-pink ripening pods, conspicuously twisted, leaves visible; NOT fully dried and NOT ruler-calibrated",
+        "caption": "Original Gregg's catclaw in an Arizona Extension photo: developing green-to-pink pods curl among bipinnate leaves. These are NOT fully dried ripe pods; use as pod architecture, NOT as a definitive Gregg-versus-Wright curl test. NO physical ruler is present.",
+        "creator": "Max Licher",
+        "license": "CC BY-SA (Arizona Cooperative Extension source label; version unspecified)",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/acacia-greggii",
+        "markers": [
+          {
+            "label": "curving green-pink pod",
+            "label_x": 3,
+            "label_y": 8,
+            "target_x": 23,
+            "target_y": 25,
+            "verification": "Prominent pod curvature located by visual inspection of the source photograph; target in relative percentage coordinates; final phone QA pending."
+          }
+        ],
+        "annotation_status": "One coarse visible fruit-shape arrow; no invented ruler, tiny structures, or size comparison."
+      }
+    ],
+    "study_only_photo_links": [
+      {
+        "url": "https://w3.biosci.utexas.edu/prc/HaysFlora/pages/ACRO.html",
+        "label": "Hays County local Roemer catclaw specimen and habitat",
+        "look_for": "round white flower heads and local context",
+        "reuse": "Source-linked original-site study; not licensed for republication"
+      },
+      {
+        "url": "https://www.npsot.org/posts/native-plant/senegalia-roemeriana/",
+        "label": "NPSOT roundflower catclaw overview",
+        "look_for": "hooked prickles, round pale flower heads",
+        "reuse": "source context"
+      },
+      {
+        "label": "Source-licensed Wright flower and leaf photograph",
+        "url": "https://www.inaturalist.org/guide_taxa/1557820",
+        "look_for": "long cream spikes and obovate leaflets",
+        "reuse": "Alison Northup CC BY; photo ID 23060929"
+      }
+    ],
+    "overlay_note": "14 verified local photo panels across the three species. Gregg's and Wright's existing leaf images lack a common ruler—do not infer absolute leaflet size from how large they appear on the screen. Fine-scale pod, gland and prickle-arrow QA reserved for finishing pass.",
+    "version": "2.5-gregg-wright-foliage-layout"
+  },
+  "sources": [
+    {
+      "label": "2024 peer-reviewed Senegalia morphology",
+      "url": "https://www.mdpi.com/2223-7747/13/3/403"
+    },
+    {
+      "label": "Kew Gregg",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:234318-2"
+    },
+    {
+      "label": "Kew Roemer",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:234358-2"
+    },
+    {
+      "label": "Kew Wright",
+      "url": "https://powo.science.kew.org/taxon/234376-2"
+    },
+    {
+      "label": "Texas A&M Wright morphology",
+      "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=2"
+    },
+    {
+      "label": "Kew accepted Roemer species",
+      "url": "https://powo.science.kew.org/taxon/234358-2"
+    },
+    {
+      "label": "Kew accepted Wright species",
+      "url": "https://powo.science.kew.org/taxon/234376-2"
+    },
+    {
+      "label": "2024 peer-reviewed 3-way morphology key",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10857220/"
+    },
+    {
+      "label": "Texas A&M Gregg/Wright comparison",
+      "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=2"
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "All three: recurved thorn placement relative to twig node, matched close-up",
+    "S. roemeriana: globose flowerhead and a complete bipinnate leaf",
+    "S. greggii versus S. wrightii: same scale pinnules/leaflets with millimeter ruler",
+    "Gregg and Wright: ripe pod twisting and segment shape photographed alongside leaves",
+    "Petiole nectary gland macro for each species",
+    "Wright alternative licensed habit and ripe pod; first bloom face is ready"
+  ],
+  "curation_status": {
+    "version": "2.6-gregg-ripening-pods-installed",
+    "last_reviewed": "2026-10-12",
+    "status": "three_species_real_photos_complete_for_intro; matched_diagnostic_ruler_photos_not_yet_found",
+    "genus_photo_panels": 15,
+    "verified_canonical_species_count": 3,
+    "installed_photo_counts": {
+      "senegalia-greggii": 6,
+      "senegalia-roemeriana": 6,
+      "senegalia-wrightii": 3
+    },
+    "install_run": 38332649844,
+    "install_run_result": "success",
+    "pipeline_warnings": 0,
+    "verified_diagnostic_arrows": 23,
+    "most_recent_install_run": 38340272908,
+    "most_recent_install_status": "success"
+  },
+  "scientific_cautions": [
+    {
+      "point": "Wright vs Gregg reported hybridization and variable characters",
+      "explanation": "Published hybrids among Senegalia berlandieri, S. greggii and S. wrightii in Texas / adjacent Mexico have been reported. Mixed or intermediate characters deserve a provisional Senegalia sp. identification, not an automatic species label.",
+      "source": "Seigler, Ebinger & Glass 2012, Phytologia 94:439–455; cited in peer-reviewed 2024 regional flora, https://pmc.ncbi.nlm.nih.gov/articles/PMC10857220/."
+    },
+    "Arizona Campus Arboretum 2025 illustrates Wright catclaw with curling maturing pods too; therefore a curved pod alone cannot distinguish Gregg from Wright. Green/pink Gregg pod photo is developing, not fully mature."
+  ],
+  "photo_next_pass": {
+    "completed": "All three source-pool Senegalia species have exact-source physical photos. Gregg has 6 including hooked prickles, cream spike, seeds with 1 cm ruler, full leafy branch, and new attached developing curled pods; Wright has 3 incl. ripe Uvalde pods; Roemer has 6.",
+    "prioritized_missing": [
+      "Gregg versus Wright: independently verified adult leaflets, each photographed with a physical millimeter ruler (matching scales)",
+      "Wright: single close in-focus hooked prickle with clear placement on stem/twig, rights cleared for reuse",
+      "Gregg: attached FULLY DRY mature pods with identity-confirming foliage and physical ruler; compare to existing Wright Uvalde dry pods, do not use curling as absolute criterion"
+    ],
+    "external_study_only": [
+      {
+        "label": "University of Arizona Arboretum — Wright mature leaflet photo",
+        "url": "https://apps.cals.arizona.edu/arboretum/taxon.aspx?id=948",
+        "reuse": "Original site study reference; media license not independently cleared and cannot be installed."
+      },
+      {
+        "label": "University of Arizona Campus Arboretum 2025 Wright catclaw species spotlight — genuine trunk prickles, curled pods and leaflets; public photo reuse unverified",
+        "url": "https://arboretum.arizona.edu/sites/default/files/2025-11/Species-Spotlight-September-2025-Senegalia-wrightii.pdf",
+        "reuse": "Reference for morphological discussion only; copyright/permission for individual embedded photos unverified. Do not install without image reuse clearance.",
+        "photo_page": 3
+      }
+    ],
+    "fine_pass_deferred": [
+      "tiny petiolar extrafloral nectaries",
+      "leaflet hair macros",
+      "seed-coat microscopic details",
+      "mobile visual QA for every arrow tip"
+    ]
+  }
+}

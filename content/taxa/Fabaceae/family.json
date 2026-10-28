@@ -1,0 +1,391 @@
+{
+  "rank": "family",
+  "name": "Fabaceae",
+  "common_name": "Pea / bean / legume family",
+  "project_scope": {
+    "selection_mode": "Central Texas morphology-first family module",
+    "note": "Teach the one-carpel legume thread first, then show the family's extreme flower and leaf diversity."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Find the fruit or ovary first. A single superior carpel becoming a legume or modified legume is the strongest thread through the family.",
+    "leaves": "Usually alternate and stipulate; leaves may be simple, trifoliolate, pinnate, palmately compound or bipinnate. Pulvini are common.",
+    "flowers": "Flower architecture ranges from papilionoid pea flowers to caesalpinioid-like and mimosoid forms.",
+    "fruit": "Usually a legume from one carpel, but it may be dehiscent, indehiscent, flattened, segmented, winged or otherwise modified.",
+    "field_tip": "Do not require a pea flower. Use stipules/pulvini as supporting characters and let the one-carpel fruit do the heavy lifting."
+  },
+  "visual_lesson": {
+    "status": "eight_installed_photo_examples_two_specialty_macros_pending",
+    "teaching_order": "mature legume → bipinnate leaf → redbud pea flower → huisache mimosoid flower → Dalea tiny-flowered spikes and silky leaflets → seed and pod variation → missing true leaf-base and carpel anatomy macros",
+    "intro": "A real legume can have flowers that resemble peas, redbuds, tiny prairie clovers, or mimosoid puffballs. Learn the single-carpel fruit, pinnate and bipinnate leaves, banner/wing/keel flower parts, then follow each type to its pods. Newly verified Astragalus photos show both a slender curved legume and a thick fleshy one; those do not all prove the same species.",
+    "steps": [
+      {
+        "title": "1 · Follow one flower to a legume pod",
+        "photo_role": "mature broad legume pods / fruit",
+        "anchor_species_id": "desmanthus-illinoensis",
+        "anchor_image_index": 1,
+        "look_for": "Multiple individual curved PODS from Illinois bundleflower; each pod encloses seeds. This photographed cluster has pods opened and curled, not one giant round fruit.",
+        "why_it_matters": "A pod derived from one carpel is the main family thread even when its shape is unusual. This is an actual installed JPEG.",
+        "status": "installed_verified"
+      },
+      {
+        "title": "2 · Understand a bipinnate leaf",
+        "photo_role": "bipinnate leaves and leaflets",
+        "anchor_species_id": "desmanthus-acuminatus",
+        "anchor_image_index": 0,
+        "look_for": "On this exact-species sharp-pod bundleflower photograph, find the main leaf axis, its side PINNAE and the tiny paired LEAFLETS. This is a leaf architecture common in mimosoid-type legumes, not all Fabaceae.",
+        "why_it_matters": "Prevents confusing an entire leaf with one pinna, and shows why the pea family can have almost fernlike foliage.",
+        "status": "installed_verified"
+      },
+      {
+        "title": "3 · See a pea-type flower, not a puffball",
+        "photo_role": "pink pea-type flowers on branches",
+        "anchor_species_id": "cercis-canadensis-subsp-texensis",
+        "anchor_image_index": 0,
+        "look_for": "Texas redbud has clusters of pink individual pea-like flowers directly on older branches. Their banner, wing and keel petal groups require a closer single-flower macro to point out individually.",
+        "why_it_matters": "One member of Fabaceae has pea-style (papilionoid) flowers, unlike mimosoid flower heads.",
+        "status": "installed_verified"
+      },
+      {
+        "title": "4 · Contrast a mimosoid-type flower head",
+        "photo_role": "golden flower head / bipinnate leaves",
+        "anchor_species_id": "vachellia-farnesiana",
+        "anchor_image_index": 0,
+        "look_for": "Huisache's yellow sphere is a cluster of many tiny individual flowers. The long yellow stamens give the puffball appearance; separate green bipinnate leaves appear on the same twig.",
+        "why_it_matters": "The legume family is not limited to pink pea flowers; show the small-flower mimosoid pattern.",
+        "status": "installed_verified"
+      },
+      {
+        "title": "5 · Dalea prairie clover: a flowering spike, not a puffball",
+        "photo_role": "dense prairie clover inflorescence / tiny papilionoid flowers",
+        "anchor_species_id": "dalea-candida",
+        "anchor_image_index": 0,
+        "look_for": "Look at this WHITE PRAIRIE CLOVER flowering head: it is a cylindrical spike of many individual WHITE flowers, not a single flower and not a mimosoid sphere dominated by long stamens. The tiny petals have an irregular pea-relative floral plan, but their banner/wings/keel positions require a detached-flower macro.",
+        "why_it_matters": "Shows a third familiar Fabaceae appearance beyond redbud pea flowers and huisache mimosoid puffs, while reinforcing what an inflorescence is.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "6 · Golden prairie clover: silky leaves and a fuzzy head",
+        "photo_role": "silky leaflets / densely hairy flower spike",
+        "anchor_species_id": "dalea-aurea",
+        "anchor_image_index": 0,
+        "look_for": "Find the whitish SILKY HAIRS around the dense head and the divided foliage (each small blade is a LEAFLET). A prairie-clover plant can be very hairy without resembling a bean, yet its reproductive system still belongs in the legume family. This is a texture/habit reference, not a verified fruit pod close-up.",
+        "why_it_matters": "Shows botanical hair terminology (silky, villous), fine leaflet architecture and the need to confirm tiny Fabaceae pods separately.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "11 · Learn a milkvetch's true pea flower",
+        "photo_role": "Astragalus pinnate leaf / banner wing keel / narrow pod",
+        "anchor_species_id": "astragalus-nuttallianus",
+        "anchor_image_index": 0,
+        "image_label": "Smallflower milkvetch in Texas, pea flowers and pods",
+        "image_credit": "Kaldari · Public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Astragalus_flowers_and_fruit.jpg",
+        "look_for": "In this real Texas photo, find one conspicuous upper BANNER petal, two lateral WINGS and the lower KEEL; then follow the slender stem to the multi-leaflet PINNATE leaves and curved legume below the blossoms.",
+        "why_it_matters": "Shows the papilionoid flower form in a REAL milkvetch, and how its one-carpel pod differs from mimosoid flower heads.",
+        "status": "installed_exact_species_public_domain_unannotated"
+      },
+      {
+        "title": "12 · See a plump legume that isn't a bean pod",
+        "photo_role": "hairy fleshy milkvetch pod / pubescence and seam",
+        "anchor_species_id": "astragalus-plattensis",
+        "anchor_image_index": 0,
+        "image_label": "Platte River milkvetch green fleshy pods",
+        "image_credit": "Chet Burrier · CC BY (per canonical photo)",
+        "source_page": "https://www.thepollinatorpatchgarden.com/plants/great-plains-milkvetch",
+        "look_for": "Two fat, green, slightly fuzzy pods—both are true FABACEAE legumes. A groundplum look-alike also makes plump fruit; examine ovary HAIRS and mature seams to separate the actual Astragalus species.",
+        "why_it_matters": "Teaches that a legume need not be long, flat or immediately bean-shaped. Species differences may need fruit hair and groove macros.",
+        "status": "installed_exact_species_real_photo_unannotated"
+      },
+      {
+        "title": "13 · Contrast a long thin Astragalus pod",
+        "photo_role": "long narrow pointed milkvetch pods / leaflets",
+        "anchor_species_id": "astragalus-leptocarpus",
+        "anchor_image_index": 0,
+        "image_label": "Slimpod milkvetch long narrow pods",
+        "image_credit": "sonnia hill · CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Astragalus_leptocarpus_-_fruit.jpg",
+        "look_for": "Many long, slim, mostly straight pods stick out from very thin stems. Compare this exact-species image with the thick, fleshy green fruits of A. plattensis. Both are TRUE legume fruits; a legume need not look like a broad bean pod.",
+        "why_it_matters": "One family making dramatically different pods is an essential visual correction—fruit form can identify some genera and species even without flowers.",
+        "status": "installed_exact_species_verified_photo_unannotated"
+      },
+      {
+        "title": "5 · Look at an individual legume seed",
+        "photo_role": "seed close-up and millimeter scale",
+        "anchor_species_id": "desmanthus-illinoensis",
+        "anchor_image_index": 2,
+        "look_for": "Five dark small Illinois bundleflower seeds, with a printed 2-mm scale. This is what an individual mature seed can look like after a legume opens.",
+        "why_it_matters": "Connects the seed to its former enclosure inside the pod. Not every Fabaceae seed has this size or appearance.",
+        "status": "installed_verified"
+      },
+      {
+        "title": "6 · Compare another pod shape",
+        "photo_role": "long narrow straight pod",
+        "anchor_species_id": "desmanthus-leptolobus",
+        "anchor_image_index": 1,
+        "look_for": "Prairie bundleflower has long, slender brown pods instead of a compact curled bundle. A hand provides approximate scale (not a calibrated ruler).",
+        "why_it_matters": "Demonstrates that legumes can look very different even inside one genus.",
+        "status": "installed_verified"
+      },
+      {
+        "title": "7 · Find stipules and swollen leaf joints",
+        "photo_role": "stipule and pulvinus macro",
+        "look_for": "Find the small stipule at the leaf stalk base and the swollen PULVINUS joint. We need a verified real macro, so the image is intentionally blank instead of reusing a misleading leaf photo.",
+        "why_it_matters": "Supporting leaf-base characters are widespread in Fabaceae but not universally obvious in every species.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "8 · Follow the single carpel to fruit",
+        "photo_role": "single carpel and superior ovary dissection",
+        "look_for": "Dissect an actual Fabaceae flower to reveal one carpel; follow it to a mature pod and its seams. We do not have a licensed, clearly verified macro sequence for this part yet.",
+        "why_it_matters": "This is the reproductive origin of a true legume, independent of whether flowers are pea-like or mimosoid.",
+        "status": "needs_photo"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Fabaceae vs Rosaceae",
+        "rule": "Both can have stipules and compound leaves. Fabaceae centers on one superior carpel becoming a legume; Rosaceae commonly uses a hypanthium and different fruit architectures."
+      },
+      {
+        "title": "Modern classification",
+        "rule": "Use papilionoid, caesalpinioid-like and mimosoid as flower architectures. Do not teach the old three-group shorthand as the modern formal subfamily system."
+      },
+      {
+        "title": "Mesquite (Neltuma) versus huisache (Vachellia)",
+        "rule": "Mesquite: long creamy cylindrical flower SPIKES and long often straw-colored pods. Huisache: round golden flower HEADS and shorter, hard, swollen dark pods; inspect bipinnate leaf and node armature."
+      },
+      {
+        "title": "Huisache versus whitethorn",
+        "rule": "Both can have paired straight nodal stipular SPINES and golden flower balls. Mature whitethorn pods are long, slim and often constricted between seeds; huisache pods are stout and hard."
+      },
+      {
+        "title": "Catclaw (Senegalia) versus Vachellia",
+        "rule": "Senegalia commonly bears recurved PRICKLES on stems; Vachellia typically has paired STRAIGHT STIPULAR SPINES at a leaf node. Compare thorn attachment, not color alone."
+      },
+      {
+        "title": "Prairie acacia (Acaciella) versus thorny relatives",
+        "rule": "Local prairie acacia has fine bipinnate leaves and pale/cream globose heads but lacks the hooked prickles or prominent paired straight spines of the thorny woody acacias; no local species card installed yet."
+      },
+      {
+        "title": "Bundleflower Desmanthus vs Mimosa and Neptunia",
+        "rule": "Unarmed mostly herbaceous Desmanthus has bipinnate leaves with a raised petiolar/rachis gland near the proximal pinnae; pod length/width, flower count and stamen number separate its species. Compare whole node for Mimosa (often prickly) or Neptunia (yellow puffs); leaf folding alone is not diagnostic."
+      },
+      {
+        "title": "Dalea tiny-flowered spikes vs Vachellia staminal heads",
+        "rule": "Dalea has small modified irregular pea-related florets in elongated/dense flower spikes; Vachellia yellow balls are made from tiny mimosoid flowers whose long numerous stamens create the puff. Do not equate any flower cluster with one giant flower."
+      },
+      {
+        "title": "Astragalus vs Desmanthus / Mimosa",
+        "rule": "Astragalus often shows obvious bilateral pea flowers and pinnate leaves with numerous leaflets; Desmanthus and Mimosa have bipinnate foliage and globose many-flowered heads. Mature fruit and actual leaf branching are the most reliable clues."
+      },
+      {
+        "title": "Groundplum vs slim milkvetch pod",
+        "rule": "Within Astragalus, both narrow dry pods and fleshy plum-like pods come from one carpel. Among plump fruit types, hair and seam grooves (A. plattensis versus A. crassicarpus var. berlandieri) may be more useful than overall pod size."
+      }
+    ],
+    "caveat": "Family example photos deliberately represent different genera. Never claim ALL Fabaceae are bipinnate or puffball-flowered. The family can have papilionoid, caesalpinioid-like and mimosoid flower architectures, with many modified pods; photographic examples are unannotated and species-labeled. New Dalea examples are species-labeled real physically installed photographs. They show spike texture and leaflet context, not detached tiny petals or a verified calyx/legume fruit. Color, hair and flower arrangement are not all-family diagnostic traits. Astragalus family examples use physically installed taxon-labeled photos. A. lindheimeri has CC BY-NC restrictions and the two zero-photo varieties are NOT represented by nonmatching 'similar' variety images. Macro arrows are pending original-image verification. A. leptocarpus now has a licensed physically installed CC BY 2.0 exact-species pod photo; faint small pod seams require a separate scaled macro.",
+    "previous_steps_20261013": [
+      {
+        "title": "1 · Find the legume thread",
+        "photo_role": "fruit / pod",
+        "anchor_species_id": "dalea-enneandra",
+        "look_for": "A fruit derived from one superior carpel, even when the pod is tiny or indehiscent.",
+        "why_it_matters": "The one-carpel fruit is the safest structural thread across Fabaceae diversity.",
+        "status": "locked_existing_species_anchor"
+      },
+      {
+        "title": "2 · Check the leaf base",
+        "photo_role": "stipule and pulvinus",
+        "anchor_species_id": "dalea-frutescens",
+        "look_for": "Stipules and a slightly swollen pulvinus at the petiole or leaflet base.",
+        "why_it_matters": "These support the family ID even when flower shape is unfamiliar.",
+        "status": "species_anchor_photo_polish_pending"
+      },
+      {
+        "title": "3 · Learn the pea architecture",
+        "photo_role": "papilionoid flower",
+        "anchor_species_id": "dalea-aurea",
+        "look_for": "Banner/standard, wings and keel—or a modified version of that plan.",
+        "why_it_matters": "Papilionoid architecture is common, but it is one branch of family diversity.",
+        "status": "species_anchor_photo_polish_pending"
+      },
+      {
+        "title": "4 · Expect exceptions",
+        "photo_role": "modified papilionoid / small flower",
+        "anchor_species_id": "dalea-compacta",
+        "look_for": "Tiny specialized flowers that do not resemble a garden pea at first glance.",
+        "why_it_matters": "Prevents the learner from rejecting true legumes with nonclassic flowers.",
+        "status": "species_anchor_photo_polish_pending"
+      }
+    ],
+    "photo_source_key": [
+      {
+        "id": "dalea-candida",
+        "index": 0,
+        "role": "white prairie-clover dense cylindrical spike / multiple small flowers",
+        "creator": "Jasper Shide",
+        "license": "CC0 1.0",
+        "status": "installed_verified_photo"
+      },
+      {
+        "id": "dalea-aurea",
+        "index": 0,
+        "role": "silky head and some leaflet context",
+        "creator": "Not recorded in species image metadata",
+        "license": "Public Domain",
+        "status": "installed_verified_photo"
+      }
+    ],
+    "photo_coverage_note": "Existing six Fabaceae photos retained and two exact-species physical licensed Dalea images added for dense flowering heads and silky leaflet/hair teaching. Leaf-base stipules/pulvini and one-carpel dissection photos still missing. All photo credits are per existing species metadata."
+  },
+  "curation_status": {
+    "version": "fabaceae-family-photo-anatomy-dalea-2026-10-13",
+    "last_reviewed": "2026-10-13",
+    "visual_lock": "Eight exact installed family photo anchors, two missing anatomy macros; existing Desmanthus, Cercis and Vachellia material fully preserved.",
+    "photo_source": "existing canonical physically installed photos, no new rights changes",
+    "photo_verified": true,
+    "astragalus_photo_update": "2026-10-13: three physically checked genus-level Astragalus exact-species photos (nuttallianus flowers/fruit, plattensis plump hairy fruit, leptocarpus narrow pods) teach three visibly different legitimate legume forms in the family."
+  },
+  "video_handoff": {
+    "source": "research-drafts/reconciliation/video-first-visual-intake-2026-10-03.json",
+    "policy": "Use incoming frames to broaden the current Dalea-heavy family lesson without promoting range-pending taxa. Species curation remains owned by the species lane.",
+    "candidates": [
+      {
+        "taxon": "Amorpha fruticosa",
+        "frame_count": 2,
+        "roles": [
+          "pinnate foliage / whole-shrub reference",
+          "developing inflorescence / buds / subtending bracts"
+        ],
+        "status": "range_pending"
+      },
+      {
+        "taxon": "Dermatophyllum secundiflorum",
+        "frame_count": 2,
+        "roles": [
+          "whole-plant habit / source label",
+          "developing legumes / spent flowers"
+        ],
+        "status": "range_pending"
+      },
+      {
+        "taxon": "Eysenhardtia texana",
+        "frame_count": 1,
+        "roles": [
+          "pinnate foliage / source label"
+        ],
+        "status": "range_pending"
+      }
+    ],
+    "teaching_assets": [
+      {
+        "taxon": "Sesbania herbacea",
+        "frame_count": 3,
+        "roles": [
+          "banner / wings / keel",
+          "diadelphous stamens / 9+1",
+          "elongate legume pods"
+        ]
+      },
+      {
+        "taxon": "Mimosa borealis",
+        "frame_count": 1,
+        "roles": [
+          "bipinnate leaves / internodal spines"
+        ]
+      },
+      {
+        "taxon": "Senna lindheimeriana",
+        "frame_count": 1,
+        "roles": [
+          "leaflets / pubescence / source label"
+        ]
+      }
+    ]
+  },
+  "family_confusion_cleanup": {
+    "version": "1.0-family-confusion-polish",
+    "updated": "2026-10-08",
+    "field_question": "What exact floral or fruit structure confirms this family, and which nearby family could mimic it?",
+    "look_here_first": [
+      "Locate a single superior carpel or mature legume, including modified indehiscent fruits.",
+      "At leaf nodes inspect stipules and pulvini; supportive but not universal.",
+      "Identify papilionoid, Senna-like or mimosoid reproductive architecture without treating any one as required."
+    ],
+    "comparison_matrix": [
+      {
+        "confusable": "Polygalaceae",
+        "separate": "Winglike petaloid sepals and a staminal sheath can mimic a pea flower; dissect the perianth and gynoecium rather than equating wings with Fabaceae wing petals."
+      },
+      {
+        "confusable": "Rosaceae",
+        "separate": "Both may have stipules and many stamens; Fabaceae has one carpel forming a legume, whereas Rosaceae often has a hypanthium and drupes, pomes or aggregate fruits."
+      },
+      {
+        "confusable": "Mimosoid vs papilionoid Fabaceae",
+        "separate": "Puffball-like flowers with conspicuous numerous stamens and small petals vs banner/wing/keel architecture; both remain Fabaceae."
+      }
+    ],
+    "genus_routing_cues": [
+      "Dalea: compact heads/spikes with reduced papilionoid corollas; inspect floral bracts and pod.",
+      "Senna: asymmetric flowers, conspicuous anthers, and legume; photograph anther pores/dehiscence.",
+      "Mimosa: bipinnate leaves and clustered small flowers with conspicuous stamens; use fruit segments and armature.",
+      "Sesbania: pinnate foliage, papilionoid flowers and elongated pods."
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "shot": "one-carpel ovary to mature legume sequence",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 1,
+        "shot": "stipule and pulvinus node macro",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 1,
+        "shot": "papilionoid vs Senna-like vs mimosoid flower dissections",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 2,
+        "shot": "Polygalaceae wing-sepal vs Fabaceae wing-petal comparison",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 2,
+        "shot": "Senna anther dehiscence and mimosoid stamens",
+        "status": "diagnostic_photo_polish_pending"
+      }
+    ],
+    "exception_locks": [
+      "Do not rely on flower color or overall resemblance; confirm reproductive structures.",
+      "Treat individual genus characters as routing clues, not universal family definitions."
+    ],
+    "taxonomy_handoff": "No species range decisions changed; any uncertain species-level separator remains in Taxonomy + Diagnostic Review."
+  },
+  "mimosoid_field_key": {
+    "status": "Desmanthus full five-species recognition photos complete: 12 physical photographs across 5 species; detailed pod, leaflet-gland and stamen macros still pending.",
+    "local_species_ids": [
+      "neltuma-glandulosa",
+      "vachellia-constricta",
+      "vachellia-farnesiana",
+      "senegalia-greggii",
+      "desmanthus-acuminatus",
+      "desmanthus-illinoensis",
+      "desmanthus-leptolobus",
+      "desmanthus-velutinus",
+      "desmanthus-virgatus"
+    ],
+    "photo_priority": [
+      "matched two Vachellia pods",
+      "catclaw hooked prickle macro against Vachellia paired straight spines",
+      "mesquite cream flowering spikes against huisache golden round heads",
+      "Acaciella thornless foliage and reproductive close-ups",
+      "Desmanthus acuminatus and leptolobus now have three real installed photos each; prioritize matched diagnostic pods and gland/stamen macros",
+      "Match D. illinoensis broad sickle pods to D. leptolobus narrow long pods with mm scale",
+      "Desmanthus petiolar gland and velutinus stem-hair macros"
+    ]
+  }
+}

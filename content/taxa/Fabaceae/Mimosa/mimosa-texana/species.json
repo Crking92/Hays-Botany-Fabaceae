@@ -1,0 +1,96 @@
+{
+  "id": "mimosa-texana",
+  "entry_type": "provisional_species",
+  "family": "Fabaceae",
+  "genus": "Mimosa",
+  "species": "texana",
+  "scientific_name": "Mimosa texana",
+  "authority": "(A.Gray) Small",
+  "common_name": "Texas mimosa / catclaw mimosa",
+  "synonyms": [],
+  "taxonomic_note": "Current accepted source name retained.",
+  "look_here_first": "Dark-stemmed woody mimosa with strongly curved downward prickles, few pairs of pinnae, pale pink flower heads, and short red-brown pods.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local + Personal List + 2 wild iNaturalist observations; UT PRC documents native NW Hays populations; ITIS/WFO accept species.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Fabaceae/Mimosa: bipinnate leaves, pulvini that can drive touch-sensitive movement in several species, globose heads of many tiny flowers, and segmented/prickly legumes. Habit, prickle placement, pinna count, and pod structure are especially useful.",
+    "best_field_traits": [
+      "woody shrub",
+      "new growth often brownish-red",
+      "stems zigzag somewhat",
+      "strongly curved downward prickles",
+      "usually 1–4 pairs of pinnae",
+      "no more than about 7 leaflet pairs on longest pinnae",
+      "pale pink globose heads",
+      "shorter red-brown pods, mostly sessile at base"
+    ],
+    "comparison_training": "Compared with M. borealis, texana is darker, more zigzag, and more strongly hooked. Compared with M. biuncifera, it has fewer pinnae/leaflets and less strongly constricted pods."
+  },
+  "curation_status": {
+    "version": "1.0-b113-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/01-flowering-branch-bipinnate-leaves.jpg",
+      "role": "Flowering woody branch with bipinnate foliage and overall shrub context",
+      "creator": "Martín Sánchez Vilchis",
+      "license": "CC BY-SA (version not specified on source page)",
+      "source_page": "https://www.inaturalist.org/guide_taxa/1557815",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flower-head-stamens-buds.jpg",
+      "role": "Globose flower head with numerous exserted stamens/anthers and flower buds",
+      "creator": "Joey Santore",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.crimepaysbutbotanydoesnt.com/cactus-forests-of-puebla/project-one-ephnc-nlc68",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/joey-inat-364815662.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/364815662",
+      "observation_url": "https://www.inaturalist.org/observations/206272667",
+      "observation_id": "206272667",
+      "photo_id": "364815662",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/364815662/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "photo_note": "Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

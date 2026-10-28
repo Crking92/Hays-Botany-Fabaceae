@@ -1,0 +1,135 @@
+{
+  "id": "mimosa-borealis",
+  "entry_type": "provisional_species",
+  "family": "Fabaceae",
+  "genus": "Mimosa",
+  "species": "borealis",
+  "scientific_name": "Mimosa borealis",
+  "authority": "A.Gray",
+  "common_name": "Fragrant mimosa / pink mimosa",
+  "synonyms": [],
+  "taxonomic_note": "Current accepted source name retained.",
+  "look_here_first": "Grayish thorny shrub with relatively straight stems, scattered less-curved prickles, 1–2 pairs of pinnae, and fragrant pink globose flower heads.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local + Personal List; Kew accepts species native in Texas; UT PRC documents it as one of NW Hays County's native woody mimosas.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Fabaceae/Mimosa: bipinnate leaves, pulvini that can drive touch-sensitive movement in several species, globose heads of many tiny flowers, and segmented/prickly legumes. Habit, prickle placement, pinna count, and pod structure are especially useful.",
+    "best_field_traits": [
+      "deciduous shrub",
+      "overall grayish cast",
+      "stems relatively straight",
+      "prickles scattered rather than paired at nodes",
+      "1–2 pairs of pinnae",
+      "4–6 pairs of leaflets per pinna",
+      "pink fragrant globose heads",
+      "pods often longer and stipitate at base"
+    ],
+    "comparison_training": "Best compared with M. texana: borealis is grayer with straighter stems, less-hooked prickles, and usually longer more stipitate pods."
+  },
+  "curation_status": {
+    "version": "1.0-b113-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/mimosa-borealis_internodal-spines-source-label_41-38.jpg",
+      "role": "Bipinnate leaves and internodal stem spines.",
+      "caption": "Source-labeled Mimosa borealis showing bipinnate foliage and a spine arising between nodes. The internodal spine position is a useful structural cue.",
+      "diagnostic_roles": [
+        "bipinnate leaves",
+        "internodal spines",
+        "stem armature"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-52",
+      "timestamp": "41:38",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/joey-inat-675675349.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/675675349",
+      "observation_url": "https://www.inaturalist.org/observations/369881926",
+      "observation_id": "369881926",
+      "photo_id": "675675349",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/675675349/large.jpg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-99260849.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99260849",
+      "observation_url": "https://www.inaturalist.org/observations/61989957",
+      "observation_id": "61989957",
+      "photo_id": "99260849",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99260849/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "41:38",
+      "record_id": "N4yq5Z1_0Eo-52",
+      "role": "Bipinnate leaves and internodal stem spines.",
+      "source_taxon": "Mimosa borealis",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/mimosa-borealis_internodal-spines-source-label_41-38.jpg"
+    }
+  ],
+  "photo_note": "Saved Joey Santore diagnostic foliage frame installed locally for private learning. It pairs bipinnate leaves with the internodal spine character; public-reuse restrictions are preserved. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "diagnostic_image_needs": [
+    "Flower heads, mature pods, and a wider whole-shrub view."
+  ]
+}

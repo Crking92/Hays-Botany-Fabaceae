@@ -1,0 +1,91 @@
+{
+  "id": "astragalus-lindheimeri",
+  "entry_type": "provisional_taxon",
+  "family": "Fabaceae",
+  "genus": "Astragalus",
+  "species": "lindheimeri",
+  "scientific_name": "Astragalus lindheimeri",
+  "authority": "Engelm. ex A.Gray",
+  "common_name": "Lindheimer's milkvetch",
+  "look_here_first": "An ANNUAL milkvetch with showy bicolored purple-blue and white pea flowers, short appressed hairs and slender curved/flattened pods, not a thick inflated groundplum fruit. Check the banner/wing/keel color pattern, leaflets and fruit cross-section.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local source; World Flora Online/WCVP currently recognize Astragalus lindheimeri.",
+    "range_guardrail": "Installed for active visual learning; exact target-zone county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Fabaceae/Astragalus: alternate pinnate leaves, papilionoid pea flowers, and legumes; fruit shape, inflation, hairiness, and curvature are especially useful for species ID.",
+    "best_field_traits": [
+      "annual with decumbent-to-ascending stems often under ~35 cm",
+      "fine appressed (strigose) leaf and stem hairs; avoid confusing this with densely silver-scaled leaves",
+      "several conspicuous purple-blue/white pea-type flowers clustered in short racemes",
+      "flattened curved-oblong pods generally ~17–27 mm long, NOT plump hairy balloon pods",
+      "separate from A. plattensis (large fleshy pubescent pod) and A. crassicarpus var. berlandieri (fleshy groundplum) by fruit form"
+    ],
+    "comparison_training": "Previously marked perennial with inflated hairy pods in the provisional dataset; corrected against published Texas flora / Barneby: this is an annual with a flattened, curved-oblong pod. A. nuttallianus group shares smaller pea flowers and slim pods, so flower size and mature fruit shape both matter."
+  },
+  "curation_status": {
+    "version": "1.0-b108-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "taxonomic_visual_correction": "2026-10-13: corrected plant duration and fruit description using Botanical Research Institute of Texas Flora of North Central Texas / Barneby 1964; previous provisional text conflated the taxon with plump-podded Astragalus.",
+    "diagnostic_source": "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf",
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/astragalus-lindheimeri-provisional-face.jpg",
+      "role": "Flower + pinnate foliage",
+      "creator": "Joanne Toler",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/observations/161826396",
+      "study_use": "yes",
+      "public_reuse": "noncommercial"
+    },
+    {
+      "file": "images/gbif-manual-6184971854-8f0e942ba.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Bicolor banner, wing and keel petals; fine stem hairs and narrow curved pods",
+      "creator": "CH Hemphill",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6184971854",
+      "gbif_occurrence_id": "6184971854",
+      "source_determination": "Astragalus lindheimeri Engelm. ex A.Gray",
+      "accepted_target": "Astragalus lindheimeri",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626190846/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

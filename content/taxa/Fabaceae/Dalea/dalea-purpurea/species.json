@@ -1,0 +1,157 @@
+{
+  "id": "dalea-purpurea",
+  "entry_type": "species",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "species": "purpurea",
+  "scientific_name": "Dalea purpurea",
+  "authority": "Vent.",
+  "common_name": "Purple prairie clover",
+  "accepted_infraspecifics": [
+    "Dalea purpurea var. arenicola",
+    "Dalea purpurea var. purpurea"
+  ],
+  "taxonomic_note": "Species-level learner target. Do not assign variety without exact specimen/source support.",
+  "look_here_first": "Start at the flower head, then move straight to the calyx. Purple prairie clover forms dense thimble-like to cylindrical heads; for the difficult D. purpurea versus D. compacta split, use calyx pubescence rather than flower color.",
+  "county_occurrences_target_zone": [
+    "Concho",
+    "Tom Green"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Concho, Tom Green qualify; Bell out-of-zone and excluded from PASS. Previous evidence preserved in range_audit; third approved county pending.",
+    "range_guardrail": "Project-zone PASS only. Current B122 evidence does not establish Hays-local status.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Bell",
+        "Concho",
+        "Tom Green"
+      ],
+      "valid_target_counties": [
+        "Concho",
+        "Tom Green"
+      ],
+      "excluded_counties": [
+        "Bell"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 2 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "B122: Bell County environmental/plant-community documentation plus USDA NRCS Rolling Limestone Prairie ecological-site documentation tied to Concho and Tom Green county soil surveys. BONAP/NAPA supports the broader Texas county pattern.",
+      "source_document": "content/taxa/Fabaceae/Dalea/dalea-purpurea/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial with stiff upright stems from a deep root",
+      "alternate odd-pinnate leaves with usually 3–7 very narrow leaflets",
+      "dense thimble-shaped to cylindrical terminal flower heads",
+      "flowers progress upward on the head",
+      "small legume with one or two seeds",
+      "calyx pubescence pattern is a priority character versus Dalea compacta"
+    ],
+    "comparison_training": "D. compacta is the priority confuser: D. compacta has calyx hairs arranged in longitudinal lines separated by bald areas, while D. purpurea has hairs distributed over the calyx-tube surface. D. enneandra has a loose spike with exposed rachis; D. tenuis is consistently 3-foliolate with extremely narrow leaflets."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Dalea compacta",
+      "Dalea candida",
+      "Dalea enneandra",
+      "Dalea tenuis"
+    ],
+    "key_distinctions": "Do not identify primarily by purple flower color. Use calyx pubescence versus D. compacta, spike density versus D. enneandra, and leaflet number/width versus D. tenuis."
+  },
+  "photo_strategy": {
+    "method": "B122 exact-source private-study handoff",
+    "target_count": "3–5 diagnostic views",
+    "visual_priority": "habit + leaf architecture + flower-head progression + calyx macro",
+    "remaining_need": "Add a clear calyx macro/annotated comparison versus D. compacta when available."
+  },
+  "learner_role": "PROJECT_NATIVE",
+  "curation_status": {
+    "version": "1.0-b122-web-install",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "provisional-usable-partial",
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "images": [
+    {
+      "file": "images/01-flower-head.jpg",
+      "role": "flower head and leaf morphology",
+      "creator": "R.W. Smith",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.npsot.org/posts/native-plant/dalea-purpurea/",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-whole-habit.jpg",
+      "role": "whole plant / field habit",
+      "creator": "W.D. and Dolphia Bransford",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.npsot.org/posts/native-plant/dalea-purpurea/",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/1413913/large.jpg",
+      "role": "Flowering plant / purple prairie-clover field reference",
+      "creator": "Jenny Smith",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/1413913",
+      "guide_source_page": "https://www.inaturalist.org/guides/8652",
+      "inaturalist_photo_id": 1413913,
+      "source_type": "iNaturalist guide/open-data image",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/public-inat-purple-prairie-clover-743621173.jpg",
+      "role": "Provisional independently licensed research-grade exact-species flowering plant photo; confirm inflorescence and leaf anatomy before arrows",
+      "caption": "Exact-species research-grade iNaturalist photograph. Photo-specific anatomy and look-alike arrow labels are pending visual review.",
+      "creator": "(c) Chris Stahl, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/743621173",
+      "observation_source_page": "https://www.inaturalist.org/observations/404892210",
+      "source_photo_id": "743621173",
+      "source_observation_id": "404892210",
+      "source_taxon": "Dalea purpurea",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individual photo copyright data verified live by API",
+      "public_reuse": "yes with photo-specific CC terms on current strictly noncommercial educational site",
+      "changes": "Downloaded from iNaturalist, resized and reencoded to JPEG; EXIF/GPS removed; no drawn arrows",
+      "published_jpeg_sha256": "fbdebbbdca60f9774e5bd0e746b62e6268524d5c2d04dcac41375c590513808f",
+      "source_sha256": "f3d0bfdbac1409efb95fd30daeb6da7d2b2bf095902b4337853832fd58dfe8a3",
+      "published_jpeg_dimensions": [
+        768,
+        1024
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending manual anatomical visual review"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific status unchanged. Existing images retained and supplemented with an exact-species licensed iNaturalist guide image."
+  },
+  "native_metrics_excluded": true
+}

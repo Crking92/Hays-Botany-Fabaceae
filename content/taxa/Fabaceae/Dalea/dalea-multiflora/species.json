@@ -1,0 +1,92 @@
+{
+  "id": "dalea-multiflora",
+  "entry_type": "species",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "species": "multiflora",
+  "scientific_name": "Dalea multiflora",
+  "authority": "(Nutt.) Shinners",
+  "common_name": "Roundhead prairie clover / white prairie clover",
+  "synonyms": [
+    "Petalostemon multiflorus Nutt."
+  ],
+  "look_here_first": "Look for compact white flower globes on a low, many-stemmed, gland-dotted prairie clover with mostly 3 narrow leaflets.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Master Plant Pool Hays-local source. Travis — county-level Texas distribution. Williamson — UT Plant Resources Center county flora treatment.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial, many-stemmed from base",
+      "usually under about 35 cm tall",
+      "foliage glabrous and conspicuously gland-dotted",
+      "leaves usually 3-foliolate, sometimes 5",
+      "leaflets narrow oblong to linear",
+      "dense rounded white flower heads",
+      "foliage mildly aromatic when crushed"
+    ],
+    "comparison_training": "Compared with D. nana, D. multiflora has white rounded heads rather than yellow flowers aging rose-purple. Compared with D. tenuis, it has a compact round head and broader-looking 3(–5)-foliolate foliage rather than the feathery linear 3-foliolate look."
+  },
+  "curation_status": {
+    "version": "1.0-b093",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/dalea-multiflora-provisional-face.jpg",
+      "role": "Flowering habit / recognizable face",
+      "creator": "Judith Lopez Sikora",
+      "license": "CC BY-NC (version unspecified by source)",
+      "source_page": "https://www.inaturalist.org/guide_taxa/770990",
+      "study_use": "yes",
+      "public_reuse": "noncommercial_only"
+    },
+    {
+      "file": "images/gbif-manual-6188527015-4ad7d4c48.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Small white spherical flower heads and mostly three narrow leaflets",
+      "creator": "Cleveland Powell",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6188527015",
+      "gbif_occurrence_id": "6188527015",
+      "source_determination": "Dalea multiflora (Nutt.) Shinners",
+      "accepted_target": "Dalea multiflora",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631604348/original.jpg",
+      "image_dimensions": [
+        1350,
+        1050
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

@@ -1,0 +1,22 @@
+Deep Review + Joey species overlay — Dalea frutescens
+Approved: 2026-10-02
+Kew/POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:490668-1
+Hays natural flora: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Barneby Kerr/Val Verde treatment: https://sweetgum.nybg.org/science/world-flora/narratives-details/?irn=2081
+Morphology reference: https://www.texaswildbuds.com/dalea-frutescens.html
+
+JOEY TRUSTED FIELD LAYER
+Source: Joey Santore / Crime Pays But Botany Doesn't
+Article: Endoparasites I have Known: Pilostyles thurberi
+Source page: https://www.crimepaysbutbotanydoesnt.com/blog/endoparasites-i-have-known-pilostyles-thurberi-cucurbitales
+Persisted records: j008-009 through j008-016
+Host taxon: Dalea frutescens
+Diagnostic/study value: exact wild host shrub habit, woody host stem, leaves, host epidermis, and parasite emergence pattern; one record explicitly provides whole Sutton County host-shrub/habitat context.
+Exact Joey image selected for private study: NAM_6561.JPG (whole host shrub).
+Public reuse not assumed.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:15:01.880299+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/426127369
+https://www.inaturalist.org/observations/239277832
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

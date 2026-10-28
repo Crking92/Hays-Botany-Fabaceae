@@ -1,0 +1,509 @@
+{
+  "rank": "genus",
+  "family": "Fabaceae",
+  "name": "Desmanthus",
+  "common_group": "Bundleflowers / prairie mimosas",
+  "project_scope": {
+    "source_pool": "Master Plant Pool rows 360-364",
+    "species_ids": [
+      "desmanthus-acuminatus",
+      "desmanthus-illinoensis",
+      "desmanthus-leptolobus",
+      "desmanthus-velutinus",
+      "desmanthus-virgatus"
+    ],
+    "species_count": 5,
+    "learner_admission": "APPROVED_SOURCE_POOL",
+    "native_range_status": "Each taxon awaits independent 3-county documentation; Texas native at state level is not county PASS",
+    "no_fabricated_pass": true,
+    "first_pass": "Five canonical cards, twelve physical photos: three each for acuminatus, illinoensis, leptolobus; one velutinus and two virgatus. Full species-face coverage; not full micro-diagnostic completion."
+  },
+  "look_here_first": "FIRST find the WHOLE twice-compound (bipinnate) leaf: several featherlike PINNAE radiate along one main leaf axis; each pinna has many tiny paired LEAFLETS. Then inspect the pale puffball flower head and mature PODS. Short, broad, strongly curled pods point to D. illinoensis; long, narrow, mostly straight pods point to D. leptolobus. Check the tiny extrafloral gland above the leaf base and 5 versus 10 stamens with a hand lens only when the part is really visible; photographs of those microstructures are still needed.",
+  "shared_traits": [
+    "Unarmed perennial legumes or subshrubs; some species prostrate, some erect, some wooded at base",
+    "Bipinnate leaves: primary leaf with multiple opposite pairs of pinnae, each carrying many tiny opposite leaflets",
+    "Often a visible extrafloral gland on the upper rachis between the lowest pair of pinnae; gland position helps separate Neptunia/Mimosa",
+    "Small globose or short oval whitish-green flower heads on axillary stalks, often with projecting stamens",
+    "Flat beanlike pods, narrow or sickle-shaped, often radiating from base of head; seeds and pods stronger diagnostics than flower color"
+  ],
+  "field_study_sequence": [
+    "1 · Confirm Fabaceae and a COMPLETE leaf; inspect the petiole/rachis for a small raised gland just above the leaf base.",
+    "2 · Count PAIRS of primary pinnae on the whole leaf, then the much smaller paired leaflets on each pinna.",
+    "3 · Seek an undisturbed flowering head, count flowers and (with hand lens) stamens per bisexual flower; do NOT equate long white stamens to petals.",
+    "4 · Examine several mature pods WITH SCALE. Record pod length, WIDTH and whether strongly sickle-shaped versus almost straight.",
+    "5 · Check branching posture and fine stem/leaf hair; treat these as supporting traits only.",
+    "6 · If only leaves are available, teach genus identification and leave species uncertain rather than guessing from foliage alone."
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Growth form",
+      "acuminatus": "Spreading to ascending, 20–60 cm",
+      "illinoensis": "Often upright robust, 20–150 cm",
+      "leptolobus": "Prostrate/suberect long creeping stems",
+      "velutinus": "Small sprawling woody-based, 20–50 cm",
+      "virgatus": "Variable spreading to ascending/subshrubby"
+    },
+    {
+      "character": "Pinnae (pairs/leaf)",
+      "acuminatus": "4–6 pairs (UT Austin Williamson flora; count all pinnae on full leaf)",
+      "illinoensis": "Often 5–18",
+      "leptolobus": "Often 5–18",
+      "velutinus": "Typically 3–7",
+      "virgatus": "Variable; record actual count"
+    },
+    {
+      "character": "Flower head",
+      "acuminatus": "About 6–13 flowers",
+      "illinoensis": "About 20–70 flowers",
+      "leptolobus": "About 4–12 flowers",
+      "velutinus": "About 15–33 flowers",
+      "virgatus": "Small whitish heads; numerical ranges variable"
+    },
+    {
+      "character": "Stamens per bisexual flower",
+      "acuminatus": "10 (UT Austin detailed floral description)",
+      "illinoensis": "5",
+      "leptolobus": "5",
+      "velutinus": "10",
+      "virgatus": "Varies across complex; verify"
+    },
+    {
+      "character": "Mature pod",
+      "acuminatus": "30–50 mm, slender pointed",
+      "illinoensis": "15–32 × 4.5–7 mm, strongly sickle-curved, broad",
+      "leptolobus": "35–70 × 2–3 mm, long narrow nearly straight",
+      "velutinus": "30–80 mm, generally straight",
+      "virgatus": "Often 30–80 × 3–5 mm, narrow"
+    },
+    {
+      "character": "Stem hairs",
+      "acuminatus": "Inspect at macro scale",
+      "illinoensis": "Usually not densely velvety",
+      "leptolobus": "Usually less fuzzy than velutinus",
+      "velutinus": "Fine conspicuous velvety hairs",
+      "virgatus": "Variable; not alone diagnostic"
+    }
+  ],
+  "field_quick_key": [
+    {
+      "look": "Pods conspicuously wide (4.5–7 mm), short (15–32 mm), strongly sickle-curved and crowded",
+      "likely": "Desmanthus illinoensis"
+    },
+    {
+      "look": "Pods narrow (2–3 mm), long (35–70 mm), nearly straight; heads often only 4–12 flowers; fine leaflets",
+      "likely": "Desmanthus leptolobus"
+    },
+    {
+      "look": "3–7 pairs of pinnae, stems fine-velvety, heads roughly 15–33 flowers, 10 stamens",
+      "likely": "Desmanthus velutinus"
+    },
+    {
+      "look": "Spreading stems, 4–6 pairs of pinnae, often 6–16-flowered heads, 10 stamens, and pointed pods about 30–50 mm; confirm against virgatus before precise ID",
+      "likely": "Desmanthus acuminatus (verify vs D. virgatus)"
+    },
+    {
+      "look": "Variable thin-podded plants that do not clearly fit foregoing; historically broad taxon concept",
+      "likely": "Desmanthus virgatus, provisional pending full stem + pod + flower review"
+    }
+  ],
+  "lookalikes": [
+    {
+      "taxon": "Mimosa spp. (especially sensitivebriers)",
+      "look": "Desmanthus typically unarmed with gland on petiole/rachis near proximal pinnae; Mimosa can be prickly with different leaflet/gland and flower structure; leaf folding not exclusive"
+    },
+    {
+      "taxon": "Neptunia spp. (yellow puffs)",
+      "look": "Similar bipinnate leaves and flower puff; inspect petiolar glands and detailed head/flower structure; Neptunia often yellow and its leaf head structure differs"
+    },
+    {
+      "taxon": "Leucaena spp. (introduced trees)",
+      "look": "Leucaena develops woody tree/shrub stems and long clusters of seedpods; genus-level flower and leaf comparisons needed"
+    },
+    {
+      "taxon": "Chamaecrista spp.",
+      "look": "Often pinnate leaf rather than bipinnate, with bright yellow irregular flowers rather than little white pompom heads"
+    },
+    {
+      "taxon": "Acacia / Senegalia spp.",
+      "look": "Can be woody, armed/prickly or have distinctive thorn pairs; look at entire leaf and axillary spines before calling herbaceous bundleflower"
+    }
+  ],
+  "scientific_guardrails": [
+    "Source-pool admission is NOT strict target-county native PASS. Preserve UNRESOLVED until 3 county evidence independently assessed.",
+    "D. acuminatus is accepted separately from D. virgatus by ITIS/POWO; D. virgatus var. acuminatus is a historical synonym of acuminatus, not a second learner card.",
+    "One image of a flowering puffball cannot separate most Desmanthus species; true seedpod shape and count are required.",
+    "Photographs from botanical gardens, overseas naturalizations, and cultivation cannot serve as native Texas county evidence.",
+    "D. leptolobus and D. acuminatus image rights are not yet secure from current first-pass candidates; never use an image of another taxon as a substitute.",
+    "Some records labelled D. virgatus may be broad species-complex or forage cultivars; identify local Texas plants by specimen concept."
+  ],
+  "diagnostic_photo_checklist": [
+    "Same-scale whole leaves with pinnae and leaflet counts, plus gland at basal rachis",
+    "Macro of single flower head with flower count and 5-vs-10 stamens",
+    "Close-up of mature pods of each species with millimeter ruler showing shape and width",
+    "Macro of velvet hair on D. velutinus stem",
+    "Noncultivated Central Texas evidence for D. acuminatus and D. leptolobus",
+    "Side-by-side D. acuminatus vs D. virgatus using fruits and mature foliage",
+    "Arrow annotations ONLY after verified on actual installed JPEGs"
+  ],
+  "visual_comparison": {
+    "title": "Bundleflowers: the pods tell the story",
+    "subtitle": "Photo-first genus guide: 12 physically installed exact-species JPEGs; seven individually checked structure examples and two explicitly missing macro views. Five source-pool species are covered. Arrows await precise point-by-point image review.",
+    "memory_rule": "First count PINNAE and LEAFLETS; then compare POD SHAPE. Illinois = short/broad/crescent; prairie = long/thin/nearly straight. Flower heads consist of many tiny flowers, not one puffball flower.",
+    "items": [
+      {
+        "label": "Flower heads and pods: many-flowered heads with clustered curved broad pods",
+        "scientific_name": "Desmanthus illinoensis",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-heads-and-fruit.jpg",
+        "caption": "Flower heads and pods: many-flowered heads with clustered curved broad pods; photographed cultivated central Poland; source: Central Poland, cultivated, 2015",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_inflorescence_&_fruits_01.jpg",
+        "creator": "Joozwa",
+        "license": "CC BY-SA 4.0",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; unverified microfeature arrows pending"
+      },
+      {
+        "label": "Mature short wide falcate pods with visible seed impressions",
+        "scientific_name": "Desmanthus illinoensis",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-ripe-pods.jpg",
+        "caption": "Mature short wide falcate pods with visible seed impressions; reproductive comparison; source: Location not specified, 2008",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_pods.JPG",
+        "creator": "Dehaan",
+        "license": "CC BY 3.0",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; unverified microfeature arrows pending"
+      },
+      {
+        "label": "USDA GRIN seed closeup, final seed structure",
+        "scientific_name": "Desmanthus illinoensis",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-seeds.jpg",
+        "caption": "USDA GRIN seed closeup, final seed structure; source: USDA GRIN, region not specified",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_seeds.jpg",
+        "creator": "Steve Hurst / USDA GRIN",
+        "license": "Public domain, U.S. Federal Government",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; unverified microfeature arrows pending"
+      },
+      {
+        "label": "USDA NRCS exact-species first recognition photo, flowering and foliage",
+        "scientific_name": "Desmanthus velutinus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/velutinus-usda-recon.jpg",
+        "caption": "USDA NRCS exact-species first recognition photo, flowering and foliage; 452x343 limited detail; source: USDA NRCS fact sheet illustration; locality unrecorded",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_velutinus.jpg",
+        "creator": "USDA NRCS",
+        "license": "Public domain, U.S. Federal Government",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; unverified microfeature arrows pending"
+      },
+      {
+        "label": "Wild-tantan species recognition in Guadeloupe: whole plant and foliage, no exact",
+        "scientific_name": "Desmanthus virgatus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-face.jpg",
+        "caption": "Wild-tantan species recognition in Guadeloupe: whole plant and foliage, no exact local Texas proof; source: Guadeloupe, Lezard Forest, 2025",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_virgatus_kz01.jpg",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; unverified microfeature arrows pending"
+      },
+      {
+        "label": "Additional whole foliage/flower or shoot view from Guadeloupe",
+        "scientific_name": "Desmanthus virgatus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-detail.jpg",
+        "caption": "Additional whole foliage/flower or shoot view from Guadeloupe; compare with Texas plant cautiously; source: Guadeloupe, Grande Anse, 2025",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_virgatus_kz03.jpg",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; unverified microfeature arrows pending"
+      },
+      {
+        "label": "Sharp-pod bundleflower — whole plant",
+        "scientific_name": "Desmanthus acuminatus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-face.jpg",
+        "image_role": "Species recognition view of habit and foliage; shoot architecture confirmation pending",
+        "caption": "Species recognition view of habit and foliage; shoot architecture confirmation pending. The source photograph is used only for exact-species field recognition, not automatic target-county range PASS.",
+        "creator": "Btcpg",
+        "license": "CC0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus.jpg",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; NO_UNVERIFIED_ARROWS"
+      },
+      {
+        "label": "Sharp-pod — flower and leaf",
+        "scientific_name": "Desmanthus acuminatus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-leaves-flowers.jpg",
+        "image_role": "Leaves and flower head; check whole pinnae pairs, avoid unverified stamen-arrow annotation",
+        "caption": "Leaves and flower head; check whole pinnae pairs, avoid unverified stamen-arrow annotation. The source photograph is used only for exact-species field recognition, not automatic target-county range PASS.",
+        "creator": "Btcpg",
+        "license": "CC0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_leaf_and_flowers.jpg",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; NO_UNVERIFIED_ARROWS"
+      },
+      {
+        "label": "Sharp-pod — mature pods",
+        "scientific_name": "Desmanthus acuminatus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-pods.jpg",
+        "image_role": "Pointed slender pods and shape; compare with wide falcate illinoensis",
+        "caption": "Pointed slender pods and shape; compare with wide falcate illinoensis. The source photograph is used only for exact-species field recognition, not automatic target-county range PASS.",
+        "creator": "Btcpg",
+        "license": "CC0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_pods.jpg",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; NO_UNVERIFIED_ARROWS"
+      },
+      {
+        "label": "Prairie bundleflower — Texas habit",
+        "scientific_name": "Desmanthus leptolobus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-face-cc0.jpg",
+        "image_role": "Texas research-grade plant recognition; leaf/stem visible details need zoom assessment",
+        "caption": "Texas research-grade plant recognition; leaf/stem visible details need zoom assessment. The source photograph is used only for exact-species field recognition, not automatic target-county range PASS.",
+        "creator": "iNaturalist observer (CC0)",
+        "license": "CC0",
+        "source_page": "https://www.inaturalist.org/photos/734524728",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; NO_UNVERIFIED_ARROWS"
+      },
+      {
+        "label": "Prairie bundleflower — Texas view 2",
+        "scientific_name": "Desmanthus leptolobus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-view-2.jpg",
+        "image_role": "Texas exact-species field view, additional plant angle; avoid specific pod/stamen claims",
+        "caption": "Texas exact-species field view, additional plant angle; avoid specific pod/stamen claims. The source photograph is used only for exact-species field recognition, not automatic target-county range PASS.",
+        "creator": "gracedwelle",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/743463356",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; NO_UNVERIFIED_ARROWS"
+      },
+      {
+        "label": "Prairie bundleflower — Texas view 3",
+        "scientific_name": "Desmanthus leptolobus",
+        "image_url": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-view-3.jpg",
+        "image_role": "Texas exact-species field view, additional plant angle; morphology arrows pending",
+        "caption": "Texas exact-species field view, additional plant angle; morphology arrows pending. The source photograph is used only for exact-species field recognition, not automatic target-county range PASS.",
+        "creator": "gracedwelle",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/743463362",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; NO_UNVERIFIED_ARROWS"
+      }
+    ],
+    "final_polish_backlog": [
+      "TRUE macro showing Desmanthus acuminatus 4–6 complete pinnae pairs, gland and 10 stamens",
+      "Matched D. acuminatus vs D. virgatus fruit/flower vouchers under consistent taxon definitions",
+      "True macro D. leptolobus straight and thin mature pods with ruler, compared with short curved illinoensis pods",
+      "Closeup pinnae and 5 stamens of D. leptolobus, tagged to the exact photographed floral structure",
+      "Matched hairs and 10-stamen closeup for velvet bundleflower",
+      "Verified pointer coordinates on actual installed JPEGs; do not place speculative arrows"
+    ],
+    "part_examples": [
+      {
+        "title": "Count pinnae and leaflets",
+        "role": "bipinnate leaf",
+        "anchor_species_id": "desmanthus-acuminatus",
+        "image_file": "images/desmanthus-acuminatus-leaves-flowers.jpg",
+        "look_for": "Start where the whole leaf meets the stem. Pinnae are the larger featherlike branches; leaflets are the small paired blades on them. The installed image shows this overall pattern, but not a close gland.",
+        "why_it_matters": "Distinguishes the leaf construction from a merely pinnate legume leaf and teaches how to count pinnae across bundleflowers.",
+        "photo_status": "installed_verified"
+      },
+      {
+        "title": "Find the puffball flower head",
+        "role": "inflorescence",
+        "anchor_species_id": "desmanthus-velutinus",
+        "image_file": "images/velutinus-usda-recon.jpg",
+        "look_for": "Find the spherical cluster of many tiny whitish flowers with projecting white filaments. This modest-resolution image shows the head shape; it does not permit an accurate 10-stamen count.",
+        "why_it_matters": "Desmanthus has many tiny flowers together; do not confuse the entire head with a single large flower.",
+        "photo_status": "installed_verified"
+      },
+      {
+        "title": "See a developing pod bundle",
+        "role": "green developing legume pods",
+        "anchor_species_id": "desmanthus-illinoensis",
+        "image_file": "images/illinoensis-heads-and-fruit.jpg",
+        "look_for": "At the center of the photograph, green curved pods develop in a bundle. Several compound leaves and small flower heads are also visible.",
+        "why_it_matters": "Shows how the conspicuous fruit cluster is attached to the head-bearing stalk.",
+        "photo_status": "installed_verified"
+      },
+      {
+        "title": "Compare the broad sickle pods",
+        "role": "mature falcate pods",
+        "anchor_species_id": "desmanthus-illinoensis",
+        "image_file": "images/illinoensis-ripe-pods.jpg",
+        "look_for": "Mature pods curl into a compact brown cluster, with distinct seed outlines and opened pod walls.",
+        "why_it_matters": "Short, wider, strongly curved pods are one of the best characters distinguishing Illinois bundleflower.",
+        "photo_status": "installed_verified"
+      },
+      {
+        "title": "Compare long, slender pods",
+        "role": "narrow straight pods",
+        "anchor_species_id": "desmanthus-leptolobus",
+        "image_file": "images/desmanthus-leptolobus-texas-view-2.jpg",
+        "look_for": "Two long, very narrow brown pods lie across a hand. These are from a Texas prairie bundleflower observation, NOT Illinois bundleflower.",
+        "why_it_matters": "The thin, straighter pods make the difference much easier to remember than leaf color or height.",
+        "photo_status": "installed_verified"
+      },
+      {
+        "title": "Look at pointed pods and seeds",
+        "role": "pods and free seeds",
+        "anchor_species_id": "desmanthus-acuminatus",
+        "image_file": "images/desmanthus-acuminatus-pods.jpg",
+        "look_for": "Several narrow, sharp-tipped pods and loose small dark seeds lie on a hand; the photo has an original identification label from its source.",
+        "why_it_matters": "Connects sharp-pod bundleflower's name with a real fruit structure and demonstrates that each pod holds seeds.",
+        "photo_status": "installed_verified"
+      },
+      {
+        "title": "See what a mature seed looks like",
+        "role": "seed closeup with scale",
+        "anchor_species_id": "desmanthus-illinoensis",
+        "image_file": "images/illinoensis-seeds.jpg",
+        "look_for": "Five brown seeds isolated against blue, with a 2-mm scale. The visible mark on the seed surface is part of the seed coat, not a leaflet or petal.",
+        "why_it_matters": "Links the pod cluster to the small individual seeds it contains.",
+        "photo_status": "installed_verified"
+      },
+      {
+        "title": "Find the tiny leaf-base gland",
+        "role": "extrafloral nectary / gland macro",
+        "look_for": "With a 10× lens, inspect the upper petiole/rachis beside the LOWEST pinnae for a little raised nectary. Do not point to the pulvini or leaflets by mistake.",
+        "why_it_matters": "Useful when a plant resembles Mimosa or Neptunia, but we still need one exact-species in-focus gland photograph.",
+        "photo_status": "needs_photo"
+      },
+      {
+        "title": "Count stamens in one flower",
+        "role": "five versus ten stamens",
+        "look_for": "Photograph ONE open bisexual flower from above at macro scale and count the free stamens, rather than trying to count the entire puffball head.",
+        "why_it_matters": "Five versus ten stamens helps separate D. illinoensis/leptolobus from D. acuminatus/velutinus; the current whole-head photos are not sharp enough.",
+        "photo_status": "needs_photo"
+      }
+    ]
+  },
+  "source_references": [
+    {
+      "title": "Flora of North Central Texas field keys",
+      "url": "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf"
+    },
+    {
+      "title": "PowO Desmanthus accepted species",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331549-2"
+    },
+    {
+      "title": "UT Austin Williamson County Flora Desmanthus records",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/search.php"
+    },
+    {
+      "title": "UT Austin Williamson County Desmanthus acuminatus full morphological description",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Desmanthus%20acuminatus"
+    }
+  ],
+  "curation_status": {
+    "version": "desmanthus-2026-10-13-photo-anatomy-ui",
+    "source_species": 5,
+    "canonical_photo_pending": 3,
+    "first_pass_reviewed": true,
+    "photos_confirmed_installed": 12,
+    "no_fake_arrows": true,
+    "species_installed": 5,
+    "images_installed": 12,
+    "photo_coverage_by_species": {
+      "desmanthus-acuminatus": 3,
+      "desmanthus-illinoensis": 3,
+      "desmanthus-leptolobus": 3,
+      "desmanthus-velutinus": 1,
+      "desmanthus-virgatus": 2
+    },
+    "two_species_photo_backfill_required": false,
+    "range_review_status": "5 UNRESOLVED; accepted learner admission only",
+    "last_verified": "2026-10-13",
+    "curation_warnings": 0,
+    "first_photo_coverage_complete": true,
+    "diagnostic_macro_status": "FINAL_POLISH_PENDING",
+    "license_warning": "Two leptolobus iNaturalist pictures CC BY-NC; preserve noncommercial use and attribution.",
+    "field_card_status": "photo-led multi-structure field guide ready; 7 visually inspected linked structure photos; 2 honest missing macro roles",
+    "site_photo_pairing": "canonical exact-photo mappings now provided in visual_comparison.part_examples",
+    "hero_species_photo": "D. acuminatus leaf-and-flower image set first in canonical images[]",
+    "visual_issues_remaining": [
+      "Gland at base of pinnae needs true macro",
+      "5 versus 10 stamen count needs individual flower macro",
+      "Species-specific D. virgatus complex field voucher reviews remain"
+    ],
+    "photo_files_present": 12
+  },
+  "genus_diagnostics": {
+    "leaves": "Whole twice-compound (bipinnate) leaf: count pinnae (the featherlike side branches) and leaflets (the tiny paired blades attached to each pinna). In the installed D. acuminatus photo several complete leaves are plainly visible.",
+    "inflorescence": "Small roughly spherical flower HEAD made up of many separate tiny flowers. The white brushy look is mostly stamens, not five large petals. Installed velvet bundleflower photo shows the whole flowering head but not every separate stamen.",
+    "fruit": "Flat individual legume PODS form a clustered bundle. The mature short, broad, strongly sickle-shaped pods of D. illinoensis differ strikingly from the long narrow nearly straight pods of D. leptolobus.",
+    "stem": "Leaf-base Gland (extrafloral nectary): a tiny raised spot on the upper petiole/rachis between the lowest pinnae. This is a real character but the present photos do NOT show it sharply enough for a confident arrow.",
+    "habit": "Generally unarmed perennial herbs to low subshrubs with feathery leaves. Height and whether stems spread or stand upright vary; confirm species with flower and mature pods instead."
+  },
+  "visual_photo_sequence": [
+    {
+      "step": 1,
+      "title": "Count pinnae and leaflets",
+      "anchor_species_id": "desmanthus-acuminatus",
+      "image_file": "images/desmanthus-acuminatus-leaves-flowers.jpg",
+      "photo_status": "installed_verified",
+      "look_for": "Start where the whole leaf meets the stem. Pinnae are the larger featherlike branches; leaflets are the small paired blades on them. The installed image shows this overall pattern, but not a close gland.",
+      "why": "Distinguishes the leaf construction from a merely pinnate legume leaf and teaches how to count pinnae across bundleflowers."
+    },
+    {
+      "step": 2,
+      "title": "Find the puffball flower head",
+      "anchor_species_id": "desmanthus-velutinus",
+      "image_file": "images/velutinus-usda-recon.jpg",
+      "photo_status": "installed_verified",
+      "look_for": "Find the spherical cluster of many tiny whitish flowers with projecting white filaments. This modest-resolution image shows the head shape; it does not permit an accurate 10-stamen count.",
+      "why": "Desmanthus has many tiny flowers together; do not confuse the entire head with a single large flower."
+    },
+    {
+      "step": 3,
+      "title": "See a developing pod bundle",
+      "anchor_species_id": "desmanthus-illinoensis",
+      "image_file": "images/illinoensis-heads-and-fruit.jpg",
+      "photo_status": "installed_verified",
+      "look_for": "At the center of the photograph, green curved pods develop in a bundle. Several compound leaves and small flower heads are also visible.",
+      "why": "Shows how the conspicuous fruit cluster is attached to the head-bearing stalk."
+    },
+    {
+      "step": 4,
+      "title": "Compare the broad sickle pods",
+      "anchor_species_id": "desmanthus-illinoensis",
+      "image_file": "images/illinoensis-ripe-pods.jpg",
+      "photo_status": "installed_verified",
+      "look_for": "Mature pods curl into a compact brown cluster, with distinct seed outlines and opened pod walls.",
+      "why": "Short, wider, strongly curved pods are one of the best characters distinguishing Illinois bundleflower."
+    },
+    {
+      "step": 5,
+      "title": "Compare long, slender pods",
+      "anchor_species_id": "desmanthus-leptolobus",
+      "image_file": "images/desmanthus-leptolobus-texas-view-2.jpg",
+      "photo_status": "installed_verified",
+      "look_for": "Two long, very narrow brown pods lie across a hand. These are from a Texas prairie bundleflower observation, NOT Illinois bundleflower.",
+      "why": "The thin, straighter pods make the difference much easier to remember than leaf color or height."
+    },
+    {
+      "step": 6,
+      "title": "Look at pointed pods and seeds",
+      "anchor_species_id": "desmanthus-acuminatus",
+      "image_file": "images/desmanthus-acuminatus-pods.jpg",
+      "photo_status": "installed_verified",
+      "look_for": "Several narrow, sharp-tipped pods and loose small dark seeds lie on a hand; the photo has an original identification label from its source.",
+      "why": "Connects sharp-pod bundleflower's name with a real fruit structure and demonstrates that each pod holds seeds."
+    },
+    {
+      "step": 7,
+      "title": "See what a mature seed looks like",
+      "anchor_species_id": "desmanthus-illinoensis",
+      "image_file": "images/illinoensis-seeds.jpg",
+      "photo_status": "installed_verified",
+      "look_for": "Five brown seeds isolated against blue, with a 2-mm scale. The visible mark on the seed surface is part of the seed coat, not a leaflet or petal.",
+      "why": "Links the pod cluster to the small individual seeds it contains."
+    },
+    {
+      "step": 8,
+      "title": "Find the tiny leaf-base gland",
+      "anchor_species_id": null,
+      "image_file": null,
+      "photo_status": "needs_photo",
+      "look_for": "With a 10× lens, inspect the upper petiole/rachis beside the LOWEST pinnae for a little raised nectary. Do not point to the pulvini or leaflets by mistake.",
+      "why": "Useful when a plant resembles Mimosa or Neptunia, but we still need one exact-species in-focus gland photograph."
+    },
+    {
+      "step": 9,
+      "title": "Count stamens in one flower",
+      "anchor_species_id": null,
+      "image_file": null,
+      "photo_status": "needs_photo",
+      "look_for": "Photograph ONE open bisexual flower from above at macro scale and count the free stamens, rather than trying to count the entire puffball head.",
+      "why": "Five versus ten stamens helps separate D. illinoensis/leptolobus from D. acuminatus/velutinus; the current whole-head photos are not sharp enough."
+    }
+  ]
+}

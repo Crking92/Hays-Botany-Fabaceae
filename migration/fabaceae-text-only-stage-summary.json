@@ -1,0 +1,12 @@
+{
+  "status": "PRIVATE_FABACEAE_TEXT_ONLY_STAGING; NOT_PUBLIC",
+  "canonical_source_tree_sha": "947ac940c97f273db03e7b42f5dc992241871527",
+  "original_source_commit_reference": "42f61f7bbf94368f56c9c66d44cbb1bc1a0dab8a",
+  "species_records": 91,
+  "source_metadata_files_byte_verified": 291,
+  "source_original_photos_accounted_for_but_not_moved": 200,
+  "photo_rights_approved": false,
+  "photos_copied": 0,
+  "hub_authority_changed": false,
+  "site_published": false
+}

@@ -1,0 +1,304 @@
+{
+  "id": "senna-roemeriana",
+  "entry_type": "species",
+  "family": "Fabaceae",
+  "genus": "Senna",
+  "species": "roemeriana",
+  "scientific_name": "Senna roemeriana",
+  "authority": "(Scheele) H.S.Irwin & Barneby",
+  "common_name": "Twoleaf senna",
+  "synonyms": [
+    "Cassia roemeriana Scheele",
+    "Earleocassia roemeriana (Scheele) Britton"
+  ],
+  "look_here_first": "Find ONE mature compound leaf and count its leaflets. Twoleaf senna has exactly ONE PAIR of usually long, narrow lance-shaped leaflets (roughly 2–9 times longer than wide), with a small gland near their junction. This quickly separates S. lindheimeriana with 4–8 pairs, but NOT every western Senna: S. pilosior and S. bauhinioides also have one pair. Confirm leaflet proportions, flowers and pods.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Kerr"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Kerr qualify; Williamson out-of-zone and excluded from PASS. Previous evidence preserved in range_audit; third approved county pending.",
+    "range_guardrail": "Exact natural/voucher county evidence only.",
+    "range_audit_note": "2026-10-12: Hays and Kerr are in the defined project target-zone counties; Williamson is NOT. The current recorded B123 three-county PASS has only two qualifying counties. Keep historical result pending BONAP/NAPA and primary voucher re-audit; never count Williamson toward the strict project three-county rule.",
+    "target_county_followup_leads": [
+      {
+        "county": "Blanco",
+        "status": "occurrence lead only; not yet accepted as voucher/BONAP county evidence",
+        "site": "Pedernales Falls State Park, Cypress Mill Loop",
+        "source": "https://www.texaswildbuds.com/recent-central-texas-spring-2026-1.html",
+        "note": "Photographer's May 12 2026 species-identified field image. Check wild provenance and authoritative county record before counting."
+      }
+    ],
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Williamson",
+        "Kerr"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Kerr"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 2 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "B123: Hays — UT Plant Resources Center Purola natural flora; Williamson — UT PRC county flora; Kerr — NYBG Heller voucher from Kerrville.",
+      "source_document": "content/taxa/Fabaceae/Senna/senna-roemeriana/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "herbaceous perennial from a thick root, usually low-growing",
+      "alternate leaves consistently even-2-foliolate: exactly two leaflets",
+      "narrowly lanceolate to slightly falcate leaflets",
+      "small stalked gland on the leaf axis between the leaflet pair",
+      "axillary racemes with a few yellow five-petaled flowers",
+      "flattened elongated legume pods"
+    ],
+    "comparison_training": "S. lindheimeriana is taller and velvety with 4–8 pairs of leaflets. S. pilosior is an annual western/desert comparison. The exactly-two-leaflet leaf is the fastest field character."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Senna lindheimeriana",
+      "Senna pilosior",
+      "Senna bauhinioides (western comparison)",
+      "Chamaecrista fasciculata (other-genus look-alike)"
+    ],
+    "key_distinctions": "Against S. lindheimeriana: one narrow leaflet pair versus 4–8 velvety pairs. Against S. pilosior: narrower lance-shaped leaflets versus broader hairy leaflets and stiff mixed stem hairs (both perennials). Against S. bauhinioides: narrower leaflets plus reproductive style, fruit and seed characters; one pair alone is insufficient."
+  },
+  "photo_strategy": {
+    "method": "UT Austin BIO406D exact teaching-photo set",
+    "target_count": 4,
+    "visual_priority": "flower + two-leaflet structure + habit + fruit",
+    "annotation_note": "Add learner overlay to leaf image pointing to the leaflet pair and interfoliolar gland."
+  },
+  "learner_role": "PROJECT_NATIVE",
+  "curation_status": {
+    "version": "1.2-verified-three-photo-annotation-pass",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "strong-core",
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "diagnostic_annotation_polish_needed": true,
+    "strict_target_county_audit_needed": true,
+    "diagnostic_annotations_live": 7,
+    "photo_polish_status": "major-leaf-flower-fruit-visuals-added"
+  },
+  "images": [
+    {
+      "file": "images/01-flower.jpg",
+      "role": "flower front / five separate petals",
+      "creator": "UT Austin BIO406D / exact photographer not recorded",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-two-leaflets.jpg",
+      "role": "diagnostic exactly-two-leaflets close-up",
+      "creator": "UT Austin BIO406D / exact photographer not recorded",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-habit.jpg",
+      "role": "whole plant / herbaceous perennial habit",
+      "creator": "UT Austin BIO406D / exact photographer not recorded",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-fruit.jpg",
+      "role": "fruit / mature legume pod",
+      "creator": "UT Austin BIO406D / exact photographer not recorded",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/public-inat-senna-roemeriana-752965027.jpg",
+      "role": "Provisional twoleaf senna exact-species field face; confirm one-pair leaflet arrangement, leaflet gland, flowers and fruit with diagnostic photos later.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Senna roemeriana. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) Grant Foster, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/752965027",
+      "source_observation_page": "https://www.inaturalist.org/observations/409509865",
+      "source_photo_id": "752965027",
+      "source_observation_id": "409509865",
+      "source_taxon": "Senna roemeriana",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/752965027/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "49b1deeb8d4052508751d7e9be90059ea7808149d73226fb6e40ab8c22e92ab8",
+      "published_jpeg_sha256": "dd13c699896ad97f26f0b10e15a02d1d8d2f2c0c65579fcfb0e9d06793d823b1",
+      "published_jpeg_dimensions": [
+        771,
+        1024
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "annotated existing leaf photo showing one entire paired leaflet leaf and rachis",
+    "macro arrow to the small gland between the two leaflets",
+    "flower diagnostic anthers/style",
+    "mature brown pubescent pod",
+    "equal-scale paired leaves against S. pilosior and S. bauhinioides"
+  ],
+  "visual_comparison": {
+    "version": "2026-10-12-roemeriana-three-photo-diagnostic-arrows",
+    "title": "See what makes twoleaf senna different",
+    "subtitle": "These arrows point only at clearly visible structures in the source photographs. The tiny extrafloral gland still requires a closer macro.",
+    "memory_rule": "Exactly TWO narrow leaflets per leaf—not two leaves. Count from the shared attachment point.",
+    "items": [
+      {
+        "label": "LEAF · strongest field feature",
+        "scientific_name": "Senna roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/02-two-leaflets.jpg",
+        "image_role": "One compound leaf = a pair of narrow lance-shaped leaflets",
+        "image_fit": "contain",
+        "caption": "One petiole branches into two long narrow leaflets. The left pair is especially easy to see; the leaflets join at the same point.",
+        "markers": [
+          {
+            "label": "leaflet 1",
+            "label_x": 4,
+            "label_y": 8,
+            "target_x": 22,
+            "target_y": 46,
+            "verified_scope": "named structure visually inspected on original UT Austin image; coordinate from full original image"
+          },
+          {
+            "label": "leaflet 2",
+            "label_x": 4,
+            "label_y": 83,
+            "target_x": 23,
+            "target_y": 60,
+            "verified_scope": "named structure visually inspected on original UT Austin image; coordinate from full original image"
+          },
+          {
+            "label": "shared attachment",
+            "label_x": 60,
+            "label_y": 10,
+            "target_x": 37,
+            "target_y": 55,
+            "verified_scope": "named structure visually inspected on original UT Austin image; coordinate from full original image"
+          }
+        ],
+        "creator": "UT Austin BIO406D (individual photographer not identified)",
+        "license": "Rights-unverified: private-study reference only; no claim of public redistribution rights",
+        "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+        "source_file": "images/02-two-leaflets.jpg",
+        "annotation_status": "structure verified against original source image, mobile alignment controlled in learner code"
+      },
+      {
+        "label": "FLOWER · genus check",
+        "scientific_name": "Senna roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/01-flower.jpg",
+        "image_role": "Five unequal yellow petals and central reproductive column",
+        "image_fit": "contain",
+        "caption": "The yellow petals are broad and unequal. The central pollen-bearing stamens are visible, although an individual anther pore is too small to confirm in this view.",
+        "markers": [
+          {
+            "label": "yellow petal",
+            "label_x": 5,
+            "label_y": 7,
+            "target_x": 33,
+            "target_y": 29,
+            "verified_scope": "named structure visually inspected on original UT Austin image; coordinate from full original image"
+          },
+          {
+            "label": "stamen cluster",
+            "label_x": 65,
+            "label_y": 75,
+            "target_x": 49,
+            "target_y": 49,
+            "verified_scope": "named structure visually inspected on original UT Austin image; coordinate from full original image"
+          }
+        ],
+        "creator": "UT Austin BIO406D (individual photographer not identified)",
+        "license": "Rights-unverified: private-study reference only; no claim of public redistribution rights",
+        "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+        "source_file": "images/01-flower.jpg",
+        "annotation_status": "structure verified against original source image, mobile alignment controlled in learner code"
+      },
+      {
+        "label": "FRUIT · opened legume",
+        "scientific_name": "Senna roemeriana",
+        "image_url": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/04-fruit.jpg",
+        "image_role": "Mature split pod with two open valves",
+        "image_fit": "contain",
+        "caption": "The old fruit has opened along a seam into two valves. The dark inner valve is conspicuous; this is a legume, not a seed itself.",
+        "markers": [
+          {
+            "label": "opened valve",
+            "label_x": 4,
+            "label_y": 8,
+            "target_x": 63,
+            "target_y": 65,
+            "verified_scope": "named structure visually inspected on original UT Austin image; coordinate from full original image"
+          },
+          {
+            "label": "other valve",
+            "label_x": 5,
+            "label_y": 81,
+            "target_x": 51,
+            "target_y": 55,
+            "verified_scope": "named structure visually inspected on original UT Austin image; coordinate from full original image"
+          }
+        ],
+        "creator": "UT Austin BIO406D (individual photographer not identified)",
+        "license": "Rights-unverified: private-study reference only; no claim of public redistribution rights",
+        "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+        "source_file": "images/04-fruit.jpg",
+        "annotation_status": "structure verified against original source image, mobile alignment controlled in learner code"
+      }
+    ],
+    "overlay_note": "Arrows are position-checked against the original source photographs. The small extrafloral nectary, individual anther pore and fine pod hairs are not resolved well enough to label here. UT Austin photographs remain private-study references pending reuse clearance."
+  },
+  "photo_polish_status": {
+    "done_2026_10_12": [
+      "three photo diagnostic lesson wired to species page",
+      "two narrow leaflets / shared junction annotated",
+      "visible stamen group and yellow petal labeled",
+      "opened fruit valves annotated"
+    ],
+    "deferred": [
+      "macro of extrafloral nectary, with mm scale",
+      "individual anther and pollen pore macro",
+      "true stem hair or pubescent pod macro",
+      "public-reuse permissions for UT photos"
+    ],
+    "visual_pass": "FIELD-USEFUL_PARTIAL_MACROS_PENDING",
+    "evidence_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fab/senna_roemeriana.htm",
+    "arrows_review": "major visible targets visually inspected; no arrow placed on unconfirmed gland"
+  },
+  "native_metrics_excluded": true
+}

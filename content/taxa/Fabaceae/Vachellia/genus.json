@@ -1,0 +1,245 @@
+{
+  "rank": "genus",
+  "name": "Vachellia",
+  "family": "Fabaceae",
+  "project_scope": {
+    "source_pool_species": [
+      "Vachellia constricta",
+      "Vachellia farnesiana"
+    ],
+    "lane": "genus-lesson-comparison-builder",
+    "note": "Comparison framework only. Species learner admission/range/canonical installation remain independent.",
+    "species_ids": [
+      "vachellia-constricta",
+      "vachellia-farnesiana"
+    ],
+    "species_count": 2,
+    "canonical_status": "Both species now installed with exact-species provisional licensed photos; strict native-range statuses remain UNRESOLVED."
+  },
+  "genus_diagnostics": {
+    "shared": "Woody thorny mimosoid legumes with alternate bipinnate leaves, paired straight stipular spines at nodes, globose yellow flower heads, and legume fruits.",
+    "look_here_first": "Confirm paired straight stipular spines at a leaf node, then confirm a bipinnate leaf and a globose yellow flower head. Once Vachellia is established, move to mature pod shape and leaflet/pinna counts for the species split.",
+    "caution": "Flower color and the generic yellow puffball gestalt are not enough; several mimosoid legumes can look similar. Use node armature, leaf architecture, and mature fruit together."
+  },
+  "species_comparison": [
+    {
+      "taxon": "Vachellia constricta",
+      "common_name": "whitethorn acacia",
+      "separating_characters": {
+        "mature_pod": "Long, narrow pod; commonly about 3–6 mm wide and up to about 12 cm long.",
+        "pinnae_leaflets": "Typically about 3–9 pairs of pinnae, each with roughly 4–16 pairs of small leaflets; project lesson should treat counts as supporting ranges, not a single-character key.",
+        "armature": "Paired straight pale/white stipular spines are conspicuous on younger stems.",
+        "habit_context": "Usually shrub to small tree; drought/cold deciduous behavior can make winter twig armature especially useful."
+      },
+      "learner_shortcut": "Narrow pod + relatively fewer leaflets per pinna + conspicuous pale paired spines supports V. constricta."
+    },
+    {
+      "taxon": "Vachellia farnesiana",
+      "common_name": "huisache / sweet acacia",
+      "separating_characters": {
+        "mature_pod": "Distinctly thicker, hard, plump to subcylindrical pod rather than the very narrow pod of V. constricta.",
+        "pinnae_leaflets": "Commonly about 2–6 pairs of pinnae with about 10–25 pairs of narrow leaflets per pinna in regional descriptions.",
+        "armature": "Also has paired straight stipular spines, so spines establish the genus pattern but do not by themselves separate it from V. constricta.",
+        "flowers": "Globose yellow heads are notably fragrant; fragrance is supporting only, not the primary diagnostic."
+      },
+      "learner_shortcut": "Thick hard pod + denser leaflet complement supports V. farnesiana."
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Mature pod width/form",
+      "constricta": "very narrow, slender legume",
+      "farnesiana": "much thicker, hard/plump to subcylindrical legume",
+      "weight": "highest-value species separator"
+    },
+    {
+      "character": "Leaflet density",
+      "constricta": "generally fewer leaflet pairs per pinna",
+      "farnesiana": "generally more numerous leaflet pairs per pinna",
+      "weight": "supporting; photograph and count"
+    },
+    {
+      "character": "Paired straight spines",
+      "constricta": "present, often conspicuously pale/white",
+      "farnesiana": "present",
+      "weight": "strong genus cue; weak species separator"
+    },
+    {
+      "character": "Yellow globose heads",
+      "constricta": "present",
+      "farnesiana": "present, strongly fragrant",
+      "weight": "genus cue; fragrance supporting only"
+    }
+  ],
+  "lookalikes": [
+    {
+      "group": "other mimosoid Fabaceae in the source pool",
+      "tie_breaker": "Do not key from yellow puffball flowers alone. Verify paired stipular spines at the node, then leaf architecture and mature pod."
+    },
+    {
+      "group": "Acaciella / Senegalia-type look-alikes",
+      "tie_breaker": "Use armature position/type and mature fruit plus current accepted genus placement; hand off uncertain generic boundaries rather than guessing from foliage."
+    }
+  ],
+  "overlap_cautions": [
+    "Both species can be thorny shrubs/small trees with fine bipinnate foliage and yellow globose heads.",
+    "Pinna and leaflet counts overlap and should not be used alone.",
+    "Young or absent fruit can make the species split substantially harder; mark such observations as needing reproductive confirmation rather than forcing an ID.",
+    "Do not reopen native-range decisions in this lesson. The Master Plant Pool currently carries V. constricta and V. farnesiana as source-pool taxa with their own independent review states."
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "paired stipular spines at node",
+      "purpose": "Show the genus-level armature exactly where it attaches; include petiole base and node."
+    },
+    {
+      "role": "whole bipinnate leaf, flat and in focus",
+      "purpose": "Count pinnae and compare leaflet density between species."
+    },
+    {
+      "role": "mature pod, same-scale side-by-side",
+      "purpose": "Primary species split: very narrow V. constricta pod versus thick hard V. farnesiana pod."
+    },
+    {
+      "role": "flower head plus supporting leaf/node",
+      "purpose": "Connect the yellow globose head to the correct thorny bipinnate plant rather than using a detached flower portrait."
+    },
+    {
+      "role": "winter/leafless twig",
+      "purpose": "Show paired spine architecture when foliage is absent, especially useful for V. constricta."
+    }
+  ],
+  "media_handoff": {
+    "priority": "Use project/user/Joey media if an exact-species frame clearly shows node armature, leaf architecture, or mature fruit. Do not acquire generic gallery photos in this lane.",
+    "desired_visual_lock": "One same-scale mature-pod comparison plus one labeled node/spine comparison would provide the highest learner value."
+  },
+  "diagnostic_review_handoff": [
+    "If a future diagnostic reviewer finds local material with pod dimensions or leaflet counts outside these regional ranges, refine the matrix using Texas herbarium/flora evidence rather than forcing the count ranges.",
+    "Confirm any source-pool records using older Acacia names map cleanly to the current Vachellia concepts before adding aliases to species cards."
+  ],
+  "sources": [
+    {
+      "label": "US Forest Service FEIS — Vachellia constricta",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/vaccon",
+      "role": "regional species context"
+    },
+    {
+      "label": "Desert Legume Program — Vachellia constricta",
+      "url": "https://cales.arizona.edu/desertlegumeprogram/legume-taxa/vachellia-constricta.html",
+      "role": "growth form, spines, bipinnate foliage"
+    },
+    {
+      "label": "US Forest Service FEIS — Vachellia farnesiana",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/vacfar",
+      "role": "taxonomy, growth form, paired spines, regional ecology"
+    },
+    {
+      "label": "USDA handbook — sweet acacia",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A-PURL-gpo17014/pdf/GOVPUB-A-PURL-gpo17014.pdf",
+      "role": "leaf and pod morphology"
+    }
+  ],
+  "curation_status": {
+    "version": "2.2-four-diagnostic-installed-photo-cards",
+    "last_reviewed": "2026-10-12",
+    "status": "field-usable-pod-comparison; targeted-spine-macro-and-arrows-pending",
+    "genus_photo_count": 4,
+    "annotations_verified": 0
+  },
+  "common_group": "Whitethorn and huisache acacias",
+  "look_here_first": "Inspect a twig node for a PAIR of STRAIGHT stipular spines and examine its bipinnate leaves. Both have golden spherical flower heads; compare MATURE pods: whitethorn is slender and constricted, huisache thick and dark.",
+  "study_strategy": {
+    "shared_traits": [
+      "Thorny small trees or shrubs with alternate bipinnate leaves.",
+      "Usually paired STRAIGHT stipular spines at the leaf node, unlike recurved prickles of Senegalia.",
+      "Golden ball-shaped heads of very small flowers with conspicuous stamens.",
+      "Pod shape and size are better species clues than flower color alone."
+    ],
+    "priority": [
+      "Find thorn origin precisely at the stem NODE",
+      "Count primary pinnae and paired tiny leaflets on a complete compound leaf",
+      "Find MATURE fruits: slender constricted whitethorn pods versus thicker dark husk-like huisache pods",
+      "Photograph yellow flower head with nearby leaf + thorn"
+    ],
+    "warning": "Paired thorns can vary, and leaf/pinna counts overlap. Do not identify to species from one isolated gold flower head."
+  },
+  "quick_key": [
+    {
+      "if": "paired straight spines + gold heads + very slender constricted, elongated pod",
+      "then": "Vachellia constricta — whitethorn acacia"
+    },
+    {
+      "if": "paired straight spines + gold heads + stout dark brown/black swollen pod",
+      "then": "Vachellia farnesiana — huisache"
+    },
+    {
+      "if": "elongate pale flower spikes + long straw pods",
+      "then": "Neltuma glandulosa — mesquite (not Vachellia)"
+    },
+    {
+      "if": "hooked prickles + pale flower heads/spikes",
+      "then": "Senegalia spp. (not Vachellia)"
+    }
+  ],
+  "visual_comparison": {
+    "version": "2026-10-12-two-species-four-installed-photos",
+    "title": "Huisache versus whitethorn: compare the pods",
+    "subtitle": "Both have small bipinnate leaves, straight nodal spines and yellow balls of flowers. The mature pods are the best field split.",
+    "memory_rule": "HUISACHE = THICK DARK POD · WHITETHORN = SLENDER CONSTRICTED POD",
+    "items": [
+      {
+        "label": "WHITETHORN · SLENDER POD",
+        "scientific_name": "Vachellia constricta",
+        "image_url": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/02-slender-constricted-pods.jpg",
+        "image_fit": "contain",
+        "image_role": "Narrow slender pod with constrictions",
+        "caption": "Notice the narrow pod and seed constrictions. Different from the chunky, stout mature huisache fruit.",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_constricta_pods.jpg",
+        "markers": [],
+        "annotation_status": "photo downloaded and species provenance verified; fine anatomical arrows not placed without per-pixel audit"
+      },
+      {
+        "label": "HUISACHE · PLUMP POD",
+        "scientific_name": "Vachellia farnesiana",
+        "image_url": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/02-thick-dark-pods.jpg",
+        "image_fit": "contain",
+        "image_role": "Short thick dark pod, often blackish mature",
+        "caption": "Hard turgid mature pods darken strongly. Use alongside the leaf and the straight paired spines.",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0 US",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr-030202-0023-Vachellia_farnesiana-seed_pods-Wailea_670-Maui_(23991674164).jpg",
+        "markers": [],
+        "annotation_status": "photo downloaded and species provenance verified; fine anatomical arrows not placed without per-pixel audit"
+      },
+      {
+        "label": "HUISACHE · GOLD SPHERES",
+        "scientific_name": "Vachellia farnesiana",
+        "image_url": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/01-flower-leaves.jpg",
+        "image_fit": "contain",
+        "image_role": "Golden spherical inflorescence with bipinnate foliage",
+        "caption": "The gold puffball is a cluster of many small flowers, not a single flower; compare the leaf architecture.",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0 US",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr-101229-6241-Vachellia_farnesiana-flower_and_leaves-Moaulanui-Kahoolawe_(24941726442).jpg",
+        "markers": [],
+        "annotation_status": "photo downloaded and species provenance verified; fine anatomical arrows not placed without per-pixel audit"
+      },
+      {
+        "label": "WHITETHORN · WHOLE PLANT",
+        "scientific_name": "Vachellia constricta",
+        "image_url": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/01-field-photo.jpg",
+        "image_fit": "contain",
+        "image_role": "Exact-species field habit",
+        "caption": "Use this to build a species face. For spine attachment and nectar-gland arrows, we still need targeted close-up images.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vachellia_constricta_28225005.jpg",
+        "markers": [],
+        "annotation_status": "photo downloaded and species provenance verified; fine anatomical arrows not placed without per-pixel audit"
+      }
+    ],
+    "overlay_note": "Four real physically installed canonical photos. No guessed arrows: the spine node and gland are too small to place responsibly without high-resolution inspection. Photo licenses and photographers are in each species record."
+  }
+}

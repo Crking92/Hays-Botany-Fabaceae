@@ -1,0 +1,138 @@
+{
+  "id": "dalea-frutescens",
+  "entry_type": "species",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "species": "frutescens",
+  "scientific_name": "Dalea frutescens",
+  "authority": "A.Gray",
+  "common_name": "Black dalea",
+  "synonyms": [
+    "Parosela frutescens",
+    "Dalea frutescens var. laxa",
+    "Dalea laxa",
+    "Parosela laxa"
+  ],
+  "look_here_first": "First decide whether the plant is woody: black dalea is a low intricately branched shrub with many tiny leaflets on pale gray/straw branchlets and short terminal flower spikes.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Kerr"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Kerr qualify; Val Verde out-of-zone and excluded from PASS. Previous evidence preserved in range_audit; third approved county pending.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Kerr",
+        "Val Verde"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Kerr"
+      ],
+      "excluded_counties": [
+        "Val Verde"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 2 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "Hays — Purola natural flora; Kerr — Barneby Edwards Plateau material; Val Verde — Devils River type material of synonym Parosela laxa within the current species concept.",
+      "source_document": "content/taxa/Fabaceae/Dalea/dalea-frutescens/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "low woody shrub/subshrub, intricately branched",
+      "many tiny obovate to oblanceolate leaflets on odd-pinnate leaves",
+      "young twigs greenish to gray/straw and glandular",
+      "short terminal or leaf-opposed flower spikes",
+      "calyx nearly hairless outside but silky-ciliate around the mouth"
+    ],
+    "habit": "Low woody shrub/subshrub, usually under about 1 m.",
+    "leaf_morphology": "Usually 4–9 pairs of tiny leaflets plus terminal leaflet; undersides gland-punctate.",
+    "inflorescence": "Short terminal or leaf-opposed spikes, subcapitate to moderately dense.",
+    "calyx": "Short-toothed, glossy/glabrous externally, silky-ciliate around the mouth.",
+    "joey_field_observation": "Joey Santore's Pilostyles thurberi study documents Dalea frutescens as the host and includes exact wild Sutton County host-shrub, stem, leaf and parasite-emergence images. Use these as trusted private-study habit/ecology material."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Dalea formosa",
+      "Dalea aurea",
+      "Dalea compacta"
+    ],
+    "key_distinctions": "D. formosa has conspicuously plumose/feathery calyx lobes; D. aurea is herbaceous and densely silky; D. compacta is herbaceous with linear leaflets and a dense head."
+  },
+  "tags": [
+    "Fabaceae",
+    "Dalea",
+    "Black dalea",
+    "Central Texas",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.0-b010-joey",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Exact Joey wild-host study image plus reusable Commons morphology reference recorded. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/01-habit.jpg",
+      "role": "Whole shrub morphology reference",
+      "creator": "",
+      "license": "CC BY-SA / GFDL (see source page)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dalea-frutescens-20080325.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-joey-wild-host.jpg",
+      "role": "Wild Sutton County host shrub / woody habit / leaf context",
+      "creator": "Joey Santore",
+      "license": "Private educational study use; public reuse not assumed",
+      "source_page": "https://www.crimepaysbutbotanydoesnt.com/blog/endoparasites-i-have-known-pilostyles-thurberi-cucurbitales",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/joey-inat-426127369.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/426127369",
+      "observation_url": "https://www.inaturalist.org/observations/239277832",
+      "observation_id": "239277832",
+      "photo_id": "426127369",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/426127369/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "native_metrics_excluded": true
+}

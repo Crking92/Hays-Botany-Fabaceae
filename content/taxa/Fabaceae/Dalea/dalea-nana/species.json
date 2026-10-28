@@ -1,0 +1,115 @@
+{
+  "id": "dalea-nana",
+  "entry_type": "species",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "species": "nana",
+  "scientific_name": "Dalea nana",
+  "authority": "Torr. ex A.Gray",
+  "common_name": "Dwarf prairie clover / dwarf dalea",
+  "synonyms": [
+    "Parosela nana (Torr. ex A.Gray) A.Heller"
+  ],
+  "look_here_first": "Think tiny yellow-to-purple Dalea: a very low perennial with silky compound leaves and ovoid flower spikes whose yellow flowers age rose-purple.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Williamson",
+    "Llano"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Master Plant Pool Hays-local source. Williamson — NPSOT Williamson County rescue seed stock. Llano — historical herbarium specimens collected northwest/west of Valley Spring, which is in Llano County.",
+    "range_guardrail": "Exact county evidence only; locality-to-county mapping used only for named Valley Spring specimens."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "very low perennial from taproot and slightly woody base",
+      "often 10–40 cm tall or lower",
+      "compound leaves with 3–9 leaflets",
+      "leaflets silky-hairy on both surfaces",
+      "dense ovoid to oblong flower spikes",
+      "flowers yellow when fresh, aging rose to blue-purple",
+      "dry bare limestone, caliche, sandy or stony soils"
+    ],
+    "comparison_training": "D. nana is the low yellow-then-purple member of the set. D. multiflora has white rounded heads; D. tenuis has pink-purple globes and extremely narrow, feathery linear leaflets."
+  },
+  "curation_status": {
+    "version": "1.0-b093",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/dalea-nana-provisional-face.jpg",
+      "role": "Flower head / recognizable face",
+      "creator": "Frankie Coburn",
+      "license": "CC BY-SA (version unspecified by source)",
+      "source_page": "https://yavapaiplants.extension.arizona.edu/dalea-nana",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-505806231.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/505806231",
+      "observation_url": "https://www.inaturalist.org/observations/281566484",
+      "observation_id": "281566484",
+      "photo_id": "505806231",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/505806231/large.jpg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-505806266.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/505806266",
+      "observation_url": "https://www.inaturalist.org/observations/281566484",
+      "observation_id": "281566484",
+      "photo_id": "505806266",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/505806266/large.jpg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

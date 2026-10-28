@@ -1,0 +1,261 @@
+{
+  "id": "senna-pilosior",
+  "entry_type": "species",
+  "family": "Fabaceae",
+  "genus": "Senna",
+  "species": "pilosior",
+  "scientific_name": "Senna pilosior",
+  "authority": "(B.L.Rob.) H.S.Irwin & Barneby",
+  "common_name": "Trans-Pecos senna",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species; Kew gives a native range from Texas to northeastern Mexico.",
+  "look_here_first": "Find ONE entire leaf: S. pilosior has only ONE PAIR of comparatively broad hairy leaflets, approximately 1.3–1.8 times as long as wide. Check for short retrorse hairs and much stiffer long setae on stems, the gland where both leaflets meet, then anthers and hairy upright fruit. Do not separate by annual versus perennial habit: current sources disagree on its life history.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "No exact project target-zone counties are currently locked. Statewide Texas nativity, Trans-Pecos occurrence, and the common name are not converted into county proof.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "source conflict: Kew reports annual; 2024 taxonomic treatment reports herbaceous perennial — do NOT use life history for identification",
+      "exactly one leaflet pair per compound leaf",
+      "leaflets relatively broad, about 1.3–1.8 times as long as wide",
+      "mixture of short retrorse hairs, glandlike trichomes and longer stiff setae on stems",
+      "extrafloral gland at the point where the paired leaflets join",
+      "persistent sepals on developing fruit; anthers constricted below symmetric terminal pollen pore",
+      "erect oblong pods roughly 2–4 cm long, hairy/setose; can persist after opening"
+    ],
+    "comparison_training": "S. roemeriana also has one leaflet pair, but its leaflets are much more narrowly lanceolate (approximately 2–9 times as long as wide). S. bauhinioides also has a single broad pair; distinguish with stiff mixed stem hairs, persistent sepals, anther/pod detail, and S. bauhinioides stout thickened style + rough seed testa. Life history, leaflet count alone and yellow flowers do not separate this trio."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Senna roemeriana",
+      "Senna bauhinioides",
+      "Senna pumilio",
+      "other western bifoliolate Senna"
+    ],
+    "key_distinctions": "Broad paired leaflets + retrorse hairs and stiff setae versus narrow paired leaflets in S. roemeriana; against S. bauhinioides, use floral style/anther and mature pod/seed plus indumentum; retain uncertain ID if no reproductive material."
+  },
+  "tags": [
+    "Fabaceae",
+    "Senna",
+    "Trans-Pecos senna",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.1-2026-10-12-morphology-corrected",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-12",
+    "visual_status": "missing_verified_photo_photo_id_and_binary",
+    "taxonomic_status_preserved": true,
+    "range_status_preserved": true,
+    "life_history_conflict_flagged": true,
+    "photo_sources_scouted": true,
+    "photo_scout_verified_observation": 402434586,
+    "photo_scout_note": "Specific personal-source observation located; photo-ID/photo binary retrieval blocked. Candidate only; not visual complete.",
+    "photographer_ownership_clarified": "user does not have photos; ownership unknown",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "gbif_first_photo_install": "2026-10-15",
+    "manual_library_install_012": "2026-10-16"
+  },
+  "diagnostic_image_needs": [
+    "whole herbaceous perennial habit with scale",
+    "ONE entire mature compound leaf showing exactly two broad leaflets",
+    "sharp true-macro of the three kinds of stem hairs and the leaf junction gland",
+    "flower closeup with stamens and persistent sepals",
+    "erect mature hairy pod and opening valves",
+    "side-by-side S. roemeriana narrow paired leaves and S. bauhinioides broad paired leaves at the same scale"
+  ],
+  "photo_note": "User clarified they do not have Senna pilosior photographs available; images are on iNaturalist. Find suitable third-party, exact-species CC0/CC BY images independently. Do not attribute inaturalist.org/observations/402434586 or any other observation's photography to the user without verification. No image installed as of 2026-10-12. Exact source determination GBIF-linked image provisionally installed with image-level license; visual ID requires review. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "photo_candidate_sources": [
+    {
+      "priority": 99,
+      "platform": "Unverified iNaturalist source-sheet observation; not asserted user-owned",
+      "observation_id": 402434586,
+      "observation_url": "https://www.inaturalist.org/observations/402434586",
+      "taxon_id": 168849,
+      "observed_on": "2026-09-19",
+      "source": "My iNaturalist Flora tracker row 890 (authorship unconfirmed)",
+      "research_grade": 0,
+      "needs_id": 1,
+      "wild_observation": 1,
+      "candidate_status": "UNVERIFIED; not a user-supplied photo",
+      "photo_id": null,
+      "photographer": "unverified",
+      "photo_license": "unknown until photo-level inspection; do not assume CC from user source-pool membership",
+      "visual_roles": "unknown until actual images opened",
+      "action": "Do not infer photo ownership from the tracker; independently verify photos, taxon, photographer, photo license, diagnostic value if considered."
+    },
+    {
+      "platform": "iNaturalist, through license-bearing biosurveys.org Senna pilosior taxon index",
+      "index_url": "https://www.biosurveys.org/taxon/senna-pilosior-168849",
+      "taxon_url": "https://www.inaturalist.org/taxa/168849-Senna-pilosior",
+      "credit": "Robb Hannawacker",
+      "license": "CC0",
+      "visible_count": 2,
+      "verification": "INDEX VERIFIED; exact iNaturalist observation_id/photo_id not yet recovered, photo content not inspected. Must select IDs before adding images[].",
+      "reusable_status": "candidate only"
+    },
+    {
+      "platform": "iNaturalist, through biosurveys.org",
+      "index_url": "https://www.biosurveys.org/taxon/senna-pilosior-168849",
+      "taxon_url": "https://www.inaturalist.org/taxa/168849-Senna-pilosior",
+      "credit": "Austin R. Kelly",
+      "license": "CC BY",
+      "visible_count": 5,
+      "verification": "INDEX VERIFIED; individual photo IDs, diagnostic roles and image binaries not yet verified.",
+      "reusable_status": "candidate only"
+    },
+    {
+      "platform": "iNaturalist, through biosurveys.org",
+      "index_url": "https://www.biosurveys.org/taxon/senna-pilosior-168849",
+      "taxon_url": "https://www.inaturalist.org/taxa/168849-Senna-pilosior",
+      "credit": "Dr. Alison Northup",
+      "license": "CC BY",
+      "visible_count": 3,
+      "verification": "INDEX VERIFIED; photo ID and image quality unverified.",
+      "reusable_status": "candidate only"
+    },
+    {
+      "platform": "iNaturalist, through biosurveys.org",
+      "index_url": "https://www.biosurveys.org/taxon/senna-pilosior-168849",
+      "taxon_url": "https://www.inaturalist.org/taxa/168849-Senna-pilosior",
+      "credit": "Joey Santore",
+      "license": "CC BY-NC",
+      "visible_count": 7,
+      "verification": "INDEX VERIFIED; compare user's saved Joey media before selecting new source; photographer, image and rights require final record.",
+      "reusable_status": "candidate only; attribution, noncommercial restriction"
+    }
+  ],
+  "botanical_source_notes": [
+    {
+      "source": "Estrada-Castillón et al. 2024, Plants 13(17):2477",
+      "url": "https://www.mdpi.com/2223-7747/13/17/2477",
+      "finding": "Peer-reviewed account calls S. pilosior herbaceous perennial, with one broad pair of leaflets and mixed stem trichomes, and an erect hairy persistent fruit."
+    }
+  ],
+  "life_history_evidence": {
+    "status": "SOURCE_CONFLICT — DO NOT KEY SPECIES ON LIFE HISTORY",
+    "recent_treatment": {
+      "interpretation": "Herbaceous perennial",
+      "source": "Estrada-Castillón et al., 2024, The Fabaceae in Northeastern Mexico",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11397501/"
+    },
+    "kew_taxon": {
+      "interpretation": "Annual",
+      "source": "Kew Plants of the World Online, accessed 2026-10-12",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:518356-1"
+    },
+    "learner_guidance": "Conflicting source treatments and/or differences in local persistence; DO NOT teach annual vs perennial as separating character for S. pilosior, S. roemeriana, or S. bauhinioides until independently resolved."
+  },
+  "photo_acquisition_direction": {
+    "priority": "Find independently verified exact-species Senna pilosior images already on iNaturalist, preferably CC0 or CC BY; do not assume user owns, uploaded, or has local copies of any photos.",
+    "correction_from_user": "User clarified they do NOT have Senna pilosior photos to provide; they were referring to photos only available on iNaturalist.",
+    "observation_reference": "https://www.inaturalist.org/observations/402434586",
+    "observation_status": "An observation reference appears in the My iNaturalist Flora source sheet, but authorship, photo availability and image license have not been verified; do not treat it as a user-owned media source.",
+    "public_reuse": "Only images with individually verified suitable licenses, creator credits and photo IDs can be used in learner/public contexts.",
+    "use_rule": "Do not request photos from the user and do not install a candidate until actual image and rights are verified."
+  },
+  "images": [
+    {
+      "file": "images/gbif-first-6431822939-9ca58a139a.jpg",
+      "role": "Provisional exact source determination first-recognition photo; diagnostic details not checked",
+      "creator": "April Coulon",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF mediated record; credit original dataset, specimen and creator",
+      "source_page": "https://www.gbif.org/occurrence/6431822939",
+      "gbif_occurrence_id": "6431822939",
+      "source_determination": "Senna pilosior (B.L.Rob.) H.S.Irwin & Barneby",
+      "accepted_target": "Senna pilosior",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/692204066/original.jpg",
+      "source_dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "study_use": "Yes; rights-specific conditions on original image",
+      "public_reuse": "Respect photo license; CC BY-NC images are noncommercial only",
+      "photo_review": "Source-reported taxon and image license verified; morphological identification and teaching view need independent visual review",
+      "modifications": "Resized JPEG and EXIF removed"
+    },
+    {
+      "file": "images/library-review012-12bbd97d3f95bdf.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Yellow flowers with foliage plus close dense leaf pubescence and developing flower buds",
+      "creator": "Clifton Ladd, C.W.B.",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6130028254",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607020787/original.jpg",
+      "source_determination": "Senna pilosior",
+      "source_observation_id": "6130028254",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/senna-pilosior/gbif-7f8ece9f7196b4.jpg",
+      "archive_image_sha256": "20f03857c2f1232191d106d39e8808c05f856eff35330ebcf9ad5394746ca7e2",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review012-10b329a7758a956.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Yellow flowers with foliage plus close dense leaf pubescence and developing flower buds",
+      "creator": "Ian McFaul",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6352610351",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668738183/original.jpg",
+      "source_determination": "Senna pilosior",
+      "source_observation_id": "6352610351",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/senna-pilosior/gbif-2cbfd798a49281.jpg",
+      "archive_image_sha256": "22771a85c829b4318ae4d84eb76b3d730075b580e356397a7cadcc81d5185caf",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "Specimen/observation source first photo installed provisionally with an individually verified license. Botanical diagnostic morphology pending.",
+    "missing_diagnostic_views": [
+      "Confirm diagnostic vegetative and reproductive characters"
+    ]
+  }
+}

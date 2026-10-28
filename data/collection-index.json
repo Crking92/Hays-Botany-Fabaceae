@@ -2,6 +2,830 @@
   "schema_version": 1,
   "collection_id": "fabaceae",
   "authority": "STAGING_ONLY",
-  "entries": [],
-  "note": "Empty until individually verified source import. Do not add names or URLs without matching actual records."
+  "entries": [
+    {
+      "id": "acaciella-angustissima-var-texensis",
+      "scientific_name": "Acaciella angustissima var. texensis",
+      "common_name": "Prairie acacia / whiteball acacia (Texas variety)",
+      "family": "Fabaceae",
+      "genus": "Acaciella",
+      "path": "content/taxa/Fabaceae/Acaciella/acaciella-angustissima-var-texensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "amorpha-canescens",
+      "scientific_name": "Amorpha canescens",
+      "common_name": "Leadplant",
+      "family": "Fabaceae",
+      "genus": "Amorpha",
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "amorpha-fruticosa",
+      "scientific_name": "Amorpha fruticosa",
+      "common_name": "False indigo bush / indigobush",
+      "family": "Fabaceae",
+      "genus": "Amorpha",
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "amorpha-roemeriana",
+      "scientific_name": "Amorpha roemeriana",
+      "common_name": "Roemer's false indigo / Texas amorpha",
+      "family": "Fabaceae",
+      "genus": "Amorpha",
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "astragalus-crassicarpus-var-berlandieri",
+      "scientific_name": "Astragalus crassicarpus var. berlandieri",
+      "common_name": "Berlandier's groundplum",
+      "family": "Fabaceae",
+      "genus": "Astragalus",
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "astragalus-leptocarpus",
+      "scientific_name": "Astragalus leptocarpus",
+      "common_name": "Slimpod milkvetch",
+      "family": "Fabaceae",
+      "genus": "Astragalus",
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "astragalus-lindheimeri",
+      "scientific_name": "Astragalus lindheimeri",
+      "common_name": "Lindheimer's milkvetch",
+      "family": "Fabaceae",
+      "genus": "Astragalus",
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "astragalus-nuttallianus",
+      "scientific_name": "Astragalus nuttallianus",
+      "common_name": "Small-flowered milkvetch",
+      "family": "Fabaceae",
+      "genus": "Astragalus",
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "astragalus-nuttallianus-var-pleianthus",
+      "scientific_name": "Astragalus nuttallianus var. pleianthus",
+      "common_name": "Edwards Plateau milkvetch / Richland milkvetch",
+      "family": "Fabaceae",
+      "genus": "Astragalus",
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus-var-pleianthus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "astragalus-plattensis",
+      "scientific_name": "Astragalus plattensis",
+      "common_name": "Platte River milkvetch",
+      "family": "Fabaceae",
+      "genus": "Astragalus",
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-plattensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "baptisia-bracteata",
+      "scientific_name": "Baptisia bracteata",
+      "common_name": "Longbract wild indigo",
+      "family": "Fabaceae",
+      "genus": "Baptisia",
+      "path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "bauhinia-lunarioides",
+      "scientific_name": "Bauhinia lunarioides",
+      "common_name": "Anacacho orchid tree",
+      "family": "Fabaceae",
+      "genus": "Bauhinia",
+      "path": "content/taxa/Fabaceae/Bauhinia/bauhinia-lunarioides/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "cercis-canadensis-subsp-mexicana",
+      "scientific_name": "Cercis canadensis subsp. mexicana",
+      "common_name": "Mexican redbud",
+      "family": "Fabaceae",
+      "genus": "Cercis",
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "cercis-canadensis-subsp-texensis",
+      "scientific_name": "Cercis canadensis subsp. texensis",
+      "common_name": "Texas redbud",
+      "family": "Fabaceae",
+      "genus": "Cercis",
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "chamaecrista-fasciculata",
+      "scientific_name": "Chamaecrista fasciculata",
+      "common_name": "Partridge pea",
+      "family": "Fabaceae",
+      "genus": "Chamaecrista",
+      "path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-aurea",
+      "scientific_name": "Dalea aurea",
+      "common_name": "Golden dalea / Golden prairie clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-aurea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-candida",
+      "scientific_name": "Dalea candida",
+      "common_name": "White prairie clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-candida/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-compacta",
+      "scientific_name": "Dalea compacta",
+      "common_name": "Compact prairie clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-compacta/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-enneandra",
+      "scientific_name": "Dalea enneandra",
+      "common_name": "Nine-anther prairie clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-frutescens",
+      "scientific_name": "Dalea frutescens",
+      "common_name": "Black dalea",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-greggii",
+      "scientific_name": "Dalea greggii",
+      "common_name": "Gregg's dalea",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-greggii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-hallii",
+      "scientific_name": "Dalea hallii",
+      "common_name": "Hall's Prairie Clover / Hall's Dalea",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-multiflora",
+      "scientific_name": "Dalea multiflora",
+      "common_name": "Roundhead prairie clover / white prairie clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-nana",
+      "scientific_name": "Dalea nana",
+      "common_name": "Dwarf prairie clover / dwarf dalea",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-nana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-neomexicana",
+      "scientific_name": "Dalea neomexicana",
+      "common_name": "Downy prairie clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-purpurea",
+      "scientific_name": "Dalea purpurea",
+      "common_name": "Purple prairie clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-purpurea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dalea-tenuis",
+      "scientific_name": "Dalea tenuis",
+      "common_name": "Pinkglobe prairie clover / Stanfield prairie-clover",
+      "family": "Fabaceae",
+      "genus": "Dalea",
+      "path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "dermatophyllum-secundiflorum",
+      "scientific_name": "Dermatophyllum secundiflorum",
+      "common_name": "Texas mountain laurel / mescal bean",
+      "family": "Fabaceae",
+      "genus": "Dermatophyllum",
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmanthus-acuminatus",
+      "scientific_name": "Desmanthus acuminatus",
+      "common_name": "Sharp-pod bundleflower / wild tantan",
+      "family": "Fabaceae",
+      "genus": "Desmanthus",
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmanthus-illinoensis",
+      "scientific_name": "Desmanthus illinoensis",
+      "common_name": "Illinois bundleflower",
+      "family": "Fabaceae",
+      "genus": "Desmanthus",
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmanthus-leptolobus",
+      "scientific_name": "Desmanthus leptolobus",
+      "common_name": "Prairie bundleflower / prairie mimosa",
+      "family": "Fabaceae",
+      "genus": "Desmanthus",
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmanthus-velutinus",
+      "scientific_name": "Desmanthus velutinus",
+      "common_name": "Velvet bundleflower",
+      "family": "Fabaceae",
+      "genus": "Desmanthus",
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmanthus-virgatus",
+      "scientific_name": "Desmanthus virgatus",
+      "common_name": "Wild tantan / prostrate bundleflower",
+      "family": "Fabaceae",
+      "genus": "Desmanthus",
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmodium-paniculatum",
+      "scientific_name": "Desmodium paniculatum",
+      "common_name": "Panicled ticktrefoil",
+      "family": "Fabaceae",
+      "genus": "Desmodium",
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmodium-psilophyllum",
+      "scientific_name": "Desmodium psilophyllum",
+      "common_name": "Ticktrefoil",
+      "family": "Fabaceae",
+      "genus": "Desmodium",
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "desmodium-sessilifolium",
+      "scientific_name": "Desmodium sessilifolium",
+      "common_name": "Sessileleaf ticktrefoil",
+      "family": "Fabaceae",
+      "genus": "Desmodium",
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "erythrina-herbacea",
+      "scientific_name": "Erythrina herbacea",
+      "common_name": "Coralbean",
+      "family": "Fabaceae",
+      "genus": "Erythrina",
+      "path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "eysenhardtia-texana",
+      "scientific_name": "Eysenhardtia texana",
+      "common_name": "Texas kidneywood",
+      "family": "Fabaceae",
+      "genus": "Eysenhardtia",
+      "path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "galactia-canescens",
+      "scientific_name": "Galactia canescens",
+      "common_name": "Hoary milkpea",
+      "family": "Fabaceae",
+      "genus": "Galactia",
+      "path": "content/taxa/Fabaceae/Galactia/galactia-canescens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "galactia-texana",
+      "scientific_name": "Galactia texana",
+      "common_name": "Texas milkpea",
+      "family": "Fabaceae",
+      "genus": "Galactia",
+      "path": "content/taxa/Fabaceae/Galactia/galactia-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "gleditsia-triacanthos",
+      "scientific_name": "Gleditsia triacanthos",
+      "common_name": "Honey locust",
+      "family": "Fabaceae",
+      "genus": "Gleditsia",
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "hylodesmum-nudiflorum",
+      "scientific_name": "Hylodesmum nudiflorum",
+      "common_name": "Naked-flower ticktrefoil",
+      "family": "Fabaceae",
+      "genus": "Hylodesmum",
+      "path": "content/taxa/Fabaceae/Hylodesmum/hylodesmum-nudiflorum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "indigofera-miniata",
+      "scientific_name": "Indigofera miniata",
+      "common_name": "Scarlet Pea",
+      "family": "Fabaceae",
+      "genus": "Indigofera",
+      "path": "content/taxa/Fabaceae/Indigofera/indigofera-miniata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "kummerowia-striata",
+      "scientific_name": "Kummerowia striata",
+      "common_name": "Japanese clover",
+      "family": "Fabaceae",
+      "genus": "Kummerowia",
+      "path": "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "lespedeza-texana",
+      "scientific_name": "Lespedeza texana",
+      "common_name": "Texas lespedeza",
+      "family": "Fabaceae",
+      "genus": "Lespedeza",
+      "path": "content/taxa/Fabaceae/Lespedeza/lespedeza-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "leucaena-retusa",
+      "scientific_name": "Leucaena retusa",
+      "common_name": "Golden-ball Lead Tree",
+      "family": "Fabaceae",
+      "genus": "Leucaena",
+      "path": "content/taxa/Fabaceae/Leucaena/leucaena-retusa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "lotus-berthelotii",
+      "scientific_name": "Lotus berthelotii",
+      "common_name": "Parrot's beak",
+      "family": "Fabaceae",
+      "genus": "Lotus",
+      "path": "content/taxa/Fabaceae/Lotus/lotus-berthelotii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "lupinus-texensis",
+      "scientific_name": "Lupinus texensis",
+      "common_name": "Texas bluebonnet",
+      "family": "Fabaceae",
+      "genus": "Lupinus",
+      "path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "medicago-lupulina",
+      "scientific_name": "Medicago lupulina",
+      "common_name": "Black medic (introduced)",
+      "family": "Fabaceae",
+      "genus": "Medicago",
+      "path": "content/taxa/Fabaceae/Medicago/medicago-lupulina/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "medicago-polymorpha",
+      "scientific_name": "Medicago polymorpha",
+      "common_name": "Burclover (introduced)",
+      "family": "Fabaceae",
+      "genus": "Medicago",
+      "path": "content/taxa/Fabaceae/Medicago/medicago-polymorpha/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "medicago-sativa",
+      "scientific_name": "Medicago sativa",
+      "common_name": "Alfalfa (introduced)",
+      "family": "Fabaceae",
+      "genus": "Medicago",
+      "path": "content/taxa/Fabaceae/Medicago/medicago-sativa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "melilotus-albus",
+      "scientific_name": "Melilotus albus",
+      "common_name": "White sweetclover",
+      "family": "Fabaceae",
+      "genus": "Melilotus",
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "melilotus-indicus",
+      "scientific_name": "Melilotus indicus",
+      "common_name": "Annual yellow sweetclover",
+      "family": "Fabaceae",
+      "genus": "Melilotus",
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "mimosa-biuncifera",
+      "scientific_name": "Mimosa biuncifera",
+      "common_name": "Catclaw mimosa / wait-a-bit",
+      "family": "Fabaceae",
+      "genus": "Mimosa",
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "mimosa-borealis",
+      "scientific_name": "Mimosa borealis",
+      "common_name": "Fragrant mimosa / pink mimosa",
+      "family": "Fabaceae",
+      "genus": "Mimosa",
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "mimosa-latidens",
+      "scientific_name": "Mimosa latidens",
+      "common_name": "Kairn's sensitive-briar",
+      "family": "Fabaceae",
+      "genus": "Mimosa",
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "mimosa-roemeriana",
+      "scientific_name": "Mimosa roemeriana",
+      "common_name": "Roemer's mimosa / sensitive briar",
+      "family": "Fabaceae",
+      "genus": "Mimosa",
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "mimosa-texana",
+      "scientific_name": "Mimosa texana",
+      "common_name": "Texas mimosa / catclaw mimosa",
+      "family": "Fabaceae",
+      "genus": "Mimosa",
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "neltuma-glandulosa",
+      "scientific_name": "Neltuma glandulosa",
+      "common_name": "Honey mesquite",
+      "family": "Fabaceae",
+      "genus": "Neltuma",
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "neptunia-lutea",
+      "scientific_name": "Neptunia lutea",
+      "common_name": "Yellow puff / yellow sensitive-briar",
+      "family": "Fabaceae",
+      "genus": "Neptunia",
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-lutea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "neptunia-pubescens",
+      "scientific_name": "Neptunia pubescens",
+      "common_name": "Tropical neptunia",
+      "family": "Fabaceae",
+      "genus": "Neptunia",
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "parkinsonia-aculeata",
+      "scientific_name": "Parkinsonia aculeata",
+      "common_name": "Jerusalem thorn / retama",
+      "family": "Fabaceae",
+      "genus": "Parkinsonia",
+      "path": "content/taxa/Fabaceae/Parkinsonia/parkinsonia-aculeata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "pediomelum-cuspidatum",
+      "scientific_name": "Pediomelum cuspidatum",
+      "common_name": "Pediomelum cuspidatum",
+      "family": "Fabaceae",
+      "genus": "Pediomelum",
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "pediomelum-cyphocalyx",
+      "scientific_name": "Pediomelum cyphocalyx",
+      "common_name": "Pediomelum cyphocalyx",
+      "family": "Fabaceae",
+      "genus": "Pediomelum",
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cyphocalyx/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "pediomelum-latestipulatum",
+      "scientific_name": "Pediomelum latestipulatum",
+      "common_name": "Pediomelum latestipulatum",
+      "family": "Fabaceae",
+      "genus": "Pediomelum",
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-latestipulatum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "pediomelum-linearifolium",
+      "scientific_name": "Pediomelum linearifolium",
+      "common_name": "Linearleaf scurfpea",
+      "family": "Fabaceae",
+      "genus": "Pediomelum",
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-linearifolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "pediomelum-rhombifolium",
+      "scientific_name": "Pediomelum rhombifolium",
+      "common_name": "Pediomelum rhombifolium",
+      "family": "Fabaceae",
+      "genus": "Pediomelum",
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-rhombifolium/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "pediomelum-tenuiflorum",
+      "scientific_name": "Pediomelum tenuiflorum",
+      "common_name": "Pediomelum tenuiflorum",
+      "family": "Fabaceae",
+      "genus": "Pediomelum",
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-tenuiflorum/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "rhynchosia-americana",
+      "scientific_name": "Rhynchosia americana",
+      "common_name": "American snoutbean",
+      "family": "Fabaceae",
+      "genus": "Rhynchosia",
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-americana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "rhynchosia-minima",
+      "scientific_name": "Rhynchosia minima",
+      "common_name": "Least snoutbean",
+      "family": "Fabaceae",
+      "genus": "Rhynchosia",
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "rhynchosia-senna",
+      "scientific_name": "Rhynchosia senna",
+      "common_name": "Texas snoutbean",
+      "family": "Fabaceae",
+      "genus": "Rhynchosia",
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "robinia-pseudoacacia",
+      "scientific_name": "Robinia pseudoacacia",
+      "common_name": "Black locust",
+      "family": "Fabaceae",
+      "genus": "Robinia",
+      "path": "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "senegalia-greggii",
+      "scientific_name": "Senegalia greggii",
+      "common_name": "Gregg's catclaw acacia",
+      "family": "Fabaceae",
+      "genus": "Senegalia",
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "senegalia-roemeriana",
+      "scientific_name": "Senegalia roemeriana",
+      "common_name": "Roundflower catclaw / Roemer acacia",
+      "family": "Fabaceae",
+      "genus": "Senegalia",
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "senegalia-wrightii",
+      "scientific_name": "Senegalia wrightii",
+      "common_name": "Wright's catclaw acacia / Wright acacia",
+      "family": "Fabaceae",
+      "genus": "Senegalia",
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "senna-lindheimeriana",
+      "scientific_name": "Senna lindheimeriana",
+      "common_name": "Lindheimer's Senna / Velvetleaf Senna",
+      "family": "Fabaceae",
+      "genus": "Senna",
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "senna-pilosior",
+      "scientific_name": "Senna pilosior",
+      "common_name": "Trans-Pecos senna",
+      "family": "Fabaceae",
+      "genus": "Senna",
+      "path": "content/taxa/Fabaceae/Senna/senna-pilosior/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "senna-roemeriana",
+      "scientific_name": "Senna roemeriana",
+      "common_name": "Twoleaf senna",
+      "family": "Fabaceae",
+      "genus": "Senna",
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "sesbania-drummondii",
+      "scientific_name": "Sesbania drummondii",
+      "common_name": "Rattlebox",
+      "family": "Fabaceae",
+      "genus": "Sesbania",
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "sesbania-herbacea",
+      "scientific_name": "Sesbania herbacea",
+      "common_name": "Bigpod sesbania",
+      "family": "Fabaceae",
+      "genus": "Sesbania",
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "strophostyles-helvola",
+      "scientific_name": "Strophostyles helvola",
+      "common_name": "Trailing wild bean",
+      "family": "Fabaceae",
+      "genus": "Strophostyles",
+      "path": "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "styphnolobium-affine",
+      "scientific_name": "Styphnolobium affine",
+      "common_name": "Eve's necklace",
+      "family": "Fabaceae",
+      "genus": "Styphnolobium",
+      "path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "tephrosia-lindheimeri",
+      "scientific_name": "Tephrosia lindheimeri",
+      "common_name": "Lindheimer's hoary-pea",
+      "family": "Fabaceae",
+      "genus": "Tephrosia",
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "tephrosia-potosina",
+      "scientific_name": "Tephrosia potosina",
+      "common_name": "Tephrosia potosina",
+      "family": "Fabaceae",
+      "genus": "Tephrosia",
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "trifolium-repens",
+      "scientific_name": "Trifolium repens",
+      "common_name": "White clover (introduced)",
+      "family": "Fabaceae",
+      "genus": "Trifolium",
+      "path": "content/taxa/Fabaceae/Trifolium/trifolium-repens/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "vachellia-constricta",
+      "scientific_name": "Vachellia constricta",
+      "common_name": "Whitethorn acacia",
+      "family": "Fabaceae",
+      "genus": "Vachellia",
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "vachellia-farnesiana",
+      "scientific_name": "Vachellia farnesiana",
+      "common_name": "Huisache / sweet acacia",
+      "family": "Fabaceae",
+      "genus": "Vachellia",
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "vicia-ludoviciana",
+      "scientific_name": "Vicia ludoviciana",
+      "common_name": "Louisiana vetch",
+      "family": "Fabaceae",
+      "genus": "Vicia",
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "vicia-ludoviciana-var-leavenworthii",
+      "scientific_name": "Vicia ludoviciana var. leavenworthii",
+      "common_name": "Leavenworth's vetch",
+      "family": "Fabaceae",
+      "genus": "Vicia",
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-leavenworthii/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "vicia-ludoviciana-var-ludoviciana",
+      "scientific_name": "Vicia ludoviciana var. ludoviciana",
+      "common_name": "Louisiana vetch (nominate variety)",
+      "family": "Fabaceae",
+      "genus": "Vicia",
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-ludoviciana/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    },
+    {
+      "id": "zornia-bracteata",
+      "scientific_name": "Zornia bracteata",
+      "common_name": "Zornia bracteata",
+      "family": "Fabaceae",
+      "genus": "Zornia",
+      "path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/species.json",
+      "photo_publication_status": "SOURCE_METADATA_ONLY_NOT_CLEARED"
+    }
+  ],
+  "note": "Exact source metadata only; 200 original photos are held for per-image rights audit.",
+  "source_repository": "Crking92/Hays-County-Botany",
+  "source_commit_sha": "42f61f7bbf94368f56c9c66d44cbb1bc1a0dab8a",
+  "source_family_subtree_sha": "947ac940c97f273db03e7b42f5dc992241871527",
+  "public_website_ready": false
 }

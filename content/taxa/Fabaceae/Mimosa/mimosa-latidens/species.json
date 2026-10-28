@@ -1,0 +1,113 @@
+{
+  "id": "mimosa-latidens",
+  "entry_type": "provisional_species",
+  "family": "Fabaceae",
+  "genus": "Mimosa",
+  "species": "latidens",
+  "scientific_name": "Mimosa latidens",
+  "authority": "(Small) B.L.Turner",
+  "common_name": "Kairn's sensitive-briar",
+  "look_here_first": "Low sprawling sensitive-briar with twice-compound leaves that fold when touched and pink-lavender globose flower heads.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local source; ITIS accepts Mimosa latidens; Texas flora sources describe its sprawling sensitive-briar habit.",
+    "range_guardrail": "Installed for active visual learning; exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Mimosa species have bipinnate leaves and globose heads of many tiny flowers; several species have touch-sensitive leaflets.",
+    "best_field_traits": [
+      "sprawling perennial",
+      "twice-compound leaves",
+      "up to about 3 pairs of pinnae",
+      "many small leaflet pairs",
+      "leaflets fold when touched",
+      "pink to lavender globose heads"
+    ],
+    "comparison_training": "More herbaceous and mat-forming than woody M. borealis and M. texana."
+  },
+  "curation_status": {
+    "version": "1.0-b113-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/mimosa-latidens-provisional-face.jpg",
+      "role": "Flower + branching/fruit habit",
+      "creator": "Michelle Wong",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/observations/173281412",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-367077595.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/367077595",
+      "observation_url": "https://www.inaturalist.org/observations/207519065",
+      "observation_id": "207519065",
+      "photo_id": "367077595",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/367077595/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-367077616.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/367077616",
+      "observation_url": "https://www.inaturalist.org/observations/207519065",
+      "observation_id": "207519065",
+      "photo_id": "367077616",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/367077616/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}
