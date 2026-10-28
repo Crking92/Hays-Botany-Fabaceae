@@ -8,7 +8,7 @@ The Asteraceae private content/photo handoff is complete enough to progress to F
 
 - **91 of 91 species cards** copied to [private Fabaceae staging](https://github.com/Crking92/Hays-Botany-Fabaceae/tree/staging/fabaceae-metadata).
 - **291 of 291 scientific, genus/family and photo-credit metadata files** byte-verified against original Git blobs.
-- **200 of 200 source images** individually audited; **10 original photographs physically archived** with exact contemporary source, taxon, compatible license and pixel verification. **190 originals held with individually documented reasons** in the source hub. This is private, not a public Pages release.
+- **200 of 200 source originals** individually reconciled; **70 originals physically archived in private staging** after exact current-source, image-pixel, creator and CC/CC0 rights checks. **130 originals remain held** with specific reasons in the original hub. This is not a public Pages release.
 - Canonical Fabaceae Git source tree is unchanged: `947ac940c97f273db03e7b42f5dc992241871527`.
 - New family index is populated for offline data validation but stays `STAGING_ONLY`. No hub route, project rules, public Pages, original source files or family ownership changed.
 
@@ -20,7 +20,9 @@ The Asteraceae private content/photo handoff is complete enough to progress to F
 
 [Open test instructions and download the ZIP with actual photos](TEST_THE_FABACEAE_LEARNER.md) · [Successful browser QA](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/40786758255)
 
-The private test now includes **91 species records and 10 verified photographs across 10 species**, with working source credits. **81 species are still photo-empty in the strict preview**, without claiming they lack stored original images. Public Pages remains disabled.
+The cumulative staged archive now has **70 source-verified originals covering 48 of 91 species**. The most recent downloadable test site is linked from the review guide. This is not a declaration of anatomy-arrow completeness; public Pages remains disabled.
+
+[Pass-3 photo-migration handoff — all 70 verified and 130 holds](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_PHOTO_PASS3_HANDOFF_20261028.md)
 
 ## Next controlled passes
 
