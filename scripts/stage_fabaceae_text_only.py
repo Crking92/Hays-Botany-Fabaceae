@@ -35,7 +35,7 @@ for entry in inventory["files"]:
     original=source/rel
     assert original.is_file(),f"Missing source metadata: {rel}"
     blob=original.read_bytes()
-    gitsha=hashlib.sha1(b"blob "+str(len(blob)).encode()+b"\\0"+blob).hexdigest()
+    gitsha=hashlib.sha1(b"blob "+str(len(blob)).encode()+bytes([0])+blob).hexdigest()
     assert gitsha==entry["git_blob_sha"],f"Source metadata SHA mismatch: {rel}"
     destination=target/rel
     destination.parent.mkdir(parents=True,exist_ok=True)
@@ -67,7 +67,7 @@ index.update({
     "note":"Exact source metadata only; 200 original photos are held for per-image rights audit."
 })
 (target/"data/collection-index.json").write_text(
-    json.dumps(index,indent=2,ensure_ascii=False)+"\\n",encoding="utf-8")
+    json.dumps(index,indent=2,ensure_ascii=False)+chr(10),encoding="utf-8")
 photos=[p for p in (target/"content/taxa/Fabaceae").rglob("*")
     if p.is_file() and p.suffix.lower() in {".jpg",".jpeg",".png",".tif",".tiff",".webp",".gif"}]
 assert not photos, f"Image transfer must remain zero: {photos[:5]}"
@@ -84,5 +84,5 @@ summary={
     "site_published":False,
 }
 (target/"migration/fabaceae-text-only-stage-summary.json").write_text(
-    json.dumps(summary,indent=2)+"\\n",encoding="utf-8")
+    json.dumps(summary,indent=2)+chr(10),encoding="utf-8")
 print("FABACEAE_TEXT_ONLY_STAGE_PASS",json.dumps(summary,sort_keys=True),flush=True)
