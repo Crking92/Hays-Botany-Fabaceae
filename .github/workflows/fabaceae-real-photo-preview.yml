@@ -1,0 +1,53 @@
+name: Test Fabaceae real-photo learner on desktop and mobile (NEVER publish)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_fabaceae_photo_preview.py'
+      - 'scripts/test_fabaceae_photo_preview_browser.py'
+      - 'site/**'
+      - '.github/workflows/fabaceae-real-photo-preview.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  private-preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Read only private learner code from main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - name: Read verified photos and text from private staging
+        uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: data-source
+          persist-credentials: false
+      - name: Install image builder and Chromium
+        run: |
+          python -m pip install 'Pillow>=10,<12' 'playwright>=1.53,<2'
+          python -m playwright install --with-deps chromium
+          node --check shell/site/app.js
+          python -m py_compile shell/scripts/build_fabaceae_photo_preview.py
+          python -m py_compile shell/scripts/test_fabaceae_photo_preview_browser.py
+      - name: Check verified-media provenance and create restricted photo learner ZIP
+        run: python3 shell/scripts/build_fabaceae_photo_preview.py data-source
+      - name: Test actual photos, credits, search, deep links, desktop and phone layout
+        shell: bash
+        run: |
+          python3 -m http.server 8768 --directory shell/dist >/tmp/fabaceae-photo-preview.log 2>&1 &
+          sleep 2
+          python3 shell/scripts/test_fabaceae_photo_preview_browser.py
+      - name: Save QA and downloadable private website, do not deploy Pages
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-real-source-verified-photo-learner-test-site
+          path: |
+            shell/dist/
+            shell/qa-report/fabaceae-photo-site/
+          retention-days: 30
+          if-no-files-found: warn
