@@ -8,7 +8,7 @@
 2. Extract the entire ZIP. Do not run a file from inside a compressed ZIP.
 3. Open the extracted `dist` folder.
 4. Double-click `RUN_FABACEAE_REVIEW.bat`. Keep the Python server window open.
-5. The browser opens `http://127.0.0.1:8768/?species=senegalia-greggii` (text-only at first, because this card's old Commons photos are still held).
+5. The browser opens `http://127.0.0.1:8768/?species=senegalia-greggii` (this species now has verified field, hooked-thorn, and leafy-branch photos from the Commons recovery pass).
 
 Python 3 is required. Do **not** open the site's `index.html` directly with `file://` because its species JSON fetches require a local server.
 
