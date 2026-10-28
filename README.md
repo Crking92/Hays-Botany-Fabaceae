@@ -16,6 +16,12 @@ The Asteraceae private content/photo handoff is complete enough to progress to F
 
 [Fabaceae first-photo-rights audit and exact hold counts](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_FIRST_PHOTO_RIGHTS_HANDOFF_20261028.md) · [Full 200-photo decision ledger](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-photo-200-decisions.json)
 
+## Private real-photo learner (desktop and mobile passed)
+
+[Open test instructions and download the ZIP with actual photos](TEST_THE_FABACEAE_LEARNER.md) · [Successful browser QA](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/40786758255)
+
+The private test now includes **91 species records and 10 verified photographs across 10 species**, with working source credits. **81 species are still photo-empty in the strict preview**, without claiming they lack stored original images. Public Pages remains disabled.
+
 ## Next controlled passes
 
 1. Cross-reference the 200 original image blobs against per-species `image-sources.csv` and current upstream rights; do not treat a CSV license claim as permission to publish.
