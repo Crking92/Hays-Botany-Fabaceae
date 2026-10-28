@@ -35,8 +35,13 @@ if pass3_path.is_file():
 assert config["publication"]["enabled"] is False
 assert index["authority"]=="STAGING_ONLY" and len(index["entries"])==91
 assert audit["original_photos_accounted_for"]==200 and len(decisions)==200
-assert len(ledger)==audit["original_photos_byte_archived_in_private_staging"]
-assert audit["original_photos_byte_archived_in_private_staging"]+audit["photos_held_with_documented_reasons"]==200
+# The verified photo ledger and 200 exact-source decisions are authoritative even as
+# later Commons / inaturalist recovery passes add images beyond the pass-3 summary.
+assert len({x["source_path"] for x in decisions})==200
+assert len(ledger)>=audit["original_photos_byte_archived_in_private_staging"]
+assert len(ledger)+sum(x["status"]=="HOLD" for x in decisions)==200
+audit["original_photos_byte_archived_in_private_staging"]=len(ledger)
+audit["photos_held_with_documented_reasons"]=200-len(ledger)
 assert set(ledger)=={r["source_path"] for r in decisions if r["status"]=="STAGED_PRIVATE_PUBLIC_COMPATIBLE"}
 assert set(x["source_path"] for x in decisions)=={x["source_path"] for x in decisions}
 assert all(not x.get("publication_approved") for x in ledger.values())
