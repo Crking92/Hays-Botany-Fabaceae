@@ -10,7 +10,7 @@ from pathlib import Path
 from PIL import Image, ImageOps
 import imagehash
 
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(sys.argv[2]).resolve() if len(sys.argv)>2 else Path(__file__).resolve().parents[1]
 SOURCE=Path(sys.argv[1]).resolve()
 STAGING=ROOT/"content/taxa/Fabaceae"
 MIGRATION=ROOT/"migration"
