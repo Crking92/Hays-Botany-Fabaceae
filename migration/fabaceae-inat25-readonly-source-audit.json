@@ -1,0 +1,291 @@
+{
+  "summary": {
+    "source_records_checked": 25,
+    "observation_photo_links_verified": 0,
+    "strict_public_cc_candidates": 0,
+    "owner_project_use_candidates": 0,
+    "hold_status_counts": {
+      "HOLD_SOURCE_OR_PAGE_UNREACHABLE": 25
+    },
+    "previous_source_images_archived": 70,
+    "photo_files_transferred": 0,
+    "public_site_changed": false
+  },
+  "entries": [
+    {
+      "source_path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/joey-review031-30a5c943e5eed2a7.jpg",
+      "species_id": "amorpha-roemeriana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/373985206",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 373985206,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/joey-review031-84321740ac51d563.jpg",
+      "species_id": "amorpha-roemeriana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/373985052",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 373985052,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/joey-review031-ab4ec4a087ddea72.jpg",
+      "species_id": "amorpha-roemeriana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/260238256",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 260238256,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/glass-root-735431022-first-photo.jpg",
+      "species_id": "dalea-enneandra",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/735431022",
+      "claimed_creator": "Glass Root Garden",
+      "claimed_license": "Owner-authorized private study",
+      "previous_hold": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE",
+      "photo_id": 735431022,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/joey-review031-498e10a72d12d0f9.jpg",
+      "species_id": "dalea-hallii",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/690006875",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 690006875,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/joey-review031-688fff20d9c4b2cf.jpg",
+      "species_id": "dalea-hallii",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/335978123",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 335978123,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/joey-review031-d35377bd5a9801aa.jpg",
+      "species_id": "dalea-hallii",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/335978183",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 335978183,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/glass-root-738928702-first-photo.jpg",
+      "species_id": "dalea-neomexicana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/738928702",
+      "claimed_creator": "Glass Root Garden",
+      "claimed_license": "Owner-authorized private study",
+      "previous_hold": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE",
+      "photo_id": 738928702,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-face-cc0.jpg",
+      "species_id": "desmanthus-leptolobus",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/734524728",
+      "claimed_creator": "no rights reserved",
+      "claimed_license": "CC0",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 734524728,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-view-2.jpg",
+      "species_id": "desmanthus-leptolobus",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/743463356",
+      "claimed_creator": "gracedwelle",
+      "claimed_license": "CC-BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 743463356,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-view-3.jpg",
+      "species_id": "desmanthus-leptolobus",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/743463362",
+      "claimed_creator": "gracedwelle",
+      "claimed_license": "CC-BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 743463362,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/images/joey-99698514.jpg",
+      "species_id": "eysenhardtia-texana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/99698514",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 99698514,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/images/joey-99698565.jpg",
+      "species_id": "eysenhardtia-texana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/99698565",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 99698565,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/images/joey-99698621.jpg",
+      "species_id": "eysenhardtia-texana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/99698621",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 99698621,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/images/joey-340144380.jpg",
+      "species_id": "lupinus-texensis",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/340144380",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 340144380,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/images/joey-340144425.jpg",
+      "species_id": "lupinus-texensis",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/340144425",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 340144425,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/images/joey-340144458.jpg",
+      "species_id": "lupinus-texensis",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/340144458",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 340144458,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-481811604-bipinnate-leaf-detail.jpg",
+      "species_id": "neltuma-glandulosa",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/481811604",
+      "claimed_creator": "Glass Root Garden",
+      "claimed_license": "CC BY 4.0 (direct photographer grant)",
+      "previous_hold": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE",
+      "photo_id": 481811604,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-561111671-tree-habit.jpg",
+      "species_id": "neltuma-glandulosa",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/561111671",
+      "claimed_creator": "Glass Root Garden",
+      "claimed_license": "CC BY 4.0 (direct photographer grant)",
+      "previous_hold": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE",
+      "photo_id": 561111671,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/images/inat-530810631.jpg",
+      "species_id": "rhynchosia-minima",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/530810631",
+      "claimed_creator": "Calvin King",
+      "claimed_license": "All rights reserved — owner-authorized private study",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 530810631,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/inat-631156962.jpg",
+      "species_id": "rhynchosia-senna",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/631156962",
+      "claimed_creator": "Calvin King",
+      "claimed_license": "All rights reserved — owner-authorized private study",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 631156962,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/images/joey-review034-4934a0dee632ffce.jpg",
+      "species_id": "senna-lindheimeriana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/209519161",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 209519161,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/images/joey-review034-7ca09c3e7b30a965.jpg",
+      "species_id": "senna-lindheimeriana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/220403742",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 220403742,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/images/joey-review034-8fe0092870366706.jpg",
+      "species_id": "senna-lindheimeriana",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/220403805",
+      "claimed_creator": "Joey Santore",
+      "claimed_license": "CC BY-NC",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 220403805,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/inat-566513341.jpg",
+      "species_id": "sesbania-drummondii",
+      "claimed_photo_page": "https://www.inaturalist.org/photos/566513341",
+      "claimed_creator": "Calvin King",
+      "claimed_license": "All rights reserved — owner-authorized private study",
+      "previous_hold": "INAT_OBSERVATION_ID_MISSING",
+      "photo_id": 566513341,
+      "status": "HOLD_SOURCE_OR_PAGE_UNREACHABLE",
+      "error": "HTTPError:403"
+    }
+  ]
+}
