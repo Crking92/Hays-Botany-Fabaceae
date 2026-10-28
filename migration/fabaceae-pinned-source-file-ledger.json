@@ -1,0 +1,2965 @@
+{
+  "census": {
+    "source_repository": "Crking92/Hays-County-Botany",
+    "source_commit_sha": "42f61f7bbf94368f56c9c66d44cbb1bc1a0dab8a",
+    "source_family_subtree_sha": "947ac940c97f273db03e7b42f5dc992241871527",
+    "destination_repository": "Crking92/Hays-Botany-Fabaceae",
+    "publication_status": "READ_ONLY_CENSUS_NOT_MIGRATED",
+    "source_total_files": 491,
+    "original_photo_files": 200,
+    "metadata_files": 291,
+    "species_json_records": 91,
+    "source_original_image_bytes": 42538089,
+    "source_photo_bytes_migrated": 0,
+    "source_authority_changed": false,
+    "rights_approval": false
+  },
+  "files": [
+    {
+      "path": "content/taxa/Fabaceae/Acaciella/acaciella-angustissima-var-texensis/SOURCES.txt",
+      "git_blob_sha": "cad425b31fba675391e1fdfef8d0eb233bdb96ce",
+      "size_bytes": 692,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Acaciella/acaciella-angustissima-var-texensis/image-sources.csv",
+      "git_blob_sha": "6373d62a88d4b6e6d29183733cdf0c03e5142e21",
+      "size_bytes": 471,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Acaciella/acaciella-angustissima-var-texensis/images/inat-384975712.jpg",
+      "git_blob_sha": "e623918a891aaa7bfc114ed95e5195818d80212c",
+      "size_bytes": 229891,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Acaciella/acaciella-angustissima-var-texensis/species.json",
+      "git_blob_sha": "53029a7bf10246d995d63f2f06441713db8587f7",
+      "size_bytes": 2006,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Acaciella/genus.json",
+      "git_blob_sha": "83900eebd8e2eec9ac08b8cfaa51aa161e6bfdf1",
+      "size_bytes": 4077,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/SOURCES.txt",
+      "git_blob_sha": "e49b7202db246e5980b52ce1b3f46e94fe58de6b",
+      "size_bytes": 1360,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/image-sources.csv",
+      "git_blob_sha": "5a0d209f5f84afef659e7a798fe10f40e2b3c8aa",
+      "size_bytes": 1981,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/images/library-review018-35a1934b6e9e63c.jpg",
+      "git_blob_sha": "615a5b0facd141a9066241604423be9b0689b842",
+      "size_bytes": 171383,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/images/library-review018-82428837a38d1d4.jpg",
+      "git_blob_sha": "0ace1c602bb5f27c88acd1db2ffcdf5ae250aacc",
+      "size_bytes": 177676,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/images/library-review018-bed5a45cbae1533.jpg",
+      "git_blob_sha": "d60af509d07358da4e2dad449e4ba815ce1e033f",
+      "size_bytes": 389791,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-canescens/species.json",
+      "git_blob_sha": "a3e0ac7142aa155870f1e68e6aeb098bb856c464",
+      "size_bytes": 8868,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/SOURCES.txt",
+      "git_blob_sha": "902dfe3401926c36733b598ac964f2a54d356548",
+      "size_bytes": 668,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/image-sources.csv",
+      "git_blob_sha": "3935791b96d67e6c4e8357e99921cb7f42af1b2d",
+      "size_bytes": 889,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/images/amorpha-fruticosa_inflorescence-buds-bracts_15-15.0.jpg",
+      "git_blob_sha": "608fa1c050ebaaaaf7203e17e53087295ae317c3",
+      "size_bytes": 126263,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/images/amorpha-fruticosa_pinnate-foliage-source-label_14-45.0.jpg",
+      "git_blob_sha": "1d4d5a144839f382ce3b9a3ce61e5827c625bac0",
+      "size_bytes": 430273,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/images/public-inat-amorpha-fruticosa-752610634.jpg",
+      "git_blob_sha": "875e2889f9d418aa83215b6ead4c11b4e0825960",
+      "size_bytes": 313835,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-fruticosa/species.json",
+      "git_blob_sha": "b665ccdbec45de00369baead1e35e7acb54ac2f8",
+      "size_bytes": 6999,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/SOURCES.txt",
+      "git_blob_sha": "8b1ae99d9ccd3305b0bf0ed902feaf85e0e4d8e1",
+      "size_bytes": 1705,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/image-sources.csv",
+      "git_blob_sha": "9d0f3dc2236926927bd72c700d53772e33135ddf",
+      "size_bytes": 3312,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/joey-review031-30a5c943e5eed2a7.jpg",
+      "git_blob_sha": "35763115149d9e9fb8f3d68f65be3598778fca08",
+      "size_bytes": 65063,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/joey-review031-84321740ac51d563.jpg",
+      "git_blob_sha": "5a1a89f0c919e4c8e867c267fd566c573ea034ac",
+      "size_bytes": 111410,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/joey-review031-ab4ec4a087ddea72.jpg",
+      "git_blob_sha": "b3b79df6e96a59ddfd5a90c94292de6fcdad8e6d",
+      "size_bytes": 148134,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/library-review010-e0bd61424bd6d31.jpg",
+      "git_blob_sha": "407859ed46a297d81a56fe6b2a1dccd1cc3bf110",
+      "size_bytes": 290526,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/library-review033-9fea63b2fcea81c.jpg",
+      "git_blob_sha": "65e43f477ea8711dc17188a9fed7e4299846d74c",
+      "size_bytes": 352001,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/species.json",
+      "git_blob_sha": "3a69af42572b221c64a8f89bd6241df5b066c5f4",
+      "size_bytes": 11997,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Amorpha/genus.json",
+      "git_blob_sha": "c98164f77e4201f1aaf4a8be6266aecfdabdbc78",
+      "size_bytes": 10903,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/SOURCES.txt",
+      "git_blob_sha": "a4fb3673bcab0579130b191cd7d5bc7c9a41753a",
+      "size_bytes": 1411,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/image-sources.csv",
+      "git_blob_sha": "dc32a55ed66e55f3c11526200f1bd977ed35f673",
+      "size_bytes": 1811,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/gbif-first-3382042308-c2e03f6b10.jpg",
+      "git_blob_sha": "24a469bd668a2963bc5810425ec548a30a176ffc",
+      "size_bytes": 148574,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/library-review013-0120fbc5600d918.jpg",
+      "git_blob_sha": "226e7509029af649badaee0d1526f61bcec28fe5",
+      "size_bytes": 447625,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/library-review013-e063f53de1c602d.jpg",
+      "git_blob_sha": "c77057b2dd37a64ab42f87f896dace0deb2f74f7",
+      "size_bytes": 359421,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/species.json",
+      "git_blob_sha": "986be9f159b8d5a5738b605469a3e41ee5077ed9",
+      "size_bytes": 8422,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/SOURCES.txt",
+      "git_blob_sha": "869a82639facbc9a103e641bee090a843f6309e6",
+      "size_bytes": 943,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/image-sources.csv",
+      "git_blob_sha": "2e0ee5e24f406f36e671945196807e0df8ad8998",
+      "size_bytes": 793,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/images/01-slimpod-milkvetch-mature-fruit.jpg",
+      "git_blob_sha": "f0c232f99dd4b5d64bfad7b602c725703cf5ca26",
+      "size_bytes": 153570,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/images/gbif-manual-5108100988-d4eff7545.jpg",
+      "git_blob_sha": "ff0dc7b5109f49cd8abdc0c3ffd105251e661555",
+      "size_bytes": 179885,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-leptocarpus/species.json",
+      "git_blob_sha": "af5267e4073a35c50881b0c756ae8f5909f2cafd",
+      "size_bytes": 4842,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/SOURCES.txt",
+      "git_blob_sha": "a039d5524a231e4f4d56b1053eb43a549bdd7909",
+      "size_bytes": 1060,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/image-sources.csv",
+      "git_blob_sha": "0b7f8462ae0d05ba8403d3278612062b62be69b8",
+      "size_bytes": 1096,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/images/astragalus-lindheimeri-provisional-face.jpg",
+      "git_blob_sha": "ed714539b18b7a9a4581ce98874cfa586fad3c49",
+      "size_bytes": 27716,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/images/gbif-manual-6184971854-8f0e942ba.jpg",
+      "git_blob_sha": "9c7c9fc2e8f0285911f7babe0f348b1e3d1c08b5",
+      "size_bytes": 374764,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/species.json",
+      "git_blob_sha": "fea5d1e6fdae4fd459847b8601ef6c8f9056d1e5",
+      "size_bytes": 5135,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus-var-pleianthus/SOURCES.txt",
+      "git_blob_sha": "59c0484f6b4c07d2e9191900a5282cdb45ebb8f7",
+      "size_bytes": 406,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus-var-pleianthus/image-sources.csv",
+      "git_blob_sha": "1cbfc1ddd97897bb81126b54574c808a10701b80",
+      "size_bytes": 521,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus-var-pleianthus/images/gbif-first-1841244826-e9033956eb.jpg",
+      "git_blob_sha": "006d6a5b4e77d4465f12619dbf429f6bff3e9c0c",
+      "size_bytes": 382637,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus-var-pleianthus/species.json",
+      "git_blob_sha": "5da88c5f1bb1ff39a73433d980540d6ad566e24f",
+      "size_bytes": 4069,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/SOURCES.txt",
+      "git_blob_sha": "8f94808c0a8cc524bf61135ad1b5e138d6c83a8a",
+      "size_bytes": 1010,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/image-sources.csv",
+      "git_blob_sha": "41880f17bea261955cb1fd3aab64f988abd58cca",
+      "size_bytes": 1587,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/astragalus-nuttallianus-provisional-face.jpg",
+      "git_blob_sha": "61ffdd2670d77af5759f59ef066fd26b94ee8af4",
+      "size_bytes": 265342,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/joey-inat-349030024.jpg",
+      "git_blob_sha": "4201518067278c3382f2e3d717360611a1f1357b",
+      "size_bytes": 108155,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/joey-inat-349030038.jpg",
+      "git_blob_sha": "2604ab0eaa402307e644361e8b8b79ed6eb99141",
+      "size_bytes": 109157,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/species.json",
+      "git_blob_sha": "240fa88db872d5224601a95998dafdb10ccb702a",
+      "size_bytes": 5491,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-plattensis/SOURCES.txt",
+      "git_blob_sha": "137faa044eea42c32dff3179640352fe26ee8106",
+      "size_bytes": 732,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-plattensis/image-sources.csv",
+      "git_blob_sha": "53204aa06f9bbd665fbeb5fe694812f19729593a",
+      "size_bytes": 1045,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-plattensis/images/astragalus-plattensis-provisional-face.jpg",
+      "git_blob_sha": "578eca2e6bb8468284fea6615750387279a683e5",
+      "size_bytes": 31663,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-plattensis/images/gbif-manual-5140729847-19b7a5e80.jpg",
+      "git_blob_sha": "c198188a68107d4449ff083422f5d18724564761",
+      "size_bytes": 267666,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/astragalus-plattensis/species.json",
+      "git_blob_sha": "45f800427da25c5833639ba6d5517130ceef2297",
+      "size_bytes": 4789,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Astragalus/genus.json",
+      "git_blob_sha": "e18446b260cf5bc1979ac04111bb79281f40f624",
+      "size_bytes": 27348,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/SOURCES.txt",
+      "git_blob_sha": "7064d215bf84abc8c6aef29635465838ad8c766a",
+      "size_bytes": 482,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/image-sources.csv",
+      "git_blob_sha": "b5f69b122f02dfd77317fd9b96f72f30199c23b6",
+      "size_bytes": 478,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/images/inat-640369868.jpg",
+      "git_blob_sha": "2ec74abcf8db848731ba1e5f6335fb76582ab98d",
+      "size_bytes": 266906,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/species.json",
+      "git_blob_sha": "c60906f105a3160e1d1673613e17939d997c63d7",
+      "size_bytes": 1489,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Baptisia/genus.json",
+      "git_blob_sha": "7f9fbac5456eaf2dc95167523b07c0704b6c5bb1",
+      "size_bytes": 2240,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Bauhinia/bauhinia-lunarioides/SOURCES.txt",
+      "git_blob_sha": "ca07226903c454ea4c6ee2337baa921a63b8fae7",
+      "size_bytes": 482,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Bauhinia/bauhinia-lunarioides/image-sources.csv",
+      "git_blob_sha": "e3799fc80c93162b4dcfa22f053ded0eb76ea9b2",
+      "size_bytes": 463,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Bauhinia/bauhinia-lunarioides/images/inat-4198176.jpg",
+      "git_blob_sha": "92d3da312bf8b86c6fc9bdd32f4176644a6974f4",
+      "size_bytes": 239447,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Bauhinia/bauhinia-lunarioides/species.json",
+      "git_blob_sha": "69645190b792ba2a14d3a11653fc1272e553c0de",
+      "size_bytes": 1493,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/SOURCES.txt",
+      "git_blob_sha": "f7e37ee79ba8a5a3d6c9eba92ebbe1b6bb4015af",
+      "size_bytes": 1247,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/image-sources.csv",
+      "git_blob_sha": "ca5455259a0e741be9d158e1eeaf2ebc0ec88a8f",
+      "size_bytes": 1230,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/images/01-flowering-branches.jpg",
+      "git_blob_sha": "e9c03500f916be13a535a8f51be679b54f3159fe",
+      "size_bytes": 54757,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/images/library-review012-cb5b46a700292bf.jpg",
+      "git_blob_sha": "76af13a33aea582572ea7a946c86072cf70fbfaf",
+      "size_bytes": 196570,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/species.json",
+      "git_blob_sha": "15c30b74da0f7e6dadc3dc070d2ed3ae0b634d2c",
+      "size_bytes": 5343,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/SOURCES.txt",
+      "git_blob_sha": "afa327e5cc4bfc79b6a84a34cc87c5817273ef7a",
+      "size_bytes": 1061,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/image-sources.csv",
+      "git_blob_sha": "e78d5fa6be6c8f69fe2d260aace7b5dbab9d7c86",
+      "size_bytes": 741,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/01-flowering-branches.jpg",
+      "git_blob_sha": "f47bd44646fce0bf18f8a5704c4b659966765a86",
+      "size_bytes": 220988,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/images/02-texensis-oklahoma-branch.jpg",
+      "git_blob_sha": "01cc7157cd924dd5ea7b7ff640c1f7e290d2c2db",
+      "size_bytes": 155530,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-texensis/species.json",
+      "git_blob_sha": "d24f36c67c8c0b5a0dc6c9603d9055bcd5d428c1",
+      "size_bytes": 4969,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Cercis/genus.json",
+      "git_blob_sha": "5e0cc8ec4bf81a772d3d95cdfc91169afbb6628a",
+      "size_bytes": 11927,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/SOURCES.txt",
+      "git_blob_sha": "3b5d10f0418e2e70627a32b2bc8ebf4a6d4bf5d9",
+      "size_bytes": 506,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/image-sources.csv",
+      "git_blob_sha": "4e930b8e2c860856feacb707f96b6da2fbd1be9c",
+      "size_bytes": 711,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-flowers-commons.jpg",
+      "git_blob_sha": "182f50c0a953793c5fc2023ea89a7d105c70c83e",
+      "size_bytes": 240282,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/images/chamaecrista-fasciculata-pods-seeds-commons.jpg",
+      "git_blob_sha": "557bf1dfb2fec7d26128f0605821495cc3d74a3b",
+      "size_bytes": 220187,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Chamaecrista/chamaecrista-fasciculata/species.json",
+      "git_blob_sha": "0b287698d0ff0549f1692a2923300996aa5aee68",
+      "size_bytes": 3104,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-aurea/SOURCES.txt",
+      "git_blob_sha": "61b3812449e52209333354f18eb1b69c7206c648",
+      "size_bytes": 1038,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-aurea/image-sources.csv",
+      "git_blob_sha": "b374be2d8fa23a680b2fb402c4a4dc41a2301e64",
+      "size_bytes": 1012,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-aurea/images/01-habit-head.jpg",
+      "git_blob_sha": "5341dbee76ce2b80995d83c69d09fe56c2521427",
+      "size_bytes": 261545,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-aurea/images/library-review027-5ae8fe34525b184.jpg",
+      "git_blob_sha": "3c8cfcc431501b055cc69d7ee084c7dedd502983",
+      "size_bytes": 668652,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-aurea/species.json",
+      "git_blob_sha": "253715c1fb0aa816e989c7dce0c8b865ea123f07",
+      "size_bytes": 6815,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-candida/SOURCES.txt",
+      "git_blob_sha": "cc0c166a88cf24ff34f0c7c872618b062406d8ee",
+      "size_bytes": 1054,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-candida/image-sources.csv",
+      "git_blob_sha": "52b9e5d961a9df701078768c2d0400472a8ceb40",
+      "size_bytes": 1195,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-candida/images/dalea-candida-provisional-face.jpg",
+      "git_blob_sha": "1304be803fb054746f71b33a6dd4067887878a33",
+      "size_bytes": 148980,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-candida/images/gbif-manual-6235537058-821ec3f4a.jpg",
+      "git_blob_sha": "be8ba5203ce77c559028e7e83d1940c6a32423f3",
+      "size_bytes": 295413,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-candida/species.json",
+      "git_blob_sha": "69c52af0145c08ebd92835ccac20ee7d020ccc9f",
+      "size_bytes": 5050,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-compacta/SOURCES.txt",
+      "git_blob_sha": "9bb4b2c719597a0cd0990bae3026dae093532f52",
+      "size_bytes": 1337,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-compacta/image-sources.csv",
+      "git_blob_sha": "fe76cf7c27011a0400c9cd074c75e6b7429299c3",
+      "size_bytes": 1725,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-compacta/images/01-dense-head.jpg",
+      "git_blob_sha": "604b435d6df6d0ce61ed5babfeac02682f4567df",
+      "size_bytes": 137003,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-compacta/images/library-review027-271f28131baf7be.jpg",
+      "git_blob_sha": "721449cb4dc5da43604f6393ed67cd9f9b35c217",
+      "size_bytes": 395669,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-compacta/images/library-review027-8c2ad479e42270e.jpg",
+      "git_blob_sha": "4b9e5e96b01e299a1436d69cbf91645be4ede2a8",
+      "size_bytes": 506737,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-compacta/species.json",
+      "git_blob_sha": "6f2b4562259c67ebd5cd0788425a099de03a8edf",
+      "size_bytes": 7818,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/SOURCES.txt",
+      "git_blob_sha": "7d6afa6089a36844cd96ac8e45f7fd7c1c5f3c9a",
+      "size_bytes": 1621,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/image-sources.csv",
+      "git_blob_sha": "74db23f5ac29f598f8f5a41acb65ba907e4f3b7a",
+      "size_bytes": 1951,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/glass-root-735431022-first-photo.jpg",
+      "git_blob_sha": "aacce681d77d2e9cf8a5c92dc3763d6b85bb1e1b",
+      "size_bytes": 230367,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-695fa6fa8f62b62.jpg",
+      "git_blob_sha": "8ffdb32d657a26a787b14db855082d6d1ea205f3",
+      "size_bytes": 331585,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-932b1b31df3bcb6.jpg",
+      "git_blob_sha": "e7f495a715f271437ff0ee002114faa5a2ff3a25",
+      "size_bytes": 342822,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/species.json",
+      "git_blob_sha": "397ddb7fc40df390bf7114f9d02b51d084074f27",
+      "size_bytes": 9783,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/SOURCES.txt",
+      "git_blob_sha": "23ab9c727e227434729db1700ca15d26c7157071",
+      "size_bytes": 1422,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/image-sources.csv",
+      "git_blob_sha": "776ad656690f707eb6c6d31d9b4bf51f8e9d4c77",
+      "size_bytes": 1310,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/01-habit.jpg",
+      "git_blob_sha": "01f517c61ef1013ff627e631fc3b9f735ea900b6",
+      "size_bytes": 322362,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/02-joey-wild-host.jpg",
+      "git_blob_sha": "93b7a557242756dee100db22ea59d4e97040f91d",
+      "size_bytes": 783988,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/joey-inat-426127369.jpg",
+      "git_blob_sha": "e3f9101251b52dd234f949adce1b32d43b6ed264",
+      "size_bytes": 84192,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/species.json",
+      "git_blob_sha": "4d5b2c6d96e5a78975137d8ed4c318e092067c4c",
+      "size_bytes": 6069,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-greggii/SOURCES.txt",
+      "git_blob_sha": "283e94d2790ed7f60316e84872b8248d36ff2aec",
+      "size_bytes": 1347,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-greggii/image-sources.csv",
+      "git_blob_sha": "e8bdb86c37e423c726b5ec3eb87e01228acbe4e0",
+      "size_bytes": 1611,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/dalea-greggii-provisional-face.jpg",
+      "git_blob_sha": "a9ce820e9fa06c65ff0cdff1ffe895ebd6226f40",
+      "size_bytes": 135667,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/joey-inat-429060045.jpg",
+      "git_blob_sha": "732919761c7b515060074d243d0d657a464ca482",
+      "size_bytes": 195834,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/joey-inat-442703075.jpg",
+      "git_blob_sha": "bdd57ccd526fed9d5ca6ebcda9e4394d1789d66c",
+      "size_bytes": 58748,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-greggii/species.json",
+      "git_blob_sha": "ce13ed1487182e4d1023ccb25e26d6be440a4e48",
+      "size_bytes": 6075,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/SOURCES.txt",
+      "git_blob_sha": "614f47f73d6136046dcb67c9c1d197f9a0f16078",
+      "size_bytes": 1655,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/image-sources.csv",
+      "git_blob_sha": "a7bde081d571c79760ccaf9a83d926c766651fea",
+      "size_bytes": 3270,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/joey-review031-498e10a72d12d0f9.jpg",
+      "git_blob_sha": "bc2e975109881032cd58b40f7c38d4a067a4be32",
+      "size_bytes": 154227,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/joey-review031-688fff20d9c4b2cf.jpg",
+      "git_blob_sha": "a55df0154bfa5d930356de8a0c1d0a87ed8e4c3a",
+      "size_bytes": 91557,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/joey-review031-d35377bd5a9801aa.jpg",
+      "git_blob_sha": "5873a04885749fa74baad620233d0439e60cedd2",
+      "size_bytes": 93010,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/library-review014-725ce09df227f6c.jpg",
+      "git_blob_sha": "248af4a9ced2d582785f767ace9d8e63faa8724e",
+      "size_bytes": 381563,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/images/library-review033-a9bf6230f39f81d.jpg",
+      "git_blob_sha": "21f5e838106a4ff565e484e808d15141f0d35098",
+      "size_bytes": 251222,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-hallii/species.json",
+      "git_blob_sha": "9e6db7e6ca9f2e6298cc88ada55d6e69df568ac7",
+      "size_bytes": 11861,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/SOURCES.txt",
+      "git_blob_sha": "876a333fee1ede6729d63bf8103647c10c82b55e",
+      "size_bytes": 805,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/image-sources.csv",
+      "git_blob_sha": "6951151b01cfb69be98a90d811a5573961f07d50",
+      "size_bytes": 1056,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/images/dalea-multiflora-provisional-face.jpg",
+      "git_blob_sha": "603ff8811c1688c52df00ea35c811f21ea89bb8f",
+      "size_bytes": 27698,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/images/gbif-manual-6188527015-4ad7d4c48.jpg",
+      "git_blob_sha": "24e3f9e52cf39e99916b6879c94d34fbbd09ab56",
+      "size_bytes": 762669,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-multiflora/species.json",
+      "git_blob_sha": "fe847633dd1bd8ebc08084dfb517adcf16db2789",
+      "size_bytes": 4214,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-nana/SOURCES.txt",
+      "git_blob_sha": "53063b20bb5dc0dd7e1974d90e2991ab2e5acd33",
+      "size_bytes": 1109,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-nana/image-sources.csv",
+      "git_blob_sha": "911782e439fbf868dea38cd7baf038c7701034a9",
+      "size_bytes": 1684,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/dalea-nana-provisional-face.jpg",
+      "git_blob_sha": "4211a6c7cf86e127ecb20a1035118979e3386bcc",
+      "size_bytes": 43966,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/joey-inat-505806231.jpg",
+      "git_blob_sha": "bd02e091c78b20dda8fc3eaf4fbbae1cf8629f95",
+      "size_bytes": 68320,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/joey-inat-505806266.jpg",
+      "git_blob_sha": "647a437bb662584c88ead8d8a3438e79dd67b9b8",
+      "size_bytes": 91020,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-nana/species.json",
+      "git_blob_sha": "9977852537858dfdb064dd0148f0399ec1054915",
+      "size_bytes": 5471,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/SOURCES.txt",
+      "git_blob_sha": "4ea569a42f0daef9adc3959f31a2c815986dc7dc",
+      "size_bytes": 1881,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/image-sources.csv",
+      "git_blob_sha": "e9469c658cfe6f90620aaed558c07fb8a7610e0d",
+      "size_bytes": 1620,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/glass-root-738928702-first-photo.jpg",
+      "git_blob_sha": "4606e26bc460f4a386b0397b4cccffd896425ba8",
+      "size_bytes": 226178,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/joey-inat-240945083.jpg",
+      "git_blob_sha": "53e96675905e51955117fbaa4c487051cd4320e4",
+      "size_bytes": 92297,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/joey-inat-240945092.jpg",
+      "git_blob_sha": "f6063e3dd4cb0ea7e7f021049bda787be35b4ab0",
+      "size_bytes": 84059,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/species.json",
+      "git_blob_sha": "9aa9bcc453d1f937daecf4f00b1977b65fab1de2",
+      "size_bytes": 7342,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-purpurea/SOURCES.txt",
+      "git_blob_sha": "7c7a8f3c52462e6ebf99a1c03936f4e1104c5882",
+      "size_bytes": 1230,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-purpurea/image-sources.csv",
+      "git_blob_sha": "3c0dff76a9efa6fb255a3250b0807e38f30f351b",
+      "size_bytes": 763,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-purpurea/images/01-flower-head.jpg",
+      "git_blob_sha": "dbd088773ec0ce5928bec212bceb3818842b449d",
+      "size_bytes": 52420,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-purpurea/images/02-whole-habit.jpg",
+      "git_blob_sha": "08307056c0fb3c1534731dffeb699c3d788bc393",
+      "size_bytes": 78080,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-purpurea/images/public-inat-purple-prairie-clover-743621173.jpg",
+      "git_blob_sha": "1f3e1344eb0a2c7eef9cc0650b28d5a601808eac",
+      "size_bytes": 157304,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-purpurea/species.json",
+      "git_blob_sha": "e689f93a700a5f8e043b6a589a43eff9ed300ecb",
+      "size_bytes": 7434,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/SOURCES.txt",
+      "git_blob_sha": "bbb32b034c257029b2cc9e17b19a36ab73f67784",
+      "size_bytes": 872,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/image-sources.csv",
+      "git_blob_sha": "80b8277baac5ae2df5cbbb9df259281cf4f39a2d",
+      "size_bytes": 1355,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/images/library-review010-010069164f6d82f.jpg",
+      "git_blob_sha": "1b9eed21d8fc51fa86b81f6d88a243f4223c3f0c",
+      "size_bytes": 169449,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/images/library-review010-ff5b6a31bb18628.jpg",
+      "git_blob_sha": "eaeff0ae4df9dc0ecb8da74c586a06069728078a",
+      "size_bytes": 307801,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/dalea-tenuis/species.json",
+      "git_blob_sha": "0969f4c5a76e5a9f52a2aa3d55d021a5cfe5c7da",
+      "size_bytes": 6811,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dalea/genus.json",
+      "git_blob_sha": "96131483402935ae96f731c49c6bf966ec5925cd",
+      "size_bytes": 26547,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/SOURCES.txt",
+      "git_blob_sha": "1c5b1ddc467eea6948f73766e1768b6533bedcda",
+      "size_bytes": 1072,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/image-sources.csv",
+      "git_blob_sha": "f0772c207f5d6b86274650da736347f641c91f2e",
+      "size_bytes": 1362,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/images/dermatophyllum-secundiflorum_habit-source-label_13-30.jpg",
+      "git_blob_sha": "6dd78557036c2643404ef04495333b288e042b0a",
+      "size_bytes": 482803,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/images/dermatophyllum-secundiflorum_silvery-foliage_00-21-44.0.jpg",
+      "git_blob_sha": "34ed007210f0a747a76803e7a6a5efb33e14866c",
+      "size_bytes": 583237,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/images/dermatophyllum-secundiflorum_swollen-ovaries-forming-legumes_15-00.jpg",
+      "git_blob_sha": "d03b364889dfd96f945ae66fd87bf8bb8a3c2951",
+      "size_bytes": 228804,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/images/public-inat-dermatophyllum-secundiflorum-745542712.jpg",
+      "git_blob_sha": "9d0748fc756037c29f824912de162532da5863ca",
+      "size_bytes": 291569,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/dermatophyllum-secundiflorum/species.json",
+      "git_blob_sha": "20aead302c06b83ccfb194f91ab5604aebf3f7a3",
+      "size_bytes": 9243,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Dermatophyllum/genus.json",
+      "git_blob_sha": "13af1322598b0c36d4976c7bbf41f85ca6446abf",
+      "size_bytes": 1263,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/SOURCES.txt",
+      "git_blob_sha": "379c77bce75e677c56d298e6ab611e459459d3fd",
+      "size_bytes": 2749,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/image-sources.csv",
+      "git_blob_sha": "95e11bf0e29b4f5410673b92dac78c63ddfba59a",
+      "size_bytes": 1092,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-face.jpg",
+      "git_blob_sha": "41d863b497184d612afb16fedd2f57a140dd5918",
+      "size_bytes": 373826,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-leaves-flowers.jpg",
+      "git_blob_sha": "025b67dfb13e26565789fe0bbde621a50fb9963c",
+      "size_bytes": 291062,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/images/desmanthus-acuminatus-pods.jpg",
+      "git_blob_sha": "0cf228b968260c8717d163bbd03480e055556aa5",
+      "size_bytes": 291527,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-acuminatus/species.json",
+      "git_blob_sha": "5a0d86ce3eda0a686b128b5c30adfb2eb5d2d588",
+      "size_bytes": 7955,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/SOURCES.txt",
+      "git_blob_sha": "96edb9e6395dba3d1b07c785099d84fd58d71aa1",
+      "size_bytes": 1889,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/image-sources.csv",
+      "git_blob_sha": "2eb1e257fbf8ccd3b5b9abd1c11b2e66d6030912",
+      "size_bytes": 1138,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-heads-and-fruit.jpg",
+      "git_blob_sha": "b241a7ef51196ccf64f38ce3c6092d00e0f99b87",
+      "size_bytes": 110621,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-ripe-pods.jpg",
+      "git_blob_sha": "e17aa39c21e9983867ccaa4aabe5e3d2a5069e5d",
+      "size_bytes": 157869,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/images/illinoensis-seeds.jpg",
+      "git_blob_sha": "1081a27771a4aec43368ec557c51c82a1672410f",
+      "size_bytes": 38354,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-illinoensis/species.json",
+      "git_blob_sha": "7edd454b4e51c31d82eeadbec8d241e0c6c3f02c",
+      "size_bytes": 5808,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/SOURCES.txt",
+      "git_blob_sha": "46f19914bc12b268b927c414f5c939e24b32ba70",
+      "size_bytes": 2987,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/image-sources.csv",
+      "git_blob_sha": "f376ffd33bf72851d36f057d1bb49b9067349f8f",
+      "size_bytes": 1078,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-face-cc0.jpg",
+      "git_blob_sha": "e6bc9f30d3731d6a995898ed438c72de5815585a",
+      "size_bytes": 277621,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-view-2.jpg",
+      "git_blob_sha": "0c8d09820fc96612c417d5be94eb142494686cf9",
+      "size_bytes": 124092,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/images/desmanthus-leptolobus-texas-view-3.jpg",
+      "git_blob_sha": "8d773c86f9044aa4efa5504b4cf516b9e11271ed",
+      "size_bytes": 264929,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-leptolobus/species.json",
+      "git_blob_sha": "470d01e4124cb2918ebdf3e4a7caeece46e4e036",
+      "size_bytes": 6644,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/SOURCES.txt",
+      "git_blob_sha": "3e99a16c1ee24cf7d6fbceb1a8d366f262b894b6",
+      "size_bytes": 2220,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/image-sources.csv",
+      "git_blob_sha": "dc1717e68657fc033a3c80d5f05c2352a447a624",
+      "size_bytes": 1399,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/joey-inat-369818899.jpg",
+      "git_blob_sha": "879c1d53ce2bc541b9e388e85c636cec4850e474",
+      "size_bytes": 101465,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/joey-inat-369818927.jpg",
+      "git_blob_sha": "4b742c5dbd2e15fdcd10538f37b491c71f50b423",
+      "size_bytes": 79904,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/velutinus-usda-recon.jpg",
+      "git_blob_sha": "15ced3229af53109ee86cb33ad83f505f8bf1c4b",
+      "size_bytes": 31335,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/species.json",
+      "git_blob_sha": "6698a2252f758c3ac59cdca98cb2d7a67c749197",
+      "size_bytes": 7769,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/SOURCES.txt",
+      "git_blob_sha": "e927f0255a1e43c07295acd1dc0f36df34d5ce1f",
+      "size_bytes": 2078,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/image-sources.csv",
+      "git_blob_sha": "ae914f967c7bdc4451f7b3e2cd413eb31b09c59c",
+      "size_bytes": 1291,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/joey-inat-100333720.jpg",
+      "git_blob_sha": "0fcf6e838825826adead10baa5d0b7f6fc9f1412",
+      "size_bytes": 169984,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-detail.jpg",
+      "git_blob_sha": "377e09ecaf79bc090f7863f1db3305f5da9b5d24",
+      "size_bytes": 132332,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/virgatus-guadeloupe-face.jpg",
+      "git_blob_sha": "416ca2020d9d8c7405790d06760941ded0da87c6",
+      "size_bytes": 78607,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/species.json",
+      "git_blob_sha": "34c268ba47cb045cffbe0709416cb625b7b538fb",
+      "size_bytes": 7070,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmanthus/genus.json",
+      "git_blob_sha": "2ecf8bfced692ec2fd6c5d469143a08f0fd43e4b",
+      "size_bytes": 31430,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/SOURCES.txt",
+      "git_blob_sha": "4eb4eee1e3fe927aca075fe4e8e197e20241850a",
+      "size_bytes": 1380,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/image-sources.csv",
+      "git_blob_sha": "31e0876c1a05cfdc82901edc5001040b7ae324fd",
+      "size_bytes": 1798,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/inat-312240929.jpg",
+      "git_blob_sha": "87dd7c1a01c173829e1ae203ccd945796e532907",
+      "size_bytes": 197905,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/library-review036-52d965a3c8cfb6d.jpg",
+      "git_blob_sha": "86488cb2be2e7311636a49a098f83e5acd7dcbfe",
+      "size_bytes": 344193,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/library-review036-a718394463db8d7.jpg",
+      "git_blob_sha": "455abdcd85080e97b18fc81bb53c5cdb036f22fd",
+      "size_bytes": 155345,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/species.json",
+      "git_blob_sha": "e5fcd607b5ff522515f22eb24a1541963768da54",
+      "size_bytes": 5557,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/SOURCES.txt",
+      "git_blob_sha": "8687a7d89e865e87c8fab5a6bad05210b2db51c0",
+      "size_bytes": 910,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/image-sources.csv",
+      "git_blob_sha": "965446b3ccbe632baa92dc8b722471e15a278a77",
+      "size_bytes": 1176,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/images/inat-83747844.jpg",
+      "git_blob_sha": "f7ffec2a6f1747ca3993d601e878e8f454d6aec8",
+      "size_bytes": 218101,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/images/library-review041-ce8aa6357c8acc4.jpg",
+      "git_blob_sha": "d2ffd5c45394bdfb01c6e2b4e5ca156682a875e0",
+      "size_bytes": 305638,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/species.json",
+      "git_blob_sha": "38146e344ae509cbb1871be5d15086cbdb7a9d09",
+      "size_bytes": 3649,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/SOURCES.txt",
+      "git_blob_sha": "d820b0b44f40b5dac239973e2c7cc4c7300af3b8",
+      "size_bytes": 1413,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/image-sources.csv",
+      "git_blob_sha": "5803a9e6371aec0b30a4b4afc5a2b793f1a622ea",
+      "size_bytes": 1868,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/inat-91911378.jpg",
+      "git_blob_sha": "926da2ca1c3ff72928ea38e908004655f99e710d",
+      "size_bytes": 193371,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-0a6382aefa921e2.jpg",
+      "git_blob_sha": "af4544a5d5a3d1288cf80fa43ccb8ac6d557c9c9",
+      "size_bytes": 205705,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-4e58fb69521e2aa.jpg",
+      "git_blob_sha": "614f9252491d1f433166d0da53d1220f1e388c0a",
+      "size_bytes": 120372,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/species.json",
+      "git_blob_sha": "e9bc51d7ff6b95202ea2efd85210ace418364e43",
+      "size_bytes": 5694,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/SOURCES.txt",
+      "git_blob_sha": "44cfe0d18ad548d867462e8e2b898386b26aefa8",
+      "size_bytes": 1401,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/image-sources.csv",
+      "git_blob_sha": "0e046134627b19696dd2da7c52f97cbeed555d7a",
+      "size_bytes": 1871,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/inat-3851803.jpg",
+      "git_blob_sha": "dc6fa0a7ab6591bce53bcef99359d8c6ac2f7cfe",
+      "size_bytes": 88286,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-ab0070be4422652.jpg",
+      "git_blob_sha": "e6b0dab0be649f5f3a939561b868cd308312f7b9",
+      "size_bytes": 410923,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-d14b7d09dfe972b.jpg",
+      "git_blob_sha": "c571a35be6bbebfc0854a3557ceba59c0dd266dd",
+      "size_bytes": 178497,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/species.json",
+      "git_blob_sha": "db986c24e5b0c47ff0a8ce5292fb038389dd5065",
+      "size_bytes": 5524,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/SOURCES.txt",
+      "git_blob_sha": "7f837f645bcaab39bb47f7eb3735872b9276dd74",
+      "size_bytes": 169,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/image-sources.csv",
+      "git_blob_sha": "c5211591d2399c21f145f3e31d26cade402283c5",
+      "size_bytes": 930,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/images/joey-99698514.jpg",
+      "git_blob_sha": "6330af6810ab13d07f1a808d9f5f38da59484c98",
+      "size_bytes": 101816,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/images/joey-99698565.jpg",
+      "git_blob_sha": "f6230a37153aa4cb19bf14a8e5b5f866849ff6a0",
+      "size_bytes": 75483,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/images/joey-99698621.jpg",
+      "git_blob_sha": "7b3182e70434ce136ec2159748fd2875ee3a50bb",
+      "size_bytes": 113002,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Eysenhardtia/eysenhardtia-texana/species.json",
+      "git_blob_sha": "720a59a9e5e41928eb666fed63213878ed6d66b1",
+      "size_bytes": 2095,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-canescens/SOURCES.txt",
+      "git_blob_sha": "7df4761acaf1b2a677fa9819f8d95dd108e900c7",
+      "size_bytes": 461,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-canescens/image-sources.csv",
+      "git_blob_sha": "a36eb9cd9fa9d66ce838415535f5155ad27db774",
+      "size_bytes": 457,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-canescens/images/inat-636282769.jpg",
+      "git_blob_sha": "a6ff6a63bab2a20ca3ead0087d4fce7f9fd10b8a",
+      "size_bytes": 273515,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-canescens/species.json",
+      "git_blob_sha": "f06e5d5f0bc6fa891be2b5d6d901b9e497ee374a",
+      "size_bytes": 1454,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-texana/SOURCES.txt",
+      "git_blob_sha": "c8d450a4af61b74af6c59fe18df756eee1d2bae9",
+      "size_bytes": 472,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-texana/image-sources.csv",
+      "git_blob_sha": "1ed272625fc0758a0fc289522cf68b4c3de9b16b",
+      "size_bytes": 472,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-texana/images/inat-158540891.jpg",
+      "git_blob_sha": "1cdb0f7c8310d877852aba64e6f43b06cfbc6457",
+      "size_bytes": 87001,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Galactia/galactia-texana/species.json",
+      "git_blob_sha": "371876ea838f1dcfb9a61492f768f6df92493251",
+      "size_bytes": 1444,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/SOURCES.txt",
+      "git_blob_sha": "23127adf4f951f6fcc39c3857c9d06662cf816a9",
+      "size_bytes": 1845,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/image-sources.csv",
+      "git_blob_sha": "7ddc470ed11572902ff684c3339df6ca194f0ce8",
+      "size_bytes": 2579,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/inat-165160785.jpg",
+      "git_blob_sha": "cb15621743d6c958e84289b8ddba246a89863b30",
+      "size_bytes": 316118,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-438eb39d0a83bdc.jpg",
+      "git_blob_sha": "2026f36db85200d31b8e5dfe54c99eb61b637849",
+      "size_bytes": 365158,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-917ac57f26a3fca.jpg",
+      "git_blob_sha": "2ea05e7cc872c301032a600142e827f1340bd83e",
+      "size_bytes": 213296,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-d9d74ebe02bcc0c.jpg",
+      "git_blob_sha": "1d186e95afb6a726d27bab84aaa22bda5f1abaab",
+      "size_bytes": 131763,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/species.json",
+      "git_blob_sha": "d0c12e8d506476e098a3714d9fa6a3f6e0476113",
+      "size_bytes": 6906,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Hylodesmum/hylodesmum-nudiflorum/SOURCES.txt",
+      "git_blob_sha": "6b0a46510a098054d20894b0bfe5d8012e71b2e8",
+      "size_bytes": 489,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Hylodesmum/hylodesmum-nudiflorum/image-sources.csv",
+      "git_blob_sha": "f6be41113fe59588da01794106194f84a5641223",
+      "size_bytes": 482,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Hylodesmum/hylodesmum-nudiflorum/images/inat-196269807.jpg",
+      "git_blob_sha": "7f1a8f9ad59ac78c76ee7fd089532c07df44b93d",
+      "size_bytes": 43405,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Hylodesmum/hylodesmum-nudiflorum/species.json",
+      "git_blob_sha": "94c553b89b09b40622c62018e68e5a1b0d281f3a",
+      "size_bytes": 1475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Indigofera/indigofera-miniata/SOURCES.txt",
+      "git_blob_sha": "9559775ee8ae1fb846ee5de517fbfce20741e614",
+      "size_bytes": 589,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Indigofera/indigofera-miniata/image-sources.csv",
+      "git_blob_sha": "f6b02b1bd3b3ec0e2ed2af3a7a535c23aff79528",
+      "size_bytes": 477,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Indigofera/indigofera-miniata/images/inat-206894056.jpeg",
+      "git_blob_sha": "b31c745911f92d39af146e633481bcc67597e711",
+      "size_bytes": 69220,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Indigofera/indigofera-miniata/species.json",
+      "git_blob_sha": "a1884cf2f5a282f5e6f9b9a4063c251a3687c898",
+      "size_bytes": 1471,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/SOURCES.txt",
+      "git_blob_sha": "0c0a50cf642af090e21bedd7e7b7b8d21e0c4db2",
+      "size_bytes": 911,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/image-sources.csv",
+      "git_blob_sha": "1666748c68890324a52c5a29302b117ae9221bc1",
+      "size_bytes": 1109,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/images/inat-5370736.jpg",
+      "git_blob_sha": "36cb6021014182643b8e99cf95dbbf35367f236b",
+      "size_bytes": 152062,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/images/library-review054-53cfbf11948eb20.jpg",
+      "git_blob_sha": "0c494496d2d6b816cd19e2771c609bebad719a3d",
+      "size_bytes": 412859,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/species.json",
+      "git_blob_sha": "5b297142fca4572267aa5f4c8af730088a99e958",
+      "size_bytes": 3463,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lespedeza/lespedeza-texana/SOURCES.txt",
+      "git_blob_sha": "831a4bb22c981811dd840b91773500775279825c",
+      "size_bytes": 463,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lespedeza/lespedeza-texana/image-sources.csv",
+      "git_blob_sha": "01fd52f805f5eeafa008f8f28f28d0c390cdaa5a",
+      "size_bytes": 462,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lespedeza/lespedeza-texana/images/inat-272775439.jpg",
+      "git_blob_sha": "5e5386718894f00c9df3dac612c90d2df463b660",
+      "size_bytes": 277870,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lespedeza/lespedeza-texana/species.json",
+      "git_blob_sha": "a8c194008c44d0bfb0d976f9b525cf53f427e3b1",
+      "size_bytes": 1459,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Leucaena/leucaena-retusa/SOURCES.txt",
+      "git_blob_sha": "28e3b592b36b5c4c267fc3539979b802b465e156",
+      "size_bytes": 585,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Leucaena/leucaena-retusa/image-sources.csv",
+      "git_blob_sha": "be7a16a31caa032434f21f6cbd44890270c71a48",
+      "size_bytes": 475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Leucaena/leucaena-retusa/images/inat-531068418.jpg",
+      "git_blob_sha": "b9ec2858b2fd724f9e1b29f86e19ab3eed942616",
+      "size_bytes": 189246,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Leucaena/leucaena-retusa/species.json",
+      "git_blob_sha": "77480f27c0771f493d567003c8497061578b95a5",
+      "size_bytes": 1464,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lotus/lotus-berthelotii/SOURCES.txt",
+      "git_blob_sha": "6745079dcda3c745ecc68cb68de5f7fd0653c3e3",
+      "size_bytes": 476,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lotus/lotus-berthelotii/image-sources.csv",
+      "git_blob_sha": "d4c306ba7258507c16e60419c650c9ccbab34db9",
+      "size_bytes": 473,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lotus/lotus-berthelotii/images/inat-475427180.jpg",
+      "git_blob_sha": "0a1f2f6e44229ba32d735db167dd4b2edfd3fc8d",
+      "size_bytes": 235833,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lotus/lotus-berthelotii/species.json",
+      "git_blob_sha": "4e5320840fd9669ff8abb78750fcb11fbd536d81",
+      "size_bytes": 1461,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lupinus/genus.json",
+      "git_blob_sha": "200126be1ec044b91496d193a0d9778b9192a898",
+      "size_bytes": 1766,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/SOURCES.txt",
+      "git_blob_sha": "7f837f645bcaab39bb47f7eb3735872b9276dd74",
+      "size_bytes": 169,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/image-sources.csv",
+      "git_blob_sha": "ccc1367f65327c41cc7182d8d3825604cd293e28",
+      "size_bytes": 939,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/images/joey-340144380.jpg",
+      "git_blob_sha": "1b89df6111ed0cd5e627061ae11bbcf44ad6bd91",
+      "size_bytes": 229801,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/images/joey-340144425.jpg",
+      "git_blob_sha": "5af1f8ca561125024d45588a1a2bc15b95caaa54",
+      "size_bytes": 254281,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/images/joey-340144458.jpg",
+      "git_blob_sha": "481226505cb7867f59fd610bff805416c82b6d0b",
+      "size_bytes": 300649,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Lupinus/lupinus-texensis/species.json",
+      "git_blob_sha": "6189f4480dbe8de62ac11c5ae5a384b6fb76a35f",
+      "size_bytes": 2132,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-lupulina/SOURCES.txt",
+      "git_blob_sha": "49e5d4b92567d02e56fc34c54829b5fcba2b9f8c",
+      "size_bytes": 836,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-lupulina/image-sources.csv",
+      "git_blob_sha": "6880e32c88fa21aeb892d3cbffbadf5026b17981",
+      "size_bytes": 588,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-lupulina/images/commons-medicago-lupulina.jpg",
+      "git_blob_sha": "dbca29254d04c8932e933241ef9c6861672d2420",
+      "size_bytes": 248732,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-lupulina/species.json",
+      "git_blob_sha": "7739cf2da90f0a4b027b96ea0424f7af334cc412",
+      "size_bytes": 1747,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-polymorpha/SOURCES.txt",
+      "git_blob_sha": "eb4f1fdaed86216c62a0113d020184deeeabfc8d",
+      "size_bytes": 844,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-polymorpha/image-sources.csv",
+      "git_blob_sha": "4eec2bac79a8b1f8d51ba21289e27a1cfc615808",
+      "size_bytes": 560,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-polymorpha/images/commons-medicago-polymorpha.jpg",
+      "git_blob_sha": "9dc95202497897dd1fd08d2248f683d3d1042b69",
+      "size_bytes": 50667,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-polymorpha/species.json",
+      "git_blob_sha": "0a259d4ac424f5a792911ca5ea001fbb555f8ef2",
+      "size_bytes": 1737,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-sativa/SOURCES.txt",
+      "git_blob_sha": "aca91355826ce66d9c35623cf90fcf87cd7368ce",
+      "size_bytes": 689,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-sativa/image-sources.csv",
+      "git_blob_sha": "6e3a0bd88fcf513457bfab10d0862f73cff65e04",
+      "size_bytes": 535,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-sativa/images/commons-medicago-sativa.jpg",
+      "git_blob_sha": "8a05b118e7cf93976f32b5ced7bed64f46acf47a",
+      "size_bytes": 80768,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Medicago/medicago-sativa/species.json",
+      "git_blob_sha": "4c6989506ebc5e1d1ce2b5ddf2ef5268898e291f",
+      "size_bytes": 1699,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/SOURCES.txt",
+      "git_blob_sha": "673d7de17e80db038e6c9b4573671d306a5190b6",
+      "size_bytes": 926,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/image-sources.csv",
+      "git_blob_sha": "49f1ba8c533085157ead627ea891f5edee68fb25",
+      "size_bytes": 1140,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/images/inat-101299131.jpg",
+      "git_blob_sha": "a119849d5356b927fc1201d1808b5a432e55849d",
+      "size_bytes": 147021,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/images/library-review056-6fca386ee0e930e.jpg",
+      "git_blob_sha": "30114971c83172619fffd118376518400a4a54fc",
+      "size_bytes": 329794,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/species.json",
+      "git_blob_sha": "8eda9fe703ea60082f09d9d3c9e7883c48c96dd7",
+      "size_bytes": 3475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/SOURCES.txt",
+      "git_blob_sha": "e2f35a5cfcb7177f0567be490f661c609c5da626",
+      "size_bytes": 470,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/image-sources.csv",
+      "git_blob_sha": "eee0d1eb3f637d0041259262019eae31d4e23c7c",
+      "size_bytes": 481,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/images/inat-595592253.jpg",
+      "git_blob_sha": "7dc6f8325dc1689adc3cd16ec30ec99d7415ceb4",
+      "size_bytes": 135000,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/species.json",
+      "git_blob_sha": "f48c0c526c81dc8d01870321aec0451ff7fb39f0",
+      "size_bytes": 1477,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/genus.json",
+      "git_blob_sha": "626ad3a78a54f2d4ad9025defee75d2a6faef8c9",
+      "size_bytes": 13449,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/SOURCES.txt",
+      "git_blob_sha": "f50b475c9123e06bc20eef2c25c5c63acf398a2d",
+      "size_bytes": 978,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/image-sources.csv",
+      "git_blob_sha": "521e5c80852828d8b3c453b5798fe65b9b3118dd",
+      "size_bytes": 1578,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/joey-inat-531089805.jpg",
+      "git_blob_sha": "4dc560623306b6b6d0dd36e69a3717d5856b51af",
+      "size_bytes": 123694,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/joey-inat-531089854.jpg",
+      "git_blob_sha": "f5efadbda1479e41c82fd514cd30c4afa3fa1f2d",
+      "size_bytes": 308323,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/mimosa-biuncifera-provisional-face.jpg",
+      "git_blob_sha": "e7ccaecba96f2900f64b196f74e62b4d4be70cd2",
+      "size_bytes": 87776,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/species.json",
+      "git_blob_sha": "29690c7c8d77f04d6c9beb3389a3c30cfabbf492",
+      "size_bytes": 5820,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/SOURCES.txt",
+      "git_blob_sha": "6d090c1c66b3ccb819512afc6566ed27d004c764",
+      "size_bytes": 1196,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/image-sources.csv",
+      "git_blob_sha": "d02f8797a4e67deac98c5079c1c79cb01519c32c",
+      "size_bytes": 1485,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-675675349.jpg",
+      "git_blob_sha": "980c413631c2082df324fd59c73112989bc0a789",
+      "size_bytes": 137186,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-99260849.jpg",
+      "git_blob_sha": "2b0d23065250e4777a90e22f13bbf175be37c114",
+      "size_bytes": 70607,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/mimosa-borealis_internodal-spines-source-label_41-38.jpg",
+      "git_blob_sha": "9cb5b7977e7994cab85fb48a347161bb508c9f66",
+      "size_bytes": 178099,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/species.json",
+      "git_blob_sha": "71d7977b58ed1970a4dac34fc7eadb200ac114e4",
+      "size_bytes": 6646,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/SOURCES.txt",
+      "git_blob_sha": "211b48f25e596f7b0ced15fe90e357cfd454d9e7",
+      "size_bytes": 1343,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/image-sources.csv",
+      "git_blob_sha": "add04fedb1914e68b1dcaa97e69dff365ebe4d8b",
+      "size_bytes": 1571,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/images/joey-inat-367077595.jpg",
+      "git_blob_sha": "7f8580cc06a045cebcf26bd828d380d8b212798a",
+      "size_bytes": 126145,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/images/joey-inat-367077616.jpg",
+      "git_blob_sha": "f859e9a88a3d001a6fa3d4bcd22d21e76245b783",
+      "size_bytes": 74718,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/images/mimosa-latidens-provisional-face.jpg",
+      "git_blob_sha": "5b23555fd7df2f705583bb397302424d7813c473",
+      "size_bytes": 325823,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/species.json",
+      "git_blob_sha": "2ca2c75f9e4290c2ad4ab0a319b3548589cb758d",
+      "size_bytes": 5223,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/SOURCES.txt",
+      "git_blob_sha": "5d4574d4dd2c769035bce454b734e883500ce1c8",
+      "size_bytes": 890,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/image-sources.csv",
+      "git_blob_sha": "070b199c74cb3359a60a573bc245efa516d10498",
+      "size_bytes": 1093,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/images/gbif-manual-4852922106-3b70815b2.jpg",
+      "git_blob_sha": "248d1edfbc7828284b099993038225dc0473a33e",
+      "size_bytes": 401987,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/images/mimosa-roemeriana-provisional-face.jpg",
+      "git_blob_sha": "6cc7f85b7c3dbcf2e04500ebadfd4953b944f2d9",
+      "size_bytes": 119152,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/species.json",
+      "git_blob_sha": "130382ad61564c7c810f6ea075b85459047cd48d",
+      "size_bytes": 4470,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/SOURCES.txt",
+      "git_blob_sha": "2e9cc2e682978e50b8a3559b4ceff259d72a1c85",
+      "size_bytes": 1768,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/image-sources.csv",
+      "git_blob_sha": "692aaabd0b286e5ea1b7f7edf30747237fc9ab23",
+      "size_bytes": 1387,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/images/01-flowering-branch-bipinnate-leaves.jpg",
+      "git_blob_sha": "10efbcdde609fcdc7520d2e199950c1b16c06597",
+      "size_bytes": 127462,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/images/02-flower-head-stamens-buds.jpg",
+      "git_blob_sha": "4b3b7af7a38d84ada846d4e4a0d00cc1d1c0b88f",
+      "size_bytes": 210437,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/images/joey-inat-364815662.jpg",
+      "git_blob_sha": "850a3a1963ec26088d5460fac1e2fd9dbd1f309f",
+      "size_bytes": 135576,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/species.json",
+      "git_blob_sha": "5aeaf6b8545b708a6529238cb58522cd2588c6c6",
+      "size_bytes": 4475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/genus.json",
+      "git_blob_sha": "8dfdde1aa22b7065c326ba417f0928ff7957b649",
+      "size_bytes": 7229,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/SOURCES.txt",
+      "git_blob_sha": "94c6385dd7773b14fecfe251706fc407135166eb",
+      "size_bytes": 1329,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/image-sources.csv",
+      "git_blob_sha": "bbbeeda9cd1b625477d115d4cfe2f24a9e0590e3",
+      "size_bytes": 1854,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/01-leaves-thorns.jpg",
+      "git_blob_sha": "d036a3f1b83b430e03f1f8110b3994128cd6f40e",
+      "size_bytes": 144141,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/02-flower-spikes.png",
+      "git_blob_sha": "05c7dc5ff6f8bf2f6f0bf650a175e83f39ec3a48",
+      "size_bytes": 1156157,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-481811604-bipinnate-leaf-detail.jpg",
+      "git_blob_sha": "375d35f993df5ce2761cefcc5111f69b58e59c39",
+      "size_bytes": 302347,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-561111671-tree-habit.jpg",
+      "git_blob_sha": "278de1d11181dd236ac7849afacdcbd5efa43e74",
+      "size_bytes": 326759,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/species.json",
+      "git_blob_sha": "01347b25e7b1d8e4599e3e68c93992517343960a",
+      "size_bytes": 7513,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-lutea/SOURCES.txt",
+      "git_blob_sha": "e663d08fb4ce730b6e3fb1c00f01d77c30637164",
+      "size_bytes": 747,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-lutea/image-sources.csv",
+      "git_blob_sha": "6e7e771cae3ef1e44d4ee7fbc8bb7a7cf9dbf9d0",
+      "size_bytes": 541,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-lutea/images/commons-neptunia-lutea.jpg",
+      "git_blob_sha": "fd417c6fa3075d4685c337470c837b7c124b26e2",
+      "size_bytes": 183059,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-lutea/species.json",
+      "git_blob_sha": "2aad0882b2a44299686c3677e0e64482245c949a",
+      "size_bytes": 1706,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/SOURCES.txt",
+      "git_blob_sha": "3960bd6c57f185fe64e6bc8f657b3b99df73a66b",
+      "size_bytes": 493,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/image-sources.csv",
+      "git_blob_sha": "62d343d26f37d4df40520a24d8542f413acc7567",
+      "size_bytes": 474,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/images/inat-138736196.jpg",
+      "git_blob_sha": "c0caf5da019d5502debd1f4d2af893d1940c29c7",
+      "size_bytes": 161456,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/species.json",
+      "git_blob_sha": "b4eae006e7784389e394ede4014c03568bd45a61",
+      "size_bytes": 1488,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Parkinsonia/parkinsonia-aculeata/SOURCES.txt",
+      "git_blob_sha": "951ad16632877a345ca41734ce0c35dff1465a3b",
+      "size_bytes": 727,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Parkinsonia/parkinsonia-aculeata/image-sources.csv",
+      "git_blob_sha": "8e593130a39cefeb4803e17e404e8df47ffc8a45",
+      "size_bytes": 536,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Parkinsonia/parkinsonia-aculeata/images/commons-parkinsonia-aculeata.jpg",
+      "git_blob_sha": "e06fad18999d42e92536365e83f91860ea9149c2",
+      "size_bytes": 277975,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Parkinsonia/parkinsonia-aculeata/species.json",
+      "git_blob_sha": "445571e64bdb3ed6ab7562860178b7a753999538",
+      "size_bytes": 1770,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/SOURCES.txt",
+      "git_blob_sha": "11c064082e77cd93bdcfdff111ec1ec788039b72",
+      "size_bytes": 478,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/image-sources.csv",
+      "git_blob_sha": "1a69b8fe9f92ed3d5d0d2f928c044f94a4ee2840",
+      "size_bytes": 472,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/images/inat-119185226.jpg",
+      "git_blob_sha": "ce099f2d1c7c35603392687888495536fd2a928a",
+      "size_bytes": 386531,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/species.json",
+      "git_blob_sha": "9c92c74875c38c4cd2a5499d09c7db6272a025a1",
+      "size_bytes": 1472,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cyphocalyx/SOURCES.txt",
+      "git_blob_sha": "c8a8743ea4b09358edd51c3df081e0c2edac5f4d",
+      "size_bytes": 481,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cyphocalyx/image-sources.csv",
+      "git_blob_sha": "868bca82349305cfe6763899ae6304f5a69dc76c",
+      "size_bytes": 475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cyphocalyx/images/inat-197783463.jpg",
+      "git_blob_sha": "443f5c2733b36ccb2674d4a35feba2538fa895e6",
+      "size_bytes": 168805,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cyphocalyx/species.json",
+      "git_blob_sha": "7f7d4036ff2dbb9e1a2fd51b630d87a4e712e98b",
+      "size_bytes": 1470,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-latestipulatum/SOURCES.txt",
+      "git_blob_sha": "47c187c0c708685f63e131d5af7c97420b8a85a7",
+      "size_bytes": 485,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-latestipulatum/image-sources.csv",
+      "git_blob_sha": "21556ded4cd2fc5305fa539c5e724d34469e1cde",
+      "size_bytes": 475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-latestipulatum/images/inat-361743137.jpg",
+      "git_blob_sha": "380691d59ad9260c1c05cd439e29cda324196c38",
+      "size_bytes": 180464,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-latestipulatum/species.json",
+      "git_blob_sha": "420d2de0109ac687116d1e08660df904d955fc9c",
+      "size_bytes": 1505,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-linearifolium/SOURCES.txt",
+      "git_blob_sha": "0773582e96611b5ad163a18473c8d79300dc63d8",
+      "size_bytes": 481,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-linearifolium/image-sources.csv",
+      "git_blob_sha": "a61dc8869e271e184669be5f60c0f1a2097d79dc",
+      "size_bytes": 472,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-linearifolium/images/inat-141329355.jpg",
+      "git_blob_sha": "0fe5a6cdfe5502a5684f68a2701e86a658aff864",
+      "size_bytes": 56800,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-linearifolium/species.json",
+      "git_blob_sha": "8af12b260c1ff297363f1c4b963178d257cfb594",
+      "size_bytes": 1500,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-rhombifolium/SOURCES.txt",
+      "git_blob_sha": "adf734ff68b225c700ce7522bf1b79af1b1f14bd",
+      "size_bytes": 483,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-rhombifolium/image-sources.csv",
+      "git_blob_sha": "69c38f118d9a95ac3d0a42799b5a2fc7ae2be8e0",
+      "size_bytes": 475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-rhombifolium/images/inat-189685000.jpg",
+      "git_blob_sha": "4a38c4fd8f32c2479a9d1d3978afde0c06671338",
+      "size_bytes": 90866,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-rhombifolium/species.json",
+      "git_blob_sha": "c9e92676206fa499c48c1b615db9d3b8babde67f",
+      "size_bytes": 1494,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-tenuiflorum/SOURCES.txt",
+      "git_blob_sha": "721ab1bcf26188f399598f186858815e0a189c5f",
+      "size_bytes": 459,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-tenuiflorum/image-sources.csv",
+      "git_blob_sha": "90b0b01d33272b58401bec29cd188db4cc0a1f34",
+      "size_bytes": 451,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-tenuiflorum/images/inat-123056915.jpg",
+      "git_blob_sha": "07a9f74a5d22472eb21c8c773aa65617d0530397",
+      "size_bytes": 167936,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Pediomelum/pediomelum-tenuiflorum/species.json",
+      "git_blob_sha": "a19b5cb5ab0b1dd5096a3bfe6be2652a5df9a216",
+      "size_bytes": 1445,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-americana/SOURCES.txt",
+      "git_blob_sha": "416b20a50467b01bf00543559033c96d717c8372",
+      "size_bytes": 481,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-americana/image-sources.csv",
+      "git_blob_sha": "6eaca7593458b21acdb475d2492f146f97646526",
+      "size_bytes": 476,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-americana/images/inat-125518489.jpg",
+      "git_blob_sha": "5c7aa2cb2db10a3824e81393da2f439cc2ad372f",
+      "size_bytes": 218021,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-americana/species.json",
+      "git_blob_sha": "d23a93076403c9efa904c5c38680756a5d0fcd28",
+      "size_bytes": 1477,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/SOURCES.txt",
+      "git_blob_sha": "5a2a4bdbab73cd894f56c26a022fc602732307eb",
+      "size_bytes": 648,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/image-sources.csv",
+      "git_blob_sha": "a14cd3589d6e8ac2d1cdd1bb676a965995712020",
+      "size_bytes": 822,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/images/gbif-manual-5938035176-01bb5a331.jpg",
+      "git_blob_sha": "e0fee245ee2a8a06d8a95f9c2bd3a4a81df765b0",
+      "size_bytes": 352443,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/images/inat-530810631.jpg",
+      "git_blob_sha": "4c1149210c83283a3acb99efcbd2a234ee0eaebb",
+      "size_bytes": 267507,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/species.json",
+      "git_blob_sha": "f5d1141bf2debaad6fa15922a62bd8b8012305cf",
+      "size_bytes": 3042,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/SOURCES.txt",
+      "git_blob_sha": "424fc766dc6aa056da0cd049e13edf57926721a7",
+      "size_bytes": 638,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/image-sources.csv",
+      "git_blob_sha": "7835bb0fccb923043e9a0530a70538a35863d05b",
+      "size_bytes": 797,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/gbif-manual-6185179860-060fb5382.jpg",
+      "git_blob_sha": "c794d6a7c7a07b18e48306f64faba978092ceb58",
+      "size_bytes": 313673,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/inat-631156962.jpg",
+      "git_blob_sha": "288a7afe223bd8d3b3d99a745c7aa56c2e09db97",
+      "size_bytes": 259659,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/species.json",
+      "git_blob_sha": "286dd505ffaf3016e0377ecb68120777661730ab",
+      "size_bytes": 3101,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/SOURCES.txt",
+      "git_blob_sha": "8695738ca1974e4767fc153adabb92c9c9488df5",
+      "size_bytes": 1660,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/image-sources.csv",
+      "git_blob_sha": "315c19299c164067847cade485b79ff75655d291",
+      "size_bytes": 429,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/images/robinia-pseudoacacia-pmalkowski.jpg",
+      "git_blob_sha": "869f6058cdc0b1fa750a592825f9448b2236cdc3",
+      "size_bytes": 98286,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/species.json",
+      "git_blob_sha": "c7599184b6f6c86c48d2f873416a1cd9bb296094",
+      "size_bytes": 1590,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/genus.json",
+      "git_blob_sha": "438782fff76a984ea24716c6264d6b7b5914c8f0",
+      "size_bytes": 32689,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/SOURCES.txt",
+      "git_blob_sha": "afa8d4064c4dcb9d3d27bd7b2eb32b377463a71b",
+      "size_bytes": 1955,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/image-sources.csv",
+      "git_blob_sha": "451744aafb8c9170627b69bf9cf2ee1c808cc8f8",
+      "size_bytes": 2917,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/01-field-photo.jpg",
+      "git_blob_sha": "0e88c4285fbedd4a0765f7c13061d09ae862143c",
+      "size_bytes": 159941,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/02-hooked-catclaw-thorns.jpg",
+      "git_blob_sha": "b7520d86902d41657dc181610c2df84470648d52",
+      "size_bytes": 182938,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/03-flower-spike.jpg",
+      "git_blob_sha": "8e98f40a6ab701a1147baae6c2b9e0d99348c985",
+      "size_bytes": 88783,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/04-seeds-scale.jpg",
+      "git_blob_sha": "13b8fa12389169c69872b02b7a12cb797744fb31",
+      "size_bytes": 75404,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/05-whole-leafy-branch.jpg",
+      "git_blob_sha": "9974b752e9b8fb11a705b68ec637302eef5734de",
+      "size_bytes": 220912,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/images/06-ripening-curled-pods.webp",
+      "git_blob_sha": "0dfbd6e7c07cc96d04b337de3da7ee31d70c8e43",
+      "size_bytes": 174518,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-greggii/species.json",
+      "git_blob_sha": "67d1a9551376f2d052ecc695ee5246a020048f2e",
+      "size_bytes": 14624,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/SOURCES.txt",
+      "git_blob_sha": "b6491bccef870d3062ea3f267d88f2bd1c440ee3",
+      "size_bytes": 1955,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/image-sources.csv",
+      "git_blob_sha": "d0000830f135eb561ba99c26eff27c3e1848960a",
+      "size_bytes": 2355,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/01-roundflower-heads.jpg",
+      "git_blob_sha": "86bcad14dd161af6cf65a6f56c3e9c854ffe93c3",
+      "size_bytes": 251635,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/02-flat-pods.jpg",
+      "git_blob_sha": "f6eb72c651e21677b6192b4984e87bd8c65d2515",
+      "size_bytes": 24361,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/03-bipinnate-shoot.jpg",
+      "git_blob_sha": "36ddb46be894dc46807cb33d90ef314085bb5f74",
+      "size_bytes": 86839,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/04-hooked-stem-prickles.jpg",
+      "git_blob_sha": "600dc680c119cc3ef51fa70736d3ae672e42af4c",
+      "size_bytes": 59923,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/05-hand-held-leaf.jpg",
+      "git_blob_sha": "bd34741f1d079c77cde704f5625ee520959af520",
+      "size_bytes": 31083,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/images/06-green-fruits-in-situ.jpg",
+      "git_blob_sha": "7553213a92c5a88627790bf41ecf171a486bd62d",
+      "size_bytes": 62597,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-roemeriana/species.json",
+      "git_blob_sha": "fb41167fb9a6fde405a8233d28001049272d3732",
+      "size_bytes": 18187,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/SOURCES.txt",
+      "git_blob_sha": "d4bd155b014d12c67ac233508abc5398b5cd1883",
+      "size_bytes": 1536,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/image-sources.csv",
+      "git_blob_sha": "fbb583f1c08f037d3b16c0fa61c9f7847e8ab965",
+      "size_bytes": 1124,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/images/01-flower-spike.jpg",
+      "git_blob_sha": "7123904bd721d2f259c44021c829a2b6c63619e4",
+      "size_bytes": 111843,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/images/02-mature-pods.jpg",
+      "git_blob_sha": "5bfbac76d7f67a20d016b035fc3b2abd339f5daf",
+      "size_bytes": 66873,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/images/03-leaflets.jpg",
+      "git_blob_sha": "0a23d0051ee4e4b410aeab54c2b4dfc6bcd7ca7b",
+      "size_bytes": 32684,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senegalia/senegalia-wrightii/species.json",
+      "git_blob_sha": "6623d612678b9677d198bff13ffb09309b53f021",
+      "size_bytes": 14823,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/genus.json",
+      "git_blob_sha": "c546240d6b884389f2333f1bd77a9ce74d008343",
+      "size_bytes": 42203,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/SOURCES.txt",
+      "git_blob_sha": "5c5e487421988ebaa435c4784e2741a7aa8b25df",
+      "size_bytes": 1305,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/glass-root-garden-photo-intake-2026-10-14.json",
+      "git_blob_sha": "d6326fd3235dd2f7b5ba8254dc5b86e1afe7b19e",
+      "size_bytes": 3428,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/image-sources.csv",
+      "git_blob_sha": "8f9de23bd1e274e86967a959ff64a75a85948f6c",
+      "size_bytes": 3873,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/images/joey-review034-4934a0dee632ffce.jpg",
+      "git_blob_sha": "8f606416fabcc1812974bd83b3453332a1c943a6",
+      "size_bytes": 149207,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/images/joey-review034-7ca09c3e7b30a965.jpg",
+      "git_blob_sha": "f23964a92bfcdca3133d70b75adc2f7380ae02e8",
+      "size_bytes": 131044,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/images/joey-review034-8fe0092870366706.jpg",
+      "git_blob_sha": "73433622cb7e5f76cfb9f79a2c5e99e15c39b488",
+      "size_bytes": 100834,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/images/senna-lindheimeriana_leaflet-hairs-source-label_06-00.jpg",
+      "git_blob_sha": "8abc90fa7bbe03c235118834ae63bbbeb9b23a8f",
+      "size_bytes": 266917,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-lindheimeriana/species.json",
+      "git_blob_sha": "c90a952f76085ef8f96328762735f9323b27ecda",
+      "size_bytes": 22302,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-pilosior/SOURCES.txt",
+      "git_blob_sha": "5a864ddd270592d5c9af626ac55209ffd0f7b6c0",
+      "size_bytes": 1501,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-pilosior/image-sources.csv",
+      "git_blob_sha": "5b4386b792955bbaecd962defa38535a9c0f87c9",
+      "size_bytes": 1775,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/gbif-first-6431822939-9ca58a139a.jpg",
+      "git_blob_sha": "022ecb3f31a5d0fcc2f6af35c0e4c8bace42a61e",
+      "size_bytes": 336456,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-10b329a7758a956.jpg",
+      "git_blob_sha": "02b9179809ad9e7cae40b87a52e0783e35c3896a",
+      "size_bytes": 346556,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-12bbd97d3f95bdf.jpg",
+      "git_blob_sha": "5b7450df561748f48b4677adac53a22041fb22df",
+      "size_bytes": 680494,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-pilosior/species.json",
+      "git_blob_sha": "3abcabdf04e8f7c9a506f962a7adf0e54718a3be",
+      "size_bytes": 15648,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/SOURCES.txt",
+      "git_blob_sha": "bf01e140bdaff3c95a4c118efdafe5da019843c7",
+      "size_bytes": 820,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/image-sources.csv",
+      "git_blob_sha": "8a8f6d5c127f5dc06f9e1d44e73a53e2d3f021a0",
+      "size_bytes": 1672,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/01-flower.jpg",
+      "git_blob_sha": "eddee87b060c18f4d0708032ea24b4714d341ee5",
+      "size_bytes": 31191,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/02-two-leaflets.jpg",
+      "git_blob_sha": "efa7dd28086d88ed4dec166f1d68dfb1fa5a95f5",
+      "size_bytes": 37281,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/03-habit.jpg",
+      "git_blob_sha": "e7be426cbc8b6a4676a72b1458ae8add29d21fae",
+      "size_bytes": 121170,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/04-fruit.jpg",
+      "git_blob_sha": "8565c67cb5a309043bfbd08a5c0c3e7c3ba2e56e",
+      "size_bytes": 44795,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/images/public-inat-senna-roemeriana-752965027.jpg",
+      "git_blob_sha": "08cf89db8ce3fe32153e1df646c19ec4a1c51798",
+      "size_bytes": 236034,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Senna/senna-roemeriana/species.json",
+      "git_blob_sha": "e57d3fd809eb17b4b9af1cbb8ec55bfa5057b461",
+      "size_bytes": 15591,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/genus.json",
+      "git_blob_sha": "0a155eb8111de4fcaa66603c5eb23e7eeb65e785",
+      "size_bytes": 21638,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/SOURCES.txt",
+      "git_blob_sha": "90b35f72b11b4ee77b786356a02dcf5379c84313",
+      "size_bytes": 617,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/image-sources.csv",
+      "git_blob_sha": "f0d3557bb7cd187c175f8961eac7e17bf29f8b5c",
+      "size_bytes": 789,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/gbif-manual-5938619114-403e5ef30.jpg",
+      "git_blob_sha": "80a1d89ef0e0d2d855be824d173ab770fdd5f135",
+      "size_bytes": 567908,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/inat-566513341.jpg",
+      "git_blob_sha": "484be36c778dffcdb6f7b73942b764447e4c8c92",
+      "size_bytes": 196978,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/species.json",
+      "git_blob_sha": "3ff8a730dffb4ecd684797f00f12015f94b6f30e",
+      "size_bytes": 3013,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/SOURCES.txt",
+      "git_blob_sha": "0c6b8f0b4f865b1480d579956d8c2dd113ae52f6",
+      "size_bytes": 706,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/image-sources.csv",
+      "git_blob_sha": "866c7596091fba41acff084b8a8f22db6f4f1a57",
+      "size_bytes": 537,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/images/commons-sesbania-herbacea.jpg",
+      "git_blob_sha": "f9d40e85d79d9829eab7df7ff602cce2284828f4",
+      "size_bytes": 641068,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/species.json",
+      "git_blob_sha": "fdcd8eaaf5a26a022b5d32fe9dad24eebd77e516",
+      "size_bytes": 1733,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Sophora/genus.json",
+      "git_blob_sha": "cc41734ee54fcbc8ff89e3313a514df9b6097523",
+      "size_bytes": 7327,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/SOURCES.txt",
+      "git_blob_sha": "23d53a92144aa82e281c201f3e445956144d3bef",
+      "size_bytes": 796,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/image-sources.csv",
+      "git_blob_sha": "72fa3f3d8a7f0a03b3b793c280d125a493a7bd57",
+      "size_bytes": 537,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/images/commons-strophostyles-helvola.jpg",
+      "git_blob_sha": "ad95dc36805d4d1a4cb7a226c7e543b219b23955",
+      "size_bytes": 105146,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Strophostyles/strophostyles-helvola/species.json",
+      "git_blob_sha": "789eeedb22e9ccbd829a7dae7710fcd4fc2075ab",
+      "size_bytes": 1730,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/SOURCES.txt",
+      "git_blob_sha": "013821ed22e35ba5003f6a19569d87b31fbae800",
+      "size_bytes": 792,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/image-sources.csv",
+      "git_blob_sha": "7c3a170e1e1e5dc08ace4b2ef2f7bdc0029f1ded",
+      "size_bytes": 507,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/images/commons-styphnolobium-affine.jpg",
+      "git_blob_sha": "45192a367fd8b9ad776d5b6480176a1566ea1aac",
+      "size_bytes": 244929,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Styphnolobium/styphnolobium-affine/species.json",
+      "git_blob_sha": "d9227f9b0cc478852ec1f42bbc79920a6e220131",
+      "size_bytes": 1680,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/SOURCES.txt",
+      "git_blob_sha": "822d33a61b4e97b75976ebc753f19ce5a28e96d6",
+      "size_bytes": 482,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/image-sources.csv",
+      "git_blob_sha": "1bf055c143e318c6af95199a60f7484379493609",
+      "size_bytes": 475,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/images/inat-378385091.jpg",
+      "git_blob_sha": "c349cba131ddb30fdcc62567f4376fcbb8080241",
+      "size_bytes": 289601,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/species.json",
+      "git_blob_sha": "bc6a2b360776fc79fc3906fd40919948406c5f3f",
+      "size_bytes": 1445,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/SOURCES.txt",
+      "git_blob_sha": "cb0d56f56373963dc62d74071f2cbbfb7e8002dd",
+      "size_bytes": 476,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/image-sources.csv",
+      "git_blob_sha": "fc4557a2a83a6e5153b3ba540890f8507744aae7",
+      "size_bytes": 472,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/images/inat-490378733.jpg",
+      "git_blob_sha": "1f92b1989243d46b583c91a88f0a4dcb6678c3f9",
+      "size_bytes": 235598,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/species.json",
+      "git_blob_sha": "f8029a9a178a7c30ea228f85929f42dc02cf0e44",
+      "size_bytes": 1429,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Trifolium/trifolium-repens/SOURCES.txt",
+      "git_blob_sha": "c145ac377e28eb81b74b30beccdbe76ede375932",
+      "size_bytes": 771,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Trifolium/trifolium-repens/image-sources.csv",
+      "git_blob_sha": "99334d4d803001dc01567e4f9cfbf37ca624a892",
+      "size_bytes": 616,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Trifolium/trifolium-repens/images/commons-trifolium-repens.jpg",
+      "git_blob_sha": "9b8867db0d92d3f1bb1ba71e0b5588aeba8fbd77",
+      "size_bytes": 211052,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Trifolium/trifolium-repens/species.json",
+      "git_blob_sha": "7e68b006d9a0a3e1daeb25f0d2be17497f324c62",
+      "size_bytes": 1740,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/genus.json",
+      "git_blob_sha": "59c187aad558f7e6cdbd4b5e253d6eb426448476",
+      "size_bytes": 13288,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/SOURCES.txt",
+      "git_blob_sha": "dca23cf762d430cb624eab9b1c8bcb5a4177bd72",
+      "size_bytes": 859,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/image-sources.csv",
+      "git_blob_sha": "f464a4bcf7c7eedb93e0cffc2d2c77fbbe0d96e4",
+      "size_bytes": 1401,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/01-field-photo.jpg",
+      "git_blob_sha": "242b6970d1630a55efef24700d052c2165e34ca4",
+      "size_bytes": 285986,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/02-slender-constricted-pods.jpg",
+      "git_blob_sha": "d1e78cac7622f54696adc41ed80264971cd2e2cc",
+      "size_bytes": 272965,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/joey-inat-211356848.jpg",
+      "git_blob_sha": "df1f001938f148116e939a22bab6966052efcbac",
+      "size_bytes": 157155,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/species.json",
+      "git_blob_sha": "5f9f192ff2c63f012dcd2841fa21492f7a0d494c",
+      "size_bytes": 4859,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/SOURCES.txt",
+      "git_blob_sha": "6a4bbd083ac92018a2a68066e53d01717aaa845c",
+      "size_bytes": 991,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/image-sources.csv",
+      "git_blob_sha": "208e40703d8a99e7ae3976715db619700f6b566f",
+      "size_bytes": 1580,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/01-flower-leaves.jpg",
+      "git_blob_sha": "0ad549d3f91bdddeaeee65ffc9169e1864347357",
+      "size_bytes": 149819,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/02-thick-dark-pods.jpg",
+      "git_blob_sha": "bb88ac571db29f4159a3456c9685343b70058172",
+      "size_bytes": 181324,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/joey-inat-184863939.jpg",
+      "git_blob_sha": "b7dea4f2d9a888649e3bd6070751687ba83a79de",
+      "size_bytes": 81382,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/species.json",
+      "git_blob_sha": "a5b3de92dc3ccc5659e4c7445360896cad5f0970",
+      "size_bytes": 4923,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-leavenworthii/SOURCES.txt",
+      "git_blob_sha": "936e959036a537e92ca66b0c31f32472335b4df2",
+      "size_bytes": 678,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-leavenworthii/image-sources.csv",
+      "git_blob_sha": "32d6cb20387e76f9509b12729a2ee7f0221312da",
+      "size_bytes": 469,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-leavenworthii/images/inat-29396637.jpg",
+      "git_blob_sha": "4b574584dab6705c758532eaaa8cdd8d15d10f1d",
+      "size_bytes": 187450,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-leavenworthii/species.json",
+      "git_blob_sha": "89dd9e8583aa9184f04f43765959bff8c1c79e5a",
+      "size_bytes": 1964,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-ludoviciana/SOURCES.txt",
+      "git_blob_sha": "0e502a933905af1f5ad789bf21d80bfe652d7943",
+      "size_bytes": 686,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-ludoviciana/image-sources.csv",
+      "git_blob_sha": "6ebf655453e16879ebf6e21eb0f8ed5741fd1b70",
+      "size_bytes": 482,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-ludoviciana/images/inat-547261585.jpg",
+      "git_blob_sha": "19001193c8bcbfdd3a6ce779b18cebe44b529140",
+      "size_bytes": 91322,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana-var-ludoviciana/species.json",
+      "git_blob_sha": "505fcdfcc8432f1825f5044b52771884e5780e80",
+      "size_bytes": 1977,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/SOURCES.txt",
+      "git_blob_sha": "d435214c012117aa277c5ca3ac9e56ed8f7849e4",
+      "size_bytes": 788,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/image-sources.csv",
+      "git_blob_sha": "ec920e6379d8b36e4c9ea2be15b3775241a0c71b",
+      "size_bytes": 569,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/images/commons-vicia-ludoviciana.jpg",
+      "git_blob_sha": "96fb5aa085fdf3932e9448a018750a63178e3188",
+      "size_bytes": 71687,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Vicia/vicia-ludoviciana/species.json",
+      "git_blob_sha": "4146363f19e150c1051b7e87c00736670a380e2f",
+      "size_bytes": 1743,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/SOURCES.txt",
+      "git_blob_sha": "3de64acadb6f374be20c09ce0a512b587ff85fdc",
+      "size_bytes": 471,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/image-sources.csv",
+      "git_blob_sha": "fe3d8e081a4f81b2330074c4c9fbe64dea0b887d",
+      "size_bytes": 466,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/images/inat-40019219.jpg",
+      "git_blob_sha": "d784fa699709d6dfbac51ee1e830f7d570f2b6e0",
+      "size_bytes": 262407,
+      "category": "SOURCE_IMAGE_ORIGINAL"
+    },
+    {
+      "path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/species.json",
+      "git_blob_sha": "977a373124e43f6a73eb4e78b76992d231e89976",
+      "size_bytes": 1416,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    },
+    {
+      "path": "content/taxa/Fabaceae/family.json",
+      "git_blob_sha": "f5ea6dc97bca8c5de9172815f95ccb1752f95f47",
+      "size_bytes": 23665,
+      "category": "SCIENTIFIC_TEXT_OR_PROVENANCE"
+    }
+  ]
+}
