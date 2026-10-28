@@ -8,11 +8,13 @@ The Asteraceae private content/photo handoff is complete enough to progress to F
 
 - **91 of 91 species cards** copied to [private Fabaceae staging](https://github.com/Crking92/Hays-Botany-Fabaceae/tree/staging/fabaceae-metadata).
 - **291 of 291 scientific, genus/family and photo-credit metadata files** byte-verified against original Git blobs.
-- **200 of 200 source image files** inventoried; **zero copied** until original source, individual rights and exact photo identity are verified.
+- **200 of 200 source images** individually audited; **10 original photographs physically archived** with exact contemporary source, taxon, compatible license and pixel verification. **190 originals held with individually documented reasons** in the source hub. This is private, not a public Pages release.
 - Canonical Fabaceae Git source tree is unchanged: `947ac940c97f273db03e7b42f5dc992241871527`.
 - New family index is populated for offline data validation but stays `STAGING_ONLY`. No hub route, project rules, public Pages, original source files or family ownership changed.
 
 [Successful text-only staging workflow](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/40785958622) · [Machine-readable staging audit](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-text-only-stage-summary.json) · [Original 491-file source ledger](migration/fabaceae-pinned-source-file-ledger.json)
+
+[Fabaceae first-photo-rights audit and exact hold counts](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_FIRST_PHOTO_RIGHTS_HANDOFF_20261028.md) · [Full 200-photo decision ledger](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-photo-200-decisions.json)
 
 ## Next controlled passes
 
