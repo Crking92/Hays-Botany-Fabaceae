@@ -234,8 +234,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea purpurea",
       "common_name": "Purple prairie clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-tenuis",
@@ -252,8 +252,8 @@
       "genus": "Dermatophyllum",
       "scientific_name": "Dermatophyllum secundiflorum",
       "common_name": "Texas mountain laurel / mescal bean",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "desmanthus-acuminatus",
@@ -441,8 +441,8 @@
       "genus": "Medicago",
       "scientific_name": "Medicago lupulina",
       "common_name": "Black medic (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "medicago-polymorpha",
@@ -450,8 +450,8 @@
       "genus": "Medicago",
       "scientific_name": "Medicago polymorpha",
       "common_name": "Burclover (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "medicago-sativa",
@@ -459,8 +459,8 @@
       "genus": "Medicago",
       "scientific_name": "Medicago sativa",
       "common_name": "Alfalfa (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "melilotus-albus",
@@ -531,7 +531,7 @@
       "genus": "Neltuma",
       "scientific_name": "Neltuma glandulosa",
       "common_name": "Honey mesquite",
-      "photo_count": 2,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -558,8 +558,8 @@
       "genus": "Parkinsonia",
       "scientific_name": "Parkinsonia aculeata",
       "common_name": "Jerusalem thorn / retama",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pediomelum-cuspidatum",
@@ -657,8 +657,8 @@
       "genus": "Senegalia",
       "scientific_name": "Senegalia greggii",
       "common_name": "Gregg's catclaw acacia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "senegalia-roemeriana",
@@ -666,8 +666,8 @@
       "genus": "Senegalia",
       "scientific_name": "Senegalia roemeriana",
       "common_name": "Roundflower catclaw / Roemer acacia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "senegalia-wrightii",
@@ -702,8 +702,8 @@
       "genus": "Senna",
       "scientific_name": "Senna roemeriana",
       "common_name": "Twoleaf senna",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sesbania-drummondii",
@@ -720,8 +720,8 @@
       "genus": "Sesbania",
       "scientific_name": "Sesbania herbacea",
       "common_name": "Bigpod sesbania",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "strophostyles-helvola",
@@ -729,8 +729,8 @@
       "genus": "Strophostyles",
       "scientific_name": "Strophostyles helvola",
       "common_name": "Trailing wild bean",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "styphnolobium-affine",
@@ -738,8 +738,8 @@
       "genus": "Styphnolobium",
       "scientific_name": "Styphnolobium affine",
       "common_name": "Eve's necklace",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tephrosia-lindheimeri",
@@ -765,8 +765,8 @@
       "genus": "Trifolium",
       "scientific_name": "Trifolium repens",
       "common_name": "White clover (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vachellia-constricta",
@@ -774,8 +774,8 @@
       "genus": "Vachellia",
       "scientific_name": "Vachellia constricta",
       "common_name": "Whitethorn acacia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vachellia-farnesiana",
@@ -783,8 +783,8 @@
       "genus": "Vachellia",
       "scientific_name": "Vachellia farnesiana",
       "common_name": "Huisache / sweet acacia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vicia-ludoviciana",
@@ -792,8 +792,8 @@
       "genus": "Vicia",
       "scientific_name": "Vicia ludoviciana",
       "common_name": "Louisiana vetch",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vicia-ludoviciana-var-leavenworthii",

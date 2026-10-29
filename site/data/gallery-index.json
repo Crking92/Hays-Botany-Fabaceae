@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 13,
-  "photo_count": 20,
+  "photo_species": 29,
+  "photo_count": 42,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -106,16 +106,16 @@
       "first_src": null
     },
     "dalea-purpurea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dalea-purpurea/public-inat-purple-prairie-clover-743621173.jpg"
     },
     "dalea-tenuis": {
       "count": 0,
       "first_src": null
     },
     "dermatophyllum-secundiflorum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dermatophyllum-secundiflorum/public-inat-dermatophyllum-secundiflorum-745542712.jpg"
     },
     "desmanthus-acuminatus": {
       "count": 3,
@@ -198,16 +198,16 @@
       "first_src": null
     },
     "medicago-lupulina": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/medicago-lupulina/commons-medicago-lupulina.jpg"
     },
     "medicago-polymorpha": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/medicago-polymorpha/commons-medicago-polymorpha.jpg"
     },
     "medicago-sativa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/medicago-sativa/commons-medicago-sativa.jpg"
     },
     "melilotus-albus": {
       "count": 0,
@@ -238,8 +238,8 @@
       "first_src": null
     },
     "neltuma-glandulosa": {
-      "count": 2,
-      "first_src": "media/neltuma-glandulosa/glass-root-garden-481811604-bipinnate-leaf-detail.jpg"
+      "count": 4,
+      "first_src": "media/neltuma-glandulosa/01-leaves-thorns.jpg"
     },
     "neptunia-lutea": {
       "count": 0,
@@ -250,8 +250,8 @@
       "first_src": null
     },
     "parkinsonia-aculeata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/parkinsonia-aculeata/commons-parkinsonia-aculeata.jpg"
     },
     "pediomelum-cuspidatum": {
       "count": 0,
@@ -294,12 +294,12 @@
       "first_src": "media/robinia-pseudoacacia/robinia-pseudoacacia-pmalkowski.jpg"
     },
     "senegalia-greggii": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/senegalia-greggii/01-field-photo.jpg"
     },
     "senegalia-roemeriana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/senegalia-roemeriana/01-roundflower-heads.jpg"
     },
     "senegalia-wrightii": {
       "count": 0,
@@ -314,24 +314,24 @@
       "first_src": null
     },
     "senna-roemeriana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/senna-roemeriana/public-inat-senna-roemeriana-752965027.jpg"
     },
     "sesbania-drummondii": {
       "count": 0,
       "first_src": null
     },
     "sesbania-herbacea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sesbania-herbacea/commons-sesbania-herbacea.jpg"
     },
     "strophostyles-helvola": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/strophostyles-helvola/commons-strophostyles-helvola.jpg"
     },
     "styphnolobium-affine": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/styphnolobium-affine/commons-styphnolobium-affine.jpg"
     },
     "tephrosia-lindheimeri": {
       "count": 0,
@@ -342,20 +342,20 @@
       "first_src": null
     },
     "trifolium-repens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/trifolium-repens/commons-trifolium-repens.jpg"
     },
     "vachellia-constricta": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/vachellia-constricta/01-field-photo.jpg"
     },
     "vachellia-farnesiana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/vachellia-farnesiana/01-flower-leaves.jpg"
     },
     "vicia-ludoviciana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/vicia-ludoviciana/commons-vicia-ludoviciana.jpg"
     },
     "vicia-ludoviciana-var-leavenworthii": {
       "count": 0,

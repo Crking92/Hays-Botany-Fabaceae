@@ -3,16 +3,15 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 20,
-  "species_with_photos": 13,
-  "held_records": 198,
+  "photos_copied_and_eligible": 42,
+  "species_with_photos": 29,
+  "held_records": 176,
   "held_by_reason": {
     "unverified_license_or_restricted": 149,
     "missing_or_remote_original_file": 18,
-    "photo_specific_public_source_unverified": 8,
+    "photo_specific_public_source_unverified": 5,
     "creator_unverified": 2,
-    "public_reuse_not_cleared": 2,
-    "public_reuse_flag_unverified": 19
+    "public_reuse_not_cleared": 2
   },
   "held_by_species": {
     "acaciella-angustissima-var-texensis": [
@@ -327,10 +326,6 @@
       {
         "record": 2,
         "reason": "missing_or_remote_original_file"
-      },
-      {
-        "record": 3,
-        "reason": "photo_specific_public_source_unverified"
       }
     ],
     "dalea-tenuis": [
@@ -359,10 +354,6 @@
       {
         "record": 2,
         "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 3,
-        "reason": "photo_specific_public_source_unverified"
       }
     ],
     "desmanthus-illinoensis": [
@@ -555,24 +546,6 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "medicago-lupulina": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      }
-    ],
-    "medicago-polymorpha": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      }
-    ],
-    "medicago-sativa": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      }
-    ],
     "melilotus-albus": [
       {
         "record": 0,
@@ -651,16 +624,6 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "neltuma-glandulosa": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      },
-      {
-        "record": 1,
-        "reason": "public_reuse_flag_unverified"
-      }
-    ],
     "neptunia-lutea": [
       {
         "record": 0,
@@ -671,12 +634,6 @@
       {
         "record": 0,
         "reason": "unverified_license_or_restricted"
-      }
-    ],
-    "parkinsonia-aculeata": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
       }
     ],
     "pediomelum-cuspidatum": [
@@ -743,14 +700,6 @@
     ],
     "senegalia-greggii": [
       {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      },
-      {
-        "record": 1,
-        "reason": "public_reuse_flag_unverified"
-      },
-      {
         "record": 2,
         "reason": "unverified_license_or_restricted"
       },
@@ -759,19 +708,11 @@
         "reason": "unverified_license_or_restricted"
       },
       {
-        "record": 4,
-        "reason": "public_reuse_flag_unverified"
-      },
-      {
         "record": 5,
         "reason": "unverified_license_or_restricted"
       }
     ],
     "senegalia-roemeriana": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      },
       {
         "record": 1,
         "reason": "unverified_license_or_restricted"
@@ -879,10 +820,6 @@
       {
         "record": 3,
         "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 4,
-        "reason": "photo_specific_public_source_unverified"
       }
     ],
     "sesbania-drummondii": [
@@ -893,24 +830,6 @@
       {
         "record": 1,
         "reason": "unverified_license_or_restricted"
-      }
-    ],
-    "sesbania-herbacea": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      }
-    ],
-    "strophostyles-helvola": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      }
-    ],
-    "styphnolobium-affine": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
       }
     ],
     "tephrosia-lindheimeri": [
@@ -925,21 +844,7 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "trifolium-repens": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      }
-    ],
     "vachellia-constricta": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      },
-      {
-        "record": 1,
-        "reason": "public_reuse_flag_unverified"
-      },
       {
         "record": 2,
         "reason": "unverified_license_or_restricted"
@@ -947,22 +852,8 @@
     ],
     "vachellia-farnesiana": [
       {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
-      },
-      {
-        "record": 1,
-        "reason": "public_reuse_flag_unverified"
-      },
-      {
         "record": 2,
         "reason": "unverified_license_or_restricted"
-      }
-    ],
-    "vicia-ludoviciana": [
-      {
-        "record": 0,
-        "reason": "public_reuse_flag_unverified"
       }
     ],
     "vicia-ludoviciana-var-leavenworthii": [
@@ -984,7 +875,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 4105393,
+  "total_source_image_bytes": 9728142,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false
