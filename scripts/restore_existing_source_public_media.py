@@ -49,6 +49,13 @@ PINNED_GBIF_CC0={
         "media_url":"https://inaturalist-open-data.s3.amazonaws.com/photos/692204066/original.jpg",
         "blob_sha":"022ecb3f31a5d0fcc2f6af35c0e4c8bace42a61e"},
 }
+PINNED_INAT_GUIDE={
+    "https://www.inaturalist.org/guide_taxa/1557820":{
+        "creator":"Alison Northup","taxon":"Senegalia wrightii",
+        "file":"images/01-flower-spike.jpg","photo_id":"23060929",
+        "media_url":"https://inaturalist-open-data.s3.amazonaws.com/photos/23060929/large.jpeg",
+        "blob_sha":"7123904bd721d2f259c44021c829a2b6c63619e4"}
+}
 def approved(p):
     lic=license_info(p)
     if not lic:return None,"unverified_license_or_restricted"
@@ -65,6 +72,17 @@ def approved(p):
             taxon.startswith(expected["taxon"]) and
             str(p.get("gbif_occurrence_id") or p.get("source_observation_id") or "")==
               source.rsplit("/",1)[-1]):
+            return (creator,source,lic),None
+        return None,"photo_specific_public_source_unverified"
+    if source in PINNED_INAT_GUIDE:
+        expected=PINNED_INAT_GUIDE[source]
+        if (creator==expected["creator"] and lic[0]=="CC BY 4.0" and
+            p.get("file")==expected["file"] and
+            p.get("media_source_url")==expected["media_url"] and
+            str(p.get("source_photo_id") or "")==expected["photo_id"] and
+            str(p.get("source_photo_license_code") or "").lower()=="cc-by" and
+            str(p.get("source_taxon") or "")==expected["taxon"] and
+            reuse=="cc-by"):
             return (creator,source,lic),None
         return None,"photo_specific_public_source_unverified"
     if reuse=="no" or reuse=="false" or "review" in reuse or "private" in reuse or "noncommercial only" in reuse:
@@ -147,9 +165,10 @@ for row in ix["entries"]:
         if len(content)<500 or len(content)>25*1024*1024 or not valid:
             blocks.append({"record":n,"reason":"file_signature_or_size_problem"});continue
         sha=hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()
-        pinned=PINNED_GBIF_CC0.get(str(p.get("source_page") or ""))
+        pinned=(PINNED_GBIF_CC0.get(str(p.get("source_page") or "")) or
+                PINNED_INAT_GUIDE.get(str(p.get("source_page") or "")))
         if pinned and sha!=pinned["blob_sha"]:
-            blocks.append({"record":n,"reason":"pinned_gbif_original_bytes_mismatch"});continue
+            blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
         src="media/"+sid+"/"+path.name
         dest=SITE/src
         if dest.exists():
