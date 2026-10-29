@@ -1,0 +1,1010 @@
+{
+  "collection": "fabaceae",
+  "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
+  "species": 91,
+  "source_photo_records": 218,
+  "photos_copied_and_eligible": 16,
+  "species_with_photos": 10,
+  "held_records": 202,
+  "held_by_reason": {
+    "unverified_license_or_restricted": 149,
+    "missing_or_remote_original_file": 18,
+    "photo_specific_public_source_unverified": 9,
+    "archived_photo_bytes_missing": 2,
+    "creator_unverified": 2,
+    "public_reuse_flag_unverified": 20,
+    "public_reuse_not_cleared": 2
+  },
+  "held_by_species": {
+    "acaciella-angustissima-var-texensis": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "amorpha-canescens": [
+      {
+        "record": 0,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 1,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 2,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 4,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 5,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "amorpha-fruticosa": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "amorpha-roemeriana": [
+      {
+        "record": 0,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 4,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 5,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "astragalus-crassicarpus-var-berlandieri": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "astragalus-leptocarpus": [
+      {
+        "record": 1,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "astragalus-lindheimeri": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "astragalus-nuttallianus": [
+      {
+        "record": 0,
+        "reason": "archived_photo_bytes_missing"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "astragalus-nuttallianus-var-pleianthus": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "astragalus-plattensis": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "baptisia-bracteata": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "bauhinia-lunarioides": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "cercis-canadensis-subsp-mexicana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "cercis-canadensis-subsp-texensis": [
+      {
+        "record": 2,
+        "reason": "missing_or_remote_original_file"
+      }
+    ],
+    "dalea-aurea": [
+      {
+        "record": 0,
+        "reason": "creator_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-candida": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-compacta": [
+      {
+        "record": 0,
+        "reason": "creator_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-enneandra": [
+      {
+        "record": 0,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-frutescens": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-greggii": [
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-hallii": [
+      {
+        "record": 0,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 1,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 2,
+        "reason": "public_reuse_not_cleared"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 4,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 5,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 6,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-multiflora": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-nana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-neomexicana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dalea-purpurea": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 3,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "dalea-tenuis": [
+      {
+        "record": 0,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "dermatophyllum-secundiflorum": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "desmanthus-acuminatus": [
+      {
+        "record": 2,
+        "reason": "archived_photo_bytes_missing"
+      }
+    ],
+    "desmanthus-illinoensis": [
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "desmanthus-leptolobus": [
+      {
+        "record": 0,
+        "reason": "photo_specific_public_source_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "desmanthus-velutinus": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "desmanthus-virgatus": [
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "desmodium-paniculatum": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "desmodium-psilophyllum": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "desmodium-sessilifolium": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "erythrina-herbacea": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "eysenhardtia-texana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "galactia-canescens": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "galactia-texana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "gleditsia-triacanthos": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "hylodesmum-nudiflorum": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "indigofera-miniata": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "kummerowia-striata": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "lespedeza-texana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "leucaena-retusa": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "lotus-berthelotii": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "lupinus-texensis": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "medicago-lupulina": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "medicago-polymorpha": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "medicago-sativa": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "melilotus-albus": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "melilotus-indicus": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "mimosa-biuncifera": [
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "mimosa-borealis": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "mimosa-latidens": [
+      {
+        "record": 0,
+        "reason": "photo_specific_public_source_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "mimosa-roemeriana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "mimosa-texana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "neltuma-glandulosa": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "neptunia-lutea": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "neptunia-pubescens": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "parkinsonia-aculeata": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "pediomelum-cuspidatum": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "pediomelum-cyphocalyx": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "pediomelum-latestipulatum": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "pediomelum-linearifolium": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "pediomelum-rhombifolium": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "pediomelum-tenuiflorum": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "rhynchosia-americana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "rhynchosia-minima": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "rhynchosia-senna": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "senegalia-greggii": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 4,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 5,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "senegalia-roemeriana": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 4,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 5,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "senegalia-wrightii": [
+      {
+        "record": 0,
+        "reason": "photo_specific_public_source_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "senna-lindheimeriana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 2,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 3,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 4,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 5,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 6,
+        "reason": "missing_or_remote_original_file"
+      },
+      {
+        "record": 7,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 8,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 9,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "senna-pilosior": [
+      {
+        "record": 0,
+        "reason": "public_reuse_not_cleared"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "senna-roemeriana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 3,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 4,
+        "reason": "photo_specific_public_source_unverified"
+      }
+    ],
+    "sesbania-drummondii": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      },
+      {
+        "record": 1,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "sesbania-herbacea": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "strophostyles-helvola": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "styphnolobium-affine": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "tephrosia-lindheimeri": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "tephrosia-potosina": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "trifolium-repens": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "vachellia-constricta": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "vachellia-farnesiana": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 1,
+        "reason": "public_reuse_flag_unverified"
+      },
+      {
+        "record": 2,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "vicia-ludoviciana": [
+      {
+        "record": 0,
+        "reason": "public_reuse_flag_unverified"
+      }
+    ],
+    "vicia-ludoviciana-var-leavenworthii": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "vicia-ludoviciana-var-ludoviciana": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ],
+    "zornia-bracteata": [
+      {
+        "record": 0,
+        "reason": "unverified_license_or_restricted"
+      }
+    ]
+  },
+  "total_source_image_bytes": 3085709,
+  "new_external_images": 0,
+  "restricted_media_copied": 0,
+  "source_branch_modified": false
+}

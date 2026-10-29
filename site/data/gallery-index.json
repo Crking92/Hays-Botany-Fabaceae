@@ -1,0 +1,373 @@
+{
+  "schema_version": 1,
+  "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
+  "species": 91,
+  "photo_species": 10,
+  "photo_count": 16,
+  "entries": {
+    "acaciella-angustissima-var-texensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "amorpha-canescens": {
+      "count": 0,
+      "first_src": null
+    },
+    "amorpha-fruticosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "amorpha-roemeriana": {
+      "count": 0,
+      "first_src": null
+    },
+    "astragalus-crassicarpus-var-berlandieri": {
+      "count": 0,
+      "first_src": null
+    },
+    "astragalus-leptocarpus": {
+      "count": 1,
+      "first_src": "media/astragalus-leptocarpus/01-slimpod-milkvetch-mature-fruit.jpg"
+    },
+    "astragalus-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "astragalus-nuttallianus": {
+      "count": 0,
+      "first_src": null
+    },
+    "astragalus-nuttallianus-var-pleianthus": {
+      "count": 0,
+      "first_src": null
+    },
+    "astragalus-plattensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "baptisia-bracteata": {
+      "count": 0,
+      "first_src": null
+    },
+    "bauhinia-lunarioides": {
+      "count": 0,
+      "first_src": null
+    },
+    "cercis-canadensis-subsp-mexicana": {
+      "count": 0,
+      "first_src": null
+    },
+    "cercis-canadensis-subsp-texensis": {
+      "count": 2,
+      "first_src": "media/cercis-canadensis-subsp-texensis/01-flowering-branches.jpg"
+    },
+    "chamaecrista-fasciculata": {
+      "count": 2,
+      "first_src": "media/chamaecrista-fasciculata/chamaecrista-fasciculata-flowers-commons.jpg"
+    },
+    "dalea-aurea": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-candida": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-compacta": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-enneandra": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-frutescens": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-greggii": {
+      "count": 1,
+      "first_src": "media/dalea-greggii/dalea-greggii-provisional-face.jpg"
+    },
+    "dalea-hallii": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-multiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-nana": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-neomexicana": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-purpurea": {
+      "count": 0,
+      "first_src": null
+    },
+    "dalea-tenuis": {
+      "count": 0,
+      "first_src": null
+    },
+    "dermatophyllum-secundiflorum": {
+      "count": 0,
+      "first_src": null
+    },
+    "desmanthus-acuminatus": {
+      "count": 2,
+      "first_src": "media/desmanthus-acuminatus/desmanthus-acuminatus-leaves-flowers.jpg"
+    },
+    "desmanthus-illinoensis": {
+      "count": 2,
+      "first_src": "media/desmanthus-illinoensis/illinoensis-heads-and-fruit.jpg"
+    },
+    "desmanthus-leptolobus": {
+      "count": 0,
+      "first_src": null
+    },
+    "desmanthus-velutinus": {
+      "count": 0,
+      "first_src": null
+    },
+    "desmanthus-virgatus": {
+      "count": 2,
+      "first_src": "media/desmanthus-virgatus/virgatus-guadeloupe-face.jpg"
+    },
+    "desmodium-paniculatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "desmodium-psilophyllum": {
+      "count": 0,
+      "first_src": null
+    },
+    "desmodium-sessilifolium": {
+      "count": 0,
+      "first_src": null
+    },
+    "erythrina-herbacea": {
+      "count": 0,
+      "first_src": null
+    },
+    "eysenhardtia-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "galactia-canescens": {
+      "count": 0,
+      "first_src": null
+    },
+    "galactia-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "gleditsia-triacanthos": {
+      "count": 0,
+      "first_src": null
+    },
+    "hylodesmum-nudiflorum": {
+      "count": 0,
+      "first_src": null
+    },
+    "indigofera-miniata": {
+      "count": 0,
+      "first_src": null
+    },
+    "kummerowia-striata": {
+      "count": 0,
+      "first_src": null
+    },
+    "lespedeza-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "leucaena-retusa": {
+      "count": 0,
+      "first_src": null
+    },
+    "lotus-berthelotii": {
+      "count": 0,
+      "first_src": null
+    },
+    "lupinus-texensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "medicago-lupulina": {
+      "count": 0,
+      "first_src": null
+    },
+    "medicago-polymorpha": {
+      "count": 0,
+      "first_src": null
+    },
+    "medicago-sativa": {
+      "count": 0,
+      "first_src": null
+    },
+    "melilotus-albus": {
+      "count": 0,
+      "first_src": null
+    },
+    "melilotus-indicus": {
+      "count": 0,
+      "first_src": null
+    },
+    "mimosa-biuncifera": {
+      "count": 1,
+      "first_src": "media/mimosa-biuncifera/mimosa-biuncifera-provisional-face.jpg"
+    },
+    "mimosa-borealis": {
+      "count": 0,
+      "first_src": null
+    },
+    "mimosa-latidens": {
+      "count": 0,
+      "first_src": null
+    },
+    "mimosa-roemeriana": {
+      "count": 0,
+      "first_src": null
+    },
+    "mimosa-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "neltuma-glandulosa": {
+      "count": 2,
+      "first_src": "media/neltuma-glandulosa/glass-root-garden-481811604-bipinnate-leaf-detail.jpg"
+    },
+    "neptunia-lutea": {
+      "count": 0,
+      "first_src": null
+    },
+    "neptunia-pubescens": {
+      "count": 0,
+      "first_src": null
+    },
+    "parkinsonia-aculeata": {
+      "count": 0,
+      "first_src": null
+    },
+    "pediomelum-cuspidatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "pediomelum-cyphocalyx": {
+      "count": 0,
+      "first_src": null
+    },
+    "pediomelum-latestipulatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "pediomelum-linearifolium": {
+      "count": 0,
+      "first_src": null
+    },
+    "pediomelum-rhombifolium": {
+      "count": 0,
+      "first_src": null
+    },
+    "pediomelum-tenuiflorum": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhynchosia-americana": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhynchosia-minima": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhynchosia-senna": {
+      "count": 0,
+      "first_src": null
+    },
+    "robinia-pseudoacacia": {
+      "count": 1,
+      "first_src": "media/robinia-pseudoacacia/robinia-pseudoacacia-pmalkowski.jpg"
+    },
+    "senegalia-greggii": {
+      "count": 0,
+      "first_src": null
+    },
+    "senegalia-roemeriana": {
+      "count": 0,
+      "first_src": null
+    },
+    "senegalia-wrightii": {
+      "count": 0,
+      "first_src": null
+    },
+    "senna-lindheimeriana": {
+      "count": 0,
+      "first_src": null
+    },
+    "senna-pilosior": {
+      "count": 0,
+      "first_src": null
+    },
+    "senna-roemeriana": {
+      "count": 0,
+      "first_src": null
+    },
+    "sesbania-drummondii": {
+      "count": 0,
+      "first_src": null
+    },
+    "sesbania-herbacea": {
+      "count": 0,
+      "first_src": null
+    },
+    "strophostyles-helvola": {
+      "count": 0,
+      "first_src": null
+    },
+    "styphnolobium-affine": {
+      "count": 0,
+      "first_src": null
+    },
+    "tephrosia-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "tephrosia-potosina": {
+      "count": 0,
+      "first_src": null
+    },
+    "trifolium-repens": {
+      "count": 0,
+      "first_src": null
+    },
+    "vachellia-constricta": {
+      "count": 0,
+      "first_src": null
+    },
+    "vachellia-farnesiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "vicia-ludoviciana": {
+      "count": 0,
+      "first_src": null
+    },
+    "vicia-ludoviciana-var-leavenworthii": {
+      "count": 0,
+      "first_src": null
+    },
+    "vicia-ludoviciana-var-ludoviciana": {
+      "count": 0,
+      "first_src": null
+    },
+    "zornia-bracteata": {
+      "count": 0,
+      "first_src": null
+    }
+  }
+}
