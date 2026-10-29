@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "owner_unlinked_originals_audited": 3,
+    "exact_observation_photo_matches": 3,
+    "held": 0,
+    "no_images_transferred": true,
+    "public_website_unchanged": true
+  },
+  "entries": [
+    {
+      "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/images/inat-530810631.jpg",
+      "species_id": "rhynchosia-minima",
+      "claimed_photo_url": "https://www.inaturalist.org/photos/530810631",
+      "photo_id": 530810631,
+      "status": "OWNER_PROJECT_SOURCE_VERIFIED_PRIVATE_ONLY",
+      "observation_id": 294883394,
+      "observed_taxon": "Rhynchosia minima",
+      "photo_current_url": "https://static.inaturalist.org/photos/530810631/large.jpg",
+      "current_license": null,
+      "current_attribution": "(c) Calvin King, all rights reserved",
+      "pixel_phash_distance": 0,
+      "photo_observation_link_verified": true,
+      "public_cc_not_inferred": true
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/inat-631156962.jpg",
+      "species_id": "rhynchosia-senna",
+      "claimed_photo_url": "https://www.inaturalist.org/photos/631156962",
+      "photo_id": 631156962,
+      "status": "OWNER_PROJECT_SOURCE_VERIFIED_PRIVATE_ONLY",
+      "observation_id": 346261997,
+      "observed_taxon": "Rhynchosia senna",
+      "photo_current_url": "https://static.inaturalist.org/photos/631156962/large.jpg",
+      "current_license": null,
+      "current_attribution": "(c) Calvin King, all rights reserved",
+      "pixel_phash_distance": 0,
+      "photo_observation_link_verified": true,
+      "public_cc_not_inferred": true
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/inat-566513341.jpg",
+      "species_id": "sesbania-drummondii",
+      "claimed_photo_url": "https://www.inaturalist.org/photos/566513341",
+      "photo_id": 566513341,
+      "status": "OWNER_PROJECT_SOURCE_VERIFIED_PRIVATE_ONLY",
+      "observation_id": 313695668,
+      "observed_taxon": "Sesbania drummondii",
+      "photo_current_url": "https://static.inaturalist.org/photos/566513341/large.jpg",
+      "current_license": null,
+      "current_attribution": "(c) Calvin King, all rights reserved",
+      "pixel_phash_distance": 0,
+      "photo_observation_link_verified": true,
+      "public_cc_not_inferred": true
+    }
+  ]
+}

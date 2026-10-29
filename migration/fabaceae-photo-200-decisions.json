@@ -2967,8 +2967,27 @@
     "claimed_creator": "Calvin King",
     "claimed_license": "All rights reserved — owner-authorized private study",
     "claimed_source_page": "https://www.inaturalist.org/photos/530810631",
-    "status": "HOLD",
-    "reason": "INAT_OBSERVATION_ID_MISSING"
+    "status": "STAGED_PRIVATE_OWNER_PERMISSION",
+    "evidence": {
+      "creator": "Glass Root Garden (Calvin King)",
+      "license": "Owner-authorized private project use; original photo all rights reserved",
+      "license_url": "",
+      "source_page": "https://www.inaturalist.org/photos/530810631",
+      "observation_id": 294883394,
+      "photo_id": 530810631,
+      "observed_taxon": "Rhynchosia minima",
+      "current_inat_license_code": null,
+      "current_inat_attribution": "(c) Calvin King, all rights reserved",
+      "pixel_phash_distance": 0,
+      "provenance": "INAT_CONFIRMED_OWNER_USER_TAXON_OBSERVATION_AND_PHOTO_MATCH",
+      "permission_basis": "Original photo-owner permission recorded as private study use in family source CSV; independent current iNaturalist photo remains all rights reserved",
+      "public_cc_license_not_inferred": true
+    },
+    "destination_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-minima/images/inat-530810631.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "private_rights_review_only": true,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/gbif-manual-6185179860-060fb5382.jpg",
@@ -3008,8 +3027,27 @@
     "claimed_creator": "Calvin King",
     "claimed_license": "All rights reserved — owner-authorized private study",
     "claimed_source_page": "https://www.inaturalist.org/photos/631156962",
-    "status": "HOLD",
-    "reason": "INAT_OBSERVATION_ID_MISSING"
+    "status": "STAGED_PRIVATE_OWNER_PERMISSION",
+    "evidence": {
+      "creator": "Glass Root Garden (Calvin King)",
+      "license": "Owner-authorized private project use; original photo all rights reserved",
+      "license_url": "",
+      "source_page": "https://www.inaturalist.org/photos/631156962",
+      "observation_id": 346261997,
+      "photo_id": 631156962,
+      "observed_taxon": "Rhynchosia senna",
+      "current_inat_license_code": null,
+      "current_inat_attribution": "(c) Calvin King, all rights reserved",
+      "pixel_phash_distance": 0,
+      "provenance": "INAT_CONFIRMED_OWNER_USER_TAXON_OBSERVATION_AND_PHOTO_MATCH",
+      "permission_basis": "Original photo-owner permission recorded as private study use in family source CSV; independent current iNaturalist photo remains all rights reserved",
+      "public_cc_license_not_inferred": true
+    },
+    "destination_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/inat-631156962.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "private_rights_review_only": true,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Robinia/robinia-pseudoacacia/images/robinia-pseudoacacia-pmalkowski.jpg",
@@ -3545,8 +3583,27 @@
     "claimed_creator": "Calvin King",
     "claimed_license": "All rights reserved — owner-authorized private study",
     "claimed_source_page": "https://www.inaturalist.org/photos/566513341",
-    "status": "HOLD",
-    "reason": "INAT_OBSERVATION_ID_MISSING"
+    "status": "STAGED_PRIVATE_OWNER_PERMISSION",
+    "evidence": {
+      "creator": "Glass Root Garden (Calvin King)",
+      "license": "Owner-authorized private project use; original photo all rights reserved",
+      "license_url": "",
+      "source_page": "https://www.inaturalist.org/photos/566513341",
+      "observation_id": 313695668,
+      "photo_id": 566513341,
+      "observed_taxon": "Sesbania drummondii",
+      "current_inat_license_code": null,
+      "current_inat_attribution": "(c) Calvin King, all rights reserved",
+      "pixel_phash_distance": 0,
+      "provenance": "INAT_CONFIRMED_OWNER_USER_TAXON_OBSERVATION_AND_PHOTO_MATCH",
+      "permission_basis": "Original photo-owner permission recorded as private study use in family source CSV; independent current iNaturalist photo remains all rights reserved",
+      "public_cc_license_not_inferred": true
+    },
+    "destination_path": "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/inat-566513341.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "private_rights_review_only": true,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Sesbania/sesbania-herbacea/images/commons-sesbania-herbacea.jpg",
