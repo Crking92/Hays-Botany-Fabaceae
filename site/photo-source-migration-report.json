@@ -3,14 +3,13 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 44,
-  "species_with_photos": 31,
-  "held_records": 174,
+  "photos_copied_and_eligible": 48,
+  "species_with_photos": 34,
+  "held_records": 170,
   "held_by_reason": {
     "unverified_license_or_restricted": 149,
     "missing_or_remote_original_file": 18,
-    "photo_specific_public_source_unverified": 5,
-    "public_reuse_not_cleared": 2
+    "photo_specific_public_source_unverified": 3
   },
   "held_by_species": {
     "acaciella-angustissima-var-texensis": [
@@ -95,12 +94,6 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "astragalus-leptocarpus": [
-      {
-        "record": 1,
-        "reason": "photo_specific_public_source_unverified"
-      }
-    ],
     "astragalus-lindheimeri": [
       {
         "record": 0,
@@ -131,10 +124,6 @@
       {
         "record": 0,
         "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
-        "reason": "photo_specific_public_source_unverified"
       }
     ],
     "baptisia-bracteata": [
@@ -245,10 +234,6 @@
       {
         "record": 1,
         "reason": "missing_or_remote_original_file"
-      },
-      {
-        "record": 2,
-        "reason": "public_reuse_not_cleared"
       },
       {
         "record": 3,
@@ -783,10 +768,6 @@
     ],
     "senna-pilosior": [
       {
-        "record": 0,
-        "reason": "public_reuse_not_cleared"
-      },
-      {
         "record": 1,
         "reason": "unverified_license_or_restricted"
       },
@@ -866,7 +847,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 10126690,
+  "total_source_image_bytes": 11292260,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 31,
-  "photo_count": 44,
+  "photo_species": 34,
+  "photo_count": 48,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -26,7 +26,7 @@
       "first_src": null
     },
     "astragalus-leptocarpus": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/astragalus-leptocarpus/01-slimpod-milkvetch-mature-fruit.jpg"
     },
     "astragalus-lindheimeri": {
@@ -42,8 +42,8 @@
       "first_src": null
     },
     "astragalus-plattensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/astragalus-plattensis/gbif-manual-5140729847-19b7a5e80.jpg"
     },
     "baptisia-bracteata": {
       "count": 0,
@@ -90,8 +90,8 @@
       "first_src": "media/dalea-greggii/dalea-greggii-provisional-face.jpg"
     },
     "dalea-hallii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dalea-hallii/library-review014-725ce09df227f6c.jpg"
     },
     "dalea-multiflora": {
       "count": 0,
@@ -310,8 +310,8 @@
       "first_src": null
     },
     "senna-pilosior": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/senna-pilosior/gbif-first-6431822939-9ca58a139a.jpg"
     },
     "senna-roemeriana": {
       "count": 1,

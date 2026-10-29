@@ -54,7 +54,7 @@
       "genus": "Astragalus",
       "scientific_name": "Astragalus leptocarpus",
       "common_name": "Slimpod milkvetch",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -90,8 +90,8 @@
       "genus": "Astragalus",
       "scientific_name": "Astragalus plattensis",
       "common_name": "Platte River milkvetch",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "baptisia-bracteata",
@@ -198,8 +198,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea hallii",
       "common_name": "Hall's Prairie Clover / Hall's Dalea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-multiflora",
@@ -693,8 +693,8 @@
       "genus": "Senna",
       "scientific_name": "Senna pilosior",
       "common_name": "Trans-Pecos senna",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "senna-roemeriana",
