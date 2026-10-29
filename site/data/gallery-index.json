@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 10,
-  "photo_count": 16,
+  "photo_species": 11,
+  "photo_count": 18,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -34,8 +34,8 @@
       "first_src": null
     },
     "astragalus-nuttallianus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/astragalus-nuttallianus/astragalus-nuttallianus-provisional-face.jpg"
     },
     "astragalus-nuttallianus-var-pleianthus": {
       "count": 0,
@@ -118,7 +118,7 @@
       "first_src": null
     },
     "desmanthus-acuminatus": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/desmanthus-acuminatus/desmanthus-acuminatus-leaves-flowers.jpg"
     },
     "desmanthus-illinoensis": {

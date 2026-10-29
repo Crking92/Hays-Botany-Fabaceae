@@ -3,14 +3,13 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 16,
-  "species_with_photos": 10,
-  "held_records": 202,
+  "photos_copied_and_eligible": 18,
+  "species_with_photos": 11,
+  "held_records": 200,
   "held_by_reason": {
     "unverified_license_or_restricted": 149,
     "missing_or_remote_original_file": 18,
     "photo_specific_public_source_unverified": 9,
-    "archived_photo_bytes_missing": 2,
     "creator_unverified": 2,
     "public_reuse_flag_unverified": 20,
     "public_reuse_not_cleared": 2
@@ -119,10 +118,6 @@
       }
     ],
     "astragalus-nuttallianus": [
-      {
-        "record": 0,
-        "reason": "archived_photo_bytes_missing"
-      },
       {
         "record": 1,
         "reason": "unverified_license_or_restricted"
@@ -376,12 +371,6 @@
       {
         "record": 3,
         "reason": "photo_specific_public_source_unverified"
-      }
-    ],
-    "desmanthus-acuminatus": [
-      {
-        "record": 2,
-        "reason": "archived_photo_bytes_missing"
       }
     ],
     "desmanthus-illinoensis": [
@@ -1003,7 +992,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 3085709,
+  "total_source_image_bytes": 3642578,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false
