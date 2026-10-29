@@ -1,0 +1,74 @@
+name: Archive last three source-verified Calvin King originals privately
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/archive_verified_fabaceae_owner_three_private.py'
+      - '.github/workflows/fabaceae-owner-three-private-archive.yml'
+  workflow_dispatch:
+permissions: {actions: read, contents: write}
+concurrency:
+  group: fabaceae-source-media-writes
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staged
+          persist-credentials: true
+      - uses: actions/download-artifact@v4
+        with:
+          name: fabaceae-owner-three-unlinked-exact-photo-evidence
+          run-id: 40791459815
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: source-evidence
+      - name: Syntax and evidence check
+        run: |
+          python -m py_compile shell/scripts/archive_verified_fabaceae_owner_three_private.py
+          test -f source-evidence/fabaceae-owner-three-unlinked-evidence.json
+      - name: Read original authoritative Fabaceae photo bytes only
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set content/taxa/Fabaceae
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+          test "$(git -C "$RUNNER_TEMP/hays-source" rev-parse HEAD:content/taxa/Fabaceae)" = 947ac940c97f273db03e7b42f5dc992241871527
+      - name: Verify and privately archive three owner originals without claiming CC licensing
+        run: |
+          python3 shell/scripts/archive_verified_fabaceae_owner_three_private.py "$RUNNER_TEMP/hays-source" staged source-evidence/fabaceae-owner-three-unlinked-evidence.json
+          python3 staged/scripts/validate_collection.py
+      - name: Commit original images and rights reports on private staging only
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Fabaceae migration/fabaceae-photo-200-decisions.json migration/fabaceae-private-owner-photo-ledger.json migration/fabaceae-owner-seven-private-archive-summary.json migration/fabaceae-owner-three-unlinked-evidence.json
+          git diff --cached --check -- migration/
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive final three Glass Root Garden originals with private-only provenance"
+            git fetch origin staging/fabaceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          fi
+      - name: Preserve private owner archive audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-owner-seven-private-photo-status
+          path: staged/migration/fabaceae-owner-seven-private-archive-summary.json
+          retention-days: 30
+          if-no-files-found: warn
