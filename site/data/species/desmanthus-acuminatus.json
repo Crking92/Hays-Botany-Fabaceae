@@ -39,8 +39,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/desmanthus-acuminatus/desmanthus-acuminatus-leaves-flowers.jpg",
+      "creator": "Btcpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_leaf_and_flowers.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "025b67dfb13e26565789fe0bbde621a50fb9963c",
+      "role": "Leaf and flower heads on exact species; check complete bipinnate leaves and flower head structure",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/desmanthus-acuminatus/desmanthus-acuminatus-face.jpg",
+      "creator": "Btcpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "41d863b497184d612afb16fedd2f57a140dd5918",
+      "role": "Wild tantan exact-species whole shoot / plant recognition; not a verified leaf gland macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7a3c2421ee3ec1df67d264f4c65357cf14d4108bb4f8860df1711217e009967e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

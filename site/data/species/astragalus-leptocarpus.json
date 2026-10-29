@@ -43,8 +43,22 @@
     "names": [],
     "differences": "Think narrowest fruit in the batch. It lacks the thick groundplum pod and differs from Nuttall's milkvetch by its especially slim straight legumes."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/astragalus-leptocarpus/01-slimpod-milkvetch-mature-fruit.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Astragalus_leptocarpus_-_fruit.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "f0c232f99dd4b5d64bfad7b602c725703cf5ca26",
+      "role": "multiple long narrow mature pods and plant leaflets",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "58503e803619b7fd906b148461b0c7f80b3dc0a026572cc63aa35516b8b74858",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -35,8 +35,35 @@
     "names": [],
     "differences": "Compared with subsp. mexicana, subsp. texensis usually has larger, less wavy, glossier leaves and occupies Central Texas east of the more xeric Mexican-redbud range."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cercis-canadensis-subsp-texensis/01-flowering-branches.jpg",
+      "creator": "woodleywonderworks",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis_var._texensis_(3453948807).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "f47bd44646fce0bf18f8a5704c4b659966765a86",
+      "role": "Spring flowering branches / trunk-borne flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/cercis-canadensis-subsp-texensis/02-texensis-oklahoma-branch.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis_var._texensis_Oklahoma_1zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "01cc7157cd924dd5ea7b7ff640c1f7e290d2c2db",
+      "role": "Exact-variety branch/foliage and flowering context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "95847b368923c80a0ea396df7fc67f8b81802f86b7082a7b264ccbcb9727e89d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -31,8 +31,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/chamaecrista-fasciculata/chamaecrista-fasciculata-flowers-commons.jpg",
+      "creator": "Fritzflohrreynolds",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chamaecrista_fasciculata_-_Partridge_Pea.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "182f50c0a953793c5fc2023ea89a7d105c70c83e",
+      "role": "Yellow flowers and pinnate leaflets",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/chamaecrista-fasciculata/chamaecrista-fasciculata-pods-seeds-commons.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chamaecrista_fasciculata_346279052.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "557bf1dfb2fec7d26128f0605821495cc3d74a3b",
+      "role": "Opened mature pods and loose seeds",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1fe023c56f90724d6d9f635bfa0ab19edd72a4cb68f7a56cc53ef8673409a3b1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

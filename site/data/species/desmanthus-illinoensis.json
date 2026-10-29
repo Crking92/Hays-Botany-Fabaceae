@@ -23,8 +23,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/desmanthus-illinoensis/illinoensis-heads-and-fruit.jpg",
+      "creator": "Joozwa",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_inflorescence_&_fruits_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "b241a7ef51196ccf64f38ce3c6092d00e0f99b87",
+      "role": "Flower heads and pods: many-flowered heads with clustered curved broad pods; photographed cultivated central Poland",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/desmanthus-illinoensis/illinoensis-ripe-pods.jpg",
+      "creator": "Dehaan",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_pods.JPG",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "e17aa39c21e9983867ccaa4aabe5e3d2a5069e5d",
+      "role": "Mature short wide falcate pods with visible seed impressions; reproductive comparison",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4aef1803b021f8e37dbbd12b120ef75124a70799a59c7280a45be1acb490d8b5",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
