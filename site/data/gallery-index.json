@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 34,
-  "photo_count": 48,
+  "photo_species": 35,
+  "photo_count": 49,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -302,8 +302,8 @@
       "first_src": "media/senegalia-roemeriana/01-roundflower-heads.jpg"
     },
     "senegalia-wrightii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/senegalia-wrightii/01-flower-spike.jpg"
     },
     "senna-lindheimeriana": {
       "count": 0,

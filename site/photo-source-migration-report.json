@@ -3,13 +3,13 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 48,
-  "species_with_photos": 34,
-  "held_records": 170,
+  "photos_copied_and_eligible": 49,
+  "species_with_photos": 35,
+  "held_records": 169,
   "held_by_reason": {
     "unverified_license_or_restricted": 149,
     "missing_or_remote_original_file": 18,
-    "photo_specific_public_source_unverified": 3
+    "photo_specific_public_source_unverified": 2
   },
   "held_by_species": {
     "acaciella-angustissima-var-texensis": [
@@ -712,10 +712,6 @@
     ],
     "senegalia-wrightii": [
       {
-        "record": 0,
-        "reason": "photo_specific_public_source_unverified"
-      },
-      {
         "record": 1,
         "reason": "unverified_license_or_restricted"
       },
@@ -847,7 +843,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 11292260,
+  "total_source_image_bytes": 11404103,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false
