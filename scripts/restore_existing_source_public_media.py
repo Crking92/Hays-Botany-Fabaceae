@@ -35,8 +35,19 @@ def approved(p):
     if reuse=="no" or reuse=="false" or "review" in reuse or "private" in reuse or "noncommercial only" in reuse:
         return None,"public_reuse_not_cleared"
     if source.startswith("https://commons.wikimedia.org/wiki/File:"):
-        if reuse and not (reuse.startswith("yes") or reuse.startswith("cc_") or reuse in ("public domain","public_domain")):
+        if reuse and not (reuse.startswith("yes") or reuse.startswith("cc_") or
+            (reuse=="cc0" and lic[0]=="CC0 1.0" and source=="https://commons.wikimedia.org/wiki/File:Dalea_candida_-_White_Prairie_Clover_01.jpg"
+              and creator=="Jasper Shide")
+            or reuse in ("public domain","public_domain")):
             return None,"public_reuse_flag_unverified"
+        return (creator,source,lic),None
+    # Exact original iNaturalist photograph independently recorded as cc-by,
+    # with photographer, version, photo ID and already archived original bytes.
+    if (source=="https://www.inaturalist.org/photos/752610634" and
+        creator=="(c) fern Wildtruth, some rights reserved (CC BY)" and
+        lic[0]=="CC BY 4.0" and str(p.get("source_photo_id"))=="752610634" and
+        str(p.get("source_photo_license_code") or "").lower()=="cc-by" and
+        str(p.get("source_taxon"))=="Amorpha fruticosa" and reuse.startswith("yes")):
         return (creator,source,lic),None
     if source.startswith("https://www.inaturalist.org/photos/") and creator=="Glass Root Garden":
         if "Direct license from photographer" in str(p.get("license_basis") or "") and lic[0]=="CC BY 4.0" and reuse=="yes":
