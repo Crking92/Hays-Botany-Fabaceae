@@ -1,0 +1,42 @@
+{
+  "id": "amorpha-fruticosa",
+  "family": "Fabaceae",
+  "genus": "Amorpha",
+  "scientific_name": "Amorpha fruticosa",
+  "common_name": "False indigo bush / indigobush",
+  "look_here_first": "Think tall riparian Amorpha: false indigo bush is a much larger open shrub with long pinnate leaves, many broad oval leaflets, and elongated purple flower spikes carried at the ends of upper branches.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "tall multi-stemmed shrub often 2–3 m or more"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate pinnate compound leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "many relatively large oblong to oval leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "elongated dense purple flower racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "single banner petal with conspicuous yellow-orange stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "moist streambanks, lake margins, and riparian thickets"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "A. fruticosa is the tall riparian member of the local comparison set. A. canescens is much shorter, gray-hairy and prairie-like; A. roemeriana is a smaller limestone shrub with greener less-hairy foliage."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7c124159abeb28379f657dcdeda9723414a03278f03537b6620dd701f516c8ed",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

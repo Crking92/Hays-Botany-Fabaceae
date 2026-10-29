@@ -1,0 +1,42 @@
+{
+  "id": "dalea-purpurea",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea purpurea",
+  "common_name": "Purple prairie clover",
+  "look_here_first": "Start at the flower head, then move straight to the calyx. Purple prairie clover forms dense thimble-like to cylindrical heads; for the difficult D. purpurea versus D. compacta split, use calyx pubescence rather than flower color.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial with stiff upright stems from a deep root"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate odd-pinnate leaves with usually 3–7 very narrow leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "dense thimble-shaped to cylindrical terminal flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers progress upward on the head"
+    },
+    {
+      "label": "Identification",
+      "text": "small legume with one or two seeds"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx pubescence pattern is a priority character versus Dalea compacta"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "D. compacta is the priority confuser: D. compacta has calyx hairs arranged in longitudinal lines separated by bald areas, while D. purpurea has hairs distributed over the calyx-tube surface. D. enneandra has a loose spike with exposed rachis; D. tenuis is consistently 3-foliolate with extremely narrow leaflets."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d7fff61b5582dc08019fbeb6cef6ea5e2d198f0e84808132c56676da8e37522e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

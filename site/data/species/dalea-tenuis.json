@@ -1,0 +1,50 @@
+{
+  "id": "dalea-tenuis",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea tenuis",
+  "common_name": "Pinkglobe prairie clover / Stanfield prairie-clover",
+  "look_here_first": "Look for the very fine-textured Dalea: leaves are consistently 3-foliolate with extremely narrow linear leaflets, and terminal flower clusters form small pink-purple globes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial, several to many stems from base"
+    },
+    {
+      "label": "Identification",
+      "text": "usually to about 30 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage essentially glabrous and gland-dotted"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves consistently 3-foliolate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets extremely narrow and linear"
+    },
+    {
+      "label": "Identification",
+      "text": "small terminal pink to purple flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage aromatic when crushed"
+    },
+    {
+      "label": "Identification",
+      "text": "dry limestone and prairie sites"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The extremely narrow linear 3-foliolate leaves give D. tenuis a feathery look. D. multiflora has white round heads; D. nana is shorter, silky-haired, and starts yellow before flowers age purple."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1331db4e654bb7ff590a44cc8a4694b61438fd9504ffa1702745a4185bd9e095",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

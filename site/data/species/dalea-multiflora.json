@@ -1,0 +1,46 @@
+{
+  "id": "dalea-multiflora",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea multiflora",
+  "common_name": "Roundhead prairie clover / white prairie clover",
+  "look_here_first": "Look for compact white flower globes on a low, many-stemmed, gland-dotted prairie clover with mostly 3 narrow leaflets.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial, many-stemmed from base"
+    },
+    {
+      "label": "Identification",
+      "text": "usually under about 35 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage glabrous and conspicuously gland-dotted"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves usually 3-foliolate, sometimes 5"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets narrow oblong to linear"
+    },
+    {
+      "label": "Identification",
+      "text": "dense rounded white flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage mildly aromatic when crushed"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with D. nana, D. multiflora has white rounded heads rather than yellow flowers aging rose-purple. Compared with D. tenuis, it has a compact round head and broader-looking 3(–5)-foliolate foliage rather than the feathery linear 3-foliolate look."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3cf442b05f4076e9325bc7929ae1d1d4209a72358ff7ca62942c8b16f4592558",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "erythrina-herbacea",
+  "family": "Fabaceae",
+  "genus": "Erythrina",
+  "scientific_name": "Erythrina herbacea",
+  "common_name": "Coralbean",
+  "look_here_first": "Trifoliolate leaves and bright red long tubular flowers on upright racemes; pods with glossy red seeds.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6298c5cbc75afaf23dd00a6482862e6982d8274aceef8cad8e28cadc39615277",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

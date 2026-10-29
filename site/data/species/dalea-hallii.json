@@ -1,0 +1,54 @@
+{
+  "id": "dalea-hallii",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea hallii",
+  "common_name": "Hall's Prairie Clover / Hall's Dalea",
+  "look_here_first": "Start with the leaves and flower spikes. Hall's prairie clover is a slender perennial with mostly 3-foliolate leaves, sparse wiry stems, and relatively loose spikes of conspicuous yellow flowers. The calyx ribs/teeth are often reddish-brown and hairy.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb"
+    },
+    {
+      "label": "Identification",
+      "text": "slender wiry often purplish stems"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves usually 3-foliolate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets narrow"
+    },
+    {
+      "label": "Identification",
+      "text": "relatively loose terminal spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers yellow"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx ribs and teeth often red/chestnut-brown"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx with spreading silvery hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "calcareous prairie and rocky limestone habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Unlike purple-flowered D. purpurea, D. hallii has yellow flowers and typically 3-foliolate leaves. Unlike D. candida, the spikes are looser and flowers yellow rather than white."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5415d7386433d15b3966b6090edfe0bbd8c6b3d28d96406c098082795df8e980",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

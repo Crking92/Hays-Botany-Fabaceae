@@ -1,0 +1,30 @@
+{
+  "id": "desmanthus-velutinus",
+  "family": "Fabaceae",
+  "genus": "Desmanthus",
+  "scientific_name": "Desmanthus velutinus",
+  "common_name": "Velvet bundleflower",
+  "look_here_first": "Feel with the eyes: low woody-based sprawling shoots with FINE VELVETY hairs. Leaves usually 3–7 pairs of pinnae. Compare flower heads (roughly 15–33 flowers) and confirm 10 stamens per flower instead of the 5 of Illinois/prairie bundleflowers.",
+  "key_traits": [
+    {
+      "label": "Growth flower fruit",
+      "text": "Perennial or subshrub 20–50 cm stems; pubescent/fine velvety hairs. Smaller leaves with 3–7 pairs of pinnae. Heads 15–33-flowered, 10 stamens; generally straight pods about 30–80 mm."
+    },
+    {
+      "label": "Distinguishing characters",
+      "text": "Velvety hairy shoots plus 10 stamens vs usually more numerous pinnae with only 5 stamens in D. leptolobus and illinoensis. Compare with D. acuminatus by hair and head-flower counts."
+    },
+    {
+      "label": "Shared genus",
+      "text": "Unarmed perennial Fabaceae with compound bipinnate leaves and small brushlike heads, often a petiolar/rachis gland, flat legume pods. Pod structure diagnostic."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3a3d665ff794535ce06ca506c3f6215e9373b96a75d72a6b2dbf64d01a050051",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

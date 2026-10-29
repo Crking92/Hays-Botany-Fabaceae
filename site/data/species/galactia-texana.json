@@ -1,0 +1,17 @@
+{
+  "id": "galactia-texana",
+  "family": "Fabaceae",
+  "genus": "Galactia",
+  "scientific_name": "Galactia texana",
+  "common_name": "Texas milkpea",
+  "look_here_first": "Look at trifoliate leaves, pea-shaped flowers and flat pods; compare hairs on the leaflets and calyx.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fd27b101a3488bd9fb1914e1fabe828e27ce26d74e40959921839722fcfcd27a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

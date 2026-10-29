@@ -1,0 +1,17 @@
+{
+  "id": "leucaena-retusa",
+  "family": "Fabaceae",
+  "genus": "Leucaena",
+  "scientific_name": "Leucaena retusa",
+  "common_name": "Golden-ball Lead Tree",
+  "look_here_first": "Recognize finely bipinnate leaves and spherical golden flower heads; check leaflets and flattened bean pods.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f07ad2bccdbb5069b6badf6d3d6b2b105f5de69df1a036d024e793e8a4733ec0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

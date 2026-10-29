@@ -1,0 +1,50 @@
+{
+  "id": "astragalus-leptocarpus",
+  "family": "Fabaceae",
+  "genus": "Astragalus",
+  "scientific_name": "Astragalus leptocarpus",
+  "common_name": "Slimpod milkvetch",
+  "look_here_first": "Small annual milkvetch with pink-purple flowers and very narrow straight pods that split lengthwise when mature.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Astragalus: alternate pinnate leaves, papilionoid pea flowers, and legumes; fruit shape, inflation, hairiness, and curvature are especially useful for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "annual"
+    },
+    {
+      "label": "Identification",
+      "text": "slender branching stems"
+    },
+    {
+      "label": "Identification",
+      "text": "compound pinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "small pink to purple pea flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow straight linear pods"
+    },
+    {
+      "label": "Identification",
+      "text": "pods glabrous and visibly veined"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit proportionally much longer than wide"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Think narrowest fruit in the batch. It lacks the thick groundplum pod and differs from Nuttall's milkvetch by its especially slim straight legumes."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "58503e803619b7fd906b148461b0c7f80b3dc0a026572cc63aa35516b8b74858",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

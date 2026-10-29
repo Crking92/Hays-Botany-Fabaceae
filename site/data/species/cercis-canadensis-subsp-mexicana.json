@@ -1,0 +1,42 @@
+{
+  "id": "cercis-canadensis-subsp-mexicana",
+  "family": "Fabaceae",
+  "genus": "Cercis",
+  "scientific_name": "Cercis canadensis subsp. mexicana",
+  "common_name": "Mexican redbud",
+  "look_here_first": "Mexican redbud is the smaller, more xeric-looking redbud: leaves are relatively small, thick, glossy, and characteristically wavy-edged, on a compact multi-trunked tree or large shrub.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small multi-trunked tree or large shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "small thick glossy leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "distinctly wavy leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "high drought tolerance"
+    },
+    {
+      "label": "Identification",
+      "text": "pink to purple spring flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "xeric limestone and desert-mountain habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with Texas redbud, Mexican redbud usually has smaller, more strongly wavy-edged leaves and a more southwestern xeric distribution."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6d9dfec5ff64d8345faa86095e6bdfa57b451b220bf8de27276cb2da9e175869",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dalea-compacta",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea compacta",
+  "common_name": "Compact prairie clover",
+  "look_here_first": "Look for narrow linear leaflets plus a dense swollen cylindrical-to-ovoid head. If the real question is D. compacta versus D. purpurea, move immediately to the calyx.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "herbaceous perennial forming clumps"
+    },
+    {
+      "label": "Identification",
+      "text": "few pairs of narrow linear to linear-elliptic leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "very dense terminal ovoid/oblong/cylindrical flower head"
+    },
+    {
+      "label": "Identification",
+      "text": "head visibly swollen and compact"
+    },
+    {
+      "label": "Identification",
+      "text": "D. purpurea separation depends strongly on calyx characters"
+    },
+    {
+      "label": "Habit",
+      "text": "Clumping herbaceous perennial from thick root/short caudex."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Few pairs of narrow linear to linear-elliptic leaflets; var. pubescens commonly under 3 mm wide."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Very dense swollen ovoid, oblong or cylindrical/conelike head."
+    },
+    {
+      "label": "Calyx",
+      "text": "Priority structure for separation from D. purpurea; use size and external pubescence pattern rather than flower color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0068953f64b561e2e65fa10c1ab186db12cfa072dc1fe4b193ed779e6957722f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

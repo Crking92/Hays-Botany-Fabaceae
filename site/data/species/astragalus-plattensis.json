@@ -1,0 +1,42 @@
+{
+  "id": "astragalus-plattensis",
+  "family": "Fabaceae",
+  "genus": "Astragalus",
+  "scientific_name": "Astragalus plattensis",
+  "common_name": "Platte River milkvetch",
+  "look_here_first": "Platte River milkvetch bears relatively large FLESHY pods that can resemble Berlandier's groundplum. Examine the developing OVARY and pod for fine HAIRS (usually pubescent in plattensis) and two GROOVED pod seams (sutures); the plump fruit alone is not distinctive.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Astragalus: alternate pinnate leaves, papilionoid pea flowers, and legumes; fruit shape, inflation, hairiness, and curvature are especially useful for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "perennial, sometimes sprawling from buried root/caudex branches"
+    },
+    {
+      "label": "Identification",
+      "text": "rather broad pinnate leaves; flowers pea-shaped, often pink to purple-tinged"
+    },
+    {
+      "label": "Identification",
+      "text": "thick fleshy, somewhat rounded/ovoid pod around 1–1.7 cm long"
+    },
+    {
+      "label": "Identification",
+      "text": "ovary and pod surface consistently hairy (pubescent), unlike normally glabrous groundplum"
+    },
+    {
+      "label": "Identification",
+      "text": "mature fruit grooved along dorsal and ventral sutures and often becomes firm/leathery"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Groundplum A. crassicarpus var. berlandieri and A. plattensis can look nearly identical in southcentral Texas. First check developing ovary/pod for hairs; then use mature grooves running along BOTH sutures. The installed pod photo shows fine hairs but no calibrated microscopic measure."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d8141859a9c23cc3f71a4edf27a29a30a14460e87d4fb210123610f1c469c3a6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

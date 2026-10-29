@@ -1,0 +1,46 @@
+{
+  "id": "dalea-nana",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea nana",
+  "common_name": "Dwarf prairie clover / dwarf dalea",
+  "look_here_first": "Think tiny yellow-to-purple Dalea: a very low perennial with silky compound leaves and ovoid flower spikes whose yellow flowers age rose-purple.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "very low perennial from taproot and slightly woody base"
+    },
+    {
+      "label": "Identification",
+      "text": "often 10–40 cm tall or lower"
+    },
+    {
+      "label": "Identification",
+      "text": "compound leaves with 3–9 leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets silky-hairy on both surfaces"
+    },
+    {
+      "label": "Identification",
+      "text": "dense ovoid to oblong flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers yellow when fresh, aging rose to blue-purple"
+    },
+    {
+      "label": "Identification",
+      "text": "dry bare limestone, caliche, sandy or stony soils"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "D. nana is the low yellow-then-purple member of the set. D. multiflora has white rounded heads; D. tenuis has pink-purple globes and extremely narrow, feathery linear leaflets."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ff3de9ce7b3955e1b3695b12b47f8bd2a8792889033e9dc7c4408ccc663056cf",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

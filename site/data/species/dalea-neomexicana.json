@@ -1,0 +1,38 @@
+{
+  "id": "dalea-neomexicana",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea neomexicana",
+  "common_name": "Downy prairie clover",
+  "look_here_first": "Look for a dry-country perennial prairie clover with pinnate leaves, noticeably downy foliage, and compact purple-violet flower spikes; mature calyx and leaflet characters help confirm it.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial dry-country prairie clover"
+    },
+    {
+      "label": "Identification",
+      "text": "pinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "noticeably downy foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "compact purple-violet flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "mature calyx characters useful for confirmation"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Downy foliage plus compact purple spikes are the fast cues; final separation from similar Dalea should use leaflet and mature calyx characters."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6ae0386c657fb29c14957c3ed089d1a509ae0a330a37e8f0369137d560aeb1b0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

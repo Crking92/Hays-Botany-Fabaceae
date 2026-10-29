@@ -1,0 +1,30 @@
+{
+  "id": "desmanthus-illinoensis",
+  "family": "Fabaceae",
+  "genus": "Desmanthus",
+  "scientific_name": "Desmanthus illinoensis",
+  "common_name": "Illinois bundleflower",
+  "look_here_first": "Look at the mature pod cluster first: strongly sickle-curved, comparatively BROAD pods about 15–32 mm long × 4.5–7 mm wide. Heads commonly have 20–70 flowers. Upright to spreading robust stems can reach 20–150 cm.",
+  "key_traits": [
+    {
+      "label": "Growth flower fruit",
+      "text": "Much more robust and taller on average than prairie bundleflower, but size alone varies. Leaves typically with 5–18 pairs of pinnae; 5 stamens, flowers in dense heads. Several short broad crescent/sickle-like seedpods crowd together in a characteristic tight bundle. Often moistish clay/ditches/stream bottoms."
+    },
+    {
+      "label": "Distinguishing characters",
+      "text": "D. leptolobus has fewer flowers per head (4–12) and long straight NARROW pods 35–70 × 2–3 mm; D. velutinus has 10 rather than 5 stamens and straighter longer pods."
+    },
+    {
+      "label": "Shared genus",
+      "text": "Unarmed perennial Fabaceae with compound bipinnate leaves and small brushlike heads, often a petiolar/rachis gland, flat legume pods. Pod structure diagnostic."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4aef1803b021f8e37dbbd12b120ef75124a70799a59c7280a45be1acb490d8b5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

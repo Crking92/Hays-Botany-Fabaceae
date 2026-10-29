@@ -1,0 +1,17 @@
+{
+  "id": "galactia-canescens",
+  "family": "Fabaceae",
+  "genus": "Galactia",
+  "scientific_name": "Galactia canescens",
+  "common_name": "Hoary milkpea",
+  "look_here_first": "Check trifoliate gray-hairy leaves, pea flowers and developing pods; compare leaflet surfaces with other Galactia.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f3913362b93960ab6773b56639c3af78a76494091ce4fca8e2e483cd0745da5f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

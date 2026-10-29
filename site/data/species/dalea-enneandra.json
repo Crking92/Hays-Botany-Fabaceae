@@ -1,0 +1,58 @@
+{
+  "id": "dalea-enneandra",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea enneandra",
+  "common_name": "Nine-anther prairie clover",
+  "look_here_first": "Look at spacing along the spike: flowers and broad bracts are visibly separated along a long slender, often nodding or drooping rachis rather than packed into a dense head.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "erect herbaceous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear to narrowly oblong gland-dotted leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "long slender terminal spike with visibly separated flowers and bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "broad conspicuous bracts along an obvious rachis"
+    },
+    {
+      "label": "Identification",
+      "text": "nine stamens as a technical confirmation"
+    },
+    {
+      "label": "Habit",
+      "text": "Herbaceous perennial with one to a few stems, branching above."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Odd-pinnate; narrow linear to narrowly oblong leaflets, gland-dotted beneath."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Long slender loose terminal spike, often nodding/drooping."
+    },
+    {
+      "label": "Flower",
+      "text": "Sessile or nearly sessile flowers visibly spaced along rachis."
+    },
+    {
+      "label": "Reproductive detail",
+      "text": "Nine stamens provide a technical confirmation."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8a1a9d8b3ea5a706595455c2a4a85d39c5801a25a1bce6ce887ab2eae4149f11",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

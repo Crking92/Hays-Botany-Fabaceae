@@ -1,0 +1,38 @@
+{
+  "id": "amorpha-canescens",
+  "family": "Fabaceae",
+  "genus": "Amorpha",
+  "scientific_name": "Amorpha canescens",
+  "common_name": "Leadplant",
+  "look_here_first": "Low gray prairie subshrub with densely silky compound leaves and narrow upright violet-purple flower spikes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low perennial subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "dense gray-white hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "many small rounded leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow erect purple flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "deep-rooted prairie habit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f98ffc6ebdedc5dd1198df2d6abae70527c97b783adfb35effe079ddbcb81a0f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

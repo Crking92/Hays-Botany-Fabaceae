@@ -1,0 +1,58 @@
+{
+  "id": "dalea-frutescens",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea frutescens",
+  "common_name": "Black dalea",
+  "look_here_first": "First decide whether the plant is woody: black dalea is a low intricately branched shrub with many tiny leaflets on pale gray/straw branchlets and short terminal flower spikes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low woody shrub/subshrub, intricately branched"
+    },
+    {
+      "label": "Identification",
+      "text": "many tiny obovate to oblanceolate leaflets on odd-pinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "young twigs greenish to gray/straw and glandular"
+    },
+    {
+      "label": "Identification",
+      "text": "short terminal or leaf-opposed flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx nearly hairless outside but silky-ciliate around the mouth"
+    },
+    {
+      "label": "Habit",
+      "text": "Low woody shrub/subshrub, usually under about 1 m."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually 4–9 pairs of tiny leaflets plus terminal leaflet; undersides gland-punctate."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Short terminal or leaf-opposed spikes, subcapitate to moderately dense."
+    },
+    {
+      "label": "Calyx",
+      "text": "Short-toothed, glossy/glabrous externally, silky-ciliate around the mouth."
+    },
+    {
+      "label": "Joey field observation",
+      "text": "Joey Santore's Pilostyles thurberi study documents Dalea frutescens as the host and includes exact wild Sutton County host-shrub, stem, leaf and parasite-emergence images. Use these as trusted private-study habit/ecology material."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3722b88836fa62345f4f69a7b6e5b63609db4fb79de8d39378b3ec14bdd139f0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

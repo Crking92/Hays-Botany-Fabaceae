@@ -1,0 +1,54 @@
+{
+  "id": "dalea-aurea",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea aurea",
+  "common_name": "Golden dalea / Golden prairie clover",
+  "look_here_first": "Look at texture before color: this is an herbaceous perennial with conspicuously silky few-foliolate leaves and a densely white-villous, fuzzy conic-to-cylindrical flower head.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "herbaceous perennial from woody taproot/root crown"
+    },
+    {
+      "label": "Identification",
+      "text": "odd-pinnate leaves usually with 3–7 larger silky/strigose leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal headlike spike tightly packed and conspicuously fuzzy"
+    },
+    {
+      "label": "Identification",
+      "text": "bracts, rachis and calyx densely white-villous/sericeous"
+    },
+    {
+      "label": "Habit",
+      "text": "Herbaceous perennial; not a woody shrub."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually 3–7 obovate to oblanceolate conspicuously silky leaflets."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Dense terminal headlike spike, conic to cylindrical."
+    },
+    {
+      "label": "Calyx",
+      "text": "Bracts, rachis and calyx densely villous/sericeous."
+    },
+    {
+      "label": "Fruit",
+      "text": "One-seeded indehiscent pod retained with the calyx."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d798ad2045583d33981ab3805d3c73d607ba1cfd48c3d83dda9474287715fc0a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

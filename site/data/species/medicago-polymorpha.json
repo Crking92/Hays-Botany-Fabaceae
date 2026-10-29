@@ -1,0 +1,17 @@
+{
+  "id": "medicago-polymorpha",
+  "family": "Fabaceae",
+  "genus": "Medicago",
+  "scientific_name": "Medicago polymorpha",
+  "common_name": "Burclover (introduced)",
+  "look_here_first": "Recognize low, sprawling three-leaflet cloverlike foliage and bright yellow pea flowers; confirm tightly coiled prickly burr fruits rather than a true Trifolium head.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "958e55b4c3b050b1dda41babd504997851954314dbd262c997ae61ae71a7d942",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

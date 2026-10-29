@@ -1,0 +1,42 @@
+{
+  "id": "astragalus-lindheimeri",
+  "family": "Fabaceae",
+  "genus": "Astragalus",
+  "scientific_name": "Astragalus lindheimeri",
+  "common_name": "Lindheimer's milkvetch",
+  "look_here_first": "An ANNUAL milkvetch with showy bicolored purple-blue and white pea flowers, short appressed hairs and slender curved/flattened pods, not a thick inflated groundplum fruit. Check the banner/wing/keel color pattern, leaflets and fruit cross-section.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Astragalus: alternate pinnate leaves, papilionoid pea flowers, and legumes; fruit shape, inflation, hairiness, and curvature are especially useful for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "annual with decumbent-to-ascending stems often under ~35 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "fine appressed (strigose) leaf and stem hairs; avoid confusing this with densely silver-scaled leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "several conspicuous purple-blue/white pea-type flowers clustered in short racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "flattened curved-oblong pods generally ~17–27 mm long, NOT plump hairy balloon pods"
+    },
+    {
+      "label": "Identification",
+      "text": "separate from A. plattensis (large fleshy pubescent pod) and A. crassicarpus var. berlandieri (fleshy groundplum) by fruit form"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Previously marked perennial with inflated hairy pods in the provisional dataset; corrected against published Texas flora / Barneby: this is an annual with a flattened, curved-oblong pod. A. nuttallianus group shares smaller pea flowers and slim pods, so flower size and mature fruit shape both matter."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ac645604648a42b857e989dfd0c1bf68327e33cb238cf21c4954c08ed104acff",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

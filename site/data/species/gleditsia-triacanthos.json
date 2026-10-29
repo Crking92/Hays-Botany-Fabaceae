@@ -1,0 +1,17 @@
+{
+  "id": "gleditsia-triacanthos",
+  "family": "Fabaceae",
+  "genus": "Gleditsia",
+  "scientific_name": "Gleditsia triacanthos",
+  "common_name": "Honey locust",
+  "look_here_first": "Pinnately or twice-pinnately compound leaves, long flat pods, and stout sometimes branching thorns on bark and twigs.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a2623aa798f69166ff73ba9177ac97cc80a21e9f2bb2c23053975ebf962ef9d3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "desmanthus-leptolobus",
+  "family": "Fabaceae",
+  "genus": "Desmanthus",
+  "scientific_name": "Desmanthus leptolobus",
+  "common_name": "Prairie bundleflower / prairie mimosa",
+  "look_here_first": "Look for slender prostrate to suberect prairie plants with very NARROW or linear leaflets. Small heads often have 4–12 flowers; mature pods are long, nearly straight and slender (about 35–70 × 2–3 mm), unlike the wide sickle pods of D. illinoensis.",
+  "key_traits": [
+    {
+      "label": "Growth flower fruit",
+      "text": "Low spreading perennial of prairie and open ground, including mowed grass, rocky/clayey sites; stems can extend about 60–100 cm. Leaflets very narrow. 5 stamens rather than the 10-stamen heads of D. velutinus. Pods narrow and nearly straight."
+    },
+    {
+      "label": "Distinguishing characters",
+      "text": "Compared with Illinois bundleflower: small few-flowered heads and longer narrower almost straight pods; Illinois has big heads and sharply falcate wide pods. Compared with velutinus: 5 vs 10 stamens and often less visibly velvety stems."
+    },
+    {
+      "label": "Shared genus",
+      "text": "Unarmed perennial Fabaceae with compound bipinnate leaves and small brushlike heads, often a petiolar/rachis gland, flat legume pods. Pod structure diagnostic."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f2730343558aa3f4dc5d9ea5b2909ababc7345624f85320c85cb6b005acaf19a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

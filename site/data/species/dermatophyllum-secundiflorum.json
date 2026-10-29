@@ -1,0 +1,54 @@
+{
+  "id": "dermatophyllum-secundiflorum",
+  "family": "Fabaceae",
+  "genus": "Dermatophyllum",
+  "scientific_name": "Dermatophyllum secundiflorum",
+  "common_name": "Texas mountain laurel / mescal bean",
+  "look_here_first": "Evergreen limestone shrub or small tree with glossy pinnate leaves, dense hanging clusters of purple pea-flowers, and thick woody pods containing bright red seeds.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae: alternate compound leaves, papilionoid pea-flowers, and legume pods."
+    },
+    {
+      "label": "Identification",
+      "text": "evergreen shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate odd-pinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "thick glossy dark-green leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "dense pendulous clusters of violet-purple papilionoid flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "strong grape-like floral fragrance"
+    },
+    {
+      "label": "Identification",
+      "text": "thick woody pods"
+    },
+    {
+      "label": "Identification",
+      "text": "bright red hard seeds"
+    },
+    {
+      "label": "Identification",
+      "text": "rocky calcareous and limestone habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with Lupinus texensis and Senna roemeriana, Texas mountain laurel is woody and evergreen. Its glossy pinnate leaves, hanging purple flower clusters, and woody seed pods make it unmistakable among local Fabaceae once mature."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4cbd0cbf395ec4778f3b624b1d4b228976e35732c3fdcf2fdfadd1c0169ed3b5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

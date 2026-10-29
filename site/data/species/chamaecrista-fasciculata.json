@@ -1,0 +1,38 @@
+{
+  "id": "chamaecrista-fasciculata",
+  "family": "Fabaceae",
+  "genus": "Chamaecrista",
+  "scientific_name": "Chamaecrista fasciculata",
+  "common_name": "Partridge pea",
+  "look_here_first": "LOOK HERE FIRST: Alternate pinnate leaves with many paired narrow leaflets; large unequal yellow petals and dark stamens; narrow flattened legume. Check petiolar nectar gland in a future macro.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Branching annual legume with slender stems; whole-plant photo needed."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Alternate pinnate leaves with paired narrow leaflets; petiolar extrafloral nectary needs macro."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Unequal bright yellow petals and dark stamens, rather than flower color alone."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Long flattened legumes that split at maturity, releasing multiple seeds."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Slender branching stems and stipules; closeup needed."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1fe023c56f90724d6d9f635bfa0ab19edd72a4cb68f7a56cc53ef8673409a3b1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

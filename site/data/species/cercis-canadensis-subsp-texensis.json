@@ -1,0 +1,42 @@
+{
+  "id": "cercis-canadensis-subsp-texensis",
+  "family": "Fabaceae",
+  "genus": "Cercis",
+  "scientific_name": "Cercis canadensis subsp. texensis",
+  "common_name": "Texas redbud",
+  "look_here_first": "Look for the thick glossy leathery leaves. Texas redbud has broad rounded to kidney-shaped leaves with a noticeably shiny upper surface, generally less wavy-edged and larger than Mexican redbud.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small deciduous tree or large shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "thick glossy leathery leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "broad rounded to reniform leaf shape"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins generally less wavy than Mexican redbud"
+    },
+    {
+      "label": "Identification",
+      "text": "rose-pink flowers appearing on older wood before leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "dry limestone woodland and canyon habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with subsp. mexicana, subsp. texensis usually has larger, less wavy, glossier leaves and occupies Central Texas east of the more xeric Mexican-redbud range."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "95847b368923c80a0ea396df7fc67f8b81802f86b7082a7b264ccbcb9727e89d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

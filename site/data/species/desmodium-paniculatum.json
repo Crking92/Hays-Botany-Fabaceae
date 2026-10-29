@@ -1,0 +1,17 @@
+{
+  "id": "desmodium-paniculatum",
+  "family": "Fabaceae",
+  "genus": "Desmodium",
+  "scientific_name": "Desmodium paniculatum",
+  "common_name": "Panicled ticktrefoil",
+  "look_here_first": "Inspect leaves in groups of three leaflets, branched racemes of small pink pea flowers and jointed pods that break into flat segments.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2d4e7107e3cab565ede01bbb62beafa74c06baa009f734c0768554abc5f9c92a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

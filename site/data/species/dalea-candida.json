@@ -1,0 +1,38 @@
+{
+  "id": "dalea-candida",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea candida",
+  "common_name": "White prairie clover",
+  "look_here_first": "Look for a perennial prairie clover with dense white cylindrical flower spikes and odd-pinnate leaves bearing several narrow leaflets; stems and foliage are conspicuously gland-dotted.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial prairie-clover habit"
+    },
+    {
+      "label": "Identification",
+      "text": "dense white cylindrical flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "odd-pinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "several narrow leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "conspicuous gland dots on stems and leaves"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Flower color is useful but not enough by itself; pair the white spike with leaflet number/shape and gland-dotted foliage."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bb528b3c3d91351a8c57c7f89bf20b70ed6b6ec89f0ef2bc3991a55d2d91c924",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

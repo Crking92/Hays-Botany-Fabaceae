@@ -1,0 +1,50 @@
+{
+  "id": "astragalus-nuttallianus",
+  "family": "Fabaceae",
+  "genus": "Astragalus",
+  "scientific_name": "Astragalus nuttallianus",
+  "common_name": "Small-flowered milkvetch",
+  "look_here_first": "Low mat-forming annual with many small leaflets, tiny purplish flowers, and slender pods that curve inward as they dry.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Astragalus: alternate pinnate leaves, papilionoid pea flowers, and legumes; fruit shape, inflation, hairiness, and curvature are especially useful for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "winter or spring annual"
+    },
+    {
+      "label": "Identification",
+      "text": "stems prostrate to weakly ascending"
+    },
+    {
+      "label": "Identification",
+      "text": "many small pinnate leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "small whitish to purplish flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "slender pods"
+    },
+    {
+      "label": "Identification",
+      "text": "pods moderately incurved when dry"
+    },
+    {
+      "label": "Identification",
+      "text": "often open grassland, gravel, sand or rocky ground"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Small flowers and a low mat-forming annual habit are the first cues. The curved narrow pods help separate it from straight-fruited A. leptocarpus."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ec58b82be8dc7d794fdb48fffa4e75e916f6801c1bd0e95bd5abdbd67b51de52",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

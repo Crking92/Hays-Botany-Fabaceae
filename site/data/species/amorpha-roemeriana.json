@@ -1,0 +1,42 @@
+{
+  "id": "amorpha-roemeriana",
+  "family": "Fabaceae",
+  "genus": "Amorpha",
+  "scientific_name": "Amorpha roemeriana",
+  "common_name": "Roemer's false indigo / Texas amorpha",
+  "look_here_first": "Start with the smooth-looking green compound leaves and upright woody shrub habit. Roemer's false indigo has pinnate leaves with relatively large mostly glabrous leaflets and terminal purple flower racemes that rise above the foliage.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous woody shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate odd-pinnate compound leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets relatively large and mostly glabrous compared with leadplant"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal purple flower racemes or narrow clustered inflorescences"
+    },
+    {
+      "label": "Identification",
+      "text": "single-petaled Amorpha flowers with exserted stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "limestone slopes, juniper-oak woodland, and rocky creek shelves"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with A. canescens, A. roemeriana is greener and less densely gray-hairy, with larger smoother-looking leaflets. Compared with A. fruticosa, it is generally a smaller limestone-hill-country shrub rather than a tall riparian thicket-former."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "445b12559f6c5b1f49b656e58840b7507353281cd9a83e861ff73d4f5c664edb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

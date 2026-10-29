@@ -1,0 +1,17 @@
+{
+  "id": "bauhinia-lunarioides",
+  "family": "Fabaceae",
+  "genus": "Bauhinia",
+  "scientific_name": "Bauhinia lunarioides",
+  "common_name": "Anacacho orchid tree",
+  "look_here_first": "Look for leaves divided into two rounded lobes by a central notch, pink-white orchidlike flowers, and flat legume pods.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2465c02ee4f31d8e19b26908d9c4430eda04e85f8fa7df1e7a9fada0043baef3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

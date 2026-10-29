@@ -1,0 +1,42 @@
+{
+  "id": "astragalus-crassicarpus-var-berlandieri",
+  "family": "Fabaceae",
+  "genus": "Astragalus",
+  "scientific_name": "Astragalus crassicarpus var. berlandieri",
+  "common_name": "Berlandier's groundplum",
+  "look_here_first": "Texas groundplum variety with thick green fleshy pods near the ground. The important look-alike is A. plattensis: compare ovary/pod HAIRS (groundplum generally glabrous versus hairy plattensis) and groove along each pod SUTURE, not just the pod's size.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Astragalus: alternate pinnate leaves, papilionoid pea flowers, and legumes; fruit shape, inflation, hairiness, and curvature are especially useful for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "perennial Texas groundplum"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate pinnate leaves with pea-type flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "plum-like thick fleshy green pods, borne low"
+    },
+    {
+      "label": "Identification",
+      "text": "ovary and mature pod generally glabrous in groundplum comparison"
+    },
+    {
+      "label": "Identification",
+      "text": "similar A. plattensis has consistently hairy developing ovary/pod and conspicuously grooved mature fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Not the only thick-podded genus member: A. plattensis also has green fleshy groundplum-like fruit and can be sympatric in south-central Texas. An ovary hair macro, 1 mm scale and mature suture-groove photo are necessary. Var. berlandieri is a distinct accepted taxon: photos of var. crassicarpus must not be labeled as this Texas variety."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "41181f9de68e66076d964932a0e239646359c51ee811e2201784e1f089a61e4b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

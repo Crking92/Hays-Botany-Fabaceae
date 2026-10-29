@@ -1,0 +1,17 @@
+{
+  "id": "medicago-lupulina",
+  "family": "Fabaceae",
+  "genus": "Medicago",
+  "scientific_name": "Medicago lupulina",
+  "common_name": "Black medic (introduced)",
+  "look_here_first": "Examine a low trifoliate legume with small dense round yellow flower clusters and small darkening, kidney-shaped one-seeded pods; distinguish it from white clover and burclover by flower and pod form.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cbb3b20f7690a46154adbf5a5b13b5205b662edf60521f09146bdbab5f89020f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

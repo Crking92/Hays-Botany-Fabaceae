@@ -1,0 +1,30 @@
+{
+  "id": "desmanthus-virgatus",
+  "family": "Fabaceae",
+  "genus": "Desmanthus",
+  "scientific_name": "Desmanthus virgatus",
+  "common_name": "Wild tantan / prostrate bundleflower",
+  "look_here_first": "Often spreading to ascending perennial/subshrub; bipinnate leaves and small whitish heads with NARROW mostly straighter pods (often 30–80 × 3–5 mm). Habit is variable; confirm species with a full leaf, gland, flower heads and mature pods. Do not mistake D. virgatus var. acuminatus for this accepted species.",
+  "key_traits": [
+    {
+      "label": "Growth flower fruit",
+      "text": "Highly variable perennial/subshrub, often sprawling to ascending or erect; smaller off-white brushlike flower heads. Many slender narrow pods may radiate from a head; vegetation and pod dimensions overlap relatives. The broad D. virgatus complex has been taxonomically unstable."
+    },
+    {
+      "label": "Distinguishing characters",
+      "text": "Not the broad sickle pods of Illinois. D. acuminatus was formerly D. virgatus var. acuminatus but is accepted separately. Use voucher-level combination of whole shoot, stem hair, leaf/gland, flower and pod, especially in Central Texas."
+    },
+    {
+      "label": "Shared genus",
+      "text": "Unarmed perennial Fabaceae with compound bipinnate leaves and small brushlike heads, often a petiolar/rachis gland, flat legume pods. Pod structure diagnostic."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0c1e87c8884e41de62323cc15fbdf2ec6bb0542e178be622fa8cd3915c3fa4b0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

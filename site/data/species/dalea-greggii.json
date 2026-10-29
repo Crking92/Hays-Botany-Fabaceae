@@ -1,0 +1,38 @@
+{
+  "id": "dalea-greggii",
+  "family": "Fabaceae",
+  "genus": "Dalea",
+  "scientific_name": "Dalea greggii",
+  "common_name": "Gregg's dalea",
+  "look_here_first": "Think low spreading grayish subshrub: stems can root at the nodes, leaves carry many small silky leaflets, and flowers are purple-violet.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low spreading subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "grayish-silky foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "stems capable of rooting at nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "many small pinnate leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "purple-violet flowers"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The mat-forming/subshrub habit and silky many-leafleted foliage are stronger field cues than flower color alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "680bd0912bb43f1c1ee4ad3e1fc437c6025ee218726ed7b9a60d63c9f32ce54e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
