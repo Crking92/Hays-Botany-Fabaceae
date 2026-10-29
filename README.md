@@ -1,8 +1,17 @@
 # Hays Botany — Fabaceae
 
-**Status: 91-species private scientific-text staging PASS; photographs held for source/rights review. NOT a public independent site.**
+**Status: all 491 original source files transferred into private staging; separate media rights/publication release still held.**
 
 The Asteraceae private content/photo handoff is complete enough to progress to Fabaceae while the original [Hays County Botany learner](https://github.com/Crking92/Hays-County-Botany) remains the authoritative botanical source and public website.
+
+## Complete existing-file transfer — verified
+
+**491/491 original Fabaceae files are now physically present and source-Git-hash checked in [private staging](https://github.com/Crking92/Hays-Botany-Fabaceae/tree/staging/fabaceae-metadata): 291 scientific/source-credit text files and all 200 original photographs.** Of those original photographs, 82 remain in the source-verified private learner gallery and 118 are byte-identical copies in a separate private **non-displayed** rights-hold archive.
+
+[Full original file verification](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-original-migration-completion-summary.json) · [491-file destination-by-destination manifest](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-all-original-491-file-transfer-manifest.json)
+
+This finishes *original source-file transfer*, not photo licensing or public release. The original Hays Botany hub remains authoritative; eighteen references to external image URLs remain preserved as links, not downloaded photos.
+
 
 ## Verified initial staging — October 28, 2026
 
