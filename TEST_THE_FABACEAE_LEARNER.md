@@ -1,10 +1,10 @@
 # Fabaceae — verified real-photo private Visual Learner test
 
-**Verified latest 70-photo test: PASS on October 28, 2026 (desktop and mobile Chromium).** This is a local ZIP preview, **not a GitHub Pages publication or hub migration**.
+**Verified latest 82-photo test: PASS on October 28, 2026 (desktop and mobile Chromium).** This is a local ZIP preview, **not a GitHub Pages publication or hub migration**.
 
 ## Download and open on Windows
 
-1. [Download the Fabaceae learner ZIP with real images and QA screenshots](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/40786758255/artifacts/12861157581). Sign in to GitHub if needed.
+1. [Download the Fabaceae learner ZIP with real images and QA screenshots](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/40786758255/artifacts/12861268754). Sign in to GitHub if needed.
 2. Extract the entire ZIP. Do not run a file from inside a compressed ZIP.
 3. Open the extracted `dist` folder.
 4. Double-click `RUN_FABACEAE_REVIEW.bat`. Keep the Python server window open.
@@ -17,7 +17,7 @@ Python 3 is required. Do **not** open the site's `index.html` directly with `fil
 - Search **Dalea candida** (flower head), **Dalea compacta** (dense flower head), and **Neltuma glandulosa** (mesquite leaf and thorn structure). These have archived source-verified images.
 - Test **Desmodium paniculatum**, **Galactia canescens**, **Hylodesmum nudiflorum**, **Kummerowia striata**, **Lespedeza texana**, **Pediomelum linearifolium**, and **Pediomelum tenuiflorum**.
 - Check that photo captions show the specific photographer, exact source, and license link, with mobile side-scroll and correct scientific species name.
-- Browse other Fabaceae species to review teaching text; 43 cards have no source-verified gallery photo yet, by deliberate rights screening.
+- Browse other Fabaceae species to review teaching text; 37 cards have no source-verified gallery photo yet, by deliberate rights screening.
 - Check Learner, Field ID, search, glossary/quiz and return-to-main links. No verified photograph has fabricated arrows.
 
 ## Verified counts
@@ -26,20 +26,26 @@ Python 3 is required. Do **not** open the site's `index.html` directly with `fil
 |---|---:|
 | Species records and entries | 91 / 91 |
 | Source-original photographs accounted for | 200 / 200 |
-| Original photos byte-verified and physically archived in private staging | 70 |
-| Photos still held with exact reasons | 130 |
-| Species with public-compatible, license-checked archived photo | 48 |
-| Gallery images present in the tested ZIP | 70 |
+| Original photos byte-verified and physically archived in private staging | 82 |
+| Photos still held with exact reasons | 118 |
+| Species with at least one verified archived photo | 54 |
+| Gallery images present in the tested ZIP | 82 |
 | Noncommercial-only gallery images | 0 |
 | Public independent family Pages deployment | No |
 
-The image files have traceable source links and photo-specific current CC/CC0 verification across the initial Commons and later GBIF source checks. Botanical species identification and arrows still need human expert visual inspection where marked provisional.
+Of 82 real photos, 75 have exact CC/CC0 source verification and seven are direct-owner-authorized private project photographs. The original owner photos remain all rights reserved on iNaturalist and show explicit private-only permission notices. Botanical species identification and arrows still need human expert visual inspection where marked provisional.
+
+## Owner-authorized photos for your visual review
+
+Look up **Dalea enneandra**, **Dalea neomexicana**, **Neltuma glandulosa**, **Rhynchosia minima**, **Rhynchosia senna**, and **Sesbania drummondii**. The seven real original photographs now display **Glass Root Garden (Calvin King)** credit. Their current iNaturalist attribution is still all rights reserved; do not treat them as ordinary unrestricted CC pictures.
+
+[Final 82-photo transfer and rights handoff](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_PASS4_COMMONS_AND_OWNER_HANDOFF_20261028.md)
 
 ## Handoff and QA
 
 - [Passing real-photo desktop/mobile browser test](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/40786758255)
 - [First-pass source and rights handoff](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_FIRST_PHOTO_RIGHTS_HANDOFF_20261028.md)
-- [Cumulative 70-photo archive and 130 holds](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_PHOTO_PASS3_HANDOFF_20261028.md)
+- [Cumulative previous 70-photo archive and 130 holds](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_PHOTO_PASS3_HANDOFF_20261028.md)
 - [Every original photo's exact source/review/hold disposition](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-photo-200-decisions.json)
 - [Exact verified archive metadata and source credit details](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-verified-photo-ledger.json)
 
