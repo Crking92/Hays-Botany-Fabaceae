@@ -47,8 +47,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/senegalia-roemeriana/01-roundflower-heads.jpg",
+      "creator": "JerryFriedman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_flora.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "86bcad14dd161af6cf65a6f56c3e9c854ffe93c3",
+      "role": "Cream/white spherical flower heads with bipinnate leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "63d0aebe7ace39c0c50b0965904529eef0ea3a3da1999e1ae7565b90d2983167",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

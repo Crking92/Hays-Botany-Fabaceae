@@ -33,6 +33,32 @@
   },
   "verified_photos": [
     {
+      "src": "media/neltuma-glandulosa/01-leaves-thorns.jpg",
+      "creator": "Forest & Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-071224-0471-Prosopis_glandulosa-leaves_and_thorns-Lake_Mead_Dr-Nevada_(31369721882).jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "d036a3f1b83b430e03f1f8110b3994128cd6f40e",
+      "role": "Exact Neltuma glandulosa (syn. Prosopis glandulosa) bipinnate leaves and nodal thorns",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/neltuma-glandulosa/02-flower-spikes.png",
+      "creator": "Thomas Farley",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Honey_Mesquite_Flowers_in_the_DBR's_Mesquite_Bosque.png",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "05c7dc5ff6f8bf2f6f0bf650a175e83f39ec3a48",
+      "role": "Multiple pale cylindrical honey-mesquite flower spikes in a natural grove",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
       "src": "media/neltuma-glandulosa/glass-root-garden-481811604-bipinnate-leaf-detail.jpg",
       "creator": "Glass Root Garden",
       "source_page": "https://www.inaturalist.org/photos/481811604",

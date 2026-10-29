@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/trifolium-repens/commons-trifolium-repens.jpg",
+      "creator": "NY State IPM Program at Cornell University",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Trifolium_repens_-_whole_plant%2C_flowers%2C_leaves_(18877103990).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "9b8867db0d92d3f1bb1ba71e0b5588aeba8fbd77",
+      "role": "Provisional combination view of creeping clover leaves and white flower heads; root nodes not verified.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "01fe53d409baec364424dd34ebfbd70903b6923c699fa083328c98466151eb58",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

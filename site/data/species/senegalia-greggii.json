@@ -27,8 +27,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/senegalia-greggii/01-field-photo.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Senegalia_greggii_46448741.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "0e88c4285fbedd4a0765f7c13061d09ae862143c",
+      "role": "Exact species reference Senegalia greggii field habit, diagnostics pending inspect",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/senegalia-greggii/02-hooked-catclaw-thorns.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_thorns.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "b7520d86902d41657dc181610c2df84470648d52",
+      "role": "Recurved catclaw thorns and woody twig of Senegalia greggii",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/senegalia-greggii/05-whole-leafy-branch.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_greggii_branch.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "9974b752e9b8fb11a705b68ec637302eef5734de",
+      "role": "Exact Gregg's catclaw whole leafy branch showing small obovate paired leaflets along multiple pinnae; source photo has no ruler",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ae60772c2983a2d65af1d24a365b930be34a62bf8e9142e9a10ee9310a51619b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

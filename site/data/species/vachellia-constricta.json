@@ -27,8 +27,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/vachellia-constricta/01-field-photo.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vachellia_constricta_28225005.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "242b6970d1630a55efef24700d052c2165e34ca4",
+      "role": "Exact-species Vachellia constricta field reference, morphology macros still needed",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/vachellia-constricta/02-slender-constricted-pods.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_constricta_pods.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "d1e78cac7622f54696adc41ed80264971cd2e2cc",
+      "role": "Long narrow whitethorn pods (synonym Acacia constricta), contrast with huisache",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "0b6188f4d6e22d42bb591ef2756641f291ebc21846155eabedb6b1f78237b5a7",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

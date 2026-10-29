@@ -27,8 +27,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/vachellia-farnesiana/01-flower-leaves.jpg",
+      "creator": "Forest & Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-101229-6241-Vachellia_farnesiana-flower_and_leaves-Moaulanui-Kahoolawe_(24941726442).jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "0ad549d3f91bdddeaeee65ffc9169e1864347357",
+      "role": "Golden flower sphere and bipinnate leaves of huisache",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/vachellia-farnesiana/02-thick-dark-pods.jpg",
+      "creator": "Forest & Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-030202-0023-Vachellia_farnesiana-seed_pods-Wailea_670-Maui_(23991674164).jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "bb88ac571db29f4159a3456c9685343b70058172",
+      "role": "Thick hard dark mature huisache seedpods versus whitethorn slender pods",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d4986edcc63e1087e278bfa40121a90d7396eff73d03e973ebc4c5281946e8f8",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

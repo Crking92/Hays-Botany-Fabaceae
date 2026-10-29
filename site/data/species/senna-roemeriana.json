@@ -35,8 +35,22 @@
     "names": [],
     "differences": "S. lindheimeriana is taller and velvety with 4–8 pairs of leaflets. S. pilosior is an annual western/desert comparison. The exactly-two-leaflet leaf is the fastest field character."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/senna-roemeriana/public-inat-senna-roemeriana-752965027.jpg",
+      "creator": "(c) Grant Foster, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/752965027",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "08cf89db8ce3fe32153e1df646c19ec4a1c51798",
+      "role": "Provisional twoleaf senna exact-species field face; confirm one-pair leaflet arrangement, leaflet gland, flowers and fruit with diagnostic photos later.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "e769373a315cd114eb61cad6fec694c2bc4a33369e37f6cf937deebf3cb989b0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

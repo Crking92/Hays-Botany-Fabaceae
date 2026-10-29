@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/medicago-sativa/commons-medicago-sativa.jpg",
+      "creator": "Matt Lavin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Medicago_sativa_(5182408299).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "8a05b118e7cf93976f32b5ced7bed64f46acf47a",
+      "role": "Provisional pea-flower structural close-up, without fruits or full growth habit.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7e29696f8d5cfa1c40f66a2962d8d85eac16e2a7cbdc8aedba13a1f3b34ac446",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
