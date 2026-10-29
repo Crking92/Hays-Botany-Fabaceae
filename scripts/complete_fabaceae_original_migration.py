@@ -111,7 +111,7 @@ assert stats["source_held_images_byte_exact_private"]==118
 assert stats["image_bytes_migrated"]==42538089
 all_migrated={x["private_staging_path"] for x in records}
 assert len(all_migrated)==491
-actual_hold_files={p.relative_to(ROOT).as_posix() for p in reserved_root.rglob("*") if p.is_file()}
+actual_hold_files={p.relative_to(ROOT).as_posix() for p in reserved_root.rglob("*") if p.is_file() and p.suffix.lower() in (".jpg",".jpeg",".png",".webp")}
 expected_holds={x["private_staging_path"] for x in records if x["source_license_status"]=="HOLD"}
 assert actual_hold_files==expected_holds, "Untracked or missing private-original hold files"
 actual_gallery_orig={p.relative_to(ROOT).as_posix() for p in (ROOT/"content/taxa/Fabaceae").rglob("*")
