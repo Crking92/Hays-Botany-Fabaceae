@@ -35,8 +35,22 @@
     "names": [],
     "differences": "A. fruticosa is the tall riparian member of the local comparison set. A. canescens is much shorter, gray-hairy and prairie-like; A. roemeriana is a smaller limestone shrub with greener less-hairy foliage."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/amorpha-fruticosa/public-inat-amorpha-fruticosa-752610634.jpg",
+      "creator": "(c) fern Wildtruth, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/752610634",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "875e2889f9d418aa83215b6ead4c11b4e0825960",
+      "role": "Provisional exact-species public field photo of false indigo-bush. Verify pinnate leaves, one-petaled Fabaceae flowers and upright dense flower spikes in additional part-specific close-ups before drawing anatomy arrows.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7c124159abeb28379f657dcdeda9723414a03278f03537b6620dd701f516c8ed",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
