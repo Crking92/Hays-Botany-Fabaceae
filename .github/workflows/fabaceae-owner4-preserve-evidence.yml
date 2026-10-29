@@ -1,0 +1,46 @@
+name: Preserve exact Glass Root Garden four-photo audit in private staging
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fabaceae-owner4-preserve-evidence.yml'
+  workflow_dispatch:
+permissions: {actions: read, contents: write}
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staged
+      - uses: actions/download-artifact@v4
+        with:
+          name: fabaceae-owner4-source-photo-identity-audit
+          run-id: 40791061048
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: verified
+      - name: Save exact photo/observation evidence without moving photo files
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          data=json.load(open('verified/fabaceae-owner-four-audit.json'))
+          assert len(data['entries'])==4
+          assert data['summary']['owner_photo_candidates']==4
+          print('FABACEAE_OWNER_AUDIT_ARCHIVE',data['summary'])
+          PY
+          cp verified/fabaceae-owner-four-audit.json staged/migration/fabaceae-owner-four-audit.json
+          cd staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/fabaceae-owner-four-audit.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Preserve individual owner-granted Fabaceae photo provenance"
+            git fetch origin staging/fabaceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          fi
