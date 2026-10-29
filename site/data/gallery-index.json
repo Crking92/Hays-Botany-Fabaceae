@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 11,
-  "photo_count": 18,
+  "photo_species": 12,
+  "photo_count": 19,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -70,8 +70,8 @@
       "first_src": null
     },
     "dalea-candida": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dalea-candida/dalea-candida-provisional-face.jpg"
     },
     "dalea-compacta": {
       "count": 0,
