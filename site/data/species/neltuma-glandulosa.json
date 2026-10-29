@@ -1,0 +1,38 @@
+{
+  "id": "neltuma-glandulosa",
+  "family": "Fabaceae",
+  "genus": "Neltuma",
+  "scientific_name": "Neltuma glandulosa",
+  "common_name": "Honey mesquite",
+  "look_here_first": "Check the broad tree crown and a whole bipinnate leaf with generally few primary pinna pairs. Thorny twigs and pale cylindrical flower spikes lead to long straw-colored mesquite pods, not yellow spherical flower balls.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Woody native Texas mesquite with loose canopy and bipinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "Usually one or two pairs of main pinnae on each leaf; many relatively longer leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "Paired thorns may develop at nodes; not sufficient alone"
+    },
+    {
+      "label": "Identification",
+      "text": "Creamy yellowish flowers borne in elongated cylindrical spikes, NOT round pompons"
+    },
+    {
+      "label": "Identification",
+      "text": "Long straw-yellow to tan pods, frequently several together"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3fed29e5517820723d0a473499197e2994e2491b7810b79a54a09c4982c41ff9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

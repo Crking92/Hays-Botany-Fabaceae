@@ -1,0 +1,54 @@
+{
+  "id": "senegalia-roemeriana",
+  "family": "Fabaceae",
+  "genus": "Senegalia",
+  "scientific_name": "Senegalia roemeriana",
+  "common_name": "Roundflower catclaw / Roemer acacia",
+  "look_here_first": "Locate cream to white SPHERICAL flower HEADS, not the elongated flower SPIKES of Gregg's/Wright's catclaw. Check hooked twig prickles and a whole bipinnate leaf before confirming from fruit.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Thorny shrub to small tree of calcareous rocky ground."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate bipinnate; regional floristic key generally 2–4 pinna pairs per leaf, about 6–13 leaflet pairs per pinna, cuneate-oblong leaflets with often glaucous undersides."
+    },
+    {
+      "label": "Flowers",
+      "text": "Short-stalked creamy to white globular/subglobular flower heads (<2x as long as broad), many tiny staminate-looking florets with long protruding stamens."
+    },
+    {
+      "label": "Armature",
+      "text": "Recurved catclaw prickles on woody stems, not paired straight nodal stipular spines."
+    },
+    {
+      "label": "Pods",
+      "text": "Flattened sometimes curved leathery pods; check mature shape, not isolated pod alone."
+    },
+    {
+      "label": "Identification",
+      "text": "Cream-white ROUND flower heads, not narrow flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "Hooked recurved catclaw twig prickles"
+    },
+    {
+      "label": "Identification",
+      "text": "Bipinnate leaves, cuneate-oblong leaflets often pale below"
+    },
+    {
+      "label": "Identification",
+      "text": "Flattened legume fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "63d0aebe7ace39c0c50b0965904529eef0ea3a3da1999e1ae7565b90d2983167",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

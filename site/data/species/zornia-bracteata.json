@@ -1,0 +1,17 @@
+{
+  "id": "zornia-bracteata",
+  "family": "Fabaceae",
+  "genus": "Zornia",
+  "scientific_name": "Zornia bracteata",
+  "common_name": "Zornia bracteata",
+  "look_here_first": "Inspect paired leaflets, bracted inflorescences, and jointed legumes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "49da35aab76eaaac744333f8f473ccdf7c4df8caf561ac67eca4ee0168c582ee",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

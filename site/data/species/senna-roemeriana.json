@@ -1,0 +1,42 @@
+{
+  "id": "senna-roemeriana",
+  "family": "Fabaceae",
+  "genus": "Senna",
+  "scientific_name": "Senna roemeriana",
+  "common_name": "Twoleaf senna",
+  "look_here_first": "Find ONE mature compound leaf and count its leaflets. Twoleaf senna has exactly ONE PAIR of usually long, narrow lance-shaped leaflets (roughly 2–9 times longer than wide), with a small gland near their junction. This quickly separates S. lindheimeriana with 4–8 pairs, but NOT every western Senna: S. pilosior and S. bauhinioides also have one pair. Confirm leaflet proportions, flowers and pods.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "herbaceous perennial from a thick root, usually low-growing"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate leaves consistently even-2-foliolate: exactly two leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "narrowly lanceolate to slightly falcate leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "small stalked gland on the leaf axis between the leaflet pair"
+    },
+    {
+      "label": "Identification",
+      "text": "axillary racemes with a few yellow five-petaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "flattened elongated legume pods"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "S. lindheimeriana is taller and velvety with 4–8 pairs of leaflets. S. pilosior is an annual western/desert comparison. The exactly-two-leaflet leaf is the fastest field character."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e769373a315cd114eb61cad6fec694c2bc4a33369e37f6cf937deebf3cb989b0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

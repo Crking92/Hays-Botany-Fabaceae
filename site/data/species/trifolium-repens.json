@@ -1,0 +1,17 @@
+{
+  "id": "trifolium-repens",
+  "family": "Fabaceae",
+  "genus": "Trifolium",
+  "scientific_name": "Trifolium repens",
+  "common_name": "White clover (introduced)",
+  "look_here_first": "Look for low creeping runners, leaves with three rounded leaflets and ball-shaped clusters of white pea flowers; inspect root nodes and head structure against native legumes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "01fe53d409baec364424dd34ebfbd70903b6923c699fa083328c98466151eb58",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

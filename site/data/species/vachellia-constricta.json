@@ -1,0 +1,34 @@
+{
+  "id": "vachellia-constricta",
+  "family": "Fabaceae",
+  "genus": "Vachellia",
+  "scientific_name": "Vachellia constricta",
+  "common_name": "Whitethorn acacia",
+  "look_here_first": "Find paired pale straight stipular spines and bipinnate leaves. Yellow spherical flower heads resemble huisache. A VERY NARROW elongated pod versus the thick short hard huisache pod is the strongest comparison.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Paired straight pale spines at nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "Small bipinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow globose heads of many little flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "Long narrow pod relative to its width"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0b6188f4d6e22d42bb591ef2756641f291ebc21846155eabedb6b1f78237b5a7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "senegalia-greggii",
+  "family": "Fabaceae",
+  "genus": "Senegalia",
+  "scientific_name": "Senegalia greggii",
+  "common_name": "Gregg's catclaw acacia",
+  "look_here_first": "Find hooked catclaw prickles along twigs, bipinnate leaves, and pale elongate flower spikes. Compare to Vachellia paired straight spines and yellow spherical heads.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Recurved prickles along stems"
+    },
+    {
+      "label": "Identification",
+      "text": "Bipinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "Cream-white narrow flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "Flattened mature pods"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ae60772c2983a2d65af1d24a365b930be34a62bf8e9142e9a10ee9310a51619b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

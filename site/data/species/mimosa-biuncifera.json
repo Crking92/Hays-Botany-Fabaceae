@@ -1,0 +1,50 @@
+{
+  "id": "mimosa-biuncifera",
+  "family": "Fabaceae",
+  "genus": "Mimosa",
+  "scientific_name": "Mimosa biuncifera",
+  "common_name": "Catclaw mimosa / wait-a-bit",
+  "look_here_first": "Woody catclaw mimosa with many pairs of pinnae, strongly hooked infrastipular prickles, pale pink to whitish flower heads, and pods constricted between seeds.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Mimosa: bipinnate leaves, pulvini that can drive touch-sensitive movement in several species, globose heads of many tiny flowers, and segmented/prickly legumes. Habit, prickle placement, pinna count, and pod structure are especially useful."
+    },
+    {
+      "label": "Identification",
+      "text": "woody shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "1–2 strongly recurved prickles near leaf nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 3–9 pairs of pinnae"
+    },
+    {
+      "label": "Identification",
+      "text": "many leaflet pairs per pinna"
+    },
+    {
+      "label": "Identification",
+      "text": "pale pink to whitish globose heads"
+    },
+    {
+      "label": "Identification",
+      "text": "pods often decurved"
+    },
+    {
+      "label": "Identification",
+      "text": "pod margins/replum constricted between seeds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with M. texana, it usually has more pinnae and leaflet pairs, prickles arising near the stipules, and more strongly constricted pods."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b915f06cb88e741215cde5beb3c202939ebae779d6026e3fd44be7029e2adac6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

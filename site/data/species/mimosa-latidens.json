@@ -1,0 +1,46 @@
+{
+  "id": "mimosa-latidens",
+  "family": "Fabaceae",
+  "genus": "Mimosa",
+  "scientific_name": "Mimosa latidens",
+  "common_name": "Kairn's sensitive-briar",
+  "look_here_first": "Low sprawling sensitive-briar with twice-compound leaves that fold when touched and pink-lavender globose flower heads.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Mimosa species have bipinnate leaves and globose heads of many tiny flowers; several species have touch-sensitive leaflets."
+    },
+    {
+      "label": "Identification",
+      "text": "sprawling perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "twice-compound leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "up to about 3 pairs of pinnae"
+    },
+    {
+      "label": "Identification",
+      "text": "many small leaflet pairs"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets fold when touched"
+    },
+    {
+      "label": "Identification",
+      "text": "pink to lavender globose heads"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "More herbaceous and mat-forming than woody M. borealis and M. texana."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b5d2565c146066604f0e0ac9e89d4a00c112738e7a202ba6ab5317d90c474750",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rhynchosia-americana",
+  "family": "Fabaceae",
+  "genus": "Rhynchosia",
+  "scientific_name": "Rhynchosia americana",
+  "common_name": "American snoutbean",
+  "look_here_first": "Inspect the three-part compound leaves, small pea-shaped flowers, and short legumes for their beaked tip.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4adb765015fbe3bb7f02488862c25fbd530dd19f90f779ca4b7ff24fcffcf713",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

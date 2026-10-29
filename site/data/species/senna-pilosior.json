@@ -1,0 +1,46 @@
+{
+  "id": "senna-pilosior",
+  "family": "Fabaceae",
+  "genus": "Senna",
+  "scientific_name": "Senna pilosior",
+  "common_name": "Trans-Pecos senna",
+  "look_here_first": "Find ONE entire leaf: S. pilosior has only ONE PAIR of comparatively broad hairy leaflets, approximately 1.3–1.8 times as long as wide. Check for short retrorse hairs and much stiffer long setae on stems, the gland where both leaflets meet, then anthers and hairy upright fruit. Do not separate by annual versus perennial habit: current sources disagree on its life history.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "source conflict: Kew reports annual; 2024 taxonomic treatment reports herbaceous perennial — do NOT use life history for identification"
+    },
+    {
+      "label": "Identification",
+      "text": "exactly one leaflet pair per compound leaf"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets relatively broad, about 1.3–1.8 times as long as wide"
+    },
+    {
+      "label": "Identification",
+      "text": "mixture of short retrorse hairs, glandlike trichomes and longer stiff setae on stems"
+    },
+    {
+      "label": "Identification",
+      "text": "extrafloral gland at the point where the paired leaflets join"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent sepals on developing fruit; anthers constricted below symmetric terminal pollen pore"
+    },
+    {
+      "label": "Identification",
+      "text": "erect oblong pods roughly 2–4 cm long, hairy/setose; can persist after opening"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "S. roemeriana also has one leaflet pair, but its leaflets are much more narrowly lanceolate (approximately 2–9 times as long as wide). S. bauhinioides also has a single broad pair; distinguish with stiff mixed stem hairs, persistent sepals, anther/pod detail, and S. bauhinioides stout thickened style + rough seed testa. Life history, leaflet count alone and yellow flowers do not separate this trio."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "51a9287a5bb1a67e284c7e6fc90e52c8888795f6a69086378441fb622677d53d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

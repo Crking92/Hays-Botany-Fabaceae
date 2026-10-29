@@ -1,0 +1,17 @@
+{
+  "id": "robinia-pseudoacacia",
+  "family": "Fabaceae",
+  "genus": "Robinia",
+  "scientific_name": "Robinia pseudoacacia",
+  "common_name": "Black locust",
+  "look_here_first": "LOOK HERE FIRST: Check the pinnately compound leaves with smooth-edged oval leaflets and the paired short stipular spines at twig nodes. In flower, look for drooping clusters of white pea-shaped blossoms; later look for flat pods. Unlike honey locust (Gleditsia triacanthos), black locust typically has paired node spines rather than large branched trunk thorns.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "79e6e76e152a2c86a758d04737da71a70a5c2d43dc5fd7fe219a3618227c95e4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

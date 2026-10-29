@@ -1,0 +1,17 @@
+{
+  "id": "melilotus-albus",
+  "family": "Fabaceae",
+  "genus": "Melilotus",
+  "scientific_name": "Melilotus albus",
+  "common_name": "White sweetclover",
+  "look_here_first": "Inspect three-toothed leaflets and an elongate raceme of tiny white pea flowers; look for small pods developing along the raceme.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "91fe4baa541b0f723469adefe3951d4998e95a74420cf57e9265892d33453d36",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "mimosa-texana",
+  "family": "Fabaceae",
+  "genus": "Mimosa",
+  "scientific_name": "Mimosa texana",
+  "common_name": "Texas mimosa / catclaw mimosa",
+  "look_here_first": "Dark-stemmed woody mimosa with strongly curved downward prickles, few pairs of pinnae, pale pink flower heads, and short red-brown pods.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Mimosa: bipinnate leaves, pulvini that can drive touch-sensitive movement in several species, globose heads of many tiny flowers, and segmented/prickly legumes. Habit, prickle placement, pinna count, and pod structure are especially useful."
+    },
+    {
+      "label": "Identification",
+      "text": "woody shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "new growth often brownish-red"
+    },
+    {
+      "label": "Identification",
+      "text": "stems zigzag somewhat"
+    },
+    {
+      "label": "Identification",
+      "text": "strongly curved downward prickles"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 1–4 pairs of pinnae"
+    },
+    {
+      "label": "Identification",
+      "text": "no more than about 7 leaflet pairs on longest pinnae"
+    },
+    {
+      "label": "Identification",
+      "text": "pale pink globose heads"
+    },
+    {
+      "label": "Identification",
+      "text": "shorter red-brown pods, mostly sessile at base"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with M. borealis, texana is darker, more zigzag, and more strongly hooked. Compared with M. biuncifera, it has fewer pinnae/leaflets and less strongly constricted pods."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c19876ebc355ce9622ffa431310d0e4b479f0a38de9d6a6371e7a0b70a4fb6d1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

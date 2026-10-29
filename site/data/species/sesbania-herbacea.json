@@ -1,0 +1,17 @@
+{
+  "id": "sesbania-herbacea",
+  "family": "Fabaceae",
+  "genus": "Sesbania",
+  "scientific_name": "Sesbania herbacea",
+  "common_name": "Bigpod sesbania",
+  "look_here_first": "Recognize a tall legume with many small opposite leaflets on compound leaves, yellowish pea-family flowers, and long dangling inflated-looking seed pods; compare related sesbanias.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ff47d7d1b24b29ca11ef31ca1ae1683e1069107907253c72596aea4e6c39fdbb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

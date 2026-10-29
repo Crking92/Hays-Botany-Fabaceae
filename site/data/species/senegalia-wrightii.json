@@ -1,0 +1,62 @@
+{
+  "id": "senegalia-wrightii",
+  "family": "Fabaceae",
+  "genus": "Senegalia",
+  "scientific_name": "Senegalia wrightii",
+  "common_name": "Wright's catclaw acacia / Wright acacia",
+  "look_here_first": "Cream-white ELONGATED flower SPIKES (rather than round heads of S. roemeriana), distinctive hooked prickles on woody twigs and notably broader/longer leaflets than most Gregg's catclaw. For Gregg versus Wright, measure several mature leaflets and check whether the inflorescence is comparatively loose and whether ripe pods curl.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Thorny shrub or small tree, locally sometimes tree-sized."
+    },
+    {
+      "label": "Armature",
+      "text": "Short hooked recurved internodal prickles on stems, not paired stipular spines."
+    },
+    {
+      "label": "Leaves",
+      "text": "Bipinnate, often 1–4 pinna pairs and 3–6 leaflet pairs per pinna. Leaflets obovate. The 2024 regional key gives about 5–9(-12) mm long, but its own species description gives 3–6 × 2–3 mm; numeric overlap/inconsistency warrants measuring several fully mature leaves, not a single strict cutoff."
+    },
+    {
+      "label": "Flowers",
+      "text": "Cream to yellowish-white flower SPIKES, elongated rather than spherical, often more open/less compact than Gregg's."
+    },
+    {
+      "label": "Pods",
+      "text": "Broad, flat pods, often slightly constricted; can be distorted or coiled, so curvature alone not definitive."
+    },
+    {
+      "label": "Identification",
+      "text": "Cream/white elongated flower spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "Larger round-obovate leaflets than typical Gregg's catclaw"
+    },
+    {
+      "label": "Identification",
+      "text": "Recurved catclaw twig prickles"
+    },
+    {
+      "label": "Identification",
+      "text": "Mature flattened often broad pods"
+    },
+    {
+      "label": "Petiole gland",
+      "text": "A capitate gland is reported at/near the proximal pinna pair; requires a verified tight macro before adding a training arrow."
+    },
+    {
+      "label": "Pod confirmation",
+      "text": "Usually straight-to-slightly curved in regional key, but detailed 2024 treatment also permits coiled pods. Do not exclude Wright based only on a curled pod."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "092fd626fa6bb4e946b418209c4d3a87f48abeae1f20459dddbe6a6abfa147f1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

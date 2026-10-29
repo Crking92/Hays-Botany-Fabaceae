@@ -1,0 +1,34 @@
+{
+  "id": "vachellia-farnesiana",
+  "family": "Fabaceae",
+  "genus": "Vachellia",
+  "scientific_name": "Vachellia farnesiana",
+  "common_name": "Huisache / sweet acacia",
+  "look_here_first": "Look for paired straight stipular spines, finely divided compound leaves and golden spherical flower heads. A short, swollen hard dark mature pod distinguishes huisache from whitethorn.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Paired straight stipular spines at leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "Bipinnate leaves with many narrow leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "Bright golden fragrant spherical flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "Hard swollen dark brown to black mature pod"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d4986edcc63e1087e278bfa40121a90d7396eff73d03e973ebc4c5281946e8f8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

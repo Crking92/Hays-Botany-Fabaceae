@@ -1,0 +1,46 @@
+{
+  "id": "senna-lindheimeriana",
+  "family": "Fabaceae",
+  "genus": "Senna",
+  "scientific_name": "Senna lindheimeriana",
+  "common_name": "Lindheimer's Senna / Velvetleaf Senna",
+  "look_here_first": "Find one complete compound leaf and count leaflet pairs: about 4–8 pairs of oval-to-oblong, softly hairy leaflets, versus the SINGLE pair in S. roemeriana and S. pilosior. Verify velvety upper and lower surfaces and the deep-rooted erect perennial habit; use flowers and mature pods as follow-ups, not yellow alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial from deep woody root"
+    },
+    {
+      "label": "Identification",
+      "text": "erect bushy habit, often over 1 m"
+    },
+    {
+      "label": "Identification",
+      "text": "velvety hairy stems and leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "4–8 pairs of oblong leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow 5-petaled flowers in upper axillary clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "long legume pods"
+    },
+    {
+      "label": "Identification",
+      "text": "distinctive strong/unpleasant odor when handled"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Perennial, many velvety leaflet pairs, tall bushy habit."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3e5fb04a080d19a64a1077737ef3f9e51cabe6eb00f19140325c423c2d0815fc",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "melilotus-indicus",
+  "family": "Fabaceae",
+  "genus": "Melilotus",
+  "scientific_name": "Melilotus indicus",
+  "common_name": "Annual yellow sweetclover",
+  "look_here_first": "Inspect toothed leaflets in groups of three, narrow clusters of tiny yellow pea-flowers and the developing legume pods.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9ec2e6cf97a06e9bbbc36a6c630ae0a9be4d840ff9f3a05b6cf35f429a16ad34",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

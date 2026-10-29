@@ -1,0 +1,17 @@
+{
+  "id": "medicago-sativa",
+  "family": "Fabaceae",
+  "genus": "Medicago",
+  "scientific_name": "Medicago sativa",
+  "common_name": "Alfalfa (introduced)",
+  "look_here_first": "Look for trifoliate leaves with toothed leaflet tips and clusters of violet pea flowers; confirm spirally coiled pods and stipules to separate other introduced Medicago.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7e29696f8d5cfa1c40f66a2962d8d85eac16e2a7cbdc8aedba13a1f3b34ac446",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mimosa-roemeriana",
+  "family": "Fabaceae",
+  "genus": "Mimosa",
+  "scientific_name": "Mimosa roemeriana",
+  "common_name": "Roemer's mimosa / sensitive briar",
+  "look_here_first": "Low prostrate creeping perennial with touch-sensitive leaves, pink globose heads, and broad prickly pods that do not narrow strongly between seeds.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Fabaceae/Mimosa: bipinnate leaves, pulvini that can drive touch-sensitive movement in several species, globose heads of many tiny flowers, and segmented/prickly legumes. Habit, prickle placement, pinna count, and pod structure are especially useful."
+    },
+    {
+      "label": "Identification",
+      "text": "prostrate creeping perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "herbaceous rather than woody"
+    },
+    {
+      "label": "Identification",
+      "text": "touch-sensitive bipinnate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "pink globose flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "broad prickly pods"
+    },
+    {
+      "label": "Identification",
+      "text": "pods broad/square-looking in cross section"
+    },
+    {
+      "label": "Identification",
+      "text": "pod body not strongly constricted between seeds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The pod is the standout: broad and comparatively blocky rather than long and narrow. It is lower and more creeping than woody M. borealis or M. texana."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f5e3b60e37d43fa150f2ded40907bcf9108262986750fb96e00cfb751c32359b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

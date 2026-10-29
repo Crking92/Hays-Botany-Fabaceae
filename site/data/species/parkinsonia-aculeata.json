@@ -1,0 +1,17 @@
+{
+  "id": "parkinsonia-aculeata",
+  "family": "Fabaceae",
+  "genus": "Parkinsonia",
+  "scientific_name": "Parkinsonia aculeata",
+  "common_name": "Jerusalem thorn / retama",
+  "look_here_first": "Recognize a fine-textured green-barked thorny tree with long narrow compound leaves and yellow pea-family flowers. Examine spines at nodes, leaf rachises and seed pods.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6268bf10c87991e4003cfd580c6a22d8bd0d19f12e01d181ea00c57c4f8bbafe",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
