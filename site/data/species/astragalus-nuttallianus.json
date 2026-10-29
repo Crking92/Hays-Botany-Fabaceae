@@ -43,8 +43,22 @@
     "names": [],
     "differences": "Small flowers and a low mat-forming annual habit are the first cues. The curved narrow pods help separate it from straight-fruited A. leptocarpus."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/astragalus-nuttallianus/astragalus-nuttallianus-provisional-face.jpg",
+      "creator": "Kaldari",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Astragalus_flowers_and_fruit.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "61ffdd2670d77af5759f59ef066fd26b94ee8af4",
+      "role": "Flowers and fruit / reproductive features recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ec58b82be8dc7d794fdb48fffa4e75e916f6801c1bd0e95bd5abdbd67b51de52",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

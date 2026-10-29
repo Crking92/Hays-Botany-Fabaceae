@@ -65,6 +65,19 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/desmanthus-acuminatus/desmanthus-acuminatus-pods.jpg",
+      "creator": "Btcpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_acuminatus_pods.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "0cf228b968260c8717d163bbd03480e055556aa5",
+      "role": "Species-specific mature pods; inspect long narrow acuminate pods and seed impressions",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
