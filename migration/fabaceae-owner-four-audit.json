@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "owner_photo_candidates": 4,
+    "exact_owner_photos_verified": 4,
+    "held": 0,
+    "no_images_copied": true,
+    "public_site_published": false
+  },
+  "entries": [
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/glass-root-735431022-first-photo.jpg",
+      "species_id": "dalea-enneandra",
+      "photo_page": "https://www.inaturalist.org/photos/735431022",
+      "observation_id": 400737510,
+      "photo_id": 735431022,
+      "source_license_claim": "Owner-authorized private study",
+      "owner_permission_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "old_source_creator": "Glass Root Garden",
+      "current_taxon": "Dalea enneandra",
+      "current_license": null,
+      "current_attribution": "(c) Calvin King, all rights reserved",
+      "photo_observation_link_verified": true,
+      "pixel_phash_distance": 0,
+      "status": "OWNER_PROJECT_SOURCE_VERIFIED_PRIVATE_ONLY",
+      "photo_current_url": "https://static.inaturalist.org/photos/735431022/large.jpg",
+      "sitewide_public_cc_license_not_inferred": true
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/glass-root-738928702-first-photo.jpg",
+      "species_id": "dalea-neomexicana",
+      "photo_page": "https://www.inaturalist.org/photos/738928702",
+      "observation_id": 402512896,
+      "photo_id": 738928702,
+      "source_license_claim": "Owner-authorized private study",
+      "owner_permission_basis": "Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.",
+      "old_source_creator": "Glass Root Garden",
+      "current_taxon": "Dalea neomexicana",
+      "current_license": null,
+      "current_attribution": "(c) Calvin King, all rights reserved",
+      "photo_observation_link_verified": true,
+      "pixel_phash_distance": 0,
+      "status": "OWNER_PROJECT_SOURCE_VERIFIED_PRIVATE_ONLY",
+      "photo_current_url": "https://static.inaturalist.org/photos/738928702/large.jpg",
+      "sitewide_public_cc_license_not_inferred": true
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-481811604-bipinnate-leaf-detail.jpg",
+      "species_id": "neltuma-glandulosa",
+      "photo_page": "https://www.inaturalist.org/photos/481811604",
+      "observation_id": 268068525,
+      "photo_id": 481811604,
+      "source_license_claim": "CC BY 4.0 (direct photographer grant)",
+      "owner_permission_basis": "",
+      "old_source_creator": "Glass Root Garden",
+      "current_taxon": "Neltuma glandulosa",
+      "current_license": null,
+      "current_attribution": "(c) Calvin King, all rights reserved",
+      "photo_observation_link_verified": true,
+      "pixel_phash_distance": 0,
+      "status": "OWNER_PROJECT_SOURCE_VERIFIED_PRIVATE_ONLY",
+      "photo_current_url": "https://static.inaturalist.org/photos/481811604/large.jpg",
+      "sitewide_public_cc_license_not_inferred": true
+    },
+    {
+      "source_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-561111671-tree-habit.jpg",
+      "species_id": "neltuma-glandulosa",
+      "photo_page": "https://www.inaturalist.org/photos/561111671",
+      "observation_id": 310871770,
+      "photo_id": 561111671,
+      "source_license_claim": "CC BY 4.0 (direct photographer grant)",
+      "owner_permission_basis": "",
+      "old_source_creator": "Glass Root Garden",
+      "current_taxon": "Neltuma glandulosa",
+      "current_license": null,
+      "current_attribution": "(c) Calvin King, all rights reserved",
+      "photo_observation_link_verified": true,
+      "pixel_phash_distance": 2,
+      "status": "OWNER_PROJECT_SOURCE_VERIFIED_PRIVATE_ONLY",
+      "photo_current_url": "https://static.inaturalist.org/photos/561111671/large.jpg",
+      "sitewide_public_cc_license_not_inferred": true
+    }
+  ]
+}
