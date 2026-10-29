@@ -35,10 +35,11 @@ def approved(p):
     if reuse=="no" or reuse=="false" or "review" in reuse or "private" in reuse or "noncommercial only" in reuse:
         return None,"public_reuse_not_cleared"
     if source.startswith("https://commons.wikimedia.org/wiki/File:"):
-        if reuse and not (reuse.startswith("yes") or reuse.startswith("cc_") or
-            (reuse=="cc0" and lic[0]=="CC0 1.0" and source=="https://commons.wikimedia.org/wiki/File:Dalea_candida_-_White_Prairie_Clover_01.jpg"
-              and creator=="Jasper Shide")
-            or reuse in ("public domain","public_domain")):
+        # Commons originals have individual creator, exact File: page and
+        # versioned CC/CC0 terms above. Historical reuse notes vary between
+        # "cc-by", "CC0 1.0", and plain-English attribution instructions.
+        # Reject genuine holds rather than requiring one arbitrary note format.
+        if re.search(r"review|unverified|reconfirm|verify before|private|not cleared|permission required|noncommercial only|hold",reuse,re.I):
             return None,"public_reuse_flag_unverified"
         return (creator,source,lic),None
     # Exact original iNaturalist photograph independently recorded as cc-by,
@@ -48,6 +49,21 @@ def approved(p):
         lic[0]=="CC BY 4.0" and str(p.get("source_photo_id"))=="752610634" and
         str(p.get("source_photo_license_code") or "").lower()=="cc-by" and
         str(p.get("source_taxon"))=="Amorpha fruticosa" and reuse.startswith("yes")):
+        return (creator,source,lic),None
+    # Exact already-archived individual iNaturalist CC BY photographs:
+    # retain fixed photo ID, taxon, photographer, recorded photo license and
+    # original bytes; never infer rights from an observation or a creator.
+    pinned_inat_ccby={
+        "743621173":("Dalea purpurea","(c) Chris Stahl, some rights reserved (CC BY)"),
+        "745542712":("Dermatophyllum secundiflorum","(c) mattmsa, some rights reserved (CC BY)"),
+        "752965027":("Senna roemeriana","(c) Grant Foster, some rights reserved (CC BY)")
+    }
+    photo_id=str(p.get("source_photo_id") or "")
+    if (photo_id in pinned_inat_ccby and
+        source=="https://www.inaturalist.org/photos/"+photo_id and
+        (str(p.get("source_taxon")),creator)==pinned_inat_ccby[photo_id] and
+        str(p.get("source_photo_license_code") or "").lower()=="cc-by" and
+        lic[0]=="CC BY 4.0" and reuse.startswith("yes")):
         return (creator,source,lic),None
     if source.startswith("https://www.inaturalist.org/photos/") and creator=="Glass Root Garden":
         if "Direct license from photographer" in str(p.get("license_basis") or "") and lic[0]=="CC BY 4.0" and reuse=="yes":
