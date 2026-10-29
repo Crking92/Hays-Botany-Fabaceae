@@ -25,6 +25,30 @@ def license_info(p):
         return ("CC BY"+("-SA" if m.group(1) else "")+" "+m.group(2),
                 "https://creativecommons.org/licenses/"+("by-sa" if m.group(1) else "by")+"/"+m.group(2)+"/")
     return None
+# GBIF multimedia evidence was individually verified in the historical photo
+# ledger. Only these exact CC0 creator, source, media and original image bytes.
+PINNED_GBIF_CC0={
+    "https://www.gbif.org/occurrence/5108100988":{
+        "creator":"Nautilus 211","taxon":"Astragalus leptocarpus",
+        "file":"images/gbif-manual-5108100988-d4eff7545.jpg",
+        "media_url":"https://inaturalist-open-data.s3.amazonaws.com/photos/479347175/original.jpeg",
+        "blob_sha":"ff0dc7b5109f49cd8abdc0c3ffd105251e661555"},
+    "https://www.gbif.org/occurrence/5140729847":{
+        "creator":"Donna H.","taxon":"Astragalus plattensis",
+        "file":"images/gbif-manual-5140729847-19b7a5e80.jpg",
+        "media_url":"https://inaturalist-open-data.s3.amazonaws.com/photos/494561662/original.jpeg",
+        "blob_sha":"c198188a68107d4449ff083422f5d18724564761"},
+    "https://www.gbif.org/occurrence/6186158439":{
+        "creator":"Vince Hale","taxon":"Dalea hallii",
+        "file":"images/library-review014-725ce09df227f6c.jpg",
+        "media_url":"https://inaturalist-open-data.s3.amazonaws.com/photos/628316900/original.jpg",
+        "blob_sha":"248af4a9ced2d582785f767ace9d8e63faa8724e"},
+    "https://www.gbif.org/occurrence/6431822939":{
+        "creator":"April Coulon","taxon":"Senna pilosior",
+        "file":"images/gbif-first-6431822939-9ca58a139a.jpg",
+        "media_url":"https://inaturalist-open-data.s3.amazonaws.com/photos/692204066/original.jpg",
+        "blob_sha":"022ecb3f31a5d0fcc2f6af35c0e4c8bace42a61e"},
+}
 def approved(p):
     lic=license_info(p)
     if not lic:return None,"unverified_license_or_restricted"
@@ -32,6 +56,17 @@ def approved(p):
     if not creator or re.search(r"unknown|unverified|resolve|source account",creator,re.I):return None,"creator_unverified"
     source=str(p.get("source_page") or "")
     reuse=str(p.get("public_reuse") or "").lower().strip()
+    if source in PINNED_GBIF_CC0:
+        expected=PINNED_GBIF_CC0[source]
+        taxon=str(p.get("accepted_target") or p.get("source_determination") or "")
+        if (creator==expected["creator"] and lic[0]=="CC0 1.0" and
+            p.get("file")==expected["file"] and
+            p.get("media_source_url")==expected["media_url"] and
+            taxon.startswith(expected["taxon"]) and
+            str(p.get("gbif_occurrence_id") or p.get("source_observation_id") or "")==
+              source.rsplit("/",1)[-1]):
+            return (creator,source,lic),None
+        return None,"photo_specific_public_source_unverified"
     if reuse=="no" or reuse=="false" or "review" in reuse or "private" in reuse or "noncommercial only" in reuse:
         return None,"public_reuse_not_cleared"
     if source.startswith("https://commons.wikimedia.org/wiki/File:"):
@@ -111,6 +146,10 @@ for row in ix["entries"]:
                content.startswith(b"RIFF") and content[8:12]==b"WEBP")
         if len(content)<500 or len(content)>25*1024*1024 or not valid:
             blocks.append({"record":n,"reason":"file_signature_or_size_problem"});continue
+        sha=hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()
+        pinned=PINNED_GBIF_CC0.get(str(p.get("source_page") or ""))
+        if pinned and sha!=pinned["blob_sha"]:
+            blocks.append({"record":n,"reason":"pinned_gbif_original_bytes_mismatch"});continue
         src="media/"+sid+"/"+path.name
         dest=SITE/src
         if dest.exists():
@@ -120,7 +159,6 @@ for row in ix["entries"]:
             shutil.copyfile(path,dest)
             assert dest.read_bytes()==content
         approved_paths.add(dest.resolve())
-        sha=hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()
         creator,source,lic=ok
         photos.append({"src":src,"creator":creator,"source_page":source,"license":lic[0],
                        "license_url":lic[1],"source_blob_sha":sha,
