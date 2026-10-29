@@ -1,3 +1,5 @@
+> **OCTOBER 29 LIVE FAMILY PHOTO RECOVERY UPDATE:** **13 of 91 Fabaceae species** now show **20 already-migrated, source-credited photographs**. *Dalea candida* was restored from its originally archived Commons CC0 source; *Amorpha fruticosa* was restored from its original individual CC BY 4.0 iNaturalist source record. The older 11/18 figures below are historical. The restorer's historical-hold lookup is corrected, so future source-photo recovery will not mistake previously transferred files for missing bytes. The separate 78 remaining species-photo gaps are licensing/provenance tasks; source taxonomy and the 491-original-file migration remain preserved. No new external photo gathering occurred.
+
 # Fabaceae — existing-source migration and public-gallery QA checkpoint
 
 Date: October 29, 2026. Source-only audit for the next Hays Botany family after Asteraceae.
