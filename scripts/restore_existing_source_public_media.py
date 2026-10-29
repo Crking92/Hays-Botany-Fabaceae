@@ -72,7 +72,10 @@ for row in ix["entries"]:
         ok,reason=approved(p)
         if not ok:
             blocks.append({"record":n,"reason":reason});continue
+        # Historical rights-hold archive does not nest by family. It was
+        # already transferred and byte-audited; do not fetch new photos.
         candidates=(SOURCE/"content/taxa"/family/genus/sid/file,
+                    SOURCE/"migration/private-original-photo-holds"/genus/sid/file,
                     SOURCE/"migration/private-original-photo-holds"/family/genus/sid/file)
         path=next((x for x in candidates if x.is_file()),None)
         if path is None:
