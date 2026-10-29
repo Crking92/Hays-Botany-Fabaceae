@@ -3,14 +3,13 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 42,
-  "species_with_photos": 29,
-  "held_records": 176,
+  "photos_copied_and_eligible": 44,
+  "species_with_photos": 31,
+  "held_records": 174,
   "held_by_reason": {
     "unverified_license_or_restricted": 149,
     "missing_or_remote_original_file": 18,
     "photo_specific_public_source_unverified": 5,
-    "creator_unverified": 2,
     "public_reuse_not_cleared": 2
   },
   "held_by_species": {
@@ -168,10 +167,6 @@
     ],
     "dalea-aurea": [
       {
-        "record": 0,
-        "reason": "creator_unverified"
-      },
-      {
         "record": 1,
         "reason": "missing_or_remote_original_file"
       },
@@ -187,10 +182,6 @@
       }
     ],
     "dalea-compacta": [
-      {
-        "record": 0,
-        "reason": "creator_unverified"
-      },
       {
         "record": 1,
         "reason": "missing_or_remote_original_file"
@@ -875,7 +866,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 9728142,
+  "total_source_image_bytes": 10126690,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false

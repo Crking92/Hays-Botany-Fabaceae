@@ -144,8 +144,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea aurea",
       "common_name": "Golden dalea / Golden prairie clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-candida",
@@ -162,8 +162,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea compacta",
       "common_name": "Compact prairie clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-enneandra",

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 29,
-  "photo_count": 42,
+  "photo_species": 31,
+  "photo_count": 44,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -66,16 +66,16 @@
       "first_src": "media/chamaecrista-fasciculata/chamaecrista-fasciculata-flowers-commons.jpg"
     },
     "dalea-aurea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dalea-aurea/01-habit-head.jpg"
     },
     "dalea-candida": {
       "count": 1,
       "first_src": "media/dalea-candida/dalea-candida-provisional-face.jpg"
     },
     "dalea-compacta": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dalea-compacta/01-dense-head.jpg"
     },
     "dalea-enneandra": {
       "count": 0,
