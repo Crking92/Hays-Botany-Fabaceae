@@ -1,3 +1,5 @@
+> **ACTIVE FUTURE PLANT WRITE ROUTE (USER APPROVED OCT 28, 2026).** For this collection, new/updated species data, photos, anatomy arrows, genus/family lessons and local collection indexes belong in **`Crking92/Hays-Botany-Fabaceae` branch `staging/fabaceae-metadata`**, not the original `Crking92/Hays-County-Botany`. Old hub is READ-ONLY botanical history and existing live website fallback. This supersedes “old hub only canonical editor” for FUTURE edits but does not enable public Pages, site cutover, visibility changes, media license overrides or automation restart. Check parallel chats/claims, current destination SHA and exact photo rights. [Active registry](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_NEW_PLANT_WRITE_ROUTING_20261028.json) · [Cross-chat handoff](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/NEW_PLANT_WRITES_FAMILY_REPOS_ONLY_20261028.md).
+
 # Repository instructions — Hays-Botany-Fabaceae (2026-10-28)
 
 **Scope:** FABACEAE family-specific PRIVATE STAGING, not source of truth or public Pages site.
