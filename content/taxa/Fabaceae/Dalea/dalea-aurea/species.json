@@ -92,11 +92,12 @@
     {
       "file": "images/01-habit-head.jpg",
       "role": "Habit / dense silky head",
-      "creator": "",
+      "creator": "Mason Brock (Masebrock)",
       "license": "Public Domain",
       "source_page": "https://commons.wikimedia.org/wiki/File:Dalea_aurea.jpg",
       "study_use": "yes",
-      "public_reuse": "yes"
+      "public_reuse": "yes",
+      "license_basis": "Wikimedia Commons File:Dalea_aurea.jpg lists Mason Brock (Masebrock) as original photographer and public-domain author dedication; reviewed 2026-10-29."
     },
     {
       "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/3887714/large.JPG",
