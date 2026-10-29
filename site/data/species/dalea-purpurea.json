@@ -35,8 +35,22 @@
     "names": [],
     "differences": "D. compacta is the priority confuser: D. compacta has calyx hairs arranged in longitudinal lines separated by bald areas, while D. purpurea has hairs distributed over the calyx-tube surface. D. enneandra has a loose spike with exposed rachis; D. tenuis is consistently 3-foliolate with extremely narrow leaflets."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/dalea-purpurea/public-inat-purple-prairie-clover-743621173.jpg",
+      "creator": "(c) Chris Stahl, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/743621173",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "1f3e1344eb0a2c7eef9cc0650b28d5a601808eac",
+      "role": "Provisional independently licensed research-grade exact-species flowering plant photo; confirm inflorescence and leaf anatomy before arrows",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d7fff61b5582dc08019fbeb6cef6ea5e2d198f0e84808132c56676da8e37522e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
