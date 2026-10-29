@@ -1,0 +1,75 @@
+name: Finish Fabaceae original-file transfer — preserve all 491 source files privately
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/complete_fabaceae_original_migration.py'
+      - '.github/workflows/fabaceae-all-originals-private-transfer.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: fabaceae-source-media-writes
+  cancel-in-progress: false
+jobs:
+  original-byte-transfer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 24
+    steps:
+      - name: Checkout migration verifier, not a public site builder
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - name: Checkout private Fabaceae family staging
+        uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staged
+          persist-credentials: true
+      - name: Verify source script compiles
+        run: python3 -m py_compile shell/scripts/complete_fabaceae_original_migration.py
+      - name: Obtain exact, unchanged authoritative source family tree
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set content/taxa/Fabaceae
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+          test "$(git -C "$RUNNER_TEMP/hays-source" rev-parse HEAD:content/taxa/Fabaceae)" = 947ac940c97f273db03e7b42f5dc992241871527
+      - name: Transfer all 118 original held photos into PRIVATE non-displayed quarantine and verify 491 original file hashes
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 shell/scripts/complete_fabaceae_original_migration.py staged "$RUNNER_TEMP/hays-source"
+          python3 staged/scripts/validate_collection.py
+          test "$(find staged/migration/private-original-photo-holds -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) | wc -l | tr -d ' ')" = 118
+      - name: Commit exact source archives and full transfer report to PRIVATE family branch only
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/private-original-photo-holds/ migration/fabaceae-all-original-491-file-transfer-manifest.json migration/fabaceae-original-migration-completion-summary.json migration/fabaceae-external-image-url-inventory.json
+          git diff --cached --check -- migration/fabaceae-all-original-491-file-transfer-manifest.json migration/fabaceae-original-migration-completion-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Transfer all Fabaceae originals: 291 verified text, 82 eligible private photos, 118 isolated rights-hold images"
+            git fetch origin staging/fabaceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          else
+            echo "Already transferred and verified; no changes."
+          fi
+      - name: Save a migration summary, never publish image archive or Pages
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-all-491-source-files-private-transfer-qa
+          path: |
+            staged/migration/fabaceae-original-migration-completion-summary.json
+            staged/migration/fabaceae-external-image-url-inventory.json
+          retention-days: 30
+          if-no-files-found: warn
