@@ -47,8 +47,22 @@
     "names": [],
     "differences": "Unlike purple-flowered D. purpurea, D. hallii has yellow flowers and typically 3-foliolate leaves. Unlike D. candida, the spikes are looser and flowers yellow rather than white."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/dalea-hallii/library-review014-725ce09df227f6c.jpg",
+      "creator": "Vince Hale",
+      "source_page": "https://www.gbif.org/occurrence/6186158439",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "248af4a9ced2d582785f767ace9d8e63faa8724e",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5415d7386433d15b3966b6090edfe0bbd8c6b3d28d96406c098082795df8e980",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

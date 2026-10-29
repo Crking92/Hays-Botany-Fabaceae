@@ -56,6 +56,19 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/astragalus-leptocarpus/gbif-manual-5108100988-d4eff7545.jpg",
+      "creator": "Nautilus 211",
+      "source_page": "https://www.gbif.org/occurrence/5108100988",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "ff0dc7b5109f49cd8abdc0c3ffd105251e661555",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
