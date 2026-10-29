@@ -72,11 +72,12 @@
     {
       "file": "images/01-dense-head.jpg",
       "role": "Dense head / species-level morphology",
-      "creator": "",
+      "creator": "Vince Hale",
       "license": "CC0",
       "source_page": "https://commons.wikimedia.org/wiki/File:Dalea_compacta_-_Vince_Hale_-_517883110.jpeg",
       "study_use": "yes",
-      "public_reuse": "yes"
+      "public_reuse": "yes",
+      "license_basis": "Wikimedia Commons File:Dalea_compacta_-_Vince_Hale_-_517883110.jpeg lists Vince Hale, iNaturalist photo 517883110, and CC0 1.0 reviewed by INaturalistReviewBot; verified 2026-10-29."
     },
     {
       "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/1411067/large.jpg",
