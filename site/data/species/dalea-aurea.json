@@ -47,8 +47,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/dalea-aurea/01-habit-head.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dalea_aurea.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "5341dbee76ce2b80995d83c69d09fe56c2521427",
+      "role": "Habit / dense silky head",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d798ad2045583d33981ab3805d3c73d607ba1cfd48c3d83dda9474287715fc0a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
