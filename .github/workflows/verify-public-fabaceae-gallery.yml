@@ -1,0 +1,67 @@
+name: Verify deployed Fabaceae source photos, species cards and original bytes
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/verify-public-fabaceae-gallery.yml'
+      - 'site/data/gallery-index.json'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify 91 live Fabaceae cards and each approved photo
+        run: |
+          python3 - <<'PY'
+          import json,time,urllib.request,urllib.parse,pathlib,concurrent.futures
+          BASE="https://crking92.github.io/Hays-Botany-Fabaceae/site/"
+          site=pathlib.Path("site")
+          expected=json.loads((site/"data/gallery-index.json").read_text())
+          def fetch(url):
+              with urllib.request.urlopen(urllib.request.Request(url,headers={"User-Agent":"Hays-Botany-Fabaceae-Pages-ImageQA"}),timeout=22) as response:
+                  assert response.status==200
+                  return response.read()
+          for attempt in range(15):
+              try:
+                  gallery=json.loads(fetch(BASE+"data/gallery-index.json"))
+                  if (gallery["photo_count"]==expected["photo_count"] and
+                      gallery["photo_species"]==expected["photo_species"]):
+                      break
+              except Exception as e:
+                  print("Pages not ready",repr(e),flush=True)
+              time.sleep(9)
+          else:raise AssertionError("Fabaceae public gallery has not reached current release")
+          catalog=json.loads(fetch(BASE+"data/collection-index.json"))
+          assert len(catalog["entries"])==91
+          paths=set();photographed=0;panels=0
+          for row in catalog["entries"]:
+              sid=row["id"]
+              photo_card=json.loads(fetch(BASE+"data/species/"+sid+".json"))
+              photos=photo_card.get("verified_photos",[])
+              assert len(photos)==gallery["entries"][sid]["count"],sid
+              photographed+=bool(photos)
+              panels+=len(photos)
+              for photo in photos:
+                  assert photo["src"].startswith("media/"+sid+"/")
+                  assert photo.get("creator") and photo.get("source_page","").startswith("https://")
+                  assert not photo.get("noncommercial_only") and not photo.get("private_rights_review_only")
+                  assert "NC" not in photo.get("license","").upper() and "ND" not in photo.get("license","").upper()
+                  paths.add(photo["src"])
+          assert panels==expected["photo_count"] and photographed==expected["photo_species"]
+          assert paths=={p.relative_to(site).as_posix() for p in (site/"media").rglob("*") if p.is_file()}
+          def compare(path):
+              actual=fetch(urllib.parse.urljoin(BASE,path))
+              assert actual==(site/path).read_bytes(),path
+              return path
+          with concurrent.futures.ThreadPoolExecutor(max_workers=6) as executor:
+              results=list(executor.map(compare,sorted(paths)))
+          assert len(results)==expected["photo_count"]
+          print("FABACEAE_PUBLIC_PAGES_EXISTING_IMAGE_PASS",json.dumps({
+              "total_species":91,"with_photos":photographed,
+              "original_image_bytes_identical":len(results),"new_photos_harvested":0
+          },sort_keys=True),flush=True)
+          PY
