@@ -3,13 +3,12 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 19,
-  "species_with_photos": 12,
-  "held_records": 199,
+  "photos_copied_and_eligible": 20,
+  "species_with_photos": 13,
+  "held_records": 198,
   "held_by_reason": {
     "unverified_license_or_restricted": 149,
     "missing_or_remote_original_file": 18,
-    "archived_photo_bytes_missing": 1,
     "photo_specific_public_source_unverified": 8,
     "creator_unverified": 2,
     "public_reuse_not_cleared": 2,
@@ -56,10 +55,6 @@
       {
         "record": 1,
         "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
-        "reason": "archived_photo_bytes_missing"
       }
     ],
     "amorpha-roemeriana": [
@@ -989,7 +984,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 3791558,
+  "total_source_image_bytes": 4105393,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false

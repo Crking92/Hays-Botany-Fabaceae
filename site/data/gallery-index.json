@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 12,
-  "photo_count": 19,
+  "photo_species": 13,
+  "photo_count": 20,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -14,8 +14,8 @@
       "first_src": null
     },
     "amorpha-fruticosa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/amorpha-fruticosa/public-inat-amorpha-fruticosa-752610634.jpg"
     },
     "amorpha-roemeriana": {
       "count": 0,
