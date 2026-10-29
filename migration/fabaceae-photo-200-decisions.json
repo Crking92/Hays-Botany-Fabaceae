@@ -814,8 +814,28 @@
     "claimed_creator": "Glass Root Garden",
     "claimed_license": "Owner-authorized private study",
     "claimed_source_page": "https://www.inaturalist.org/photos/735431022",
-    "status": "HOLD",
-    "reason": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE"
+    "status": "STAGED_PRIVATE_OWNER_PERMISSION",
+    "evidence": {
+      "creator": "Glass Root Garden (Calvin King)",
+      "license": "Owner-authorized private project use; original photo all rights reserved",
+      "license_url": "",
+      "source_page": "https://www.inaturalist.org/photos/735431022",
+      "observation_id": 400737510,
+      "photo_id": 735431022,
+      "observed_taxon": "Dalea enneandra",
+      "current_inat_license_code": null,
+      "current_inat_attribution": "(c) Calvin King, all rights reserved",
+      "photo_image_pixel_distance": 0,
+      "pixel_phash_distance": 0,
+      "provenance": "INAT_EXACT_OBSERVATION_AND_OWNER_DIRECT_PERMISSION",
+      "permission_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "public_cc_license_not_inferred": true
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/glass-root-735431022-first-photo.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "private_rights_review_only": true,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-695fa6fa8f62b62.jpg",
@@ -1171,8 +1191,28 @@
     "claimed_creator": "Glass Root Garden",
     "claimed_license": "Owner-authorized private study",
     "claimed_source_page": "https://www.inaturalist.org/photos/738928702",
-    "status": "HOLD",
-    "reason": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE"
+    "status": "STAGED_PRIVATE_OWNER_PERMISSION",
+    "evidence": {
+      "creator": "Glass Root Garden (Calvin King)",
+      "license": "Owner-authorized private project use; original photo all rights reserved",
+      "license_url": "",
+      "source_page": "https://www.inaturalist.org/photos/738928702",
+      "observation_id": 402512896,
+      "photo_id": 738928702,
+      "observed_taxon": "Dalea neomexicana",
+      "current_inat_license_code": null,
+      "current_inat_attribution": "(c) Calvin King, all rights reserved",
+      "photo_image_pixel_distance": 0,
+      "pixel_phash_distance": 0,
+      "provenance": "INAT_EXACT_OBSERVATION_AND_OWNER_DIRECT_PERMISSION",
+      "permission_basis": "Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.",
+      "public_cc_license_not_inferred": true
+    },
+    "destination_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/glass-root-738928702-first-photo.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "private_rights_review_only": true,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/joey-inat-240945083.jpg",
@@ -2663,8 +2703,28 @@
     "claimed_creator": "Glass Root Garden",
     "claimed_license": "CC BY 4.0 (direct photographer grant)",
     "claimed_source_page": "https://www.inaturalist.org/photos/481811604",
-    "status": "HOLD",
-    "reason": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE"
+    "status": "STAGED_PRIVATE_OWNER_PERMISSION",
+    "evidence": {
+      "creator": "Glass Root Garden (Calvin King)",
+      "license": "Owner-authorized private project use; original photo all rights reserved",
+      "license_url": "",
+      "source_page": "https://www.inaturalist.org/photos/481811604",
+      "observation_id": 268068525,
+      "photo_id": 481811604,
+      "observed_taxon": "Neltuma glandulosa",
+      "current_inat_license_code": null,
+      "current_inat_attribution": "(c) Calvin King, all rights reserved",
+      "photo_image_pixel_distance": 0,
+      "pixel_phash_distance": 0,
+      "provenance": "INAT_EXACT_OBSERVATION_AND_OWNER_DIRECT_PERMISSION",
+      "permission_basis": "Photographer direct CC BY 4.0 grant claimed in original source CSV; do not assume current iNaturalist license changed",
+      "public_cc_license_not_inferred": true
+    },
+    "destination_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-481811604-bipinnate-leaf-detail.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "private_rights_review_only": true,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-561111671-tree-habit.jpg",
@@ -2677,8 +2737,28 @@
     "claimed_creator": "Glass Root Garden",
     "claimed_license": "CC BY 4.0 (direct photographer grant)",
     "claimed_source_page": "https://www.inaturalist.org/photos/561111671",
-    "status": "HOLD",
-    "reason": "CURRENT_PHOTO_LICENSE_NOT_PUBLIC_COMPATIBLE"
+    "status": "STAGED_PRIVATE_OWNER_PERMISSION",
+    "evidence": {
+      "creator": "Glass Root Garden (Calvin King)",
+      "license": "Owner-authorized private project use; original photo all rights reserved",
+      "license_url": "",
+      "source_page": "https://www.inaturalist.org/photos/561111671",
+      "observation_id": 310871770,
+      "photo_id": 561111671,
+      "observed_taxon": "Neltuma glandulosa",
+      "current_inat_license_code": null,
+      "current_inat_attribution": "(c) Calvin King, all rights reserved",
+      "photo_image_pixel_distance": 2,
+      "pixel_phash_distance": 2,
+      "provenance": "INAT_EXACT_OBSERVATION_AND_OWNER_DIRECT_PERMISSION",
+      "permission_basis": "Photographer direct CC BY 4.0 grant claimed in original source CSV; do not assume current iNaturalist license changed",
+      "public_cc_license_not_inferred": true
+    },
+    "destination_path": "content/taxa/Fabaceae/Neltuma/neltuma-glandulosa/images/glass-root-garden-561111671-tree-habit.jpg",
+    "pixel_verified": true,
+    "publication_approved": false,
+    "private_rights_review_only": true,
+    "diagnostic_annotations_verified": false
   },
   {
     "source_path": "content/taxa/Fabaceae/Neptunia/neptunia-lutea/images/commons-neptunia-lutea.jpg",
