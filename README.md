@@ -8,7 +8,7 @@ The Asteraceae private content/photo handoff is complete enough to progress to F
 
 - **91 of 91 species cards** copied to [private Fabaceae staging](https://github.com/Crking92/Hays-Botany-Fabaceae/tree/staging/fabaceae-metadata).
 - **291 of 291 scientific, genus/family and photo-credit metadata files** byte-verified against original Git blobs.
-- **200 of 200 source originals** individually reconciled; **70 originals physically archived in private staging** after exact current-source, image-pixel, creator and CC/CC0 rights checks. **130 originals remain held** with specific reasons in the original hub. This is not a public Pages release.
+- **200 of 200 source originals** individually reconciled; **82 originals physically archived in private staging** after exact current-source, image-pixel, creator and CC/CC0 rights checks. **118 originals remain held** with specific reasons in the original hub. This is not a public Pages release.
 - Canonical Fabaceae Git source tree is unchanged: `947ac940c97f273db03e7b42f5dc992241871527`.
 - New family index is populated for offline data validation but stays `STAGING_ONLY`. No hub route, project rules, public Pages, original source files or family ownership changed.
 
@@ -20,9 +20,13 @@ The Asteraceae private content/photo handoff is complete enough to progress to F
 
 [Open test instructions and download the ZIP with actual photos](TEST_THE_FABACEAE_LEARNER.md) · [Successful browser QA](https://github.com/Crking92/Hays-Botany-Fabaceae/actions/runs/40786758255)
 
-The cumulative staged archive now has **70 source-verified originals covering 48 of 91 species**. The most recent downloadable test site is linked from the review guide. This is not a declaration of anatomy-arrow completeness; public Pages remains disabled.
+The cumulative staged archive now has **82 source-verified originals covering 54 of 91 species**. The most recent downloadable test site is linked from the review guide. This is not a declaration of anatomy-arrow completeness; public Pages remains disabled.
 
-[Pass-3 photo-migration handoff — all 70 verified and 130 holds](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_PHOTO_PASS3_HANDOFF_20261028.md)
+[Pass-3 Commons/GBIF migration handoff — 70 publicly licensed sources](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_PHOTO_PASS3_HANDOFF_20261028.md)
+
+[Pass-4 handoff — 82 archived originals, 75 independently licensed and 7 owner-authorized](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/FABACEAE_PASS4_COMMONS_AND_OWNER_HANDOFF_20261028.md)
+
+**Rights distinction:** the private gallery may show all 82 originals, but seven retain all-rights-reserved licenses on iNaturalist and are shown under direct source-owner authorization only. They are not unrestricted CC photographs.
 
 ## Next controlled passes
 
