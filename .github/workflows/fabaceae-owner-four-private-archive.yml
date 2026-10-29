@@ -1,0 +1,66 @@
+name: Archive four verified Glass Root Garden originals privately with rights notices
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/archive_verified_fabaceae_owner_four_private.py'
+      - '.github/workflows/fabaceae-owner-four-private-archive.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: fabaceae-source-media-writes
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: shell
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          path: staged
+          persist-credentials: true
+      - name: Source and script syntax checks
+        run: python -m py_compile shell/scripts/archive_verified_fabaceae_owner_four_private.py
+      - name: Clone original photo source with exact tree check
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set content/taxa/Fabaceae
+          git -C "$RUNNER_TEMP/hays-source" checkout HEAD
+          test "$(git -C "$RUNNER_TEMP/hays-source" rev-parse HEAD:content/taxa/Fabaceae)" = 947ac940c97f273db03e7b42f5dc992241871527
+      - name: Archive four source-matched owner photos for PRIVATE preview, never claim CC rights
+        run: |
+          python3 shell/scripts/archive_verified_fabaceae_owner_four_private.py "$RUNNER_TEMP/hays-source" staged
+          python3 staged/scripts/validate_collection.py
+      - name: Commit original bytes and separated owner-only rights ledger to private staging
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd staged
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/taxa/Fabaceae migration/fabaceae-photo-200-decisions.json migration/fabaceae-private-owner-photo-ledger.json migration/fabaceae-owner-four-private-archive-summary.json
+          git diff --cached --check -- migration/
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive source-verified Glass Root Garden photo bytes privately with original all-rights-reserved notice"
+            git fetch origin staging/fabaceae-metadata
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/fabaceae-metadata
+          fi
+      - name: Save protected owner photo-migration report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-owner-four-private-archive-status
+          path: staged/migration/fabaceae-owner-four-private-archive-summary.json
+          retention-days: 30
+          if-no-files-found: warn
