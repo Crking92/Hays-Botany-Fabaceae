@@ -63,6 +63,15 @@ with sync_playwright() as p:
       assert "all rights reserved" in pg.locator("#detail").inner_text()
       assert pg.locator(".photo-review").count()>=1
       pg.screenshot(path=str(OUT/f"fabaceae-owner-authorized-private-{name}.png"),full_page=True)
+      if summary["owner_permission_photo_instances"]==7:
+         for sid in ("rhynchosia-minima","rhynchosia-senna","sesbania-drummondii"):
+            pg.goto("http://127.0.0.1:8768/?species="+sid,wait_until="networkidle")
+            imgs=pg.locator(".gallery-photo img")
+            imgs.first.wait_for()
+            assert all(imgs.nth(i).evaluate("(e)=>e.complete && e.naturalWidth>0") for i in range(imgs.count()))
+            assert "Glass Root Garden" in pg.locator("#detail").inner_text()
+            assert pg.locator(".photo-review").count()>=1
+         pg.screenshot(path=str(OUT/f"fabaceae-owner-seven-source-photo-check-{name}.png"),full_page=True)
    pg.locator("button[data-mode='field']").click()
    assert pg.locator("button[data-mode='field']").get_attribute("aria-pressed")=="true"
    pg.locator("#search").fill("senegalia")
