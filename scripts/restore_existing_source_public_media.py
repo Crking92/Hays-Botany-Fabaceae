@@ -35,6 +35,14 @@ def approved(p):
     if reuse=="no" or reuse=="false" or "review" in reuse or "private" in reuse or "noncommercial only" in reuse:
         return None,"public_reuse_not_cleared"
     if source.startswith("https://commons.wikimedia.org/wiki/File:"):
+        # Two original images have now had their missing authors resolved
+        # against the exact Commons file pages in the family source branch.
+        author_fixed={
+            "https://commons.wikimedia.org/wiki/File:Dalea_aurea.jpg":("Mason Brock (Masebrock)","Public Domain"),
+            "https://commons.wikimedia.org/wiki/File:Dalea_compacta_-_Vince_Hale_-_517883110.jpeg":("Vince Hale","CC0 1.0")
+        }
+        if source in author_fixed and (creator,lic[0])!=author_fixed[source]:
+            return None,"creator_unverified"
         # Commons originals have individual creator, exact File: page and
         # versioned CC/CC0 terms above. Historical reuse notes vary between
         # "cc-by", "CC0 1.0", and plain-English attribution instructions.
