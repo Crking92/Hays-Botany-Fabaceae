@@ -1,0 +1,37 @@
+name: Test family-level lesson and approved-photo auto-publisher
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/index.html'
+      - 'site/app.js'
+      - 'site/styles.css'
+      - 'site/data/family-lesson.json'
+      - 'scripts/publish_approved_family_photos.py'
+      - 'scripts/test_approved_photo_intake.py'
+      - 'scripts/test_fabaceae_family_browser.cjs'
+      - '.github/workflows/test-family-lesson-photo-intake.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install image decode and isolated browser tools
+        run: |
+          python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+          npm install --no-save playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: End-to-end isolated photo upload, publish and fail-closed tests
+        run: python3 scripts/test_approved_photo_intake.py
+      - name: Syntax check existing family learner
+        run: node --check site/app.js
+      - name: Test family photos and study links in a real browser
+        run: |
+          python3 -m http.server --directory site 8765 --bind 127.0.0.1 > /tmp/fabaceae-local-site.log 2>&1 &
+          node scripts/test_fabaceae_family_browser.cjs
