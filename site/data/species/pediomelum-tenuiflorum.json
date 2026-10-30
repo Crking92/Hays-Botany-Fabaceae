@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/pediomelum-tenuiflorum/inat-123056915.jpg",
+      "creator": "(c) Brand R, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/123056915",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "07a9f74a5d22472eb21c8c773aa65617d0530397",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "0d1d53ac63add32dcf7cb05867867f9f112a704e49f1068e24262078b4a831c1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
