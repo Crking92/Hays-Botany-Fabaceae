@@ -44,6 +44,22 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/amorpha-canescens/kenraiz-leadplant-silky-shoot-compound-leaves.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amorpha_canescens_kz02.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "83346d911c5224aea8bffff1d45ca6271c223167",
+      "role": "Silky young shoot and pinnately compound leaves with paired narrow leaflets; cultivated botanical garden specimen, not a Hays County occurrence",
+      "modified": "Exact unmodified Wikimedia Commons source original",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Pinned original SHA1 and CC license confirmed against the exact Wikimedia Commons API file. Species label from original source, not a local voucher.",
+      "photo_approved_by": "Automated Commons source metadata review, user-authorized educational publishing",
+      "sha256": "681c6e8ee43659c5a58a97f7b763ec29ea93677df28f2ffbff3dd3646437f9f0"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
