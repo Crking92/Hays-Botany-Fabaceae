@@ -3,11 +3,11 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 67,
-  "species_with_photos": 50,
-  "held_records": 151,
+  "photos_copied_and_eligible": 78,
+  "species_with_photos": 53,
+  "held_records": 140,
   "held_by_reason": {
-    "unverified_license_or_restricted": 131,
+    "unverified_license_or_restricted": 120,
     "missing_or_remote_original_file": 18,
     "photo_specific_public_source_unverified": 2
   },
@@ -130,10 +130,6 @@
       {
         "record": 1,
         "reason": "missing_or_remote_original_file"
-      },
-      {
-        "record": 2,
-        "reason": "unverified_license_or_restricted"
       }
     ],
     "dalea-candida": [
@@ -146,14 +142,6 @@
       {
         "record": 1,
         "reason": "missing_or_remote_original_file"
-      },
-      {
-        "record": 2,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 3,
-        "reason": "unverified_license_or_restricted"
       }
     ],
     "dalea-enneandra": [
@@ -163,14 +151,6 @@
       },
       {
         "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 3,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -217,10 +197,6 @@
       },
       {
         "record": 5,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 6,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -276,14 +252,6 @@
       {
         "record": 0,
         "reason": "missing_or_remote_original_file"
-      },
-      {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
-        "reason": "unverified_license_or_restricted"
       }
     ],
     "dermatophyllum-secundiflorum": [
@@ -342,10 +310,6 @@
     ],
     "desmodium-paniculatum": [
       {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
         "record": 2,
         "reason": "unverified_license_or_restricted"
       }
@@ -365,14 +329,6 @@
     "erythrina-herbacea": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -761,7 +717,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 16378678,
+  "total_source_image_bytes": 20286228,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false

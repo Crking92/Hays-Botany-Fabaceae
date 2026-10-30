@@ -144,7 +144,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea aurea",
       "common_name": "Golden dalea / Golden prairie clover",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -162,7 +162,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea compacta",
       "common_name": "Compact prairie clover",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -171,8 +171,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea enneandra",
       "common_name": "Nine-anther prairie clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-frutescens",
@@ -198,7 +198,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea hallii",
       "common_name": "Hall's Prairie Clover / Hall's Dalea",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -243,8 +243,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea tenuis",
       "common_name": "Pinkglobe prairie clover / Stanfield prairie-clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dermatophyllum-secundiflorum",
@@ -306,7 +306,7 @@
       "genus": "Desmodium",
       "scientific_name": "Desmodium paniculatum",
       "common_name": "Panicled ticktrefoil",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -333,8 +333,8 @@
       "genus": "Erythrina",
       "scientific_name": "Erythrina herbacea",
       "common_name": "Coralbean",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eysenhardtia-texana",

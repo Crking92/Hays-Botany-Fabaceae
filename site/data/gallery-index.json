@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 50,
-  "photo_count": 67,
+  "photo_species": 53,
+  "photo_count": 78,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -66,7 +66,7 @@
       "first_src": "media/chamaecrista-fasciculata/chamaecrista-fasciculata-flowers-commons.jpg"
     },
     "dalea-aurea": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/dalea-aurea/01-habit-head.jpg"
     },
     "dalea-candida": {
@@ -74,12 +74,12 @@
       "first_src": "media/dalea-candida/dalea-candida-provisional-face.jpg"
     },
     "dalea-compacta": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/dalea-compacta/01-dense-head.jpg"
     },
     "dalea-enneandra": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/dalea-enneandra/library-review027-695fa6fa8f62b62.jpg"
     },
     "dalea-frutescens": {
       "count": 0,
@@ -90,7 +90,7 @@
       "first_src": "media/dalea-greggii/dalea-greggii-provisional-face.jpg"
     },
     "dalea-hallii": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/dalea-hallii/library-review014-725ce09df227f6c.jpg"
     },
     "dalea-multiflora": {
@@ -110,8 +110,8 @@
       "first_src": "media/dalea-purpurea/public-inat-purple-prairie-clover-743621173.jpg"
     },
     "dalea-tenuis": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/dalea-tenuis/library-review010-010069164f6d82f.jpg"
     },
     "dermatophyllum-secundiflorum": {
       "count": 1,
@@ -138,7 +138,7 @@
       "first_src": "media/desmanthus-virgatus/virgatus-guadeloupe-face.jpg"
     },
     "desmodium-paniculatum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/desmodium-paniculatum/inat-312240929.jpg"
     },
     "desmodium-psilophyllum": {
@@ -150,8 +150,8 @@
       "first_src": "media/desmodium-sessilifolium/library-review041-0a6382aefa921e2.jpg"
     },
     "erythrina-herbacea": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/erythrina-herbacea/library-review047-d14b7d09dfe972b.jpg"
     },
     "eysenhardtia-texana": {
       "count": 0,
