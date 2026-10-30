@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/galactia-canescens/inat-636282769.jpg",
+      "creator": "(c) Chet Burrier, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/636282769",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "a6ff6a63bab2a20ca3ead0087d4fce7f9fd10b8a",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f3913362b93960ab6773b56639c3af78a76494091ce4fca8e2e483cd0745da5f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/hylodesmum-nudiflorum/inat-196269807.jpg",
+      "creator": "(c) Douglas Goldman, some rights reserved (CC BY-SA)",
+      "source_page": "https://www.inaturalist.org/photos/196269807",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "7f1a8f9ad59ac78c76ee7fd089532c07df44b93d",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2d592373aa68c06de253e922128fb64af3d18d796bf0c908c0e64bf5e472b88a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

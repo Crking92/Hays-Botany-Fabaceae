@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/kummerowia-striata/inat-5370736.jpg",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/5370736",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "36cb6021014182643b8e99cf95dbbf35367f236b",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "122299ac56f2a7bbfbc46d9129f69c0c2aefe0a80536949f48754d9eefd7bfcf",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
