@@ -35,8 +35,35 @@
     "names": [],
     "differences": "Compared with A. canescens, A. roemeriana is greener and less densely gray-hairy, with larger smoother-looking leaflets. Compared with A. fruticosa, it is generally a smaller limestone-hill-country shrub rather than a tall riparian thicket-former."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/amorpha-roemeriana/library-review010-e0bd61424bd6d31.jpg",
+      "creator": "Cleveland Powell",
+      "source_page": "https://www.gbif.org/occurrence/6274158385",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "407859ed46a297d81a56fe6b2a1dccd1cc3bf110",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/amorpha-roemeriana/library-review033-9fea63b2fcea81c.jpg",
+      "creator": "Reid Hardin",
+      "source_page": "https://www.gbif.org/occurrence/5187704575",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "65e43f477ea8711dc17188a9fed7e4299846d74c",
+      "role": "Flowering shrub with branching stems, pinnate foliage, and pinkish upright terminal flower racemes; independent source ID pending; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "445b12559f6c5b1f49b656e58840b7507353281cd9a83e861ff73d4f5c664edb",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

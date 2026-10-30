@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/desmodium-psilophyllum/library-review041-ce8aa6357c8acc4.jpg",
+      "creator": "Aspen Frisch",
+      "source_page": "https://www.gbif.org/occurrence/5897159618",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "d2ffd5c45394bdfb01c6e2b4e5ca156682a875e0",
+      "role": "Small purple papilionaceous flower on slender ticktrefoil stem, held for scale; mature fruit still needed; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1c9e392202e8acaf59c4a00bf6fef32c6d0d69351e3ca741dba232e7fcd90f16",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

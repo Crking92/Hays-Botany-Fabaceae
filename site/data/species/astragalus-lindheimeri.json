@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Previously marked perennial with inflated hairy pods in the provisional dataset; corrected against published Texas flora / Barneby: this is an annual with a flattened, curved-oblong pod. A. nuttallianus group shares smaller pea flowers and slim pods, so flower size and mature fruit shape both matter."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/astragalus-lindheimeri/gbif-manual-6184971854-8f0e942ba.jpg",
+      "creator": "CH Hemphill",
+      "source_page": "https://www.gbif.org/occurrence/6184971854",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "9c7c9fc2e8f0285911f7babe0f348b1e3d1c08b5",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ac645604648a42b857e989dfd0c1bf68327e33cb238cf21c4954c08ed104acff",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
