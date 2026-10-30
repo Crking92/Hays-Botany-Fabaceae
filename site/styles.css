@@ -24,3 +24,25 @@
 .results button{display:flow-root;overflow:hidden;min-height:60px}
 .result-thumb{float:left;width:65px;height:62px;object-fit:cover;border-radius:9px;background:#e8eee4;margin-right:10px}
 .photo-count{display:block;font-size:.75rem;color:#236444;font-weight:750;margin-top:3px}
+
+/* Existing-source Fabaceae family identification lesson. */
+.family-learning{scroll-margin-top:95px}
+.family-learning h2{font:700 clamp(1.5rem,3vw,2rem) Georgia,serif;margin:0}
+.family-toggle,.family-species-link{border:1px solid var(--green);color:var(--deep);background:var(--paper);font-weight:750;padding:10px 13px;border-radius:10px}
+.family-toggle:hover,.family-species-link:hover{background:var(--sage)}
+#family-lesson-summary{font-size:1.04rem;color:var(--deep);max-width:850px;padding:12px 0}
+.family-diagnostic-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:8px 0 32px}
+.family-diagnostic{padding:15px 17px;border:1px solid var(--line);border-radius:11px;background:#f4f7f1}
+.family-diagnostic strong{color:var(--deep)}
+.family-diagnostic p{margin:6px 0 0;font-size:.94rem}
+.family-steps>h3{font:700 1.6rem Georgia,serif;margin:22px 0}
+.family-step{display:grid;grid-template-columns:minmax(0,42%) minmax(0,1fr);gap:20px;border:1px solid var(--line);border-radius:13px;overflow:hidden;margin:15px 0;background:#fff}
+.family-step-media{background:#f1f5ed;padding:11px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.family-step-media img{display:block;width:100%;max-height:310px;object-fit:contain;border-radius:8px}
+.family-photo-credit{color:var(--muted);font-size:.8rem;margin:8px 3px 3px;overflow-wrap:anywhere}
+.family-step-body{padding:19px 18px 19px 0}
+.family-step-body h4{font:700 1.35rem Georgia,serif;margin:5px 0 10px}
+.family-step-body p{font-size:.96rem;line-height:1.55}
+.family-species-link{margin-top:8px}
+[hidden]{display:none!important}
+@media(max-width:650px){.family-diagnostic-grid{grid-template-columns:1fr}.family-step{grid-template-columns:minmax(0,1fr)}.family-step-body{padding:4px 16px 18px}.family-step-media img{max-height:255px}}

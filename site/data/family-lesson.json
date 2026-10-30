@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "family": "Fabaceae",
+  "common_name": "Pea / bean / legume family",
+  "source_file": "content/taxa/Fabaceae/family.json",
+  "source_branch": "staging/fabaceae-metadata",
+  "photo_approval": "SITE_EXISTING_VERIFIED_PHOTOS_ONLY",
+  "source_name": "Hays Botany existing Fabaceae family lesson",
+  "intro": "A real legume can have flowers that resemble peas, redbuds, tiny prairie clovers, or mimosoid puffballs. Learn the single-carpel fruit, pinnate and bipinnate leaves, banner/wing/keel flower parts, then follow each type to its pods. Newly verified Astragalus photos show both a slender curved legume and a thick fleshy one; those do not all prove the same species.",
+  "first_look": "Find the fruit or ovary first. A single superior carpel becoming a legume or modified legume is the strongest thread through the family.",
+  "diagnostics": {
+    "where_to_look_first": "Find the fruit or ovary first. A single superior carpel becoming a legume or modified legume is the strongest thread through the family.",
+    "leaves": "Usually alternate and stipulate; leaves may be simple, trifoliolate, pinnate, palmately compound or bipinnate. Pulvini are common.",
+    "flowers": "Flower architecture ranges from papilionoid pea flowers to caesalpinioid-like and mimosoid forms.",
+    "fruit": "Usually a legume from one carpel, but it may be dehiscent, indehiscent, flattened, segmented, winged or otherwise modified.",
+    "field_tip": "Do not require a pea flower. Use stipules/pulvini as supporting characters and let the one-carpel fruit do the heavy lifting."
+  },
+  "steps": [
+    {
+      "sequence": 1,
+      "title": "Follow one flower to a legume pod",
+      "species_id": "desmanthus-illinoensis",
+      "image_index": 1,
+      "look_for": "Multiple individual curved PODS from Illinois bundleflower; each pod encloses seeds. This photographed cluster has pods opened and curled, not one giant round fruit.",
+      "why_it_matters": "A pod derived from one carpel is the main family thread even when its shape is unusual. This is an actual installed JPEG.",
+      "source_status": "installed_verified"
+    },
+    {
+      "sequence": 2,
+      "title": "Understand a bipinnate leaf",
+      "species_id": "desmanthus-acuminatus",
+      "image_index": 0,
+      "look_for": "On this exact-species sharp-pod bundleflower photograph, find the main leaf axis, its side PINNAE and the tiny paired LEAFLETS. This is a leaf architecture common in mimosoid-type legumes, not all Fabaceae.",
+      "why_it_matters": "Prevents confusing an entire leaf with one pinna, and shows why the pea family can have almost fernlike foliage.",
+      "source_status": "installed_verified"
+    },
+    {
+      "sequence": 3,
+      "title": "See a pea-type flower, not a puffball",
+      "species_id": "cercis-canadensis-subsp-texensis",
+      "image_index": 0,
+      "look_for": "Texas redbud has clusters of pink individual pea-like flowers directly on older branches. Their banner, wing and keel petal groups require a closer single-flower macro to point out individually.",
+      "why_it_matters": "One member of Fabaceae has pea-style (papilionoid) flowers, unlike mimosoid flower heads.",
+      "source_status": "installed_verified"
+    },
+    {
+      "sequence": 4,
+      "title": "Contrast a mimosoid-type flower head",
+      "species_id": "vachellia-farnesiana",
+      "image_index": 0,
+      "look_for": "Huisache's yellow sphere is a cluster of many tiny individual flowers. The long yellow stamens give the puffball appearance; separate green bipinnate leaves appear on the same twig.",
+      "why_it_matters": "The legume family is not limited to pink pea flowers; show the small-flower mimosoid pattern.",
+      "source_status": "installed_verified"
+    },
+    {
+      "sequence": 5,
+      "title": "Dalea prairie clover: a flowering spike, not a puffball",
+      "species_id": "dalea-candida",
+      "image_index": 0,
+      "look_for": "Look at this WHITE PRAIRIE CLOVER flowering head: it is a cylindrical spike of many individual WHITE flowers, not a single flower and not a mimosoid sphere dominated by long stamens. The tiny petals have an irregular pea-relative floral plan, but their banner/wings/keel positions require a detached-flower macro.",
+      "why_it_matters": "Shows a third familiar Fabaceae appearance beyond redbud pea flowers and huisache mimosoid puffs, while reinforcing what an inflorescence is.",
+      "source_status": "installed_verified_reference"
+    },
+    {
+      "sequence": 6,
+      "title": "Golden prairie clover: silky leaves and a fuzzy head",
+      "species_id": "dalea-aurea",
+      "image_index": 0,
+      "look_for": "Find the whitish SILKY HAIRS around the dense head and the divided foliage (each small blade is a LEAFLET). A prairie-clover plant can be very hairy without resembling a bean, yet its reproductive system still belongs in the legume family. This is a texture/habit reference, not a verified fruit pod close-up.",
+      "why_it_matters": "Shows botanical hair terminology (silky, villous), fine leaflet architecture and the need to confirm tiny Fabaceae pods separately.",
+      "source_status": "installed_verified_reference"
+    },
+    {
+      "sequence": 7,
+      "title": "Learn a milkvetch's true pea flower",
+      "species_id": "astragalus-nuttallianus",
+      "image_index": 0,
+      "look_for": "In this real Texas photo, find one conspicuous upper BANNER petal, two lateral WINGS and the lower KEEL; then follow the slender stem to the multi-leaflet PINNATE leaves and curved legume below the blossoms.",
+      "why_it_matters": "Shows the papilionoid flower form in a REAL milkvetch, and how its one-carpel pod differs from mimosoid flower heads.",
+      "source_status": "installed_exact_species_public_domain_unannotated"
+    },
+    {
+      "sequence": 8,
+      "title": "Contrast a long thin Astragalus pod",
+      "species_id": "astragalus-leptocarpus",
+      "image_index": 0,
+      "look_for": "Many long, slim, mostly straight pods stick out from very thin stems. Compare this exact-species image with the thick, fleshy green fruits of A. plattensis. Both are TRUE legume fruits; a legume need not look like a broad bean pod.",
+      "why_it_matters": "One family making dramatically different pods is an essential visual correction—fruit form can identify some genera and species even without flowers.",
+      "source_status": "installed_exact_species_verified_photo_unannotated"
+    },
+    {
+      "sequence": 9,
+      "title": "Look at an individual legume seed",
+      "species_id": "desmanthus-illinoensis",
+      "image_index": 1,
+      "look_for": "Five dark small Illinois bundleflower seeds, with a printed 2-mm scale. This is what an individual mature seed can look like after a legume opens.",
+      "why_it_matters": "Connects the seed to its former enclosure inside the pod. Not every Fabaceae seed has this size or appearance.",
+      "source_status": "installed_verified"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
   <meta name="robots" content="index,follow">
   <title>Hays Botany | Collection Learner — Preview</title>
   <link rel="icon" href="https://crking92.github.io/Hays-County-Botany/assets/app-icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=existing-photos-20261029">
-  <script src="app.js?v=existing-photos-20261029" defer></script>
+  <link rel="stylesheet" href="styles.css?v=family-lesson-photos-20261030">
+  <script src="app.js?v=family-lesson-photos-20261030" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to main content</a>
@@ -28,11 +28,26 @@
     <section class="hero">
       <span class="kicker">HAYS BOTANY · FAMILY COLLECTION</span>
       <h1 id="collection-title">Fabaceae Visual Learner</h1>
-      <p>Field-focused botanical identification with real photographs, exact structures, and useful look-alikes.</p>
+      <p>Learn the pea-family structures through existing botanical lessons, real source-credited photographs, and species comparisons.</p>
       <span class="preview">LIVE FAMILY LESSONS · VERIFIED PHOTO GALLERIES</span>
     </section>
     <section class="info" role="note">
       <strong>Source photos restored.</strong> Browse the existing field-ID lessons and scroll through photographs that passed individual public-license and source checks. Photographed species show a thumbnail and photo count; other saved images remain documented for rights review. The original Hays Botany learner remains available.
+    </section>
+    <section class="panel family-learning" id="family-lesson" aria-label="Fabaceae family identification lesson">
+      <div class="browse-intro">
+        <div>
+          <p class="sectionnum">FAMILY-LEVEL VISUAL ID</p>
+          <h2>How to recognize the legume family</h2>
+          <p class="muted">Learn the structures that connect wildly different pea, redbud, prairie-clover and mimosoid plants.</p>
+        </div>
+        <button id="family-lesson-toggle" class="family-toggle" type="button" aria-expanded="true" aria-controls="family-lesson-content">Hide family lesson</button>
+      </div>
+      <div id="family-lesson-content">
+        <p id="family-lesson-summary" class="muted">Loading the existing Fabaceae family identification lesson…</p>
+        <div id="family-diagnostics"></div>
+        <div id="family-lesson-steps" class="family-steps"></div>
+      </div>
     </section>
     <section class="panel" aria-label="Collection browser">
       <div class="browse-intro">
