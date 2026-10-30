@@ -1,0 +1,74 @@
+name: Auto-publish newly approved Fabaceae photos to live family learner
+on:
+  push:
+    branches: [staging/fabaceae-metadata]
+    paths:
+      - 'photo-intake/approved/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fabaceae-approved-photo-release-main
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out approved source branch
+        uses: actions/checkout@v4
+        with:
+          ref: staging/fabaceae-metadata
+          fetch-depth: 0
+      - name: Prepare isolated current public site worktree
+        run: |
+          git fetch origin main
+          git worktree add "$RUNNER_TEMP/fabaceae-public-site" origin/main
+      - name: Validate image bytes, source approval and exact species ID
+        run: |
+          python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+          python3 scripts/publish_approved_family_photos.py --source-root . --site-root "$RUNNER_TEMP/fabaceae-public-site/site" --check
+      - name: Update photo galleries and count indexes automatically
+        run: python3 scripts/publish_approved_family_photos.py --source-root . --site-root "$RUNNER_TEMP/fabaceae-public-site/site"
+      - name: Validate the edited family website before pushing
+        working-directory: ${{ runner.temp }}/fabaceae-public-site
+        run: |
+          python3 - <<'PY'
+          import json,pathlib,hashlib
+          p=pathlib.Path("site")
+          gal=json.loads((p/"data/gallery-index.json").read_text())
+          entries=json.loads((p/"data/collection-index.json").read_text())["entries"]
+          assert len(entries)==gal["species"]==91
+          counts={}
+          paths=set()
+          for row in entries:
+              sid=row["id"]
+              card=json.loads((p/"data/species"/(sid+".json")).read_text())
+              photos=card["verified_photos"]
+              assert len(photos)==row["photo_count"]==gal["entries"][sid]["count"],sid
+              counts[sid]=len(photos)
+              for photo in photos:
+                  path=p/photo["src"]
+                  assert photo["src"].startswith("media/"+sid+"/"),sid
+                  assert path.is_file() and hashlib.sha1(b"blob "+str(path.stat().st_size).encode()+b"\0"+path.read_bytes()).hexdigest()==photo["source_blob_sha"],path
+                  assert not photo.get("noncommercial_only") and not photo.get("private_rights_review_only")
+                  paths.add(path.resolve())
+          assert gal["photo_count"]==sum(counts.values())
+          assert gal["photo_species"]==sum(bool(v) for v in counts.values())
+          assert paths=={x.resolve() for x in (p/"media").rglob("*") if x.is_file()}
+          print("PASS: website references, binary Git blobs, species and gallery counts all agree")
+          PY
+      - name: Commit only public gallery source files, no history rewrite
+        working-directory: ${{ runner.temp }}/fabaceae-public-site
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media/ site/data/gallery-index.json site/data/collection-index.json site/data/species/
+          if git diff --cached --quiet; then
+            echo "No unpublished approved photos; public site already current."
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Automatically publish newly approved Fabaceae source photographs"
+          git push origin HEAD:main
