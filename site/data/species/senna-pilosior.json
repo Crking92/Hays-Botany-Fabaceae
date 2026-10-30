@@ -52,6 +52,32 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/senna-pilosior/library-review012-12bbd97d3f95bdf.jpg",
+      "creator": "Clifton Ladd, C.W.B.",
+      "source_page": "https://www.gbif.org/occurrence/6130028254",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "5b7450df561748f48b4677adac53a22041fb22df",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/senna-pilosior/library-review012-10b329a7758a956.jpg",
+      "creator": "Ian McFaul",
+      "source_page": "https://www.gbif.org/occurrence/6352610351",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "02b9179809ad9e7cae40b87a52e0783e35c3896a",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

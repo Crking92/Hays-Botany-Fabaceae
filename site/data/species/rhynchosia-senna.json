@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/rhynchosia-senna/gbif-manual-6185179860-060fb5382.jpg",
+      "creator": "Salem De La Luna",
+      "source_page": "https://www.gbif.org/occurrence/6185179860",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "c794d6a7c7a07b18e48306f64faba978092ceb58",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d9ba16bcc8eb278419ad543fcaa135e4ba44f17cfd6e4f9eb14e14c8b7dbeebf",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

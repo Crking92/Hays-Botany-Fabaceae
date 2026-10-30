@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sesbania-drummondii/gbif-manual-5938619114-403e5ef30.jpg",
+      "creator": "Jackie T",
+      "source_page": "https://www.gbif.org/occurrence/5938619114",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "80a1d89ef0e0d2d855be824d173ab770fdd5f135",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "99937cb5a97f723ddf96a9e0c6204d1f2b07c0d069e48982db81ab66bfbe305f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
