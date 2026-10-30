@@ -7,7 +7,7 @@ async function test(){
     for(const width of [390,1280]){
       const page=await browser.newPage({viewport:{width,height:844}});
       await page.goto("http://127.0.0.1:8765/",{waitUntil:"domcontentloaded"});
-      await page.locator("#family-lesson-steps .family-step").first().waitFor({timeout:25000});
+      await page.waitForFunction(()=>document.querySelectorAll("#family-lesson-steps .family-step").length===9,null,{timeout:25000});
       assert.equal(await page.locator("#family-lesson-steps .family-step").count(),9);
       assert(await page.locator("#family-diagnostics .family-diagnostic").count()>=4);
       const images=page.locator("#family-lesson-steps .family-step img");
