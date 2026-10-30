@@ -33,7 +33,7 @@ def prepare(source,site):
         license_name=x.get("license")
         require(x.get("schema_version")==1 and x.get("species_id")==sid,"ID mismatch")
         require(isinstance(title,str) and title.startswith("File:") and len(title)<180 and "/" not in title,"Invalid Commons file title")
-        require(isinstance(name,str) and bool(re.fullmatch(r"[a-z0-9][a-z0-9._-]{2,110}\\.(jpg|jpeg|png|webp)",name)),"Invalid output filename")
+        require(isinstance(name,str) and bool(re.fullmatch(r"[a-z0-9][a-z0-9._-]{2,110}\.(jpg|jpeg|png|webp)",name)),"Invalid output filename")
         require(isinstance(sha,str) and re.fullmatch("[a-f0-9]{40}",sha),"Missing source SHA1")
         require(isinstance(size,int) and 200<=size<=25*1024*1024,"Invalid original source byte count")
         require(license_name in LICENSES and x.get("license_url")==LICENSES[license_name],"Unapproved license")
