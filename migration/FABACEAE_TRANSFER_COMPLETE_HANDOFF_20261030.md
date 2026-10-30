@@ -39,4 +39,4 @@ These changes were made in `staging/fabaceae-metadata`. No original botanical na
 
 **Next family collection:** Lamiales, `Crking92/Hays-Botany-Lamiales`, already has **102 assigned species**, **582 source files** (342 text/source and 240 original image binaries) staged in `staging/original-source-transfer`. Begin with an unchanged-source/website-index audit, not new collection.
 
-Historical detailed files: [all-original source transfer manifest](fabaceae-all-original-491-file-transfer-manifest.json) (staging branch), [88-photo live QA and licensing history](FABACEAE_75_VETTED_ARCHIVE_COMPLETE_88_LIVE_QA_20261030.md), [source-only reference audit](FABACEAE_REMOTE_REFERENCE_AND_ARCHIVED_CC_BY_PASS_20261030.md).
+Historical detailed files: [all-original source transfer manifest](https://github.com/Crking92/Hays-Botany-Fabaceae/blob/staging/fabaceae-metadata/migration/fabaceae-all-original-491-file-transfer-manifest.json), [88-photo live QA and licensing history](FABACEAE_75_VETTED_ARCHIVE_COMPLETE_88_LIVE_QA_20261030.md), [source-only reference audit](FABACEAE_REMOTE_REFERENCE_AND_ARCHIVED_CC_BY_PASS_20261030.md).
