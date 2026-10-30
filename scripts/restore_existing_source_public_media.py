@@ -152,7 +152,34 @@ def pinned_gbif_by4(p,source_path):
         entry.get("species_id")==source_path.split("/")[4]):
         return None
     return (p["creator"],p["source_page"],("CC BY 4.0","https://creativecommons.org/licenses/by/4.0/"))
+PINNED_ARCHIVED_COMMONS_CC={
+    "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/01-habit.jpg":"01f517c61ef1013ff627e631fc3b9f735ea900b6"
+}
+def pinned_archived_commons_cc(p,source_path):
+    entry=ARCHIVED_RIGHTS_AUDIT.get(source_path,{})
+    ev=entry.get("evidence") or {}
+    if not (
+        entry.get("source_git_blob_sha")==PINNED_ARCHIVED_COMMONS_CC[source_path] and
+        entry.get("source_path")==source_path and
+        entry.get("species_id")=="dalea-frutescens" and
+        entry.get("status")=="STAGED_PRIVATE_PUBLIC_COMPATIBLE" and
+        ev.get("provenance")=="COMMONS_EXACT_IMAGEINFO_PASS2" and
+        ev.get("pixel_phash_distance")==0 and
+        ev.get("creator")=="Miwasatoshi" and
+        ev.get("license")=="CC BY-SA 4.0" and
+        ev.get("source_page")=="https://commons.wikimedia.org/wiki/File:Dalea-frutescens-20080325.JPG" and
+        p.get("file")=="images/01-habit.jpg" and
+        p.get("creator")==ev["creator"] and
+        p.get("license")==ev["license"] and
+        p.get("source_page")==ev["source_page"] and
+        p.get("public_reuse")=="yes"
+    ):
+        return None
+    return (p["creator"],p["source_page"],("CC BY-SA 4.0","https://creativecommons.org/licenses/by-sa/4.0/"))
 def approved(p,source_path=""):
+    if source_path in PINNED_ARCHIVED_COMMONS_CC:
+        result=pinned_archived_commons_cc(p,source_path)
+        return (result,None) if result else (None,"photo_specific_public_source_unverified")
     if source_path in PINNED_ARCHIVED_INAT_CC:
         result=pinned_inat_cc(p,source_path)
         return (result,None) if result else (None,"photo_specific_public_source_unverified")
@@ -275,6 +302,8 @@ for row in ix["entries"]:
         if source_path in PINNED_ARCHIVED_GBIF_BY4 and sha!=PINNED_ARCHIVED_GBIF_BY4[source_path]:
             blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
         if source_path in PINNED_ARCHIVED_INAT_CC and sha!=PINNED_ARCHIVED_INAT_CC[source_path]:
+            blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
+        if source_path in PINNED_ARCHIVED_COMMONS_CC and sha!=PINNED_ARCHIVED_COMMONS_CC[source_path]:
             blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
         src="media/"+sid+"/"+path.name
         dest=SITE/src
