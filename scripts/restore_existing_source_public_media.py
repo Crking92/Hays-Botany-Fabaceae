@@ -79,6 +79,15 @@ PINNED_ARCHIVED_GBIF_BY4={
     "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/library-review036-52d965a3c8cfb6d.jpg": "86488cb2be2e7311636a49a098f83e5acd7dcbfe",
     "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-ab0070be4422652.jpg": "e6b0dab0be649f5f3a939561b868cd308312f7b9",
     "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-d14b7d09dfe972b.jpg": "c571a35be6bbebfc0854a3557ceba59c0dd266dd",
+    "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-438eb39d0a83bdc.jpg": "2026f36db85200d31b8e5dfe54c99eb61b637849",
+    "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/library-review049-917ac57f26a3fca.jpg": "2ea05e7cc872c301032a600142e827f1340bd83e",
+    "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/images/library-review054-53cfbf11948eb20.jpg": "0c494496d2d6b816cd19e2771c609bebad719a3d",
+    "content/taxa/Fabaceae/Melilotus/melilotus-albus/images/library-review056-6fca386ee0e930e.jpg": "30114971c83172619fffd118376518400a4a54fc",
+    "content/taxa/Fabaceae/Mimosa/mimosa-roemeriana/images/gbif-manual-4852922106-3b70815b2.jpg": "248d1edfbc7828284b099993038225dc0473a33e",
+    "content/taxa/Fabaceae/Rhynchosia/rhynchosia-senna/images/gbif-manual-6185179860-060fb5382.jpg": "c794d6a7c7a07b18e48306f64faba978092ceb58",
+    "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-10b329a7758a956.jpg": "02b9179809ad9e7cae40b87a52e0783e35c3896a",
+    "content/taxa/Fabaceae/Senna/senna-pilosior/images/library-review012-12bbd97d3f95bdf.jpg": "5b7450df561748f48b4677adac53a22041fb22df",
+    "content/taxa/Fabaceae/Sesbania/sesbania-drummondii/images/gbif-manual-5938619114-403e5ef30.jpg": "80a1d89ef0e0d2d855be824d173ab770fdd5f135",
 }
 # The complete historical audit is read from the already transferred
 # source branch. The list above is a narrow per-file publication decision.
