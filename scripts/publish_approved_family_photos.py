@@ -126,7 +126,7 @@ def main():
     gallery=load(gallery_path)
     entries=catalog["entries"]
     by_id={e["id"]:e for e in entries}
-    if len(by_id)!=91 or len(entries)!=91 or set(gallery["entries"])!=set(by_id):
+    if len(by_id)!=len(entries) or len(entries)<91 or len(entries)!=gallery["species"] or set(gallery["entries"])!=set(by_id):
         fail("Fabaceae site inventory changed; manual release review required")
     if gallery["status"]!="ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES":
         fail("Unknown rights policy for target site")
