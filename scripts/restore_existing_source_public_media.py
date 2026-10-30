@@ -56,7 +56,48 @@ PINNED_INAT_GUIDE={
         "media_url":"https://inaturalist-open-data.s3.amazonaws.com/photos/23060929/large.jpeg",
         "blob_sha":"7123904bd721d2f259c44021c829a2b6c63619e4"}
 }
-def approved(p):
+PINNED_ARCHIVED_GBIF_BY4={
+    "content/taxa/Fabaceae/Amorpha/amorpha-canescens/images/library-review018-bed5a45cbae1533.jpg": "d60af509d07358da4e2dad449e4ba815ce1e033f",
+    "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/library-review010-e0bd61424bd6d31.jpg": "407859ed46a297d81a56fe6b2a1dccd1cc3bf110",
+    "content/taxa/Fabaceae/Amorpha/amorpha-roemeriana/images/library-review033-9fea63b2fcea81c.jpg": "65e43f477ea8711dc17188a9fed7e4299846d74c",
+    "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/library-review013-0120fbc5600d918.jpg": "226e7509029af649badaee0d1526f61bcec28fe5",
+    "content/taxa/Fabaceae/Astragalus/astragalus-crassicarpus-var-berlandieri/images/library-review013-e063f53de1c602d.jpg": "c77057b2dd37a64ab42f87f896dace0deb2f74f7",
+    "content/taxa/Fabaceae/Astragalus/astragalus-lindheimeri/images/gbif-manual-6184971854-8f0e942ba.jpg": "9c7c9fc2e8f0285911f7babe0f348b1e3d1c08b5",
+    "content/taxa/Fabaceae/Cercis/cercis-canadensis-subsp-mexicana/images/library-review012-cb5b46a700292bf.jpg": "76af13a33aea582572ea7a946c86072cf70fbfaf",
+    "content/taxa/Fabaceae/Dalea/dalea-multiflora/images/gbif-manual-6188527015-4ad7d4c48.jpg": "24e3f9e52cf39e99916b6879c94d34fbbd09ab56",
+    "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/images/library-review041-ce8aa6357c8acc4.jpg": "d2ffd5c45394bdfb01c6e2b4e5ca156682a875e0",
+    "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-0a6382aefa921e2.jpg": "af4544a5d5a3d1288cf80fa43ccb8ac6d557c9c9",
+    "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-4e58fb69521e2aa.jpg": "614f9252491d1f433166d0da53d1220f1e388c0a",
+}
+# The complete historical audit is read from the already transferred
+# source branch. The list above is a narrow per-file publication decision.
+ARCHIVED_RIGHTS_AUDIT=json.loads((SOURCE/"migration/fabaceae-verified-photo-ledger.json").read_text())
+def pinned_gbif_by4(p,source_path):
+    if source_path not in PINNED_ARCHIVED_GBIF_BY4:
+        return None
+    entry=ARCHIVED_RIGHTS_AUDIT.get(source_path,{})
+    ev=entry.get("evidence") or {}
+    expected_blob=PINNED_ARCHIVED_GBIF_BY4[source_path]
+    if not (entry.get("source_path")==source_path and
+        entry.get("source_git_blob_sha")==expected_blob and
+        entry.get("status")=="STAGED_PRIVATE_PUBLIC_COMPATIBLE" and
+        entry.get("claimed_license")=="CC BY" and
+        ev.get("license")=="CC BY 4.0" and
+        ev.get("provenance")=="GBIF_CURRENT_MULTIMEDIA_EXACT_SOURCE" and
+        isinstance(ev.get("pixel_phash_distance"),int) and
+        ev["pixel_phash_distance"]<=2 and
+        ev.get("source_page")==p.get("source_page") and
+        ev.get("media_identifier")==p.get("media_source_url") and
+        ev.get("creator")==p.get("creator") and
+        p.get("license")=="CC BY" and
+        p.get("source_determination") and
+        entry.get("species_id")==source_path.split("/")[4]):
+        return None
+    return (p["creator"],p["source_page"],("CC BY 4.0","https://creativecommons.org/licenses/by/4.0/"))
+def approved(p,source_path=""):
+    if source_path in PINNED_ARCHIVED_GBIF_BY4:
+        approved_original=pinned_gbif_by4(p,source_path)
+        return (approved_original,None) if approved_original else (None,"photo_specific_public_source_unverified")
     lic=license_info(p)
     if not lic:return None,"unverified_license_or_restricted"
     creator=str(p.get("creator") or "").strip()
@@ -146,7 +187,8 @@ for row in ix["entries"]:
         file=str(p.get("file") or "")
         if not re.fullmatch(r"images/[A-Za-z0-9._-]+\.(jpg|jpeg|png|webp)",file,re.I):
             blocks.append({"record":n,"reason":"missing_or_remote_original_file"});continue
-        ok,reason=approved(p)
+        source_path=f"content/taxa/{family}/{genus}/{sid}/{file}"
+        ok,reason=approved(p,source_path)
         if not ok:
             blocks.append({"record":n,"reason":reason});continue
         # Historical rights-hold archive does not nest by family. It was
@@ -168,6 +210,8 @@ for row in ix["entries"]:
         pinned=(PINNED_GBIF_CC0.get(str(p.get("source_page") or "")) or
                 PINNED_INAT_GUIDE.get(str(p.get("source_page") or "")))
         if pinned and sha!=pinned["blob_sha"]:
+            blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
+        if source_path in PINNED_ARCHIVED_GBIF_BY4 and sha!=PINNED_ARCHIVED_GBIF_BY4[source_path]:
             blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
         src="media/"+sid+"/"+path.name
         dest=SITE/src
