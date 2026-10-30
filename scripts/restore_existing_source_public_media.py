@@ -72,6 +72,44 @@ PINNED_ARCHIVED_GBIF_BY4={
 # The complete historical audit is read from the already transferred
 # source branch. The list above is a narrow per-file publication decision.
 ARCHIVED_RIGHTS_AUDIT=json.loads((SOURCE/"migration/fabaceae-verified-photo-ledger.json").read_text())
+PINNED_ARCHIVED_INAT_CC={
+    "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/inat-312240929.jpg": "87dd7c1a01c173829e1ae203ccd945796e532907",
+    "content/taxa/Fabaceae/Galactia/galactia-canescens/images/inat-636282769.jpg": "a6ff6a63bab2a20ca3ead0087d4fce7f9fd10b8a",
+    "content/taxa/Fabaceae/Hylodesmum/hylodesmum-nudiflorum/images/inat-196269807.jpg": "7f1a8f9ad59ac78c76ee7fd089532c07df44b93d",
+    "content/taxa/Fabaceae/Kummerowia/kummerowia-striata/images/inat-5370736.jpg": "36cb6021014182643b8e99cf95dbbf35367f236b",
+    "content/taxa/Fabaceae/Lespedeza/lespedeza-texana/images/inat-272775439.jpg": "5e5386718894f00c9df3dac612c90d2df463b660",
+    "content/taxa/Fabaceae/Pediomelum/pediomelum-linearifolium/images/inat-141329355.jpg": "0fe5a6cdfe5502a5684f68a2701e86a658aff864",
+    "content/taxa/Fabaceae/Pediomelum/pediomelum-tenuiflorum/images/inat-123056915.jpg": "07a9f74a5d22472eb21c8c773aa65617d0530397",
+}
+def pinned_inat_cc(p,source_path):
+    entry=ARCHIVED_RIGHTS_AUDIT.get(source_path,{})
+    ev=entry.get("evidence") or {}
+    expected_blob=PINNED_ARCHIVED_INAT_CC[source_path]
+    license_name=ev.get("license")
+    claimed=p.get("license")
+    expected_name="CC BY-SA" if license_name=="CC BY-SA 4.0" else "CC BY"
+    photo_id=str(ev.get("photo_id") or "")
+    species_id=source_path.split("/")[4]
+    if not (
+        entry.get("source_path")==source_path and
+        entry.get("source_git_blob_sha")==expected_blob and
+        entry.get("status")=="STAGED_PRIVATE_PUBLIC_COMPATIBLE" and
+        entry.get("species_id")==species_id and
+        entry.get("claimed_license")==expected_name and
+        claimed==expected_name and
+        ev.get("provenance")=="INAT_EXACT_OBSERVATION_AND_PHOTO_API" and
+        ev.get("pixel_phash_distance")==0 and
+        license_name in ("CC BY 4.0","CC BY-SA 4.0") and
+        ev.get("observed_taxon","").lower().replace(" ","-")==species_id and
+        p.get("file")=="images/inat-"+photo_id+".jpg" and
+        p.get("source_page")=="https://www.inaturalist.org/photos/"+photo_id and
+        ev.get("source_page")==p.get("source_page") and
+        ev.get("creator")==p.get("creator") and
+        ev.get("license_url")=="https://creativecommons.org/licenses/"+(
+            "by-sa" if expected_name=="CC BY-SA" else "by")+"/4.0/"
+    ):
+        return None
+    return (p["creator"],p["source_page"],(license_name,ev["license_url"]))
 def pinned_gbif_by4(p,source_path):
     if source_path not in PINNED_ARCHIVED_GBIF_BY4:
         return None
@@ -95,6 +133,9 @@ def pinned_gbif_by4(p,source_path):
         return None
     return (p["creator"],p["source_page"],("CC BY 4.0","https://creativecommons.org/licenses/by/4.0/"))
 def approved(p,source_path=""):
+    if source_path in PINNED_ARCHIVED_INAT_CC:
+        result=pinned_inat_cc(p,source_path)
+        return (result,None) if result else (None,"photo_specific_public_source_unverified")
     if source_path in PINNED_ARCHIVED_GBIF_BY4:
         approved_original=pinned_gbif_by4(p,source_path)
         return (approved_original,None) if approved_original else (None,"photo_specific_public_source_unverified")
@@ -212,6 +253,8 @@ for row in ix["entries"]:
         if pinned and sha!=pinned["blob_sha"]:
             blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
         if source_path in PINNED_ARCHIVED_GBIF_BY4 and sha!=PINNED_ARCHIVED_GBIF_BY4[source_path]:
+            blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
+        if source_path in PINNED_ARCHIVED_INAT_CC and sha!=PINNED_ARCHIVED_INAT_CC[source_path]:
             blocks.append({"record":n,"reason":"pinned_source_original_bytes_mismatch"});continue
         src="media/"+sid+"/"+path.name
         dest=SITE/src
