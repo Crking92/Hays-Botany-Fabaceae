@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 58,
-  "photo_count": 87,
+  "photo_species": 59,
+  "photo_count": 88,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -82,8 +82,8 @@
       "first_src": "media/dalea-enneandra/library-review027-695fa6fa8f62b62.jpg"
     },
     "dalea-frutescens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dalea-frutescens/01-habit.jpg"
     },
     "dalea-greggii": {
       "count": 1,

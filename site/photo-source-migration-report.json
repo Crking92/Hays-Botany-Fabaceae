@@ -3,11 +3,11 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 87,
-  "species_with_photos": 58,
-  "held_records": 131,
+  "photos_copied_and_eligible": 88,
+  "species_with_photos": 59,
+  "held_records": 130,
   "held_by_reason": {
-    "unverified_license_or_restricted": 111,
+    "unverified_license_or_restricted": 110,
     "missing_or_remote_original_file": 18,
     "photo_specific_public_source_unverified": 2
   },
@@ -155,10 +155,6 @@
       }
     ],
     "dalea-frutescens": [
-      {
-        "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
       {
         "record": 1,
         "reason": "unverified_license_or_restricted"
@@ -677,7 +673,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 23917953,
+  "total_source_image_bytes": 24240315,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false
