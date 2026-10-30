@@ -7,6 +7,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
 concurrency:
   group: fabaceae-approved-photo-release-main
   cancel-in-progress: false
@@ -59,6 +60,7 @@ jobs:
           print("PASS: website references, binary Git blobs, species and gallery counts all agree")
           PY
       - name: Commit only public gallery source files, no history rewrite
+        id: release
         working-directory: ${{ runner.temp }}/fabaceae-public-site
         run: |
           set -euo pipefail
@@ -66,9 +68,16 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add site/media/ site/data/gallery-index.json site/data/collection-index.json site/data/species/
           if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
             echo "No unpublished approved photos; public site already current."
             exit 0
           fi
           git diff --cached --check
           git commit -m "Automatically publish newly approved Fabaceae source photographs"
           git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request GitHub Pages rebuild for bot-created photo releases
+        if: steps.release.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
