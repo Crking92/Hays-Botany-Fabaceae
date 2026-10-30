@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 53,
-  "photo_count": 78,
+  "photo_species": 58,
+  "photo_count": 87,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -166,8 +166,8 @@
       "first_src": null
     },
     "gleditsia-triacanthos": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/gleditsia-triacanthos/library-review049-438eb39d0a83bdc.jpg"
     },
     "hylodesmum-nudiflorum": {
       "count": 1,
@@ -178,7 +178,7 @@
       "first_src": null
     },
     "kummerowia-striata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/kummerowia-striata/inat-5370736.jpg"
     },
     "lespedeza-texana": {
@@ -210,8 +210,8 @@
       "first_src": "media/medicago-sativa/commons-medicago-sativa.jpg"
     },
     "melilotus-albus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/melilotus-albus/library-review056-6fca386ee0e930e.jpg"
     },
     "melilotus-indicus": {
       "count": 0,
@@ -230,8 +230,8 @@
       "first_src": null
     },
     "mimosa-roemeriana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/mimosa-roemeriana/gbif-manual-4852922106-3b70815b2.jpg"
     },
     "mimosa-texana": {
       "count": 0,
@@ -286,8 +286,8 @@
       "first_src": null
     },
     "rhynchosia-senna": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/rhynchosia-senna/gbif-manual-6185179860-060fb5382.jpg"
     },
     "robinia-pseudoacacia": {
       "count": 1,
@@ -310,7 +310,7 @@
       "first_src": null
     },
     "senna-pilosior": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/senna-pilosior/gbif-first-6431822939-9ca58a139a.jpg"
     },
     "senna-roemeriana": {
@@ -318,8 +318,8 @@
       "first_src": "media/senna-roemeriana/public-inat-senna-roemeriana-752965027.jpg"
     },
     "sesbania-drummondii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sesbania-drummondii/gbif-manual-5938619114-403e5ef30.jpg"
     },
     "sesbania-herbacea": {
       "count": 1,

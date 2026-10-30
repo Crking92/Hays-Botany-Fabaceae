@@ -369,8 +369,8 @@
       "genus": "Gleditsia",
       "scientific_name": "Gleditsia triacanthos",
       "common_name": "Honey locust",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hylodesmum-nudiflorum",
@@ -396,7 +396,7 @@
       "genus": "Kummerowia",
       "scientific_name": "Kummerowia striata",
       "common_name": "Japanese clover",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -468,8 +468,8 @@
       "genus": "Melilotus",
       "scientific_name": "Melilotus albus",
       "common_name": "White sweetclover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "melilotus-indicus",
@@ -513,8 +513,8 @@
       "genus": "Mimosa",
       "scientific_name": "Mimosa roemeriana",
       "common_name": "Roemer's mimosa / sensitive briar",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mimosa-texana",
@@ -639,8 +639,8 @@
       "genus": "Rhynchosia",
       "scientific_name": "Rhynchosia senna",
       "common_name": "Texas snoutbean",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "robinia-pseudoacacia",
@@ -693,7 +693,7 @@
       "genus": "Senna",
       "scientific_name": "Senna pilosior",
       "common_name": "Trans-Pecos senna",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -711,8 +711,8 @@
       "genus": "Sesbania",
       "scientific_name": "Sesbania drummondii",
       "common_name": "Rattlebox",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sesbania-herbacea",

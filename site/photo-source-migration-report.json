@@ -3,11 +3,11 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 78,
-  "species_with_photos": 53,
-  "held_records": 140,
+  "photos_copied_and_eligible": 87,
+  "species_with_photos": 58,
+  "held_records": 131,
   "held_by_reason": {
-    "unverified_license_or_restricted": 120,
+    "unverified_license_or_restricted": 111,
     "missing_or_remote_original_file": 18,
     "photo_specific_public_source_unverified": 2
   },
@@ -358,14 +358,6 @@
         "reason": "unverified_license_or_restricted"
       },
       {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
         "record": 3,
         "reason": "unverified_license_or_restricted"
       }
@@ -373,12 +365,6 @@
     "indigofera-miniata": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      }
-    ],
-    "kummerowia-striata": [
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -411,10 +397,6 @@
     "melilotus-albus": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -465,10 +447,6 @@
     "mimosa-roemeriana": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -541,10 +519,6 @@
     "rhynchosia-senna": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -636,16 +610,6 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "senna-pilosior": [
-      {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
-        "reason": "unverified_license_or_restricted"
-      }
-    ],
     "senna-roemeriana": [
       {
         "record": 0,
@@ -667,10 +631,6 @@
     "sesbania-drummondii": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -717,7 +677,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 20286228,
+  "total_source_image_bytes": 23917953,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false
