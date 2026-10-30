@@ -4,6 +4,7 @@ on:
     branches: [staging/fabaceae-metadata]
     paths:
       - 'photo-intake/approved/**'
+      - 'photo-intake/requests/**'
   workflow_dispatch:
 permissions:
   contents: write
@@ -25,6 +26,10 @@ jobs:
         run: |
           git fetch origin main
           git worktree add "$RUNNER_TEMP/fabaceae-public-site" origin/main
+      - name: Prepare pinned source-verified Wikimedia Commons originals
+        run: |
+          python3 -m py_compile "$RUNNER_TEMP/fabaceae-public-site/scripts/prepare_commons_photo_requests.py"
+          python3 "$RUNNER_TEMP/fabaceae-public-site/scripts/prepare_commons_photo_requests.py" --source-root . --site-root "$RUNNER_TEMP/fabaceae-public-site/site"
       - name: Validate image bytes, source approval and exact species ID
         run: |
           python3 -m pip install --disable-pip-version-check Pillow==11.3.0
