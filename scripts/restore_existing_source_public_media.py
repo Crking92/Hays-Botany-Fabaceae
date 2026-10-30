@@ -68,6 +68,17 @@ PINNED_ARCHIVED_GBIF_BY4={
     "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/images/library-review041-ce8aa6357c8acc4.jpg": "d2ffd5c45394bdfb01c6e2b4e5ca156682a875e0",
     "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-0a6382aefa921e2.jpg": "af4544a5d5a3d1288cf80fa43ccb8ac6d557c9c9",
     "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/library-review041-4e58fb69521e2aa.jpg": "614f9252491d1f433166d0da53d1220f1e388c0a",
+    "content/taxa/Fabaceae/Dalea/dalea-aurea/images/library-review027-5ae8fe34525b184.jpg": "3c8cfcc431501b055cc69d7ee084c7dedd502983",
+    "content/taxa/Fabaceae/Dalea/dalea-compacta/images/library-review027-271f28131baf7be.jpg": "721449cb4dc5da43604f6393ed67cd9f9b35c217",
+    "content/taxa/Fabaceae/Dalea/dalea-compacta/images/library-review027-8c2ad479e42270e.jpg": "4b9e5e96b01e299a1436d69cbf91645be4ede2a8",
+    "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-695fa6fa8f62b62.jpg": "8ffdb32d657a26a787b14db855082d6d1ea205f3",
+    "content/taxa/Fabaceae/Dalea/dalea-enneandra/images/library-review027-932b1b31df3bcb6.jpg": "e7f495a715f271437ff0ee002114faa5a2ff3a25",
+    "content/taxa/Fabaceae/Dalea/dalea-hallii/images/library-review033-a9bf6230f39f81d.jpg": "21f5e838106a4ff565e484e808d15141f0d35098",
+    "content/taxa/Fabaceae/Dalea/dalea-tenuis/images/library-review010-010069164f6d82f.jpg": "1b9eed21d8fc51fa86b81f6d88a243f4223c3f0c",
+    "content/taxa/Fabaceae/Dalea/dalea-tenuis/images/library-review010-ff5b6a31bb18628.jpg": "eaeff0ae4df9dc0ecb8da74c586a06069728078a",
+    "content/taxa/Fabaceae/Desmodium/desmodium-paniculatum/images/library-review036-52d965a3c8cfb6d.jpg": "86488cb2be2e7311636a49a098f83e5acd7dcbfe",
+    "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-ab0070be4422652.jpg": "e6b0dab0be649f5f3a939561b868cd308312f7b9",
+    "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/library-review047-d14b7d09dfe972b.jpg": "c571a35be6bbebfc0854a3557ceba59c0dd266dd",
 }
 # The complete historical audit is read from the already transferred
 # source branch. The list above is a narrow per-file publication decision.
