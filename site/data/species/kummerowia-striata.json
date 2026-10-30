@@ -23,6 +23,19 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/kummerowia-striata/library-review054-53cfbf11948eb20.jpg",
+      "creator": "Sam Kieschnick",
+      "source_page": "https://www.gbif.org/occurrence/6551475361",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "0c494496d2d6b816cd19e2771c609bebad719a3d",
+      "role": "Look closer · pink pea flower among three-parted leaves; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
