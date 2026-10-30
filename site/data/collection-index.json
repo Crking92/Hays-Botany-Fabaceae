@@ -18,8 +18,8 @@
       "genus": "Amorpha",
       "scientific_name": "Amorpha canescens",
       "common_name": "Leadplant",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "amorpha-fruticosa",
@@ -36,8 +36,8 @@
       "genus": "Amorpha",
       "scientific_name": "Amorpha roemeriana",
       "common_name": "Roemer's false indigo / Texas amorpha",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "astragalus-crassicarpus-var-berlandieri",
@@ -45,8 +45,8 @@
       "genus": "Astragalus",
       "scientific_name": "Astragalus crassicarpus var. berlandieri",
       "common_name": "Berlandier's groundplum",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "astragalus-leptocarpus",
@@ -63,8 +63,8 @@
       "genus": "Astragalus",
       "scientific_name": "Astragalus lindheimeri",
       "common_name": "Lindheimer's milkvetch",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "astragalus-nuttallianus",
@@ -117,8 +117,8 @@
       "genus": "Cercis",
       "scientific_name": "Cercis canadensis subsp. mexicana",
       "common_name": "Mexican redbud",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cercis-canadensis-subsp-texensis",
@@ -207,8 +207,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea multiflora",
       "common_name": "Roundhead prairie clover / white prairie clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-nana",
@@ -315,8 +315,8 @@
       "genus": "Desmodium",
       "scientific_name": "Desmodium psilophyllum",
       "common_name": "Ticktrefoil",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "desmodium-sessilifolium",
@@ -324,8 +324,8 @@
       "genus": "Desmodium",
       "scientific_name": "Desmodium sessilifolium",
       "common_name": "Sessileleaf ticktrefoil",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "erythrina-herbacea",

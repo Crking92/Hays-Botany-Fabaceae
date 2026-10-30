@@ -2,36 +2,36 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 35,
-  "photo_count": 49,
+  "photo_species": 43,
+  "photo_count": 60,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
       "first_src": null
     },
     "amorpha-canescens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/amorpha-canescens/library-review018-bed5a45cbae1533.jpg"
     },
     "amorpha-fruticosa": {
       "count": 1,
       "first_src": "media/amorpha-fruticosa/public-inat-amorpha-fruticosa-752610634.jpg"
     },
     "amorpha-roemeriana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/amorpha-roemeriana/library-review010-e0bd61424bd6d31.jpg"
     },
     "astragalus-crassicarpus-var-berlandieri": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/astragalus-crassicarpus-var-berlandieri/library-review013-0120fbc5600d918.jpg"
     },
     "astragalus-leptocarpus": {
       "count": 2,
       "first_src": "media/astragalus-leptocarpus/01-slimpod-milkvetch-mature-fruit.jpg"
     },
     "astragalus-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/astragalus-lindheimeri/gbif-manual-6184971854-8f0e942ba.jpg"
     },
     "astragalus-nuttallianus": {
       "count": 1,
@@ -54,8 +54,8 @@
       "first_src": null
     },
     "cercis-canadensis-subsp-mexicana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cercis-canadensis-subsp-mexicana/library-review012-cb5b46a700292bf.jpg"
     },
     "cercis-canadensis-subsp-texensis": {
       "count": 2,
@@ -94,8 +94,8 @@
       "first_src": "media/dalea-hallii/library-review014-725ce09df227f6c.jpg"
     },
     "dalea-multiflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dalea-multiflora/gbif-manual-6188527015-4ad7d4c48.jpg"
     },
     "dalea-nana": {
       "count": 0,
@@ -142,12 +142,12 @@
       "first_src": null
     },
     "desmodium-psilophyllum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/desmodium-psilophyllum/library-review041-ce8aa6357c8acc4.jpg"
     },
     "desmodium-sessilifolium": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/desmodium-sessilifolium/library-review041-0a6382aefa921e2.jpg"
     },
     "erythrina-herbacea": {
       "count": 0,

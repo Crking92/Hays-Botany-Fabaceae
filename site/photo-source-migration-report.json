@@ -3,11 +3,11 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 49,
-  "species_with_photos": 35,
-  "held_records": 169,
+  "photos_copied_and_eligible": 60,
+  "species_with_photos": 43,
+  "held_records": 158,
   "held_by_reason": {
-    "unverified_license_or_restricted": 149,
+    "unverified_license_or_restricted": 138,
     "missing_or_remote_original_file": 18,
     "photo_specific_public_source_unverified": 2
   },
@@ -30,10 +30,6 @@
       {
         "record": 2,
         "reason": "missing_or_remote_original_file"
-      },
-      {
-        "record": 3,
-        "reason": "unverified_license_or_restricted"
       },
       {
         "record": 4,
@@ -60,10 +56,6 @@
         "reason": "missing_or_remote_original_file"
       },
       {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
         "record": 2,
         "reason": "unverified_license_or_restricted"
       },
@@ -74,33 +66,17 @@
       {
         "record": 4,
         "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 5,
-        "reason": "unverified_license_or_restricted"
       }
     ],
     "astragalus-crassicarpus-var-berlandieri": [
       {
         "record": 0,
         "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
-        "reason": "unverified_license_or_restricted"
       }
     ],
     "astragalus-lindheimeri": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -141,10 +117,6 @@
     "cercis-canadensis-subsp-mexicana": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -255,10 +227,6 @@
     "dalea-multiflora": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -390,23 +358,11 @@
       {
         "record": 0,
         "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
       }
     ],
     "desmodium-sessilifolium": [
       {
         "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 1,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
-        "record": 2,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -843,7 +799,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 11404103,
+  "total_source_image_bytes": 15209185,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false
