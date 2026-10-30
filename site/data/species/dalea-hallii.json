@@ -60,6 +60,19 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/dalea-hallii/library-review033-a9bf6230f39f81d.jpg",
+      "creator": "Eric Knight",
+      "source_page": "https://www.gbif.org/occurrence/6234795491",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "21f5e838106a4ff565e484e808d15141f0d35098",
+      "role": "Close narrow leaflets, stem branching and hand scale; exact leaflet number and flowering characters require expert check; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

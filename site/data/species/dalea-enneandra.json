@@ -51,8 +51,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/dalea-enneandra/library-review027-695fa6fa8f62b62.jpg",
+      "creator": "ashleyrsteel",
+      "source_page": "https://www.gbif.org/occurrence/6195669838",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "8ffdb32d657a26a787b14db855082d6d1ea205f3",
+      "role": "Narrow divided leaflets across a flowering stem held against hand; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/dalea-enneandra/library-review027-932b1b31df3bcb6.jpg",
+      "creator": "ashleyrsteel",
+      "source_page": "https://www.gbif.org/occurrence/6195669838",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "e7f495a715f271437ff0ee002114faa5a2ff3a25",
+      "role": "Terminal budding cluster and leaflet arrangement on low stem; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8a1a9d8b3ea5a706595455c2a4a85d39c5801a25a1bce6ce887ab2eae4149f11",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

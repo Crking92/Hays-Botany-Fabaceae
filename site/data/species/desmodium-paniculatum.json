@@ -23,6 +23,19 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/desmodium-paniculatum/library-review036-52d965a3c8cfb6d.jpg",
+      "creator": "Sam Kieschnick",
+      "source_page": "https://www.gbif.org/occurrence/6251657328",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "86488cb2be2e7311636a49a098f83e5acd7dcbfe",
+      "role": "Long herbaceous stem showing trifoliolate leaves and pale flowers on branch; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

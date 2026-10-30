@@ -60,6 +60,32 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/dalea-compacta/library-review027-271f28131baf7be.jpg",
+      "creator": "Sam Kieschnick",
+      "source_page": "https://www.gbif.org/occurrence/6236463984",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "721449cb4dc5da43604f6393ed67cd9f9b35c217",
+      "role": "Immature compact flower spike and slender leaves held for scale; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/dalea-compacta/library-review027-8c2ad479e42270e.jpg",
+      "creator": "ashleyrsteel",
+      "source_page": "https://www.gbif.org/occurrence/6273849789",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "4b9e5e96b01e299a1436d69cbf91645be4ede2a8",
+      "role": "Short multi-stemmed foliage and fine compound leaf arrangement; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
