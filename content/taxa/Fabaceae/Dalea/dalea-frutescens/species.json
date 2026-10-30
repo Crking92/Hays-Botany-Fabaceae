@@ -95,11 +95,14 @@
     {
       "file": "images/01-habit.jpg",
       "role": "Whole shrub morphology reference",
-      "creator": "",
-      "license": "CC BY-SA / GFDL (see source page)",
+      "creator": "Miwasatoshi",
+      "license": "CC BY-SA 4.0",
       "source_page": "https://commons.wikimedia.org/wiki/File:Dalea-frutescens-20080325.JPG",
       "study_use": "yes",
-      "public_reuse": "yes"
+      "public_reuse": "yes",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_basis": "Exact Commons file imageinfo audit retained in migration/fabaceae-verified-photo-ledger.json; original archived file matched source pixels; creator Miwasatoshi and CC BY-SA 4.0",
+      "modified": "Exact original archived JPG; no crop or image manipulation in this recovery"
     },
     {
       "file": "images/02-joey-wild-host.jpg",
