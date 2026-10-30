@@ -51,8 +51,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/dalea-frutescens/01-habit.jpg",
+      "creator": "Miwasatoshi",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dalea-frutescens-20080325.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "01f517c61ef1013ff627e631fc3b9f735ea900b6",
+      "role": "Whole shrub morphology reference",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3722b88836fa62345f4f69a7b6e5b63609db4fb79de8d39378b3ec14bdd139f0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
