@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 43,
-  "photo_count": 60,
+  "photo_species": 50,
+  "photo_count": 67,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -138,8 +138,8 @@
       "first_src": "media/desmanthus-virgatus/virgatus-guadeloupe-face.jpg"
     },
     "desmodium-paniculatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/desmodium-paniculatum/inat-312240929.jpg"
     },
     "desmodium-psilophyllum": {
       "count": 1,
@@ -158,8 +158,8 @@
       "first_src": null
     },
     "galactia-canescens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/galactia-canescens/inat-636282769.jpg"
     },
     "galactia-texana": {
       "count": 0,
@@ -170,20 +170,20 @@
       "first_src": null
     },
     "hylodesmum-nudiflorum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/hylodesmum-nudiflorum/inat-196269807.jpg"
     },
     "indigofera-miniata": {
       "count": 0,
       "first_src": null
     },
     "kummerowia-striata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/kummerowia-striata/inat-5370736.jpg"
     },
     "lespedeza-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lespedeza-texana/inat-272775439.jpg"
     },
     "leucaena-retusa": {
       "count": 0,
@@ -266,16 +266,16 @@
       "first_src": null
     },
     "pediomelum-linearifolium": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pediomelum-linearifolium/inat-141329355.jpg"
     },
     "pediomelum-rhombifolium": {
       "count": 0,
       "first_src": null
     },
     "pediomelum-tenuiflorum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pediomelum-tenuiflorum/inat-123056915.jpg"
     },
     "rhynchosia-americana": {
       "count": 0,

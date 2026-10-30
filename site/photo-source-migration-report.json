@@ -3,11 +3,11 @@
   "status": "PASS_EXISTING_ONLY_STRICT_PUBLIC_PHOTO_TRANSFER",
   "species": 91,
   "source_photo_records": 218,
-  "photos_copied_and_eligible": 60,
-  "species_with_photos": 43,
-  "held_records": 158,
+  "photos_copied_and_eligible": 67,
+  "species_with_photos": 50,
+  "held_records": 151,
   "held_by_reason": {
-    "unverified_license_or_restricted": 138,
+    "unverified_license_or_restricted": 131,
     "missing_or_remote_original_file": 18,
     "photo_specific_public_source_unverified": 2
   },
@@ -342,10 +342,6 @@
     ],
     "desmodium-paniculatum": [
       {
-        "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
         "record": 1,
         "reason": "unverified_license_or_restricted"
       },
@@ -394,12 +390,6 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "galactia-canescens": [
-      {
-        "record": 0,
-        "reason": "unverified_license_or_restricted"
-      }
-    ],
     "galactia-texana": [
       {
         "record": 0,
@@ -424,12 +414,6 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "hylodesmum-nudiflorum": [
-      {
-        "record": 0,
-        "reason": "unverified_license_or_restricted"
-      }
-    ],
     "indigofera-miniata": [
       {
         "record": 0,
@@ -438,17 +422,7 @@
     ],
     "kummerowia-striata": [
       {
-        "record": 0,
-        "reason": "unverified_license_or_restricted"
-      },
-      {
         "record": 1,
-        "reason": "unverified_license_or_restricted"
-      }
-    ],
-    "lespedeza-texana": [
-      {
-        "record": 0,
         "reason": "unverified_license_or_restricted"
       }
     ],
@@ -586,19 +560,7 @@
         "reason": "unverified_license_or_restricted"
       }
     ],
-    "pediomelum-linearifolium": [
-      {
-        "record": 0,
-        "reason": "unverified_license_or_restricted"
-      }
-    ],
     "pediomelum-rhombifolium": [
-      {
-        "record": 0,
-        "reason": "unverified_license_or_restricted"
-      }
-    ],
-    "pediomelum-tenuiflorum": [
       {
         "record": 0,
         "reason": "unverified_license_or_restricted"
@@ -799,7 +761,7 @@
       }
     ]
   },
-  "total_source_image_bytes": 15209185,
+  "total_source_image_bytes": 16378678,
   "new_external_images": 0,
   "restricted_media_copied": 0,
   "source_branch_modified": false

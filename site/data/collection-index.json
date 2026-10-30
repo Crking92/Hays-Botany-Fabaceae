@@ -306,8 +306,8 @@
       "genus": "Desmodium",
       "scientific_name": "Desmodium paniculatum",
       "common_name": "Panicled ticktrefoil",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "desmodium-psilophyllum",
@@ -351,8 +351,8 @@
       "genus": "Galactia",
       "scientific_name": "Galactia canescens",
       "common_name": "Hoary milkpea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "galactia-texana",
@@ -378,8 +378,8 @@
       "genus": "Hylodesmum",
       "scientific_name": "Hylodesmum nudiflorum",
       "common_name": "Naked-flower ticktrefoil",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "indigofera-miniata",
@@ -396,8 +396,8 @@
       "genus": "Kummerowia",
       "scientific_name": "Kummerowia striata",
       "common_name": "Japanese clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lespedeza-texana",
@@ -405,8 +405,8 @@
       "genus": "Lespedeza",
       "scientific_name": "Lespedeza texana",
       "common_name": "Texas lespedeza",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "leucaena-retusa",
@@ -594,8 +594,8 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum linearifolium",
       "common_name": "Linearleaf scurfpea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pediomelum-rhombifolium",
@@ -612,8 +612,8 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum tenuiflorum",
       "common_name": "Pediomelum tenuiflorum",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhynchosia-americana",
