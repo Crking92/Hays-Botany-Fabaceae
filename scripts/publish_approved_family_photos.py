@@ -109,6 +109,17 @@ def main():
     if not intake.exists():
         print(json.dumps({"status":"NO_APPROVED_INTAKE","installed":0}));return
     if intake.is_symlink() or not intake.is_dir():fail("Unsafe intake directory")
+    # Never silently ignore an uploaded image with missing approval/credit sidecar.
+    for source_file in intake.rglob("*"):
+        if source_file.is_symlink():
+            fail("Symlink in public intake: " + str(source_file))
+        if source_file.is_file() and source_file.suffix.lower() in {".jpg",".jpeg",".png",".webp"}:
+            if not source_file.with_name(source_file.name+".json").is_file():
+                fail("Uploaded photo lacks its approved JSON sidecar: " + str(source_file))
+        if source_file.is_file() and source_file.name.endswith(".json") and source_file.parent!=intake:
+            image_file=source_file.with_suffix("")
+            if not image_file.is_file() or image_file.suffix.lower() not in {".jpg",".jpeg",".png",".webp"}:
+                fail("Approved sidecar has no matching supported image: " + str(source_file))
     catalog_path=site/"data/collection-index.json"
     gallery_path=site/"data/gallery-index.json"
     catalog=load(catalog_path)
