@@ -1,0 +1,63 @@
+{
+  "species_id": "astragalus-crassicarpus-var-berlandieri",
+  "photo_file": "g3-gbif-2807305895-photo_0.jpg",
+  "status": "APPROVED_FOR_PUBLIC_FAMILY_SITE",
+  "rights_approved_for_public": true,
+  "taxon_reviewed": true,
+  "approved_by": "Codex automated source and visual review; user-authorized publication",
+  "approval_note": "Exact downloaded SHA-256 verified. GBIF occurrence 2807305895 was re-read and its exact media URL, image-level license and credited creator matched. Source taxon and specimen label where present compared with existing lesson; visible features screened at contact-sheet and enlarged-image resolution. No independent voucher determination or native-range claim. Existing lesson views compared; this image adds the described complementary view.",
+  "creator": "The University of Texas at Austin",
+  "source_page": "https://www.gbif.org/occurrence/2807305895",
+  "source_page_is_exact": true,
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "role": "Pressed rooted specimen with pinnate leaves and inflated dried pods; Travis County specimen labeled as variety berlandieri.",
+  "modifications": "Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
+  "sha256": "341770a9a24270f6b053dcd259b59adb5ec2aa06772c3dc5f2cc801bc16694ad",
+  "phash": "d573420c0e5a7b4f",
+  "original_filename": "photo_0.jpg",
+  "original_download_metadata": {
+    "filename": "photo_0.jpg",
+    "scientific_name": "Astragalus crassicarpus var. berlandieri",
+    "category": "Unknown",
+    "classification_confidence": 0.0,
+    "classification_method": "None",
+    "selection_reason": "High-quality backup",
+    "gbif_id": 2807305895,
+    "photographer": "The University of Texas at Austin",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "observation_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp69108000470879516565.att.jpg",
+    "photo_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp69108000470879516565.att.jpg",
+    "sha256_hash": "341770a9a24270f6b053dcd259b59adb5ec2aa06772c3dc5f2cc801bc16694ad",
+    "phash": "d573420c0e5a7b4f",
+    "dimensions": "3744x5616",
+    "observation_date": "1983-05-25",
+    "download_date": "2026-10-30T20:04:59.588366"
+  },
+  "source_verification": {
+    "gbif_id": "2807305895",
+    "species": "Astragalus crassicarpus var. berlandieri",
+    "source_scientific_name": "Astragalus crassicarpus var. berlandieri Barneby",
+    "source_species": "Astragalus crassicarpus",
+    "source_family": "Fabaceae",
+    "taxonomic_status": "ACCEPTED",
+    "basis_of_record": "PRESERVED_SPECIMEN",
+    "event_date": "1983-05-25",
+    "county": "Travis",
+    "state_province": "Texas",
+    "exact_media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "rightsHolder": "The University of Texas at Austin",
+        "identifier": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp69108000470879516565.att.jpg"
+      }
+    ],
+    "license_matches": true,
+    "creator_matches": true,
+    "verification": "source_record_read",
+    "verified_at": "2026-10-31T02:08:14Z"
+  },
+  "original_credits_text": "photo_0.jpg: Photo by The University of Texas at Austin | License: http://creativecommons.org/licenses/by/4.0/ | Source: http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp69108000470879516565.att.jpg\nphoto_1.jpg: Photo by The University of Texas at Austin | License: http://creativecommons.org/licenses/by/4.0/ | Source: http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp66119311301880480805.att.jpg\nphoto_2.jpg: Photo by The University of Texas at Austin | License: http://creativecommons.org/licenses/by/4.0/ | Source: http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp6936282682143958842.att.jpg\nphoto_3.jpg: Photo by The University of Texas at Austin | License: http://creativecommons.org/licenses/by/4.0/ | Source: http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp62997020983587764867.att.jpg\nphoto_4.jpg: Photo by Kenneth Bader | License: http://creativecommons.org/licenses/by-nc/4.0/ | Source: https://www.inaturalist.org/observations/341716585\n"
+}
