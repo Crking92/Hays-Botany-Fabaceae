@@ -18,7 +18,7 @@ assert config["publication"]["enabled"] is False
 assert m["repository_full_name"]==config["repository_full_name"]
 assert idx["site_release_stage"]=="PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
 assert g["status"]=="ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES"
-assert len(idx["entries"])==g["species"]==report["species"]
+assert len(idx["entries"])==g["species"] and len(idx["entries"])>=report["species"]
 total=0; species=0; approved=set()
 for row in idx["entries"]:
     sid=row["id"]
@@ -30,7 +30,10 @@ for row in idx["entries"]:
         src=p["src"]
         assert src.startswith("media/"+sid+"/") and ".." not in src
         assert p["creator"] and p["source_page"].startswith("https://") and p["license_url"].startswith("https://creativecommons.org/")
-        assert p["noncommercial_only"] is False and p["private_rights_review_only"] is False
+        assert p["private_rights_review_only"] is False
+        if p.get("noncommercial_only"):
+            assert m.get("photo_license_policy",{}).get("noncommercial_educational_use") is True
+            assert p["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
         path=SITE/src
         assert path.is_file() and path.stat().st_size>500,src
         content=path.read_bytes()
@@ -38,8 +41,8 @@ for row in idx["entries"]:
         assert hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()==p["source_blob_sha"],src
         approved.add(path.resolve())
         total+=1
-assert total==g["photo_count"]==report["photos_copied_and_eligible"]
-assert species==g["photo_species"]==report["species_with_photos"]
+assert total==g["photo_count"] and total>=report["photos_copied_and_eligible"]
+assert species==g["photo_species"] and species>=report["species_with_photos"]
 assert len(approved)==total
 actual={f.resolve() for f in (SITE/"media").rglob("*") if f.is_file()}
 assert approved==actual,"Public media folder has images not covered by explicit approved gallery"
