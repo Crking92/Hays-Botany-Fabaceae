@@ -60,8 +60,13 @@ jobs:
               for photo in photos:
                   assert photo["src"].startswith("media/"+sid+"/")
                   assert photo.get("creator") and photo.get("source_page","").startswith("https://")
-                  assert not photo.get("noncommercial_only") and not photo.get("private_rights_review_only")
-                  assert "NC" not in photo.get("license","").upper() and "ND" not in photo.get("license","").upper()
+                  assert not photo.get("private_rights_review_only")
+                  if photo.get("noncommercial_only"):
+                      assert photo.get("license") in ("CC BY-NC 4.0","CC BY-NC-SA 4.0")
+                      assert json.loads((site/"data/collection-meta.json").read_text()).get("photo_license_policy",{}).get("noncommercial_educational_use") is True
+                  assert "ND" not in photo.get("license","").upper()
+                  if not photo.get("noncommercial_only"):
+                      assert "NC" not in photo.get("license","").upper()
                   paths.add(photo["src"])
           assert panels==expected["photo_count"] and photographed==expected["photo_species"]
           assert paths=={p.relative_to(site).as_posix() for p in (site/"media").rglob("*") if p.is_file()}
