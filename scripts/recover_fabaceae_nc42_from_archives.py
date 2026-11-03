@@ -84,7 +84,10 @@ def run():
                 assert m,"no exact original iNaturalist photo source"
                 pid=int(m.group(1));rec["photo_id"]=pid
                 original=SOURCE/path
-                assert original.is_file(),"original photo file absent"
+                if not original.is_file():
+                    relative=Path(path).relative_to("content/taxa/Fabaceae")
+                    original=SOURCE/"migration/private-original-photo-holds"/relative
+                assert original.is_file(),"original photo file absent in species path and preserved hold archive"
                 payload=original.read_bytes()
                 assert 200<len(payload)<25*1024*1024,"original outside file-size limit"
                 gitsha=digest(payload)
