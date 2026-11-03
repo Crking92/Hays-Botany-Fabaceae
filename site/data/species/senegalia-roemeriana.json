@@ -60,6 +60,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/senegalia-roemeriana/archive-pd-02-flat-pods.jpg",
+      "creator": "Tracey Slotta / USDA ARS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_01nsh.jpg",
+      "source_page_is_exact": true,
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "f6eb72c651e21677b6192b4984e87bd8c65d2515",
+      "role": "Flat curved mature pod with a one-centimeter scale.",
+      "modified": "Archived file reproduced without changes; original copyright dedication or US-federal public-domain terms preserved.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: original public-domain work evidenced at exact Commons image source, authentic creator credit preserved; no CC0 license has been invented.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT original-image visual examination and Commons exact-source rights review 2026-11-03",
+      "source_review_evidence": "November 3, 2026 source inspection: Source image records fruit of Acacia roemeriana and credits Tracey Slotta at USDA ARS under US federal public-domain terms. Commons exact-image page: https://commons.wikimedia.org/wiki/File:Acacia_roemeriana_01nsh.jpg; archival source verified with Git blob f6eb72c651e21677b6192b4984e87bd8c65d2515. Rights basis: US federal employee work.",
+      "taxon_review_evidence": "Archived image was individually viewed on November 3, 2026. Original source labels image Acacia roemeriana; visible structure: Flat curved mature pod with a one-centimeter scale. General species plausibility confirmed; detailed anatomical identification deferred.",
+      "sha256": "5f15c4452d382ebb9e3b4954400f287e579c00345c671fee0fe3896c02d6c901"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

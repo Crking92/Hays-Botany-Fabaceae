@@ -23,8 +23,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/desmanthus-velutinus/archive-pd-velutinus-usda-recon.jpg",
+      "creator": "USDA NRCS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_velutinus.jpg",
+      "source_page_is_exact": true,
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "15ced3229af53109ee86cb33ad83f505f8bf1c4b",
+      "role": "Flowering branch with pale globose flowers and bipinnate foliage.",
+      "modified": "Archived file reproduced without changes; original copyright dedication or US-federal public-domain terms preserved.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: original public-domain work evidenced at exact Commons image source, authentic creator credit preserved; no CC0 license has been invented.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT original-image visual examination and Commons exact-source rights review 2026-11-03",
+      "source_review_evidence": "November 3, 2026 source inspection: Source file explicitly identifies USDA NRCS and US federal-government public-domain authorship. Commons exact-image page: https://commons.wikimedia.org/wiki/File:Desmanthus_velutinus.jpg; archival source verified with Git blob 15ced3229af53109ee86cb33ad83f505f8bf1c4b. Rights basis: US federal employee work.",
+      "taxon_review_evidence": "Archived image was individually viewed on November 3, 2026. Original source labels image desmanthus velutinus; visible structure: Flowering branch with pale globose flowers and bipinnate foliage. General species plausibility confirmed; detailed anatomical identification deferred.",
+      "sha256": "1e476258ab4c73271e4828fcefbd1a9dfe264825f251e09fc964bfa5a3261e7d"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3a3d665ff794535ce06ca506c3f6215e9373b96a75d72a6b2dbf64d01a050051",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

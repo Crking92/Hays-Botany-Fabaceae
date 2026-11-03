@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 59,
-  "photo_count": 92,
+  "photo_species": 61,
+  "photo_count": 98,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -122,7 +122,7 @@
       "first_src": "media/desmanthus-acuminatus/desmanthus-acuminatus-leaves-flowers.jpg"
     },
     "desmanthus-illinoensis": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/desmanthus-illinoensis/illinoensis-heads-and-fruit.jpg"
     },
     "desmanthus-leptolobus": {
@@ -130,8 +130,8 @@
       "first_src": null
     },
     "desmanthus-velutinus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/desmanthus-velutinus/archive-pd-velutinus-usda-recon.jpg"
     },
     "desmanthus-virgatus": {
       "count": 2,
@@ -242,8 +242,8 @@
       "first_src": "media/neltuma-glandulosa/01-leaves-thorns.jpg"
     },
     "neptunia-lutea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/neptunia-lutea/archive-pd-commons-neptunia-lutea.jpg"
     },
     "neptunia-pubescens": {
       "count": 0,
@@ -294,11 +294,11 @@
       "first_src": "media/robinia-pseudoacacia/robinia-pseudoacacia-pmalkowski.jpg"
     },
     "senegalia-greggii": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/senegalia-greggii/01-field-photo.jpg"
     },
     "senegalia-roemeriana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/senegalia-roemeriana/01-roundflower-heads.jpg"
     },
     "senegalia-wrightii": {

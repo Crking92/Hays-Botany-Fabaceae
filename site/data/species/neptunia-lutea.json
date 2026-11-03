@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/neptunia-lutea/archive-pd-commons-neptunia-lutea.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Neptunia_lutea.jpg",
+      "source_page_is_exact": true,
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "fd417c6fa3075d4685c337470c837b7c124b26e2",
+      "role": "Yellow spherical flower head with projecting stamens and paired sensitive-looking bipinnate foliage.",
+      "modified": "Archived file reproduced without changes; original copyright dedication or US-federal public-domain terms preserved.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: original public-domain work evidenced at exact Commons image source, authentic creator credit preserved; no CC0 license has been invented.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT original-image visual examination and Commons exact-source rights review 2026-11-03",
+      "source_review_evidence": "November 3, 2026 source inspection: Author Mason Brock/Masebrock explicitly released the original image into the public domain on Wikimedia Commons. Commons exact-image page: https://commons.wikimedia.org/wiki/File:Neptunia_lutea.jpg; archival source verified with Git blob fd417c6fa3075d4685c337470c837b7c124b26e2. Rights basis: Photographer's public-domain dedication.",
+      "taxon_review_evidence": "Archived image was individually viewed on November 3, 2026. Original source labels image neptunia lutea; visible structure: Yellow spherical flower head with projecting stamens and paired sensitive-looking bipinnate foliage. General species plausibility confirmed; detailed anatomical identification deferred.",
+      "sha256": "b575985473d2fa2705ff81a4e1998a16149dd875b4573ba9383c703c4165e68e"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1ccbbcadd74f1b410cf1e21b3d9316667b9e75624f2d8067f4a493b6bdc14089",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

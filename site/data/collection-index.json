@@ -270,7 +270,7 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus illinoensis",
       "common_name": "Illinois bundleflower",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -288,8 +288,8 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus velutinus",
       "common_name": "Velvet bundleflower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "desmanthus-virgatus",
@@ -540,8 +540,8 @@
       "genus": "Neptunia",
       "scientific_name": "Neptunia lutea",
       "common_name": "Yellow puff / yellow sensitive-briar",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "neptunia-pubescens",
@@ -657,7 +657,7 @@
       "genus": "Senegalia",
       "scientific_name": "Senegalia greggii",
       "common_name": "Gregg's catclaw acacia",
-      "photo_count": 3,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -666,7 +666,7 @@
       "genus": "Senegalia",
       "scientific_name": "Senegalia roemeriana",
       "common_name": "Roundflower catclaw / Roemer acacia",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

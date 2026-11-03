@@ -49,6 +49,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/desmanthus-illinoensis/archive-pd-illinoensis-seeds.jpg",
+      "creator": "Steve Hurst / USDA GRIN",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_seeds.jpg",
+      "source_page_is_exact": true,
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "1081a27771a4aec43368ec557c51c82a1672410f",
+      "role": "Five brown Desmanthus illinoensis seeds with a 2 mm scale; diagnostic seed anatomy.",
+      "modified": "Archived file reproduced without changes; original copyright dedication or US-federal public-domain terms preserved.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: original public-domain work evidenced at exact Commons image source, authentic creator credit preserved; no CC0 license has been invented.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT original-image visual examination and Commons exact-source rights review 2026-11-03",
+      "source_review_evidence": "November 3, 2026 source inspection: Source file explicitly credits Steve Hurst of USDA GRIN and the US federal-government public-domain image license. Commons exact-image page: https://commons.wikimedia.org/wiki/File:Desmanthus_illinoensis_seeds.jpg; archival source verified with Git blob 1081a27771a4aec43368ec557c51c82a1672410f. Rights basis: US federal employee work.",
+      "taxon_review_evidence": "Archived image was individually viewed on November 3, 2026. Original source labels image desmanthus illinoensis; visible structure: Five brown Desmanthus illinoensis seeds with a 2 mm scale; diagnostic seed anatomy. General species plausibility confirmed; detailed anatomical identification deferred.",
+      "sha256": "f2601841b3353b762d55a936cb9820552409f3c47d81d50b7f8fef1854ad81f9"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
