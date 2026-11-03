@@ -113,10 +113,29 @@ def run():
                 else:assert "sa" not in old_license
                 credit=photo.get("attribution") or ""
                 assert check_name(row.get("claimed_creator"),credit),"photo creator differs from archived credit: "+credit
-                remote_url=photo.get("large_url") or photo.get("url") or ""
-                assert remote_url.startswith("https://"),"current image URL is not HTTPS"
-                distance=(dhash(payload)^dhash(request(remote_url,False))).bit_count()
-                assert distance<=12,"original archive image does not resemble current same-photo pixels: "+str(distance)
+                # Observation APIs usually return the 200px square CROP. Compare full
+                # aspect-ratio large images instead; a square crop is not evidence of
+                # an identity mismatch with the historic 1024px original.
+                possible=[
+                    source_entry.get("direct_url"),source_entry.get("downloaded_from"),
+                    photo.get("large_url"),
+                    re.sub(r"/(?:square|medium|small|thumb)\.", "/large.",str(photo.get("url") or "")),
+                    photo.get("url")
+                ]
+                tested=[]
+                for remote_url in dict.fromkeys(str(u) for u in possible if u):
+                    if not remote_url.startswith("https://"):continue
+                    if "/photos/"+str(pid)+"/" not in remote_url:continue
+                    if not any(x in remote_url for x in ("inaturalist-open-data.s3.amazonaws.com","static.inaturalist.org")):continue
+                    try:
+                        dist=(dhash(payload)^dhash(request(remote_url,False))).bit_count()
+                        tested.append((dist,remote_url))
+                        if dist<=12:break
+                    except Exception:
+                        continue
+                assert tested,"No current usable individually identified source image to compare"
+                distance,match_url=min(tested,key=lambda x:x[0])
+                assert distance<=12,"original archive image does not resemble full-aspect current same-photo pixels; best distance "+str(distance)
                 licensed,license_url=LICENSES[license_code]
                 filename="historical-nc-"+re.sub(r"[^a-z0-9._-]","-",Path(path).name.lower())
                 dest=temp/"photo-intake/approved"/sid/filename
