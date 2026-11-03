@@ -1,0 +1,15 @@
+name: Inspect archived exact iNaturalist photo API for held Fabaceae rights
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/probe-fabaceae-photo-source.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/probe_fabaceae_photo_source_verification.py
