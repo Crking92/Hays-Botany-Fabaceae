@@ -47,8 +47,28 @@
     "names": [],
     "differences": "Compared with M. borealis, texana is darker, more zigzag, and more strongly hooked. Compared with M. biuncifera, it has fewer pinnae/leaflets and less strongly constricted pods."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/mimosa-texana/historical-nc-joey-inat-364815662.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/364815662",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "850a3a1963ec26088d5460fac1e2fd9dbd1f309f",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 364815662 at observation 206272667 with current source taxon Mimosa texana; original SHA 850a3a1963ec26088d5460fac1e2fd9dbd1f309f; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as mimosa-texana; current individual iNaturalist observation 206272667 identifies Mimosa texana; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "0c64b4569e63459411d4038d4f315bebd3b79c12ab5e87a051272004611ebae0"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c19876ebc355ce9622ffa431310d0e4b479f0a38de9d6a6371e7a0b70a4fb6d1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/melilotus-indicus/historical-nc-inat-595592253.jpg",
+      "creator": "kath_wilson_forager",
+      "source_page": "https://www.inaturalist.org/photos/595592253",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7dc6f8325dc1689adc3cd16ec30ec99d7415ceb4",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 595592253 at observation 328654762 with current source taxon Melilotus indicus; original SHA 7dc6f8325dc1689adc3cd16ec30ec99d7415ceb4; current photo license cc-by-nc and photographer (c) kath_wilson_forager, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as melilotus-indicus; current individual iNaturalist observation 328654762 identifies Melilotus indicus; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "ed9816d9197eb3f3256b7670f8f8ea0a2c336281442c393bb072756ef598f748"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "9ec2e6cf97a06e9bbbc36a6c630ae0a9be4d840ff9f3a05b6cf35f429a16ad34",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

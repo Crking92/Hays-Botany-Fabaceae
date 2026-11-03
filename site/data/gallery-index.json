@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 66,
-  "photo_count": 104,
+  "photo_species": 82,
+  "photo_count": 140,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -34,7 +34,7 @@
       "first_src": "media/astragalus-lindheimeri/gbif-manual-6184971854-8f0e942ba.jpg"
     },
     "astragalus-nuttallianus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/astragalus-nuttallianus/astragalus-nuttallianus-provisional-face.jpg"
     },
     "astragalus-nuttallianus-var-pleianthus": {
@@ -46,12 +46,12 @@
       "first_src": "media/astragalus-plattensis/gbif-manual-5140729847-19b7a5e80.jpg"
     },
     "baptisia-bracteata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/baptisia-bracteata/historical-nc-inat-640369868.jpg"
     },
     "bauhinia-lunarioides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/bauhinia-lunarioides/historical-nc-inat-4198176.jpg"
     },
     "cercis-canadensis-subsp-mexicana": {
       "count": 1,
@@ -82,11 +82,11 @@
       "first_src": "media/dalea-enneandra/library-review027-695fa6fa8f62b62.jpg"
     },
     "dalea-frutescens": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/dalea-frutescens/01-habit.jpg"
     },
     "dalea-greggii": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/dalea-greggii/dalea-greggii-provisional-face.jpg"
     },
     "dalea-hallii": {
@@ -98,12 +98,12 @@
       "first_src": "media/dalea-multiflora/gbif-manual-6188527015-4ad7d4c48.jpg"
     },
     "dalea-nana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/dalea-nana/historical-nc-joey-inat-505806231.jpg"
     },
     "dalea-neomexicana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/dalea-neomexicana/historical-nc-joey-inat-240945083.jpg"
     },
     "dalea-purpurea": {
       "count": 1,
@@ -130,11 +130,11 @@
       "first_src": null
     },
     "desmanthus-velutinus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/desmanthus-velutinus/archive-pd-velutinus-usda-recon.jpg"
     },
     "desmanthus-virgatus": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/desmanthus-virgatus/virgatus-guadeloupe-face.jpg"
     },
     "desmodium-paniculatum": {
@@ -146,11 +146,11 @@
       "first_src": "media/desmodium-psilophyllum/library-review041-ce8aa6357c8acc4.jpg"
     },
     "desmodium-sessilifolium": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/desmodium-sessilifolium/library-review041-0a6382aefa921e2.jpg"
     },
     "erythrina-herbacea": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/erythrina-herbacea/library-review047-d14b7d09dfe972b.jpg"
     },
     "eysenhardtia-texana": {
@@ -162,11 +162,11 @@
       "first_src": "media/galactia-canescens/inat-636282769.jpg"
     },
     "galactia-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/galactia-texana/historical-nc-inat-158540891.jpg"
     },
     "gleditsia-triacanthos": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/gleditsia-triacanthos/library-review049-438eb39d0a83bdc.jpg"
     },
     "hylodesmum-nudiflorum": {
@@ -174,8 +174,8 @@
       "first_src": "media/hylodesmum-nudiflorum/inat-196269807.jpg"
     },
     "indigofera-miniata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/indigofera-miniata/historical-nc-inat-206894056.jpeg"
     },
     "kummerowia-striata": {
       "count": 2,
@@ -186,8 +186,8 @@
       "first_src": "media/lespedeza-texana/inat-272775439.jpg"
     },
     "leucaena-retusa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/leucaena-retusa/historical-nc-inat-531068418.jpg"
     },
     "lotus-berthelotii": {
       "count": 1,
@@ -210,32 +210,32 @@
       "first_src": "media/medicago-sativa/commons-medicago-sativa.jpg"
     },
     "melilotus-albus": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/melilotus-albus/library-review056-6fca386ee0e930e.jpg"
     },
     "melilotus-indicus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/melilotus-indicus/historical-nc-inat-595592253.jpg"
     },
     "mimosa-biuncifera": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/mimosa-biuncifera/mimosa-biuncifera-provisional-face.jpg"
     },
     "mimosa-borealis": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/mimosa-borealis/historical-nc-joey-inat-675675349.jpg"
     },
     "mimosa-latidens": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/mimosa-latidens/historical-nc-joey-inat-367077595.jpg"
     },
     "mimosa-roemeriana": {
       "count": 1,
       "first_src": "media/mimosa-roemeriana/gbif-manual-4852922106-3b70815b2.jpg"
     },
     "mimosa-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/mimosa-texana/historical-nc-joey-inat-364815662.jpg"
     },
     "neltuma-glandulosa": {
       "count": 4,
@@ -254,12 +254,12 @@
       "first_src": "media/parkinsonia-aculeata/commons-parkinsonia-aculeata.jpg"
     },
     "pediomelum-cuspidatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pediomelum-cuspidatum/historical-nc-inat-119185226.jpg"
     },
     "pediomelum-cyphocalyx": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pediomelum-cyphocalyx/historical-nc-inat-197783463.jpg"
     },
     "pediomelum-latestipulatum": {
       "count": 1,
@@ -334,23 +334,23 @@
       "first_src": "media/styphnolobium-affine/commons-styphnolobium-affine.jpg"
     },
     "tephrosia-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tephrosia-lindheimeri/historical-nc-inat-378385091.jpg"
     },
     "tephrosia-potosina": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tephrosia-potosina/historical-nc-inat-490378733.jpg"
     },
     "trifolium-repens": {
       "count": 1,
       "first_src": "media/trifolium-repens/commons-trifolium-repens.jpg"
     },
     "vachellia-constricta": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/vachellia-constricta/01-field-photo.jpg"
     },
     "vachellia-farnesiana": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/vachellia-farnesiana/01-flower-leaves.jpg"
     },
     "vicia-ludoviciana": {
@@ -366,8 +366,8 @@
       "first_src": null
     },
     "zornia-bracteata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/zornia-bracteata/historical-nc-inat-40019219.jpg"
     }
   }
 }

@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/baptisia-bracteata/historical-nc-inat-640369868.jpg",
+      "creator": "Brandon Fountain",
+      "source_page": "https://www.inaturalist.org/photos/640369868",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2ec74abcf8db848731ba1e5f6335fb76582ab98d",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 640369868 at observation 350941849 with current source taxon Baptisia bracteata; original SHA 2ec74abcf8db848731ba1e5f6335fb76582ab98d; current photo license cc-by-nc and photographer (c) Brandon Fountain, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as baptisia-bracteata; current individual iNaturalist observation 350941849 identifies Baptisia bracteata; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "c97ff9c7fa5cadfd56311a4eaafe02a7ffb133e0c4f5cd9455e73acf839a3ed0"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "18267ada42928e4a4ae8fce60f8f0be1d7da95751fe50b97856ce1838d95a5ba",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

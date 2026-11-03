@@ -36,6 +36,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/gleditsia-triacanthos/historical-nc-inat-165160785.jpg",
+      "creator": "mariosalguero24132",
+      "source_page": "https://www.inaturalist.org/photos/165160785",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "cb15621743d6c958e84289b8ddba246a89863b30",
+      "role": "Recognize · mature tree canopy and overall foliage",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 165160785 at observation 99114975 with current source taxon Gleditsia triacanthos; original SHA cb15621743d6c958e84289b8ddba246a89863b30; current photo license cc-by-nc and photographer (c) mariosalguero24132, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as gleditsia-triacanthos; current individual iNaturalist observation 99114975 identifies Gleditsia triacanthos; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "6c224d8019985e2e56d921895dae2c1ff4cddaaf1a286e7d865608384be8ed32"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -1,328 +1,442 @@
 {
   "batch": "historical Fabaceae 42 previously held individual iNaturalist photos",
   "candidates": 42,
-  "published": 6,
-  "already_published": 0,
-  "held": 36,
-  "verified_at": "2026-11-03T14:47:44.520370+00:00",
+  "published": 36,
+  "already_published": 6,
+  "held": 0,
+  "verified_at": "2026-11-03T14:49:32.189672+00:00",
   "records": [
     {
       "species_id": "astragalus-nuttallianus",
       "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/joey-inat-349030024.jpg",
       "photo_id": 349030024,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 23"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 198076033,
+      "source_blob_sha": "4201518067278c3382f2e3d717360611a1f1357b",
+      "dhash_distance": 0
     },
     {
       "species_id": "astragalus-nuttallianus",
       "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/joey-inat-349030038.jpg",
       "photo_id": 349030038,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 25"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 198076033,
+      "source_blob_sha": "2604ab0eaa402307e644361e8b8b79ed6eb99141",
+      "dhash_distance": 0
     },
     {
       "species_id": "baptisia-bracteata",
       "source_path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/images/inat-640369868.jpg",
       "photo_id": 640369868,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 17"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Brandon Fountain",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 350941849,
+      "source_blob_sha": "2ec74abcf8db848731ba1e5f6335fb76582ab98d",
+      "dhash_distance": 0
     },
     {
       "species_id": "bauhinia-lunarioides",
       "source_path": "content/taxa/Fabaceae/Bauhinia/bauhinia-lunarioides/images/inat-4198176.jpg",
       "photo_id": 4198176,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 25"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "John Karges",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 3632624,
+      "source_blob_sha": "92d3da312bf8b86c6fc9bdd32f4176644a6974f4",
+      "dhash_distance": 0
     },
     {
       "species_id": "dalea-frutescens",
       "source_path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/joey-inat-426127369.jpg",
       "photo_id": 426127369,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 24"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 239277832,
+      "source_blob_sha": "e3f9101251b52dd234f949adce1b32d43b6ed264",
+      "dhash_distance": 0
     },
     {
       "species_id": "dalea-greggii",
       "source_path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/joey-inat-429060045.jpg",
       "photo_id": 429060045,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 18"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 240796974,
+      "source_blob_sha": "732919761c7b515060074d243d0d657a464ca482",
+      "dhash_distance": 0
     },
     {
       "species_id": "dalea-greggii",
       "source_path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/joey-inat-442703075.jpg",
       "photo_id": 442703075,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 26"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 247828946,
+      "source_blob_sha": "bdd57ccd526fed9d5ca6ebcda9e4394d1789d66c",
+      "dhash_distance": 2
     },
     {
       "species_id": "dalea-nana",
       "source_path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/joey-inat-505806231.jpg",
       "photo_id": 505806231,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 13"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 281566484,
+      "source_blob_sha": "bd02e091c78b20dda8fc3eaf4fbbae1cf8629f95",
+      "dhash_distance": 0
     },
     {
       "species_id": "dalea-nana",
       "source_path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/joey-inat-505806266.jpg",
       "photo_id": 505806266,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 22"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 281566484,
+      "source_blob_sha": "647a437bb662584c88ead8d8a3438e79dd67b9b8",
+      "dhash_distance": 2
     },
     {
       "species_id": "dalea-neomexicana",
       "source_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/joey-inat-240945083.jpg",
       "photo_id": 240945083,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 23"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 140733498,
+      "source_blob_sha": "53e96675905e51955117fbaa4c487051cd4320e4",
+      "dhash_distance": 1
     },
     {
       "species_id": "dalea-neomexicana",
       "source_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/joey-inat-240945092.jpg",
       "photo_id": 240945092,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 24"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 140733498,
+      "source_blob_sha": "f6063e3dd4cb0ea7e7f021049bda787be35b4ab0",
+      "dhash_distance": 1
     },
     {
       "species_id": "desmanthus-velutinus",
       "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/joey-inat-369818899.jpg",
       "photo_id": 369818899,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 20"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 208992888,
+      "source_blob_sha": "879c1d53ce2bc541b9e388e85c636cec4850e474",
+      "dhash_distance": 0
     },
     {
       "species_id": "desmanthus-velutinus",
       "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/joey-inat-369818927.jpg",
       "photo_id": 369818927,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 27"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 208992888,
+      "source_blob_sha": "4b742c5dbd2e15fdcd10538f37b491c71f50b423",
+      "dhash_distance": 0
     },
     {
       "species_id": "desmanthus-virgatus",
       "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/joey-inat-100333720.jpg",
       "photo_id": 100333720,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 17"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 62604473,
+      "source_blob_sha": "0fcf6e838825826adead10baa5d0b7f6fc9f1412",
+      "dhash_distance": 0
     },
     {
       "species_id": "desmodium-psilophyllum",
       "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/images/inat-83747844.jpg",
       "photo_id": 83747844,
-      "status": "RIGHTS_VERIFIED_READY",
-      "creator": "Rhea Moulton",
-      "license": "CC BY-NC 4.0",
-      "observation_id": 52673091,
-      "source_blob_sha": "f7ffec2a6f1747ca3993d601e878e8f454d6aec8",
-      "dhash_distance": 1
+      "status": "ALREADY_PUBLISHED"
     },
     {
       "species_id": "desmodium-sessilifolium",
       "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/inat-91911378.jpg",
       "photo_id": 91911378,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 15"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Erin Haase",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 57611213,
+      "source_blob_sha": "926da2ca1c3ff72928ea38e908004655f99e710d",
+      "dhash_distance": 1
     },
     {
       "species_id": "erythrina-herbacea",
       "source_path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/inat-3851803.jpg",
       "photo_id": 3851803,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 24"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Royal Tyler",
+      "license": "CC BY-NC-SA 4.0",
+      "observation_id": 3335040,
+      "source_blob_sha": "dc6fa0a7ab6591bce53bcef99359d8c6ac2f7cfe",
+      "dhash_distance": 0
     },
     {
       "species_id": "galactia-texana",
       "source_path": "content/taxa/Fabaceae/Galactia/galactia-texana/images/inat-158540891.jpg",
       "photo_id": 158540891,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 27"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Andy Blair",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 95493731,
+      "source_blob_sha": "1cdb0f7c8310d877852aba64e6f43b06cfbc6457",
+      "dhash_distance": 0
     },
     {
       "species_id": "gleditsia-triacanthos",
       "source_path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/inat-165160785.jpg",
       "photo_id": 165160785,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 21"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "mariosalguero24132",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 99114975,
+      "source_blob_sha": "cb15621743d6c958e84289b8ddba246a89863b30",
+      "dhash_distance": 0
     },
     {
       "species_id": "indigofera-miniata",
       "source_path": "content/taxa/Fabaceae/Indigofera/indigofera-miniata/images/inat-206894056.jpeg",
       "photo_id": 206894056,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 24"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 122212201,
+      "source_blob_sha": "b31c745911f92d39af146e633481bcc67597e711",
+      "dhash_distance": 0
     },
     {
       "species_id": "leucaena-retusa",
       "source_path": "content/taxa/Fabaceae/Leucaena/leucaena-retusa/images/inat-531068418.jpg",
       "photo_id": 531068418,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 20"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 295019822,
+      "source_blob_sha": "b9ec2858b2fd724f9e1b29f86e19ab3eed942616",
+      "dhash_distance": 0
     },
     {
       "species_id": "lotus-berthelotii",
       "source_path": "content/taxa/Fabaceae/Lotus/lotus-berthelotii/images/inat-475427180.jpg",
       "photo_id": 475427180,
-      "status": "RIGHTS_VERIFIED_READY",
-      "creator": "Tyler Wilce",
-      "license": "CC BY-NC 4.0",
-      "observation_id": 264746354,
-      "source_blob_sha": "0a1f2f6e44229ba32d735db167dd4b2edfd3fc8d",
-      "dhash_distance": 11
+      "status": "ALREADY_PUBLISHED"
     },
     {
       "species_id": "melilotus-albus",
       "source_path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/images/inat-101299131.jpg",
       "photo_id": 101299131,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 21"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Karlyn H. Lewis",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 63147732,
+      "source_blob_sha": "a119849d5356b927fc1201d1808b5a432e55849d",
+      "dhash_distance": 0
     },
     {
       "species_id": "melilotus-indicus",
       "source_path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/images/inat-595592253.jpg",
       "photo_id": 595592253,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 17"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "kath_wilson_forager",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 328654762,
+      "source_blob_sha": "7dc6f8325dc1689adc3cd16ec30ec99d7415ceb4",
+      "dhash_distance": 0
     },
     {
       "species_id": "mimosa-biuncifera",
       "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/joey-inat-531089805.jpg",
       "photo_id": 531089805,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 29"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 295030413,
+      "source_blob_sha": "4dc560623306b6b6d0dd36e69a3717d5856b51af",
+      "dhash_distance": 1
     },
     {
       "species_id": "mimosa-biuncifera",
       "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/joey-inat-531089854.jpg",
       "photo_id": 531089854,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 28"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 295030413,
+      "source_blob_sha": "f5efadbda1479e41c82fd514cd30c4afa3fa1f2d",
+      "dhash_distance": 1
     },
     {
       "species_id": "mimosa-borealis",
       "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-675675349.jpg",
       "photo_id": 675675349,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 26"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 369881926,
+      "source_blob_sha": "980c413631c2082df324fd59c73112989bc0a789",
+      "dhash_distance": 0
     },
     {
       "species_id": "mimosa-borealis",
       "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-99260849.jpg",
       "photo_id": 99260849,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 25"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 61989957,
+      "source_blob_sha": "2b0d23065250e4777a90e22f13bbf175be37c114",
+      "dhash_distance": 0
     },
     {
       "species_id": "mimosa-latidens",
       "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/images/joey-inat-367077595.jpg",
       "photo_id": 367077595,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 16"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 207519065,
+      "source_blob_sha": "7f8580cc06a045cebcf26bd828d380d8b212798a",
+      "dhash_distance": 0
     },
     {
       "species_id": "mimosa-latidens",
       "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/images/joey-inat-367077616.jpg",
       "photo_id": 367077616,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 14"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 207519065,
+      "source_blob_sha": "f859e9a88a3d001a6fa3d4bcd22d21e76245b783",
+      "dhash_distance": 2
     },
     {
       "species_id": "mimosa-texana",
       "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/images/joey-inat-364815662.jpg",
       "photo_id": 364815662,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 30"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 206272667,
+      "source_blob_sha": "850a3a1963ec26088d5460fac1e2fd9dbd1f309f",
+      "dhash_distance": 0
     },
     {
       "species_id": "neptunia-pubescens",
       "source_path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/images/inat-138736196.jpg",
       "photo_id": 138736196,
-      "status": "RIGHTS_VERIFIED_READY",
-      "creator": "Eric Neubauer",
-      "license": "CC BY-NC 4.0",
-      "observation_id": 84412302,
-      "source_blob_sha": "c0caf5da019d5502debd1f4d2af893d1940c29c7",
-      "dhash_distance": 8
+      "status": "ALREADY_PUBLISHED"
     },
     {
       "species_id": "pediomelum-cuspidatum",
       "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/images/inat-119185226.jpg",
       "photo_id": 119185226,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 19"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Andy Blair",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 73034983,
+      "source_blob_sha": "ce099f2d1c7c35603392687888495536fd2a928a",
+      "dhash_distance": 0
     },
     {
       "species_id": "pediomelum-cyphocalyx",
       "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cyphocalyx/images/inat-197783463.jpg",
       "photo_id": 197783463,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 20"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "plateauville",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 117132570,
+      "source_blob_sha": "443f5c2733b36ccb2674d4a35feba2538fa895e6",
+      "dhash_distance": 0
     },
     {
       "species_id": "pediomelum-latestipulatum",
       "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-latestipulatum/images/inat-361743137.jpg",
       "photo_id": 361743137,
-      "status": "RIGHTS_VERIFIED_READY",
-      "creator": "Todd Council",
-      "license": "CC BY-NC 4.0",
-      "observation_id": 204644486,
-      "source_blob_sha": "380691d59ad9260c1c05cd439e29cda324196c38",
-      "dhash_distance": 0
+      "status": "ALREADY_PUBLISHED"
     },
     {
       "species_id": "pediomelum-rhombifolium",
       "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-rhombifolium/images/inat-189685000.jpg",
       "photo_id": 189685000,
-      "status": "RIGHTS_VERIFIED_READY",
-      "creator": "Joey Santore",
-      "license": "CC BY-NC 4.0",
-      "observation_id": 112302496,
-      "source_blob_sha": "4a38c4fd8f32c2479a9d1d3978afde0c06671338",
-      "dhash_distance": 5
+      "status": "ALREADY_PUBLISHED"
     },
     {
       "species_id": "rhynchosia-americana",
       "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-americana/images/inat-125518489.jpg",
       "photo_id": 125518489,
-      "status": "RIGHTS_VERIFIED_READY",
-      "creator": "Roberto Gaitan",
-      "license": "CC BY-NC 4.0",
-      "observation_id": 76753554,
-      "source_blob_sha": "5c7aa2cb2db10a3824e81393da2f439cc2ad372f",
-      "dhash_distance": 8
+      "status": "ALREADY_PUBLISHED"
     },
     {
       "species_id": "tephrosia-lindheimeri",
       "source_path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/images/inat-378385091.jpg",
       "photo_id": 378385091,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 13"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "George Afghan",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 214092206,
+      "source_blob_sha": "c349cba131ddb30fdcc62567f4376fcbb8080241",
+      "dhash_distance": 0
     },
     {
       "species_id": "tephrosia-potosina",
       "source_path": "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/images/inat-490378733.jpg",
       "photo_id": 490378733,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 16"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "samuel_s22",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 272569152,
+      "source_blob_sha": "1f92b1989243d46b583c91a88f0a4dcb6678c3f9",
+      "dhash_distance": 1
     },
     {
       "species_id": "vachellia-constricta",
       "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/joey-inat-211356848.jpg",
       "photo_id": 211356848,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 29"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 124681363,
+      "source_blob_sha": "df1f001938f148116e939a22bab6966052efcbac",
+      "dhash_distance": 0
     },
     {
       "species_id": "vachellia-farnesiana",
       "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/joey-inat-184863939.jpg",
       "photo_id": 184863939,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 28"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 109661759,
+      "source_blob_sha": "b7dea4f2d9a888649e3bd6070751687ba83a79de",
+      "dhash_distance": 0
     },
     {
       "species_id": "zornia-bracteata",
       "source_path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/images/inat-40019219.jpg",
       "photo_id": 40019219,
-      "status": "HELD",
-      "reason": "original archive image does not resemble current same-photo pixels: 19"
+      "status": "RIGHTS_VERIFIED_READY",
+      "creator": "bikerlady",
+      "license": "CC BY-NC 4.0",
+      "observation_id": 25811795,
+      "source_blob_sha": "d784fa699709d6dfbac51ee1e830f7d570f2b6e0",
+      "dhash_distance": 0
     }
   ]
 }

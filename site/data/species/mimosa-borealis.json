@@ -47,8 +47,47 @@
     "names": [],
     "differences": "Best compared with M. texana: borealis is grayer with straighter stems, less-hooked prickles, and usually longer more stipitate pods."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/mimosa-borealis/historical-nc-joey-inat-675675349.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/675675349",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "980c413631c2082df324fd59c73112989bc0a789",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 675675349 at observation 369881926 with current source taxon Mimosa borealis; original SHA 980c413631c2082df324fd59c73112989bc0a789; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as mimosa-borealis; current individual iNaturalist observation 369881926 identifies Mimosa borealis; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "d39d165e7b9ab10f383664ee18b9df08c7ce8d4f2b02479ad518f7d6934d494d"
+    },
+    {
+      "src": "media/mimosa-borealis/historical-nc-joey-inat-99260849.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99260849",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2b0d23065250e4777a90e22f13bbf175be37c114",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 99260849 at observation 61989957 with current source taxon Mimosa borealis; original SHA 2b0d23065250e4777a90e22f13bbf175be37c114; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as mimosa-borealis; current individual iNaturalist observation 61989957 identifies Mimosa borealis; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "6fe6e8b3b4beae511332d66f347d7f5f6dd3aa7120c9e9347211176158be7fbc"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "bdde1ccbc54c98ab4abc47ccb95e7924aa397c19cd34269aed2d3fdcb87d4d59",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

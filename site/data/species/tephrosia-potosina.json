@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tephrosia-potosina/historical-nc-inat-490378733.jpg",
+      "creator": "samuel_s22",
+      "source_page": "https://www.inaturalist.org/photos/490378733",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1f92b1989243d46b583c91a88f0a4dcb6678c3f9",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 490378733 at observation 272569152 with current source taxon Tephrosia potosina; original SHA 1f92b1989243d46b583c91a88f0a4dcb6678c3f9; current photo license cc-by-nc and photographer (c) samuel_s22, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 1; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as tephrosia-potosina; current individual iNaturalist observation 272569152 identifies Tephrosia potosina; original and current media visually match (difference 1); specialist morphological determination deferred.",
+      "sha256": "8efaa7226cbb9818935921bc7783a85b52477f5ad18d09c9a29ff4f3b4365dad"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "58cbfc120da02c3a6482d45fad5f9b179d86140107e5a4a712c93950eecde9f9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

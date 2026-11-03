@@ -72,7 +72,7 @@
       "genus": "Astragalus",
       "scientific_name": "Astragalus nuttallianus",
       "common_name": "Small-flowered milkvetch",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -99,8 +99,8 @@
       "genus": "Baptisia",
       "scientific_name": "Baptisia bracteata",
       "common_name": "Longbract wild indigo",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "bauhinia-lunarioides",
@@ -108,8 +108,8 @@
       "genus": "Bauhinia",
       "scientific_name": "Bauhinia lunarioides",
       "common_name": "Anacacho orchid tree",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cercis-canadensis-subsp-mexicana",
@@ -180,7 +180,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea frutescens",
       "common_name": "Black dalea",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -189,7 +189,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea greggii",
       "common_name": "Gregg's dalea",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -216,8 +216,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea nana",
       "common_name": "Dwarf prairie clover / dwarf dalea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-neomexicana",
@@ -225,8 +225,8 @@
       "genus": "Dalea",
       "scientific_name": "Dalea neomexicana",
       "common_name": "Downy prairie clover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dalea-purpurea",
@@ -288,7 +288,7 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus velutinus",
       "common_name": "Velvet bundleflower",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -297,7 +297,7 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus virgatus",
       "common_name": "Wild tantan / prostrate bundleflower",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -324,7 +324,7 @@
       "genus": "Desmodium",
       "scientific_name": "Desmodium sessilifolium",
       "common_name": "Sessileleaf ticktrefoil",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -333,7 +333,7 @@
       "genus": "Erythrina",
       "scientific_name": "Erythrina herbacea",
       "common_name": "Coralbean",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -360,8 +360,8 @@
       "genus": "Galactia",
       "scientific_name": "Galactia texana",
       "common_name": "Texas milkpea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "gleditsia-triacanthos",
@@ -369,7 +369,7 @@
       "genus": "Gleditsia",
       "scientific_name": "Gleditsia triacanthos",
       "common_name": "Honey locust",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -387,8 +387,8 @@
       "genus": "Indigofera",
       "scientific_name": "Indigofera miniata",
       "common_name": "Scarlet Pea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "kummerowia-striata",
@@ -414,8 +414,8 @@
       "genus": "Leucaena",
       "scientific_name": "Leucaena retusa",
       "common_name": "Golden-ball Lead Tree",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lotus-berthelotii",
@@ -468,7 +468,7 @@
       "genus": "Melilotus",
       "scientific_name": "Melilotus albus",
       "common_name": "White sweetclover",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -477,8 +477,8 @@
       "genus": "Melilotus",
       "scientific_name": "Melilotus indicus",
       "common_name": "Annual yellow sweetclover",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mimosa-biuncifera",
@@ -486,7 +486,7 @@
       "genus": "Mimosa",
       "scientific_name": "Mimosa biuncifera",
       "common_name": "Catclaw mimosa / wait-a-bit",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -495,8 +495,8 @@
       "genus": "Mimosa",
       "scientific_name": "Mimosa borealis",
       "common_name": "Fragrant mimosa / pink mimosa",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mimosa-latidens",
@@ -504,8 +504,8 @@
       "genus": "Mimosa",
       "scientific_name": "Mimosa latidens",
       "common_name": "Kairn's sensitive-briar",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mimosa-roemeriana",
@@ -522,8 +522,8 @@
       "genus": "Mimosa",
       "scientific_name": "Mimosa texana",
       "common_name": "Texas mimosa / catclaw mimosa",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "neltuma-glandulosa",
@@ -567,8 +567,8 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum cuspidatum",
       "common_name": "Pediomelum cuspidatum",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pediomelum-cyphocalyx",
@@ -576,8 +576,8 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum cyphocalyx",
       "common_name": "Pediomelum cyphocalyx",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pediomelum-latestipulatum",
@@ -747,8 +747,8 @@
       "genus": "Tephrosia",
       "scientific_name": "Tephrosia lindheimeri",
       "common_name": "Lindheimer's hoary-pea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tephrosia-potosina",
@@ -756,8 +756,8 @@
       "genus": "Tephrosia",
       "scientific_name": "Tephrosia potosina",
       "common_name": "Tephrosia potosina",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "trifolium-repens",
@@ -774,7 +774,7 @@
       "genus": "Vachellia",
       "scientific_name": "Vachellia constricta",
       "common_name": "Whitethorn acacia",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -783,7 +783,7 @@
       "genus": "Vachellia",
       "scientific_name": "Vachellia farnesiana",
       "common_name": "Huisache / sweet acacia",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -819,8 +819,8 @@
       "genus": "Zornia",
       "scientific_name": "Zornia bracteata",
       "common_name": "Zornia bracteata",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]
 }

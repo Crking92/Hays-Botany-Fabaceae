@@ -39,8 +39,47 @@
     "names": [],
     "differences": "D. nana is the low yellow-then-purple member of the set. D. multiflora has white rounded heads; D. tenuis has pink-purple globes and extremely narrow, feathery linear leaflets."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/dalea-nana/historical-nc-joey-inat-505806231.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/505806231",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "bd02e091c78b20dda8fc3eaf4fbbae1cf8629f95",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 505806231 at observation 281566484 with current source taxon Dalea nana; original SHA bd02e091c78b20dda8fc3eaf4fbbae1cf8629f95; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as dalea-nana; current individual iNaturalist observation 281566484 identifies Dalea nana; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "e8c95c8c221ae37443b41e061b326a79bcbd1f78fe24a130ff61f57f34cb76ca"
+    },
+    {
+      "src": "media/dalea-nana/historical-nc-joey-inat-505806266.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/505806266",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "647a437bb662584c88ead8d8a3438e79dd67b9b8",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 505806266 at observation 281566484 with current source taxon Dalea nana; original SHA 647a437bb662584c88ead8d8a3438e79dd67b9b8; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 2; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as dalea-nana; current individual iNaturalist observation 281566484 identifies Dalea nana; original and current media visually match (difference 2); specialist morphological determination deferred.",
+      "sha256": "9ea98c6eafd87228990c6596007210e2d4958bd899995bd678ef37730162dc90"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ff3de9ce7b3955e1b3695b12b47f8bd2a8792889033e9dc7c4408ccc663056cf",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

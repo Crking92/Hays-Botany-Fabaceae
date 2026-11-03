@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/galactia-texana/historical-nc-inat-158540891.jpg",
+      "creator": "Andy Blair",
+      "source_page": "https://www.inaturalist.org/photos/158540891",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1cdb0f7c8310d877852aba64e6f43b06cfbc6457",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 158540891 at observation 95493731 with current source taxon Galactia texana; original SHA 1cdb0f7c8310d877852aba64e6f43b06cfbc6457; current photo license cc-by-nc and photographer (c) Andy Blair, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as galactia-texana; current individual iNaturalist observation 95493731 identifies Galactia texana; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "cea6599ea8ff10b14da960d44860ca6ec74a5f25c7c5a2589bd50372b173b36a"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "fd27b101a3488bd9fb1914e1fabe828e27ce26d74e40959921839722fcfcd27a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

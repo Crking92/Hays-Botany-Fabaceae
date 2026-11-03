@@ -36,6 +36,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/desmodium-sessilifolium/historical-nc-inat-91911378.jpg",
+      "creator": "Erin Haase",
+      "source_page": "https://www.inaturalist.org/photos/91911378",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "926da2ca1c3ff72928ea38e908004655f99e710d",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 91911378 at observation 57611213 with current source taxon Desmodium sessilifolium; original SHA 926da2ca1c3ff72928ea38e908004655f99e710d; current photo license cc-by-nc and photographer (c) Erin Haase, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 1; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as desmodium-sessilifolium; current individual iNaturalist observation 57611213 identifies Desmodium sessilifolium; original and current media visually match (difference 1); specialist morphological determination deferred.",
+      "sha256": "1f988b2cbd1a80357de640fea1453b3bd503ecd0a725a86af67b4ce03411f8b3"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

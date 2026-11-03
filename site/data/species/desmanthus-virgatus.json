@@ -49,6 +49,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/desmanthus-virgatus/historical-nc-joey-inat-100333720.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/100333720",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0fcf6e838825826adead10baa5d0b7f6fc9f1412",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 100333720 at observation 62604473 with current source taxon Desmanthus virgatus; original SHA 0fcf6e838825826adead10baa5d0b7f6fc9f1412; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as desmanthus-virgatus; current individual iNaturalist observation 62604473 identifies Desmanthus virgatus; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "e0bac3c6fd87da6ccf80f116a38de078578d6abde4428b5e322caaad55e64948"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

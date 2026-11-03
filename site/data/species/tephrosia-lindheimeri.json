@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tephrosia-lindheimeri/historical-nc-inat-378385091.jpg",
+      "creator": "George Afghan",
+      "source_page": "https://www.inaturalist.org/photos/378385091",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "c349cba131ddb30fdcc62567f4376fcbb8080241",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 378385091 at observation 214092206 with current source taxon Tephrosia lindheimeri; original SHA c349cba131ddb30fdcc62567f4376fcbb8080241; current photo license cc-by-nc and photographer (c) George Afghan, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as tephrosia-lindheimeri; current individual iNaturalist observation 214092206 identifies Tephrosia lindheimeri; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "d8c140d3e14ddd350b320e0eca84f565d6ee87a456239afc0c361a4ae0b29124"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "e9f18350e985a3aeb5055341253061371bb69dc52a01069ca6bdab3bfcb2ab42",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -36,6 +36,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/erythrina-herbacea/historical-nc-inat-3851803.jpg",
+      "creator": "Royal Tyler",
+      "source_page": "https://www.inaturalist.org/photos/3851803",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_blob_sha": "dc6fa0a7ab6591bce53bcef99359d8c6ac2f7cfe",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 3851803 at observation 3335040 with current source taxon Erythrina herbacea; original SHA dc6fa0a7ab6591bce53bcef99359d8c6ac2f7cfe; current photo license cc-by-nc-sa and photographer (c) Royal Tyler, some rights reserved (CC BY-NC-SA); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as erythrina-herbacea; current individual iNaturalist observation 3335040 identifies Erythrina herbacea; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "ba940576893759149cde98d52ea481943cc7f4192e6455ceacfe5c571332e13d"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -31,8 +31,47 @@
     "names": [],
     "differences": "Downy foliage plus compact purple spikes are the fast cues; final separation from similar Dalea should use leaflet and mature calyx characters."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/dalea-neomexicana/historical-nc-joey-inat-240945083.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/240945083",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "53e96675905e51955117fbaa4c487051cd4320e4",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 240945083 at observation 140733498 with current source taxon Dalea neomexicana; original SHA 53e96675905e51955117fbaa4c487051cd4320e4; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 1; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as dalea-neomexicana; current individual iNaturalist observation 140733498 identifies Dalea neomexicana; original and current media visually match (difference 1); specialist morphological determination deferred.",
+      "sha256": "91d326eb6e30b72b416bd8b7d0384b8b2bcd59b92c19271de060ebe0dcabd8b1"
+    },
+    {
+      "src": "media/dalea-neomexicana/historical-nc-joey-inat-240945092.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/240945092",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f6063e3dd4cb0ea7e7f021049bda787be35b4ab0",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 240945092 at observation 140733498 with current source taxon Dalea neomexicana; original SHA f6063e3dd4cb0ea7e7f021049bda787be35b4ab0; current photo license cc-by-nc and photographer (c) Joey Santore, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 1; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as dalea-neomexicana; current individual iNaturalist observation 140733498 identifies Dalea neomexicana; original and current media visually match (difference 1); specialist morphological determination deferred.",
+      "sha256": "c9558d1ca4d581a67afc48a0160be68eff0eb7ba49f43c5ea54da9562a75412c"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6ae0386c657fb29c14957c3ed089d1a509ae0a330a37e8f0369137d560aeb1b0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

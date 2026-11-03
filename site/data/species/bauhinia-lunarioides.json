@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/bauhinia-lunarioides/historical-nc-inat-4198176.jpg",
+      "creator": "John Karges",
+      "source_page": "https://www.inaturalist.org/photos/4198176",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "92d3da312bf8b86c6fc9bdd32f4176644a6974f4",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 4198176 at observation 3632624 with current source taxon Bauhinia lunarioides; original SHA 92d3da312bf8b86c6fc9bdd32f4176644a6974f4; current photo license cc-by-nc and photographer (c) John Karges, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:49:32.189672+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as bauhinia-lunarioides; current individual iNaturalist observation 3632624 identifies Bauhinia lunarioides; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "ec36b4c92f290c769cc277a1d91392b02428d2f4af651032d70bbbf3a4f7d4ae"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2465c02ee4f31d8e19b26908d9c4430eda04e85f8fa7df1e7a9fada0043baef3",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
