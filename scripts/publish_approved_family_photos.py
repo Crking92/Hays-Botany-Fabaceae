@@ -18,6 +18,7 @@ ID = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 FILENAME = re.compile(r"^[a-z0-9][a-z0-9._-]{2,110}\.(?:jpg|jpeg|png|webp)$")
 LICENSES = {
     "CC0 1.0": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "Public Domain": "https://creativecommons.org/publicdomain/mark/1.0/",
     "CC BY 2.0": "https://creativecommons.org/licenses/by/2.0/",
     "CC BY 3.0": "https://creativecommons.org/licenses/by/3.0/",
     "CC BY 4.0": "https://creativecommons.org/licenses/by/4.0/",
