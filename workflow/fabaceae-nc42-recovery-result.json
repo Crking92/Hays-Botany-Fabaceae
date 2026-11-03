@@ -1,0 +1,304 @@
+{
+  "batch": "historical Fabaceae 42 previously held individual iNaturalist photos",
+  "candidates": 42,
+  "published": 0,
+  "already_published": 0,
+  "held": 42,
+  "verified_at": "2026-11-03T14:45:26.789391+00:00",
+  "records": [
+    {
+      "species_id": "astragalus-nuttallianus",
+      "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/joey-inat-349030024.jpg",
+      "photo_id": 349030024,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "astragalus-nuttallianus",
+      "source_path": "content/taxa/Fabaceae/Astragalus/astragalus-nuttallianus/images/joey-inat-349030038.jpg",
+      "photo_id": 349030038,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "baptisia-bracteata",
+      "source_path": "content/taxa/Fabaceae/Baptisia/baptisia-bracteata/images/inat-640369868.jpg",
+      "photo_id": 640369868,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "bauhinia-lunarioides",
+      "source_path": "content/taxa/Fabaceae/Bauhinia/bauhinia-lunarioides/images/inat-4198176.jpg",
+      "photo_id": 4198176,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "dalea-frutescens",
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-frutescens/images/joey-inat-426127369.jpg",
+      "photo_id": 426127369,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "dalea-greggii",
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/joey-inat-429060045.jpg",
+      "photo_id": 429060045,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "dalea-greggii",
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-greggii/images/joey-inat-442703075.jpg",
+      "photo_id": 442703075,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "dalea-nana",
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/joey-inat-505806231.jpg",
+      "photo_id": 505806231,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "dalea-nana",
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-nana/images/joey-inat-505806266.jpg",
+      "photo_id": 505806266,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "dalea-neomexicana",
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/joey-inat-240945083.jpg",
+      "photo_id": 240945083,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "dalea-neomexicana",
+      "source_path": "content/taxa/Fabaceae/Dalea/dalea-neomexicana/images/joey-inat-240945092.jpg",
+      "photo_id": 240945092,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "desmanthus-velutinus",
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/joey-inat-369818899.jpg",
+      "photo_id": 369818899,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "desmanthus-velutinus",
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-velutinus/images/joey-inat-369818927.jpg",
+      "photo_id": 369818927,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "desmanthus-virgatus",
+      "source_path": "content/taxa/Fabaceae/Desmanthus/desmanthus-virgatus/images/joey-inat-100333720.jpg",
+      "photo_id": 100333720,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "desmodium-psilophyllum",
+      "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-psilophyllum/images/inat-83747844.jpg",
+      "photo_id": 83747844,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "desmodium-sessilifolium",
+      "source_path": "content/taxa/Fabaceae/Desmodium/desmodium-sessilifolium/images/inat-91911378.jpg",
+      "photo_id": 91911378,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "erythrina-herbacea",
+      "source_path": "content/taxa/Fabaceae/Erythrina/erythrina-herbacea/images/inat-3851803.jpg",
+      "photo_id": 3851803,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "galactia-texana",
+      "source_path": "content/taxa/Fabaceae/Galactia/galactia-texana/images/inat-158540891.jpg",
+      "photo_id": 158540891,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "gleditsia-triacanthos",
+      "source_path": "content/taxa/Fabaceae/Gleditsia/gleditsia-triacanthos/images/inat-165160785.jpg",
+      "photo_id": 165160785,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "indigofera-miniata",
+      "source_path": "content/taxa/Fabaceae/Indigofera/indigofera-miniata/images/inat-206894056.jpeg",
+      "photo_id": 206894056,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "leucaena-retusa",
+      "source_path": "content/taxa/Fabaceae/Leucaena/leucaena-retusa/images/inat-531068418.jpg",
+      "photo_id": 531068418,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "lotus-berthelotii",
+      "source_path": "content/taxa/Fabaceae/Lotus/lotus-berthelotii/images/inat-475427180.jpg",
+      "photo_id": 475427180,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "melilotus-albus",
+      "source_path": "content/taxa/Fabaceae/Melilotus/melilotus-albus/images/inat-101299131.jpg",
+      "photo_id": 101299131,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "melilotus-indicus",
+      "source_path": "content/taxa/Fabaceae/Melilotus/melilotus-indicus/images/inat-595592253.jpg",
+      "photo_id": 595592253,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "mimosa-biuncifera",
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/joey-inat-531089805.jpg",
+      "photo_id": 531089805,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "mimosa-biuncifera",
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/images/joey-inat-531089854.jpg",
+      "photo_id": 531089854,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "mimosa-borealis",
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-675675349.jpg",
+      "photo_id": 675675349,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "mimosa-borealis",
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-borealis/images/joey-inat-99260849.jpg",
+      "photo_id": 99260849,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "mimosa-latidens",
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/images/joey-inat-367077595.jpg",
+      "photo_id": 367077595,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "mimosa-latidens",
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-latidens/images/joey-inat-367077616.jpg",
+      "photo_id": 367077616,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "mimosa-texana",
+      "source_path": "content/taxa/Fabaceae/Mimosa/mimosa-texana/images/joey-inat-364815662.jpg",
+      "photo_id": 364815662,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "neptunia-pubescens",
+      "source_path": "content/taxa/Fabaceae/Neptunia/neptunia-pubescens/images/inat-138736196.jpg",
+      "photo_id": 138736196,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "pediomelum-cuspidatum",
+      "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cuspidatum/images/inat-119185226.jpg",
+      "photo_id": 119185226,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "pediomelum-cyphocalyx",
+      "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-cyphocalyx/images/inat-197783463.jpg",
+      "photo_id": 197783463,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "pediomelum-latestipulatum",
+      "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-latestipulatum/images/inat-361743137.jpg",
+      "photo_id": 361743137,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "pediomelum-rhombifolium",
+      "source_path": "content/taxa/Fabaceae/Pediomelum/pediomelum-rhombifolium/images/inat-189685000.jpg",
+      "photo_id": 189685000,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "rhynchosia-americana",
+      "source_path": "content/taxa/Fabaceae/Rhynchosia/rhynchosia-americana/images/inat-125518489.jpg",
+      "photo_id": 125518489,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "tephrosia-lindheimeri",
+      "source_path": "content/taxa/Fabaceae/Tephrosia/tephrosia-lindheimeri/images/inat-378385091.jpg",
+      "photo_id": 378385091,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "tephrosia-potosina",
+      "source_path": "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/images/inat-490378733.jpg",
+      "photo_id": 490378733,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "vachellia-constricta",
+      "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-constricta/images/joey-inat-211356848.jpg",
+      "photo_id": 211356848,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "vachellia-farnesiana",
+      "source_path": "content/taxa/Fabaceae/Vachellia/vachellia-farnesiana/images/joey-inat-184863939.jpg",
+      "photo_id": 184863939,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    },
+    {
+      "species_id": "zornia-bracteata",
+      "source_path": "content/taxa/Fabaceae/Zornia/zornia-bracteata/images/inat-40019219.jpg",
+      "photo_id": 40019219,
+      "status": "HELD",
+      "reason": "original photo file absent"
+    }
+  ]
+}
