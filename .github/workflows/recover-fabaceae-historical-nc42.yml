@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/recover-fabaceae-historical-nc42.yml'
+      - 'scripts/recover_fabaceae_nc42_from_archives.py'
   workflow_dispatch:
 permissions:
   contents: write
