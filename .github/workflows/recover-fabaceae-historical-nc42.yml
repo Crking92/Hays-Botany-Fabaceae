@@ -1,0 +1,130 @@
+name: Recheck and publish 42 historical Fabaceae noncommercial photo holds
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/recover-fabaceae-historical-nc42.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: fabaceae-approved-photo-release
+  cancel-in-progress: false
+jobs:
+  audit-and-publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Isolate preserved source originals and metadata
+        run: |
+          git fetch origin staging/fabaceae-metadata
+          git worktree add "$RUNNER_TEMP/historic-source" origin/staging/fabaceae-metadata
+      - name: Install image decoder
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Check each exact source photo's current rights, creator, taxonomy, pixels and original archive SHA
+        run: python3 scripts/recover_fabaceae_nc42_from_archives.py "$RUNNER_TEMP/historic-source"
+      - name: Confirm gallery inventory and all newly installed photo source hashes and NC flags
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,re
+          from pathlib import Path
+          site=Path("site")
+          report=json.loads(Path("workflow/fabaceae-nc42-recovery-result.json").read_text())
+          index=json.loads((site/"data/collection-index.json").read_text())
+          gallery=json.loads((site/"data/gallery-index.json").read_text())
+          assert gallery["species"]==91==len(index["entries"])
+          assert set(gallery["entries"])=={r["id"] for r in index["entries"]}
+          photos=0;species=0;links=set()
+          for row in index["entries"]:
+              sid=row["id"]
+              card=json.loads((site/"data/species"/(sid+".json")).read_text())
+              arr=card["verified_photos"]
+              assert len(arr)==row["photo_count"]==gallery["entries"][sid]["count"],(sid,"index mismatch")
+              photos+=len(arr);species+=bool(arr)
+              for p in arr:
+                  assert p["src"] not in links and p["src"].startswith("media/"+sid+"/")
+                  links.add(p["src"])
+                  assert (site/p["src"]).is_file()
+                  assert p["creator"] and p["source_page"].startswith("https://")
+                  assert not p.get("private_rights_review_only")
+          assert photos==gallery["photo_count"] and species==gallery["photo_species"]
+          new=0
+          for r in report["records"]:
+              if r["status"]!="RIGHTS_VERIFIED_READY":continue
+              sid=r["species_id"];file="historical-nc-"+re.sub(r"[^a-z0-9._-]","-",r["source_path"].rsplit("/",1)[-1].lower())
+              src="media/"+sid+"/"+file
+              card=json.loads((site/"data/species"/(sid+".json")).read_text())
+              imgs=[p for p in card["verified_photos"] if p.get("src")==src]
+              assert len(imgs)==1,(sid,src)
+              item=imgs[0]
+              blob=(site/src).read_bytes()
+              actual=hashlib.sha1(b"blob "+str(len(blob)).encode()+b"\0"+blob).hexdigest()
+              assert actual==r["source_blob_sha"]==item["source_blob_sha"],(sid,"new byte/hash mismatch")
+              assert item["source_page"]=="https://www.inaturalist.org/photos/"+str(r["photo_id"])
+              assert item["license"] in ("CC BY-NC 4.0","CC BY-NC-SA 4.0") and item["noncommercial_only"] is True
+              assert item["creator"]==r["creator"]
+              new+=1
+          assert new==report["published"]
+          print("FABACEAE_HISTORICAL_NC42_LOCAL_PUBLICATION_PASS",new,photos,species)
+          PY
+      - name: Commit only verified original images, gallery updates and holds report
+        id: release
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json workflow/fabaceae-nc42-recovery-result.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if git diff --cached --name-only | grep -q '^site/'; then
+            echo "published=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          fi
+          git diff --cached --check
+          git commit -m "Release source-proven noncommercial photos from Fabaceae historical hold"
+          git push origin HEAD:main
+      - name: Request GitHub Pages regeneration
+        if: steps.release.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Verify images are displayed live with original photographer and license
+        if: steps.release.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,re,time,urllib.request
+          from pathlib import Path
+          site=Path("site");base="https://crking92.github.io/Hays-Botany-Fabaceae/site/"
+          report=json.loads(Path("workflow/fabaceae-nc42-recovery-result.json").read_text())
+          expected=(site/"data/gallery-index.json").read_bytes()
+          def fetch(rel):
+              req=urllib.request.Request(base+rel,headers={"User-Agent":"HaysBotanyFabaceaeNC42PublicDelivery/1.0"})
+              with urllib.request.urlopen(req,timeout=23) as res:
+                  assert res.status==200
+                  return res.read()
+          for i in range(45):
+              try:
+                  if fetch("data/gallery-index.json")==expected:break
+              except Exception as ex:print("Pages pending",repr(ex),flush=True)
+              time.sleep(9)
+          else:raise AssertionError("Fabaceae gallery index not yet live")
+          checked=0
+          for r in report["records"]:
+              if r["status"]!="RIGHTS_VERIFIED_READY":continue
+              sid=r["species_id"]
+              file="historical-nc-"+re.sub(r"[^a-z0-9._-]","-",r["source_path"].rsplit("/",1)[-1].lower())
+              src="media/"+sid+"/"+file
+              assert hashlib.sha256(fetch(src)).digest()==hashlib.sha256((site/src).read_bytes()).digest(),src
+              card=json.loads(fetch("data/species/"+sid+".json"))
+              assert any(p.get("src")==src and p.get("creator")==r["creator"] and p.get("license")==r["license"] for p in card.get("verified_photos",[])),src
+              checked+=1
+          assert checked==report["published"]
+          print("FABACEAE_HISTORICAL_NC42_LIVE_PHOTOS_CONFIRMED",checked)
+          PY
