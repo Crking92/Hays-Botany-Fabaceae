@@ -1,0 +1,112 @@
+name: Recover six reviewed historical Fabaceae public-domain photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/recover-fabaceae-held-public-domain.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: fabaceae-approved-photo-release
+  cancel-in-progress: false
+jobs:
+  recover:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Check out original archived images without rewriting the source branch
+        run: |
+          git fetch origin staging/fabaceae-metadata
+          git worktree add "$RUNNER_TEMP/source" origin/staging/fabaceae-metadata
+      - name: Install image decoder
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify actual source bytes, original credits and source-reviewed public-domain rights; publish passing photos only
+        run: python3 scripts/recover_fabaceae_held_public_domain.py --source-root "$RUNNER_TEMP/source" --site-root site
+      - name: Verify local family photo indexes, image hashes and photographer credits
+        run: |
+          python3 - <<'PY'
+          import json,hashlib
+          from pathlib import Path
+          site=Path("site")
+          idx=json.loads((site/"data/collection-index.json").read_text())
+          gallery=json.loads((site/"data/gallery-index.json").read_text())
+          assert len(idx["entries"])==91==gallery["species"]
+          count=0
+          species_with=0
+          for r in idx["entries"]:
+              sid=r["id"]
+              card=json.loads((site/"data/species"/(sid+".json")).read_text())
+              photos=card["verified_photos"]
+              assert len(photos)==r["photo_count"]==gallery["entries"][sid]["count"]
+              if photos:species_with+=1
+              count+=len(photos)
+              for p in photos:
+                  raw=(site/p["src"]).read_bytes()
+                  assert hashlib.sha1(b"blob "+str(len(raw)).encode()+b"\0"+raw).hexdigest()==p["source_blob_sha"]
+                  assert p["creator"] and p["source_page"].startswith("https://") and p["license_url"].startswith("https://")
+                  assert not p.get("private_rights_review_only")
+          assert count==gallery["photo_count"] and species_with==gallery["photo_species"]
+          print("FABACEAE_GALLERY_LOCAL_PASS",count,species_with)
+          PY
+      - name: Commit only checked family website additions
+        id: release
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Release six source-reviewed public-domain Fabaceae archive photographs"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Build public Pages with actual released photographs
+        if: steps.release.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Confirm all recovered photos are actually delivered with source credit
+        if: steps.release.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,time,urllib.request,runpy
+          from pathlib import Path
+          root=Path("site")
+          pins=runpy.run_path("scripts/recover_fabaceae_held_public_domain.py")["PINS"]
+          base="https://crking92.github.io/Hays-Botany-Fabaceae/site/"
+          expected=(root/"data/gallery-index.json").read_bytes()
+          def get(rel):
+              req=urllib.request.Request(base+rel,headers={"User-Agent":"HaysBotanyFabaceaeHoldPhotoQA/1.0"})
+              with urllib.request.urlopen(req,timeout=25) as r:
+                  assert r.status==200
+                  return r.read()
+          for i in range(45):
+              try:
+                  if get("data/gallery-index.json")==expected:break
+              except Exception as e:print("Pages not current",str(e),flush=True)
+              time.sleep(9)
+          else:raise AssertionError("Public Fabaceae gallery not current after release")
+          count=0
+          for sub,record in pins.items():
+              sid=record["sid"]
+              rel="media/"+sid+"/archive-pd-"+sub.rsplit("/",1)[-1]
+              f=root/rel
+              assert f.is_file(),rel
+              assert hashlib.sha256(f.read_bytes()).digest()==hashlib.sha256(get(rel)).digest(),rel
+              card=json.loads(get("data/species/"+sid+".json"))
+              photos=[p for p in card["verified_photos"] if p.get("src")==rel]
+              assert len(photos)==1,rel
+              p=photos[0]
+              assert p["creator"]==record["creator"] and p["source_page"]==record["url"] and p["license"]=="Public Domain"
+              count+=1
+          print("FABACEAE_HISTORIC_PUBLIC_DOMAIN_PHOTOS_LIVE",count)
+          PY
