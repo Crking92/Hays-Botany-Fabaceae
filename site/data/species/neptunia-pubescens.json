@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/neptunia-pubescens/historical-nc-inat-138736196.jpg",
+      "creator": "Eric Neubauer",
+      "source_page": "https://www.inaturalist.org/photos/138736196",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "c0caf5da019d5502debd1f4d2af893d1940c29c7",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 138736196 at observation 84412302 with current source taxon Neptunia pubescens; original SHA c0caf5da019d5502debd1f4d2af893d1940c29c7; current photo license cc-by-nc and photographer (c) Eric Neubauer, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 8; verified 2026-11-03T14:47:44.520370+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as neptunia-pubescens; current individual iNaturalist observation 84412302 identifies Neptunia pubescens; original and current media visually match (difference 8); specialist morphological determination deferred.",
+      "sha256": "61cd6b225bd7cd4cb285efecc519a6e78cf73e514fa38f65dbf886fcfb46a68b"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "80a9be5dd39a822fbf7d2da7ffe3fb5551a8566ac09dca87d299d8761c8211de",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

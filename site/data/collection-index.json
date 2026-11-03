@@ -315,7 +315,7 @@
       "genus": "Desmodium",
       "scientific_name": "Desmodium psilophyllum",
       "common_name": "Ticktrefoil",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -423,8 +423,8 @@
       "genus": "Lotus",
       "scientific_name": "Lotus berthelotii",
       "common_name": "Parrot's beak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lupinus-texensis",
@@ -549,8 +549,8 @@
       "genus": "Neptunia",
       "scientific_name": "Neptunia pubescens",
       "common_name": "Tropical neptunia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "parkinsonia-aculeata",
@@ -585,8 +585,8 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum latestipulatum",
       "common_name": "Pediomelum latestipulatum",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pediomelum-linearifolium",
@@ -603,8 +603,8 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum rhombifolium",
       "common_name": "Pediomelum rhombifolium",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pediomelum-tenuiflorum",
@@ -621,8 +621,8 @@
       "genus": "Rhynchosia",
       "scientific_name": "Rhynchosia americana",
       "common_name": "American snoutbean",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhynchosia-minima",

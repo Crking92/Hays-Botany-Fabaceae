@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/pediomelum-latestipulatum/historical-nc-inat-361743137.jpg",
+      "creator": "Todd Council",
+      "source_page": "https://www.inaturalist.org/photos/361743137",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "380691d59ad9260c1c05cd439e29cda324196c38",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photo reproduced unchanged; not independently edited.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first release: exact archive and current individual-photo license/creator/species/source match; credit and noncommercial restrictions carried to gallery.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany historical source and current iNaturalist photo check",
+      "source_review_evidence": "Exact archived photo 361743137 at observation 204644486 with current source taxon Pediomelum latestipulatum; original SHA 380691d59ad9260c1c05cd439e29cda324196c38; current photo license cc-by-nc and photographer (c) Todd Council, some rights reserved (CC BY-NC); source-photo visual fingerprint distance 0; verified 2026-11-03T14:47:44.520370+00:00.",
+      "taxon_review_evidence": "Photo reviewed in historical family source archive as pediomelum-latestipulatum; current individual iNaturalist observation 204644486 identifies Pediomelum latestipulatum; original and current media visually match (difference 0); specialist morphological determination deferred.",
+      "sha256": "894e2023401d61a9d743c00b4d9f2621bc5b4966e140a9d6f438fb84475f34d9"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f7ac4b78937f460ad26b2bc7659a7aaa9f5dde73d6896cc3ca1cffec9d81503e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

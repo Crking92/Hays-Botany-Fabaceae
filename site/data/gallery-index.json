@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 61,
-  "photo_count": 98,
+  "photo_species": 66,
+  "photo_count": 104,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -142,7 +142,7 @@
       "first_src": "media/desmodium-paniculatum/inat-312240929.jpg"
     },
     "desmodium-psilophyllum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/desmodium-psilophyllum/library-review041-ce8aa6357c8acc4.jpg"
     },
     "desmodium-sessilifolium": {
@@ -190,8 +190,8 @@
       "first_src": null
     },
     "lotus-berthelotii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lotus-berthelotii/historical-nc-inat-475427180.jpg"
     },
     "lupinus-texensis": {
       "count": 0,
@@ -246,8 +246,8 @@
       "first_src": "media/neptunia-lutea/archive-pd-commons-neptunia-lutea.jpg"
     },
     "neptunia-pubescens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/neptunia-pubescens/historical-nc-inat-138736196.jpg"
     },
     "parkinsonia-aculeata": {
       "count": 1,
@@ -262,24 +262,24 @@
       "first_src": null
     },
     "pediomelum-latestipulatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pediomelum-latestipulatum/historical-nc-inat-361743137.jpg"
     },
     "pediomelum-linearifolium": {
       "count": 1,
       "first_src": "media/pediomelum-linearifolium/inat-141329355.jpg"
     },
     "pediomelum-rhombifolium": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pediomelum-rhombifolium/historical-nc-inat-189685000.jpg"
     },
     "pediomelum-tenuiflorum": {
       "count": 1,
       "first_src": "media/pediomelum-tenuiflorum/inat-123056915.jpg"
     },
     "rhynchosia-americana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/rhynchosia-americana/historical-nc-inat-125518489.jpg"
     },
     "rhynchosia-minima": {
       "count": 0,
