@@ -30,8 +30,9 @@ jobs:
       - name: Verify Fabaceae 003 source photographs from original hashes
         run: |
           python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+          wave=$(python3 -c 'import json;print(json.load(open("photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json"))["active_wave"])')
           cd "$RUNNER_TEMP/fabaceae-public-site"
-          python3 scripts/publish_verified_fabaceae_003_zip.py --manifest "$GITHUB_WORKSPACE/photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json" --wave 1 --source-root "$GITHUB_WORKSPACE" --report "$RUNNER_TEMP/fabaceae-003-wave1.json"
+          python3 scripts/publish_verified_fabaceae_003_zip.py --manifest "$GITHUB_WORKSPACE/photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json" --wave "$wave" --source-root "$GITHUB_WORKSPACE" --report "$RUNNER_TEMP/fabaceae-003-wave$wave.json"
       - name: Prepare pinned source-verified Wikimedia Commons originals
         run: |
           python3 -m py_compile "$RUNNER_TEMP/fabaceae-public-site/scripts/prepare_commons_photo_requests.py"
@@ -89,6 +90,13 @@ jobs:
           git commit -m "Automatically publish newly approved Fabaceae source photographs"
           git push origin HEAD:main
           echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Preserve Fabaceae 003 photo-specific verification and holds
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fabaceae-003-source-verification
+          path: ${{ runner.temp }}/fabaceae-003-wave*.json
+          if-no-files-found: ignore
       - name: Request GitHub Pages rebuild for bot-created photo releases
         if: steps.release.outputs.published == 'true'
         env:
