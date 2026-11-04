@@ -13,8 +13,15 @@ LICENSES={
  "cc-by-nc-sa":("CC BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/")
 }
 RECORD_SIZE=42
-# Source names must match the precise Fabaceae species card; no unverified aliases.
-SYNONYMS={}
+# Exact rankless iNaturalist taxon labels matched to independently accepted infraspecific names.
+# Kew POWO/ITIS 2026: P. latestipulatum var. appressum is within P. latestipulatum;
+# V. ludoviciana varieties leavenworthii and ludoviciana are accepted.
+# These aliases do not override independent photograph license, source, identity, or hash checks.
+SYNONYMS={
+ "Pediomelum latestipulatum":{"Pediomelum latestipulatum appressum"},
+ "Vicia ludoviciana var. leavenworthii":{"Vicia ludoviciana leavenworthii"},
+ "Vicia ludoviciana var. ludoviciana":{"Vicia ludoviciana ludoviciana"}
+}
 
 def grab(url,maxsize):
     req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyEducationalPhotoFirst/1.0 (original-media license verification)"})
