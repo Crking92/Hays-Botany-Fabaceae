@@ -13,8 +13,21 @@ LICENSES={
  "cc-by-nc-sa":("CC BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/")
 }
 RECORD_SIZE=42
-# Source names must match the precise Fabaceae species card; no unverified aliases.
-SYNONYMS={}
+# Explicit iNaturalist rank-omitted names verified against POWO (2026-11-04).
+# These map to the same target taxon or (for A. macilentus) its parent species.
+# Baptisia leucophaea stays on hold; it is not simply Baptisia bracteata.
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:24706-2
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:25341-2
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:25338-2
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:52649-2
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:920638-1
+SYNONYMS={
+ "astragalus-crassicarpus-var-berlandieri":{"Astragalus crassicarpus berlandieri"},
+ "astragalus-nuttallianus":{"Astragalus nuttallianus macilentus"},
+ "astragalus-nuttallianus-var-pleianthus":{"Astragalus nuttallianus pleianthus"},
+ "cercis-canadensis-subsp-mexicana":{"Cercis canadensis mexicana"},
+ "cercis-canadensis-subsp-texensis":{"Cercis canadensis texensis"},
+}
 
 def grab(url,maxsize):
     req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyEducationalPhotoFirst/1.0 (original-media license verification)"})
