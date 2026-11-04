@@ -743,5 +743,5 @@
     }
   },
   "active_wave": 1,
-  "release_status": "WAVE_1_RETRY_AFTER_SCIENTIFIC_NAME_TO_SLUG_CORRECTION"
+  "release_status": "SOURCE_CHECK_ALL_FIVE_WAVES_FOR_PUBLIC_GALLERY"
 }
