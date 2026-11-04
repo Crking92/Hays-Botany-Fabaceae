@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
   "photo_species": 84,
-  "photo_count": 278,
+  "photo_count": 287,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -90,11 +90,11 @@
       "first_src": "media/dalea-greggii/dalea-greggii-provisional-face.jpg"
     },
     "dalea-hallii": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/dalea-hallii/library-review014-725ce09df227f6c.jpg"
     },
     "dalea-multiflora": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/dalea-multiflora/gbif-manual-6188527015-4ad7d4c48.jpg"
     },
     "dalea-nana": {
