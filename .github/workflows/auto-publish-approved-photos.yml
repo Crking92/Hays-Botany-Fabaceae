@@ -89,8 +89,27 @@ jobs:
           fi
           git diff --cached --check
           git commit -m "Automatically publish newly approved Fabaceae source photographs"
-          git push origin HEAD:main
-          echo "published=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              echo "published=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$attempt" -eq 4 ]; then
+              echo "Multiple simultaneous releases prevented publishing; remaining files retained in approved intake"
+              exit 1
+            fi
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/publish_approved_family_photos.py --source-root "$GITHUB_WORKSPACE" --site-root "$PWD/site" --check
+            python3 scripts/publish_approved_family_photos.py --source-root "$GITHUB_WORKSPACE" --site-root "$PWD/site"
+            git add site/media/ site/data/gallery-index.json site/data/collection-index.json site/data/species/
+            if git diff --cached --quiet; then
+              echo "published=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m "Publish source-verified Fabaceae 003 photos after concurrent gallery refresh"
+          done
       - name: Preserve Fabaceae 003 photo-specific verification and holds
         if: always()
         uses: actions/upload-artifact@v4
