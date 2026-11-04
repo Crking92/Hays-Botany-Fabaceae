@@ -743,5 +743,5 @@
     }
   },
   "active_wave": 1,
-  "release_status": "RETRY_WITH_UNMODIFIED_SCIENTIFIC_LABELS"
+  "release_status": "RETRY_FAB003_DUAL_SCIENTIFIC_LABEL_AND_SLUG_MATCHING"
 }
