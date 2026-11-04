@@ -743,5 +743,5 @@
     }
   },
   "active_wave": 1,
-  "release_status": "SOURCE_CHECKING_WAVE_1_PENDING"
+  "release_status": "WAVE_1_RETRY_AFTER_SCIENTIFIC_NAME_TO_SLUG_CORRECTION"
 }
