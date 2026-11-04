@@ -378,7 +378,7 @@
       "genus": "Hylodesmum",
       "scientific_name": "Hylodesmum nudiflorum",
       "common_name": "Naked-flower ticktrefoil",
-      "photo_count": 4,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -387,7 +387,7 @@
       "genus": "Indigofera",
       "scientific_name": "Indigofera miniata",
       "common_name": "Scarlet Pea",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -396,7 +396,7 @@
       "genus": "Kummerowia",
       "scientific_name": "Kummerowia striata",
       "common_name": "Japanese clover",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -405,7 +405,7 @@
       "genus": "Lespedeza",
       "scientific_name": "Lespedeza texana",
       "common_name": "Texas lespedeza",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -414,7 +414,7 @@
       "genus": "Leucaena",
       "scientific_name": "Leucaena retusa",
       "common_name": "Golden-ball Lead Tree",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -432,8 +432,8 @@
       "genus": "Lupinus",
       "scientific_name": "Lupinus texensis",
       "common_name": "Texas bluebonnet",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "medicago-lupulina",
@@ -441,7 +441,7 @@
       "genus": "Medicago",
       "scientific_name": "Medicago lupulina",
       "common_name": "Black medic (introduced)",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -450,7 +450,7 @@
       "genus": "Medicago",
       "scientific_name": "Medicago polymorpha",
       "common_name": "Burclover (introduced)",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -459,7 +459,7 @@
       "genus": "Medicago",
       "scientific_name": "Medicago sativa",
       "common_name": "Alfalfa (introduced)",
-      "photo_count": 1,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 84,
-  "photo_count": 287,
+  "photo_species": 85,
+  "photo_count": 327,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -170,23 +170,23 @@
       "first_src": "media/gleditsia-triacanthos/library-review049-438eb39d0a83bdc.jpg"
     },
     "hylodesmum-nudiflorum": {
-      "count": 4,
+      "count": 6,
       "first_src": "media/hylodesmum-nudiflorum/inat-196269807.jpg"
     },
     "indigofera-miniata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/indigofera-miniata/historical-nc-inat-206894056.jpeg"
     },
     "kummerowia-striata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/kummerowia-striata/inat-5370736.jpg"
     },
     "lespedeza-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/lespedeza-texana/inat-272775439.jpg"
     },
     "leucaena-retusa": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/leucaena-retusa/historical-nc-inat-531068418.jpg"
     },
     "lotus-berthelotii": {
@@ -194,19 +194,19 @@
       "first_src": "media/lotus-berthelotii/historical-nc-inat-475427180.jpg"
     },
     "lupinus-texensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/lupinus-texensis/inat-604611403.jpg"
     },
     "medicago-lupulina": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/medicago-lupulina/commons-medicago-lupulina.jpg"
     },
     "medicago-polymorpha": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/medicago-polymorpha/commons-medicago-polymorpha.jpg"
     },
     "medicago-sativa": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/medicago-sativa/commons-medicago-sativa.jpg"
     },
     "melilotus-albus": {
