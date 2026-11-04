@@ -1,0 +1,3 @@
+Fabaceae_003 intake rerun request, November 4, 2026.
+The original scientific names in the exact-source ZIP manifest must be normalized to existing site IDs before the 162 source-photo checks. Main-branch verifier fix: a2f8c4f606b98e48a86a86337326034dad871baa.
+This is a read-only trigger note, not permission or source-photo approval. Existing checks for taxon, source license, image checksum, attribution and main site membership remain mandatory. Ignore this root-level .txt in the Commons request parser.
