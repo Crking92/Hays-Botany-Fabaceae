@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
   "photo_species": 84,
-  "photo_count": 258,
+  "photo_count": 278,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -70,23 +70,23 @@
       "first_src": "media/dalea-aurea/01-habit-head.jpg"
     },
     "dalea-candida": {
-      "count": 2,
+      "count": 4,
       "first_src": "media/dalea-candida/dalea-candida-provisional-face.jpg"
     },
     "dalea-compacta": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/dalea-compacta/01-dense-head.jpg"
     },
     "dalea-enneandra": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/dalea-enneandra/library-review027-695fa6fa8f62b62.jpg"
     },
     "dalea-frutescens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/dalea-frutescens/01-habit.jpg"
     },
     "dalea-greggii": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/dalea-greggii/dalea-greggii-provisional-face.jpg"
     },
     "dalea-hallii": {
