@@ -44,6 +44,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/dalea-candida/inat-379889373.jpg",
+      "creator": "(c) tvogt, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/379889373",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1d86733468797e0a1dda671fd724bd7ecc697d5c",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 214897903, photo 379889373, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 59f6a36e7137da0d6a8939e2e676613d698d009efac1cce1d73f0a73610035dc. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea candida agrees with indexed species dalea-candida; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "59f6a36e7137da0d6a8939e2e676613d698d009efac1cce1d73f0a73610035dc"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
