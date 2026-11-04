@@ -28,12 +28,12 @@ jobs:
           git fetch origin main
           git worktree add "$RUNNER_TEMP/fabaceae-public-site" origin/main
       - name: Verify Fabaceae 003 source photographs from original hashes
-        if: ${{ contains(github.event.head_commit.modified, 'photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json') || contains(github.event.head_commit.added, 'photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json') }}
         run: |
           python3 -m pip install --disable-pip-version-check Pillow==11.3.0
-          wave=$(python3 -c 'import json;print(json.load(open("photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json"))["active_wave"])')
           cd "$RUNNER_TEMP/fabaceae-public-site"
-          python3 scripts/publish_verified_fabaceae_003_zip.py --manifest "$GITHUB_WORKSPACE/photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json" --wave "$wave" --source-root "$GITHUB_WORKSPACE" --report "$RUNNER_TEMP/fabaceae-003-wave$wave.json"
+          for wave in 1 2 3 4 5; do
+            python3 scripts/publish_verified_fabaceae_003_zip.py --manifest "$GITHUB_WORKSPACE/photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json" --wave "$wave" --source-root "$GITHUB_WORKSPACE" --report "$RUNNER_TEMP/fabaceae-003-wave$wave.json"
+          done
       - name: Prepare pinned source-verified Wikimedia Commons originals
         run: |
           python3 -m py_compile "$RUNNER_TEMP/fabaceae-public-site/scripts/prepare_commons_photo_requests.py"
