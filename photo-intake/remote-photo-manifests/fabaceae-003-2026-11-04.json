@@ -1,0 +1,745 @@
+{
+  "batch_id": "fabaceae-003-2026-11-04",
+  "repository": "Crking92/Hays-Botany-Fabaceae",
+  "zip_sha256": "26f4cad023e5d4077724049137b84535e85b06dd47afc07c40bc077fcd726343",
+  "species": [
+    "Mimosa roemeriana",
+    "Mimosa texana",
+    "Neltuma glandulosa",
+    "Neptunia lutea",
+    "Neptunia pubescens",
+    "Parkinsonia aculeata",
+    "Pediomelum cuspidatum",
+    "Pediomelum cyphocalyx",
+    "Pediomelum latestipulatum",
+    "Pediomelum linearifolium",
+    "Pediomelum rhombifolium",
+    "Pediomelum tenuiflorum",
+    "Rhynchosia americana",
+    "Rhynchosia minima",
+    "Rhynchosia senna",
+    "Robinia pseudoacacia",
+    "Senegalia greggii",
+    "Senegalia roemeriana",
+    "Senegalia wrightii",
+    "Senna lindheimeriana",
+    "Senna pilosior",
+    "Senna roemeriana",
+    "Sesbania drummondii",
+    "Sesbania herbacea",
+    "Strophostyles helvola",
+    "Styphnolobium affine",
+    "Tephrosia lindheimeri",
+    "Tephrosia potosina",
+    "Trifolium repens",
+    "Vachellia constricta",
+    "Vachellia farnesiana",
+    "Vicia ludoviciana",
+    "Vicia ludoviciana var. leavenworthii",
+    "Vicia ludoviciana var. ludoviciana"
+  ],
+  "records_base64": "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",
+  "original_images": 169,
+  "image_hashes_validated": 168,
+  "photos_for_source_checks": 162,
+  "offline_held_media": [
+    {
+      "species": "Pediomelum cyphocalyx",
+      "sha256": "f161b5b2bdfc7bad9ab67e2fd08a271a5018f5557546f05aa0944d5a41465117",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "reason": "Non-iNaturalist herbarium source needs exact-image rights and identity clearance"
+    },
+    {
+      "species": "Vicia ludoviciana var. leavenworthii",
+      "sha256": "ed9144b829352c9b5157455420fa1bd2d52ec489ba10e8725b528bbda37fb20e",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "reason": "Non-iNaturalist herbarium source needs exact-image rights and identity clearance"
+    },
+    {
+      "species": "Vicia ludoviciana var. leavenworthii",
+      "sha256": "6e8080d6f95cbdeeaaade04e5b2b0c99eccb40db4e6c9b441b98e7eb45f59d14",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "reason": "Non-iNaturalist herbarium source needs exact-image rights and identity clearance"
+    },
+    {
+      "species": "Vicia ludoviciana var. leavenworthii",
+      "sha256": "4c6ae0434b6fce4baa07aa9afe5ed2318b70dd7ee7fdf997016c392d18af7d1e",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "reason": "Non-iNaturalist herbarium source needs exact-image rights and identity clearance"
+    },
+    {
+      "species": "Vicia ludoviciana var. ludoviciana",
+      "sha256": "58f17db82d7c64097f8ae2bf46db2eef5dc473038f46b842d5cfafe69068e5f1",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "reason": "Non-iNaturalist herbarium source needs exact-image rights and identity clearance"
+    },
+    {
+      "species": "Vicia ludoviciana var. ludoviciana",
+      "sha256": "68cda4c9a19dc0a51158b54168e5a256b6a94f8b584590eba2e81097ef1cce30",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "reason": "Non-iNaturalist herbarium source needs exact-image rights and identity clearance"
+    }
+  ],
+  "missing_media_records": [
+    "Fabaceae/Vicia_ludoviciana_var__ludoviciana/photos/photo_3_5e0e5d477c54f5a3.jpg",
+    "Fabaceae/Vicia_ludoviciana_var__ludoviciana/photos/photo_4_fef8327b7d3efe2a.jpg"
+  ],
+  "unattributed_media": [
+    {
+      "path": "Fabaceae/Mimosa_latidens/photos/photo_4_4247bc9156432df5.jpg",
+      "sha256": "4247bc9156432df5cce3ed19066d128d919b5ebfdd22dd330b1bdbb26599958b",
+      "size": 8517859
+    }
+  ],
+  "internal_duplicates": 0,
+  "source_metadata_credits": {
+    "197539597": {
+      "name": "aoshea3",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "124686427": {
+      "name": "tracymayhan",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "37702828": {
+      "name": "Steve Janda",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "16497106": {
+      "name": "Curtis Eckerman",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "17811653": {
+      "name": "stoop75",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "637172997": {
+      "name": "mcfagin",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "635598757": {
+      "name": "makayla beach",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "635248537": {
+      "name": "nativenovice",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "634926856": {
+      "name": "tobiadve",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "635631332": {
+      "name": "Chris Hughes",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "623672958": {
+      "name": "kembletwhite",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "624747317": {
+      "name": "wmirshell",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623734246": {
+      "name": "Emily",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623667988": {
+      "name": "Mason Johnson",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623592025": {
+      "name": "Eve Stephens",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "497761055": {
+      "name": "junkmonkeee",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "380856532": {
+      "name": "l1ay",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "380331327": {
+      "name": "Jessica Huang AWB®",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "280797870": {
+      "name": "effinstephen",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "280439060": {
+      "name": "Andrea Julian",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "641025659": {
+      "name": "erikcmona",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "636867532": {
+      "name": "Saunders Drukker",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "646830211": {
+      "name": "Martha",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "648502037": {
+      "name": "milosmith",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "645138282": {
+      "name": "kathybf",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "625450277": {
+      "name": "alexk03",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623303854": {
+      "name": "Griffin",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "622755804": {
+      "name": "twilightecologist",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "626478170": {
+      "name": "Carlos/Giancarla Ross (AnimeBirder)",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "627589316": {
+      "name": "Elizabeth Koziatek",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "649026844": {
+      "name": "greenthumb68",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "647336860": {
+      "name": "Derek Muschalek",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "657483851": {
+      "name": "Tom Devitt",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "645410113": {
+      "name": "kdw5",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "649030136": {
+      "name": "greenthumb68",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "385241647": {
+      "name": "Cody Stricker",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "631230718": {
+      "name": "Jacob",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "648630044": {
+      "name": "Cleveland Powell",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "650531783": {
+      "name": "dontfencemein",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "629306776": {
+      "name": "Michael Caballero",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "631626554": {
+      "name": "Curren Frasch",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "636859966": {
+      "name": "Saunders Drukker",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "653201845": {
+      "name": "plectrudis",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "655959403": {
+      "name": "Canaan Sutton",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "487261922": {
+      "name": "Michelle W. （鍾偉瑋）",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "275499440": {
+      "name": "charlottereemts",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "74389389": {
+      "name": "Rich Kostecke",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "671166742": {
+      "name": "charlottereemts",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "690814220": {
+      "name": "charlottereemts",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "640157209": {
+      "name": "Meredith Lovelace",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "647375104": {
+      "name": "milosmith",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "646399411": {
+      "name": "Kristina Adkins",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "488051928": {
+      "name": "Cody Masters",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "495420536": {
+      "name": "corineperez",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "667336706": {
+      "name": "Andy Blair",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "654409084": {
+      "name": "samuel_s22",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "191175676": {
+      "name": "Andy Blair",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "191176764": {
+      "name": "Andy Blair",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "679865359": {
+      "name": "milosmith",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "163173358": {
+      "name": "Cyndie Segovia",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "340388981": {
+      "name": "samuel_s22",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "626364217": {
+      "name": "Derek Muschalek",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "633940307": {
+      "name": "Chet Burrier",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "633895013": {
+      "name": "Chet Burrier",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "647392668": {
+      "name": "milosmith",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "663339360": {
+      "name": "Liliana Benitez",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "665156084": {
+      "name": "shelby",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "669598356": {
+      "name": "Kyla Miller",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "486926666": {
+      "name": "Jeff McIntyre",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "643863576": {
+      "name": "CAROLYN LANGLINAIS",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "653234022": {
+      "name": "plectrudis",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "646413483": {
+      "name": "Kristina Adkins",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "647285068": {
+      "name": "casanorris_tx",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "646905229": {
+      "name": "PeaceBwU",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623930114": {
+      "name": "colleendieter",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "631502969": {
+      "name": "mutemanifesto",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "187504556": {
+      "name": "mac_marshall",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "118818585": {
+      "name": "Will Dawson",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "64480397": {
+      "name": "Robby Deans",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "237222935": {
+      "name": "Elena Adams",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "648451165": {
+      "name": "George Afghan",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "644379934": {
+      "name": "Patty Leslie Pasztor",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "644122604": {
+      "name": "Mary Walsh",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "648982505": {
+      "name": "Laurie Hampton",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "625848065": {
+      "name": "Laura",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "628435113": {
+      "name": "msdeebee",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "636853685": {
+      "name": "Saunders Drukker",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "647353350": {
+      "name": "twoldham",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "648227507": {
+      "name": "randyreininger1",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "647235299": {
+      "name": "Gary St.Clair",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "645412195": {
+      "name": "vgabbard",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "391190622": {
+      "name": "Anonymous",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "404143381": {
+      "name": "Anonymous",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "23060906": {
+      "name": "Alison Northup",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "623457677": {
+      "name": "Ryleigh Minshew",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "621941531": {
+      "name": "Hillary (Jun) Xu",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "622688056": {
+      "name": "Steve Poole",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "624746639": {
+      "name": "wmirshell",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "622634848": {
+      "name": "Kenneth Bader",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "412019121": {
+      "name": "plantperson7654",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "426481347": {
+      "name": "plantperson7654",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "622704198": {
+      "name": "Bella Mock",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "621573145": {
+      "name": "dsanch90",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "642175030": {
+      "name": "Philip Woods",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "630431029": {
+      "name": "Jason Azar",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "627164884": {
+      "name": "weston_smith1",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "629596230": {
+      "name": "charlottereemts",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "632649557": {
+      "name": "mana-na",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "631594926": {
+      "name": "arbutusatx",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "634007069": {
+      "name": "skittlessss",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "633878902": {
+      "name": "nunya_nun",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "721245244": {
+      "name": "adkissonbuda",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "669138044": {
+      "name": "mksexton",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "473998618": {
+      "name": "kls572000",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "638840806": {
+      "name": "Emily",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "505518353": {
+      "name": "Emma Berndt",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "506002732": {
+      "name": "Carl Robertson",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "383279018": {
+      "name": "Joseph Aubert",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "677189693": {
+      "name": "Daniela Garza",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "699631740": {
+      "name": "Andy Lazere",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "405084521": {
+      "name": "christi_chris",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "314446139": {
+      "name": "Sue Ann Kendall",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "315397155": {
+      "name": "janeholle",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "223628243": {
+      "name": "pease_of_james44",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623928649": {
+      "name": "colleendieter",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623734084": {
+      "name": "Emily",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "625490782": {
+      "name": "Russell Sanders",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "627292377": {
+      "name": "Harrison",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "629970559": {
+      "name": "Michelle Lay",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "630983146": {
+      "name": "Derek Muschalek",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "631211427": {
+      "name": "Michelle W. （鍾偉瑋）",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "632619862": {
+      "name": "Derek Muschalek",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "635857912": {
+      "name": "A. B.",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "636279709": {
+      "name": "Chet Burrier",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "627939892": {
+      "name": "Saunders Drukker",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "635422960": {
+      "name": "Saunders Drukker",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "648907569": {
+      "name": "ashley0618",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "639666106": {
+      "name": "Hayden LaBarr",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "649424312": {
+      "name": "erinkaye",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "621479294": {
+      "name": "leg9",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "624486563": {
+      "name": "adanortega_12",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "643098902": {
+      "name": "Catrynth",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "637788201": {
+      "name": "Ryan Hernandez",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "636694725": {
+      "name": "Aspen Frisch",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "627869310": {
+      "name": "A Humble Thing",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "627868684": {
+      "name": "A Humble Thing",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "626323009": {
+      "name": "lukephipps10",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "621756568": {
+      "name": "Howard Crenshaw",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "642254062": {
+      "name": "dirtbagbotany",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "620639214": {
+      "name": "mattmsa",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    "622197741": {
+      "name": "Mike Quinn, San Marcos",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623953919": {
+      "name": "Adrian Johnson",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "625153041": {
+      "name": "daviddeleon",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "628809616": {
+      "name": "Meredith Lovelace",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623674789": {
+      "name": "David M. Hillis",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "623460177": {
+      "name": "keriamg",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "622882799": {
+      "name": "jenn4973",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "621558669": {
+      "name": "kittybobo",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "625044160": {
+      "name": "bereccajd",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "186068075": {
+      "name": "Andy Blair",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "34433616": {
+      "name": "owenmoorhead",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "3288865": {
+      "name": "Jana Hill",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  }
+}
