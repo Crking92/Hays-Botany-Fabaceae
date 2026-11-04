@@ -70,10 +70,17 @@ def main():
     if len(set(m["species"]))!=len(original_species):
         raise SystemExit("Fabaceae original scientific names collide after gallery ID normalization")
 
+    if "Fabaceae" not in site_meta["family_assignments"]:
+        raise SystemExit("Fabaceae family assignment missing from destination")
+    # The ZIP records display scientific names; published species use slug IDs.
+    # Map exact indexed names only; unresolved names are held per photo.
+    name_to_id={}
+    for card in source["entries"]:
+        if card["family"]!="Fabaceae":continue
+        key=" ".join(card["scientific_name"].lower().split())
+        if key in name_to_id:raise SystemExit("Ambiguous indexed scientific name: "+key)
+        name_to_id[key]=card["id"]
     current_sources={}; current_shas={}; source_hashes={}
-    for sid in m["species"]:
-        if sid not in cards or cards[sid]["family"]!="Fabaceae" or "Fabaceae" not in site_meta["family_assignments"]:
-            raise SystemExit("Target species not in the assigned family repository: "+sid)
     def remember(sid,photo):
         url=photo.get("source_page")
         sha=photo.get("sha256")
@@ -97,9 +104,11 @@ def main():
     if len({pid for _,pid,_,_,_ in records})!=len(records):raise SystemExit("Repeated photo IDs in original ZIP")
     if len(records)!=m["photos_for_source_checks"]:raise SystemExit("Original photo inventory mismatch")
     if m["original_images"]!=len(records)+len(m["offline_held_media"])+len(m["unattributed_media"]):raise SystemExit("Original ZIP inventory does not reconcile")
-    for sid,pid,oid,sha,ext in records[(args.wave-1)*40:args.wave*40]:
-        row={"species_id":sid,"photo_id":pid,"observation_id":oid}
+    for source_name,pid,oid,sha,ext in records[(args.wave-1)*40:args.wave*40]:
+        sid=name_to_id.get(" ".join(source_name.lower().split()))
+        row={"species_id":sid or source_name,"manifest_scientific_name":source_name,"photo_id":pid,"observation_id":oid}
         try:
+            if sid is None:raise ValueError("Manifest taxon not indexed in Fabaceae: "+source_name)
             if (sid,pid) in seen:raise ValueError("Duplicate original photo ID")
             seen.add((sid,pid))
             src=f"https://www.inaturalist.org/photos/{pid}"
@@ -114,7 +123,7 @@ def main():
             obs=next((x for x in obs_json.get("results",[]) if int(x.get("id",-1))==oid),None)
             if obs is None:raise ValueError("Source observation not found")
             name=str((obs.get("taxon") or {}).get("name") or "")
-            if not matches(sid,name):raise ValueError("Species name/synonym needs later review: "+name)
+            if not matches(source_name,name):raise ValueError("Species name/synonym needs later review: "+name)
             photo=next((x for x in obs.get("photos",[]) if int(x.get("id",-1))==pid),None)
             if photo is None:raise ValueError("Individual photo not found on observation")
             code=str(photo.get("license_code") or "").lower().replace("_","-")
@@ -149,7 +158,7 @@ def main():
                "policy_ref":"PHOTO_FIRST_PUBLIC_GALLERY_POLICY_2026-11-02",
                "review_operator":"Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
                "source_review_evidence":f"Live iNaturalist observation {oid}, photo {pid}, individual license {code}, exact source photo URL. Source media SHA256 matches supplied original ZIP: {sha}. Credit evidence: {attribution_origin}.",
-               "taxon_review_evidence":f"Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon {name} agrees with the indexed species {sid}; specialist diagnosis and BONAP county nativity remain separate.",
+               "taxon_review_evidence":f"Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon {name} agrees with original manifest name {source_name} mapped to indexed species {sid}; specialist diagnosis and BONAP county nativity remain separate.",
                "approval_note":"Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
                "creator":attribution,"source_page":src,"source_page_is_exact":True,
                "license":license_name,"license_url":license_url,
