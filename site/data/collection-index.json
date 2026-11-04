@@ -225,7 +225,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea neomexicana",
       "common_name": "Downy prairie clover",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -234,7 +234,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea purpurea",
       "common_name": "Purple prairie clover",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -243,7 +243,7 @@
       "genus": "Dalea",
       "scientific_name": "Dalea tenuis",
       "common_name": "Pinkglobe prairie clover / Stanfield prairie-clover",
-      "photo_count": 2,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -252,7 +252,7 @@
       "genus": "Dermatophyllum",
       "scientific_name": "Dermatophyllum secundiflorum",
       "common_name": "Texas mountain laurel / mescal bean",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -261,7 +261,7 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus acuminatus",
       "common_name": "Sharp-pod bundleflower / wild tantan",
-      "photo_count": 3,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -270,7 +270,7 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus illinoensis",
       "common_name": "Illinois bundleflower",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -279,8 +279,8 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus leptolobus",
       "common_name": "Prairie bundleflower / prairie mimosa",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "desmanthus-velutinus",
@@ -288,7 +288,7 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus velutinus",
       "common_name": "Velvet bundleflower",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -297,7 +297,7 @@
       "genus": "Desmanthus",
       "scientific_name": "Desmanthus virgatus",
       "common_name": "Wild tantan / prostrate bundleflower",
-      "photo_count": 3,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

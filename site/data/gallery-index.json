@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 82,
-  "photo_count": 140,
+  "photo_species": 83,
+  "photo_count": 180,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -102,39 +102,39 @@
       "first_src": "media/dalea-nana/historical-nc-joey-inat-505806231.jpg"
     },
     "dalea-neomexicana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/dalea-neomexicana/historical-nc-joey-inat-240945083.jpg"
     },
     "dalea-purpurea": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/dalea-purpurea/public-inat-purple-prairie-clover-743621173.jpg"
     },
     "dalea-tenuis": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/dalea-tenuis/library-review010-010069164f6d82f.jpg"
     },
     "dermatophyllum-secundiflorum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/dermatophyllum-secundiflorum/public-inat-dermatophyllum-secundiflorum-745542712.jpg"
     },
     "desmanthus-acuminatus": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/desmanthus-acuminatus/desmanthus-acuminatus-leaves-flowers.jpg"
     },
     "desmanthus-illinoensis": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/desmanthus-illinoensis/illinoensis-heads-and-fruit.jpg"
     },
     "desmanthus-leptolobus": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/desmanthus-leptolobus/inat-397985788.jpg"
     },
     "desmanthus-velutinus": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/desmanthus-velutinus/archive-pd-velutinus-usda-recon.jpg"
     },
     "desmanthus-virgatus": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/desmanthus-virgatus/virgatus-guadeloupe-face.jpg"
     },
     "desmodium-paniculatum": {
