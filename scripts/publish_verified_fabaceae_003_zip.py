@@ -62,6 +62,14 @@ def main():
     if len(m["species"])!=len(set(m["species"])):raise SystemExit("Duplicate species in manifest")
     if len(m["zip_sha256"])!=64:raise SystemExit("Bad ZIP identity")
     if len(m["species"])!=34: raise SystemExit("Fabaceae 003 species inventory mismatch")
+    # Original ZIP's scientific names use spaces/punctuation; the existing
+    # family gallery uses lowercase hyphenated species IDs. Normalize for
+    # lookup without changing the source taxon determination or rights checks.
+    original_species=list(m["species"])
+    m["species"]=[re.sub(r"[^a-z0-9]+","-",str(name).lower()).strip("-") for name in original_species]
+    if len(set(m["species"]))!=len(original_species):
+        raise SystemExit("Fabaceae original scientific names collide after gallery ID normalization")
+
     current_sources={}; current_shas={}; source_hashes={}
     for sid in m["species"]:
         if sid not in cards or cards[sid]["family"]!="Fabaceae" or "Fabaceae" not in site_meta["family_assignments"]:
