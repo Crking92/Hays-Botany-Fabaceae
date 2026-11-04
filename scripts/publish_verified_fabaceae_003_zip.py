@@ -80,6 +80,7 @@ def main():
         key=" ".join(card["scientific_name"].lower().split())
         if key in name_to_id:raise SystemExit("Ambiguous indexed scientific name: "+key)
         name_to_id[key]=card["id"]
+        name_to_id[card["id"]]=card["id"]  # accept the site slug if the original manifest was normalized
     current_sources={}; current_shas={}; source_hashes={}
     def remember(sid,photo):
         url=photo.get("source_page")
@@ -106,6 +107,9 @@ def main():
     if m["original_images"]!=len(records)+len(m["offline_held_media"])+len(m["unattributed_media"]):raise SystemExit("Original ZIP inventory does not reconcile")
     for source_name,pid,oid,sha,ext in records[(args.wave-1)*40:args.wave*40]:
         sid=name_to_id.get(" ".join(source_name.lower().split()))
+        # Both manifest scientific-name and normalized slug forms resolve to the same indexed taxon.
+        if sid is not None:
+            source_name=cards[sid]["scientific_name"]
         row={"species_id":sid or source_name,"manifest_scientific_name":source_name,"photo_id":pid,"observation_id":oid}
         try:
             if sid is None:raise ValueError("Manifest taxon not indexed in Fabaceae: "+source_name)
