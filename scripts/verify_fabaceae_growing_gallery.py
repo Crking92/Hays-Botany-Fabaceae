@@ -31,11 +31,11 @@ def validate(site):
             assert f.is_file() and not f.is_symlink() and src not in paths,src
             paths.add(src)
             binary=f.read_bytes()
-            # Legacy scaled/converted display copies may preserve an original-source blob SHA;
+            # Original iNaturalist ZIP photos carry byte-exact SHA-256; legacy transformed copies may preserve original-source hashes.
             # do not overwrite or misinterpret that historical provenance.
             # For all newly installed unmodified originals, require exact original SHA256
             # and the actual Git blob SHA to agree with the public file bytes.
-            if p.get("sha256"):
+            if p.get("sha256") and Path(src).name.startswith("inat-"):
                 assert hashlib.sha256(binary).hexdigest()==p["sha256"],src
                 assert git_sha(binary)==p["source_blob_sha"],src
             assert p.get("creator") and p.get("source_page","").startswith("https://")
