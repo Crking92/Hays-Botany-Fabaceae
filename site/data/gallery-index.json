@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
   "photo_species": 85,
-  "photo_count": 327,
+  "photo_count": 345,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -206,23 +206,23 @@
       "first_src": "media/medicago-polymorpha/commons-medicago-polymorpha.jpg"
     },
     "medicago-sativa": {
-      "count": 4,
+      "count": 6,
       "first_src": "media/medicago-sativa/commons-medicago-sativa.jpg"
     },
     "melilotus-albus": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/melilotus-albus/library-review056-6fca386ee0e930e.jpg"
     },
     "melilotus-indicus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/melilotus-indicus/historical-nc-inat-595592253.jpg"
     },
     "mimosa-biuncifera": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/mimosa-biuncifera/mimosa-biuncifera-provisional-face.jpg"
     },
     "mimosa-borealis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/mimosa-borealis/historical-nc-joey-inat-675675349.jpg"
     },
     "mimosa-latidens": {
