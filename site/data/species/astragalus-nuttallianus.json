@@ -170,6 +170,25 @@
       "source_review_evidence": "Live iNaturalist observation 345231288, photo 629129885, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f79b14632908c6c1edaeaa515ca7a3a799d51c44fea114506e6053df2d47b93. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus nuttallianus agrees with indexed species astragalus-nuttallianus; full specialist morphological review and BONAP range checks are separate.",
       "sha256": "5f79b14632908c6c1edaeaa515ca7a3a799d51c44fea114506e6053df2d47b93"
+    },
+    {
+      "src": "media/astragalus-nuttallianus/inat-632244491.jpg",
+      "creator": "(c) Ranger Jenna, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/632244491",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "a6c936719016c6690d8df71662a8d2bca44e4f33",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 346812797, photo 632244491, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ec9995cf0794879e1abac82c6b7cacdff7c731f9d8f87d4f07be628729a88b4. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus nuttallianus macilentus agrees with indexed species astragalus-nuttallianus; full specialist morphological review and BONAP range checks are separate.",
+      "sha256": "6ec9995cf0794879e1abac82c6b7cacdff7c731f9d8f87d4f07be628729a88b4"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 85,
-  "photo_count": 351,
+  "photo_species": 86,
+  "photo_count": 354,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -34,12 +34,12 @@
       "first_src": "media/astragalus-lindheimeri/gbif-manual-6184971854-8f0e942ba.jpg"
     },
     "astragalus-nuttallianus": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/astragalus-nuttallianus/astragalus-nuttallianus-provisional-face.jpg"
     },
     "astragalus-nuttallianus-var-pleianthus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/astragalus-nuttallianus-var-pleianthus/inat-16766422.jpeg"
     },
     "astragalus-plattensis": {
       "count": 4,
@@ -54,7 +54,7 @@
       "first_src": "media/bauhinia-lunarioides/historical-nc-inat-4198176.jpg"
     },
     "cercis-canadensis-subsp-mexicana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/cercis-canadensis-subsp-mexicana/library-review012-cb5b46a700292bf.jpg"
     },
     "cercis-canadensis-subsp-texensis": {
