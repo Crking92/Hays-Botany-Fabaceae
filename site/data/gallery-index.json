@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
   "photo_species": 85,
-  "photo_count": 345,
+  "photo_count": 350,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -366,7 +366,7 @@
       "first_src": null
     },
     "zornia-bracteata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/zornia-bracteata/historical-nc-inat-40019219.jpg"
     }
   }
