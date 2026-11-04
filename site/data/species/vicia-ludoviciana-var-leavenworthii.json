@@ -10,8 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/vicia-ludoviciana-var-leavenworthii/inat-186068075.jpeg",
+      "creator": "(c) Andy Blair, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/186068075",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "875b02af170eb7e744ba20b63252f919554a8971",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
+      "source_review_evidence": "Live iNaturalist observation 110313635, photo 186068075, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1f93200005facb7f5d92e1b22f624fc2462a981e157f4272001daf792f5cc1d6. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana leavenworthii agrees with original manifest name Vicia ludoviciana var. leavenworthii mapped to indexed species vicia-ludoviciana-var-leavenworthii; specialist diagnosis and BONAP county nativity remain separate.",
+      "sha256": "1f93200005facb7f5d92e1b22f624fc2462a981e157f4272001daf792f5cc1d6"
+    },
+    {
+      "src": "media/vicia-ludoviciana-var-leavenworthii/inat-34433616.jpg",
+      "creator": "(c) owenmoorhead, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/34433616",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "692c7ae1d2e22c900c08dceb97e20d37a85e77c6",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
+      "source_review_evidence": "Live iNaturalist observation 22236506, photo 34433616, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2143961c143cb54ab6b7fdef2f2ccb100532eb26d70a3553657d04b1b24180cd. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana leavenworthii agrees with original manifest name Vicia ludoviciana var. leavenworthii mapped to indexed species vicia-ludoviciana-var-leavenworthii; specialist diagnosis and BONAP county nativity remain separate.",
+      "sha256": "2143961c143cb54ab6b7fdef2f2ccb100532eb26d70a3553657d04b1b24180cd"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6f009740f62e4aad285fba262326f46d79590ae6a1135f2eacc94ac903d245db",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

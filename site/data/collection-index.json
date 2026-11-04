@@ -513,7 +513,7 @@
       "genus": "Mimosa",
       "scientific_name": "Mimosa roemeriana",
       "common_name": "Roemer's mimosa / sensitive briar",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -522,7 +522,7 @@
       "genus": "Mimosa",
       "scientific_name": "Mimosa texana",
       "common_name": "Texas mimosa / catclaw mimosa",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -531,7 +531,7 @@
       "genus": "Neltuma",
       "scientific_name": "Neltuma glandulosa",
       "common_name": "Honey mesquite",
-      "photo_count": 4,
+      "photo_count": 9,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -540,7 +540,7 @@
       "genus": "Neptunia",
       "scientific_name": "Neptunia lutea",
       "common_name": "Yellow puff / yellow sensitive-briar",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -549,7 +549,7 @@
       "genus": "Neptunia",
       "scientific_name": "Neptunia pubescens",
       "common_name": "Tropical neptunia",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -558,7 +558,7 @@
       "genus": "Parkinsonia",
       "scientific_name": "Parkinsonia aculeata",
       "common_name": "Jerusalem thorn / retama",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -567,7 +567,7 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum cuspidatum",
       "common_name": "Pediomelum cuspidatum",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -576,7 +576,7 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum cyphocalyx",
       "common_name": "Pediomelum cyphocalyx",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -585,7 +585,7 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum latestipulatum",
       "common_name": "Pediomelum latestipulatum",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -594,7 +594,7 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum linearifolium",
       "common_name": "Linearleaf scurfpea",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -603,7 +603,7 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum rhombifolium",
       "common_name": "Pediomelum rhombifolium",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -612,7 +612,7 @@
       "genus": "Pediomelum",
       "scientific_name": "Pediomelum tenuiflorum",
       "common_name": "Pediomelum tenuiflorum",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -621,7 +621,7 @@
       "genus": "Rhynchosia",
       "scientific_name": "Rhynchosia americana",
       "common_name": "American snoutbean",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -630,8 +630,8 @@
       "genus": "Rhynchosia",
       "scientific_name": "Rhynchosia minima",
       "common_name": "Least snoutbean",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhynchosia-senna",
@@ -639,7 +639,7 @@
       "genus": "Rhynchosia",
       "scientific_name": "Rhynchosia senna",
       "common_name": "Texas snoutbean",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -648,7 +648,7 @@
       "genus": "Robinia",
       "scientific_name": "Robinia pseudoacacia",
       "common_name": "Black locust",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -657,7 +657,7 @@
       "genus": "Senegalia",
       "scientific_name": "Senegalia greggii",
       "common_name": "Gregg's catclaw acacia",
-      "photo_count": 5,
+      "photo_count": 10,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -666,7 +666,7 @@
       "genus": "Senegalia",
       "scientific_name": "Senegalia roemeriana",
       "common_name": "Roundflower catclaw / Roemer acacia",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -675,7 +675,7 @@
       "genus": "Senegalia",
       "scientific_name": "Senegalia wrightii",
       "common_name": "Wright's catclaw acacia / Wright acacia",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -684,8 +684,8 @@
       "genus": "Senna",
       "scientific_name": "Senna lindheimeriana",
       "common_name": "Lindheimer's Senna / Velvetleaf Senna",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "senna-pilosior",
@@ -693,7 +693,7 @@
       "genus": "Senna",
       "scientific_name": "Senna pilosior",
       "common_name": "Trans-Pecos senna",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -702,7 +702,7 @@
       "genus": "Senna",
       "scientific_name": "Senna roemeriana",
       "common_name": "Twoleaf senna",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -711,7 +711,7 @@
       "genus": "Sesbania",
       "scientific_name": "Sesbania drummondii",
       "common_name": "Rattlebox",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -720,7 +720,7 @@
       "genus": "Sesbania",
       "scientific_name": "Sesbania herbacea",
       "common_name": "Bigpod sesbania",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -729,7 +729,7 @@
       "genus": "Strophostyles",
       "scientific_name": "Strophostyles helvola",
       "common_name": "Trailing wild bean",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -738,7 +738,7 @@
       "genus": "Styphnolobium",
       "scientific_name": "Styphnolobium affine",
       "common_name": "Eve's necklace",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -747,7 +747,7 @@
       "genus": "Tephrosia",
       "scientific_name": "Tephrosia lindheimeri",
       "common_name": "Lindheimer's hoary-pea",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -756,7 +756,7 @@
       "genus": "Tephrosia",
       "scientific_name": "Tephrosia potosina",
       "common_name": "Tephrosia potosina",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -765,7 +765,7 @@
       "genus": "Trifolium",
       "scientific_name": "Trifolium repens",
       "common_name": "White clover (introduced)",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -774,7 +774,7 @@
       "genus": "Vachellia",
       "scientific_name": "Vachellia constricta",
       "common_name": "Whitethorn acacia",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -783,7 +783,7 @@
       "genus": "Vachellia",
       "scientific_name": "Vachellia farnesiana",
       "common_name": "Huisache / sweet acacia",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -792,7 +792,7 @@
       "genus": "Vicia",
       "scientific_name": "Vicia ludoviciana",
       "common_name": "Louisiana vetch",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -801,8 +801,8 @@
       "genus": "Vicia",
       "scientific_name": "Vicia ludoviciana var. leavenworthii",
       "common_name": "Leavenworth's vetch",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vicia-ludoviciana-var-ludoviciana",
@@ -810,8 +810,8 @@
       "genus": "Vicia",
       "scientific_name": "Vicia ludoviciana var. ludoviciana",
       "common_name": "Louisiana vetch (nominate variety)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "zornia-bracteata",

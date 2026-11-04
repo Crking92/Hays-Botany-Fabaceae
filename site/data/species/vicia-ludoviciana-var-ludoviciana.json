@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/vicia-ludoviciana-var-ludoviciana/inat-3288865.jpg",
+      "creator": "(c) Jana Hill, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/3288865",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b1050c60947840b2742a1161825a66aa57741516",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
+      "source_review_evidence": "Live iNaturalist observation 2879622, photo 3288865, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a20aadf7b4bf8be32d2d10aebbc93fc70c1d6ef2e67e7e4719ddfd710fe99d3. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana ludoviciana agrees with original manifest name Vicia ludoviciana var. ludoviciana mapped to indexed species vicia-ludoviciana-var-ludoviciana; specialist diagnosis and BONAP county nativity remain separate.",
+      "sha256": "0a20aadf7b4bf8be32d2d10aebbc93fc70c1d6ef2e67e7e4719ddfd710fe99d3"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "bb2d2d41f413317534db04d080be78a5ca7d0d87f5ec1ac8b29d7971cf7d2dde",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

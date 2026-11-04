@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 86,
-  "photo_count": 363,
+  "photo_species": 90,
+  "photo_count": 525,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -230,140 +230,140 @@
       "first_src": "media/mimosa-latidens/historical-nc-joey-inat-367077595.jpg"
     },
     "mimosa-roemeriana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/mimosa-roemeriana/gbif-manual-4852922106-3b70815b2.jpg"
     },
     "mimosa-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/mimosa-texana/historical-nc-joey-inat-364815662.jpg"
     },
     "neltuma-glandulosa": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/neltuma-glandulosa/01-leaves-thorns.jpg"
     },
     "neptunia-lutea": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/neptunia-lutea/archive-pd-commons-neptunia-lutea.jpg"
     },
     "neptunia-pubescens": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/neptunia-pubescens/historical-nc-inat-138736196.jpg"
     },
     "parkinsonia-aculeata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/parkinsonia-aculeata/commons-parkinsonia-aculeata.jpg"
     },
     "pediomelum-cuspidatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pediomelum-cuspidatum/historical-nc-inat-119185226.jpg"
     },
     "pediomelum-cyphocalyx": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/pediomelum-cyphocalyx/historical-nc-inat-197783463.jpg"
     },
     "pediomelum-latestipulatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pediomelum-latestipulatum/historical-nc-inat-361743137.jpg"
     },
     "pediomelum-linearifolium": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pediomelum-linearifolium/inat-141329355.jpg"
     },
     "pediomelum-rhombifolium": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pediomelum-rhombifolium/historical-nc-inat-189685000.jpg"
     },
     "pediomelum-tenuiflorum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pediomelum-tenuiflorum/inat-123056915.jpg"
     },
     "rhynchosia-americana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/rhynchosia-americana/historical-nc-inat-125518489.jpg"
     },
     "rhynchosia-minima": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/rhynchosia-minima/inat-486926666.jpeg"
     },
     "rhynchosia-senna": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/rhynchosia-senna/gbif-manual-6185179860-060fb5382.jpg"
     },
     "robinia-pseudoacacia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/robinia-pseudoacacia/robinia-pseudoacacia-pmalkowski.jpg"
     },
     "senegalia-greggii": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/senegalia-greggii/01-field-photo.jpg"
     },
     "senegalia-roemeriana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/senegalia-roemeriana/01-roundflower-heads.jpg"
     },
     "senegalia-wrightii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/senegalia-wrightii/01-flower-spike.jpg"
     },
     "senna-lindheimeriana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/senna-lindheimeriana/inat-621941531.jpg"
     },
     "senna-pilosior": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/senna-pilosior/gbif-first-6431822939-9ca58a139a.jpg"
     },
     "senna-roemeriana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/senna-roemeriana/public-inat-senna-roemeriana-752965027.jpg"
     },
     "sesbania-drummondii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sesbania-drummondii/gbif-manual-5938619114-403e5ef30.jpg"
     },
     "sesbania-herbacea": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sesbania-herbacea/commons-sesbania-herbacea.jpg"
     },
     "strophostyles-helvola": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/strophostyles-helvola/commons-strophostyles-helvola.jpg"
     },
     "styphnolobium-affine": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/styphnolobium-affine/commons-styphnolobium-affine.jpg"
     },
     "tephrosia-lindheimeri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/tephrosia-lindheimeri/historical-nc-inat-378385091.jpg"
     },
     "tephrosia-potosina": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/tephrosia-potosina/historical-nc-inat-490378733.jpg"
     },
     "trifolium-repens": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/trifolium-repens/commons-trifolium-repens.jpg"
     },
     "vachellia-constricta": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/vachellia-constricta/01-field-photo.jpg"
     },
     "vachellia-farnesiana": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/vachellia-farnesiana/01-flower-leaves.jpg"
     },
     "vicia-ludoviciana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/vicia-ludoviciana/commons-vicia-ludoviciana.jpg"
     },
     "vicia-ludoviciana-var-leavenworthii": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/vicia-ludoviciana-var-leavenworthii/inat-186068075.jpeg"
     },
     "vicia-ludoviciana-var-ludoviciana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/vicia-ludoviciana-var-ludoviciana/inat-3288865.jpg"
     },
     "zornia-bracteata": {
       "count": 6,
