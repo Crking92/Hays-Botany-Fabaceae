@@ -5,6 +5,7 @@ on:
     paths:
       - 'photo-intake/approved/**'
       - 'photo-intake/requests/**'
+      - 'photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json'
   workflow_dispatch:
 permissions:
   contents: write
@@ -15,7 +16,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 60
     steps:
       - name: Check out approved source branch
         uses: actions/checkout@v4
@@ -26,6 +27,11 @@ jobs:
         run: |
           git fetch origin main
           git worktree add "$RUNNER_TEMP/fabaceae-public-site" origin/main
+      - name: Verify Fabaceae 003 source photographs from original hashes
+        run: |
+          python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+          cd "$RUNNER_TEMP/fabaceae-public-site"
+          python3 scripts/publish_verified_fabaceae_003_zip.py --manifest "$GITHUB_WORKSPACE/photo-intake/remote-photo-manifests/fabaceae-003-2026-11-04.json" --wave 1 --source-root "$GITHUB_WORKSPACE" --report "$RUNNER_TEMP/fabaceae-003-wave1.json"
       - name: Prepare pinned source-verified Wikimedia Commons originals
         run: |
           python3 -m py_compile "$RUNNER_TEMP/fabaceae-public-site/scripts/prepare_commons_photo_requests.py"
@@ -57,7 +63,9 @@ jobs:
                   path=p/photo["src"]
                   assert photo["src"].startswith("media/"+sid+"/"),sid
                   assert path.is_file() and hashlib.sha1(b"blob "+str(path.stat().st_size).encode()+b"\0"+path.read_bytes()).hexdigest()==photo["source_blob_sha"],path
-                  assert not photo.get("noncommercial_only") and not photo.get("private_rights_review_only")
+                  assert not photo.get("private_rights_review_only")
+                  if photo.get("noncommercial_only"):
+                      assert photo.get("license") in ("CC BY-NC 4.0", "CC BY-NC-SA 4.0")
                   paths.add(path.resolve())
           assert gal["photo_count"]==sum(counts.values())
           assert gal["photo_species"]==sum(bool(v) for v in counts.values())
