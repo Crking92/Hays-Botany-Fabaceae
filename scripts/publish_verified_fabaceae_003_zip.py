@@ -53,6 +53,16 @@ def main():
     source=json.loads(Path("site/data/collection-index.json").read_text())
     site_meta=json.loads(Path("site/data/collection-meta.json").read_text())
     cards={x["id"]:x for x in source["entries"]}
+    # ZIP labels are scientific binomials; public gallery keys are lowercase slugs.
+    normalize=lambda name: re.sub(r"[^a-z0-9]+"," ",str(name).lower()).strip()
+    source_names={normalize(x["scientific_name"]):x["id"] for x in source["entries"]}
+    original_species=list(m["species"])
+    if len(source_names)!=len(source["entries"]):
+        raise SystemExit("Ambiguous scientific name mapping in family site")
+    unmatched=[name for name in original_species if normalize(name) not in source_names]
+    if unmatched:
+        raise SystemExit("Unknown scientific species in ZIP: "+", ".join(unmatched))
+    m["species"]=[source_names[normalize(name)] for name in original_species]
     if m["batch_id"]!="fabaceae-003-2026-11-04":raise SystemExit("Unexpected batch")
     if m.get("original_images")!=169 or m.get("image_hashes_validated")!=168 or m.get("photos_for_source_checks")!=162 or len(m.get("offline_held_media",[]))!=6 or len(m.get("missing_media_records",[]))!=2 or len(m.get("unattributed_media",[]))!=1:
         raise SystemExit("Fabaceae 003 original inventory mismatch")
