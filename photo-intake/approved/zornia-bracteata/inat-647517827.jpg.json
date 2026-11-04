@@ -1,0 +1,22 @@
+{
+  "species_id": "zornia-bracteata",
+  "photo_file": "inat-647517827.jpg",
+  "status": "APPROVED_FOR_PUBLIC_FAMILY_SITE",
+  "rights_approved_for_public": true,
+  "taxon_reviewed": true,
+  "approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+  "policy_ref": "PHOTO_FIRST_PUBLIC_GALLERY_POLICY_2026-11-02",
+  "review_operator": "Fabaceae_004 source/photo license and hash validation workflow",
+  "source_review_evidence": "Live iNaturalist observation 354980648, exact photo 647517827, photographer '(c) Chet Burrier, some rights reserved (CC BY)', photo-specific license cc-by; original source bytes match supplied ZIP SHA256 1249c7559567179678ad90a02005f4e5092e0ae62bce5402e8ae592b647b467c.",
+  "taxon_review_evidence": "Uploaded Fabaceae_004 Zornia contact sheet was visually reviewed for a plausible yellow fabaceous flower and foliage; live iNaturalist observation 354980648 reports Zornia bracteata. Specialist identification remains deferred.",
+  "approval_note": "Owner standing photo-first release: exact source rights, photographer, source media bytes and plausible species assignment checked.",
+  "creator": "(c) Chet Burrier, some rights reserved (CC BY)",
+  "source_page": "https://www.inaturalist.org/photos/647517827",
+  "source_page_is_exact": true,
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "noncommercial_site_use_confirmed": true,
+  "role": "General Zornia field photograph; precise diagnostic structures not certified",
+  "modifications": "Original source photograph unchanged",
+  "sha256": "1249c7559567179678ad90a02005f4e5092e0ae62bce5402e8ae592b647b467c"
+}
