@@ -125,6 +125,25 @@
       "source_review_evidence": "Live iNaturalist observation 343234312, photo 625190169, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f5967218341b8d2bdf9335ecf25a48c1bfa339c1e2b4b82c1539f32dc9a517d2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus virgatus agrees with the indexed species desmanthus-virgatus; specialist diagnosis and BONAP county nativity remain separate.",
       "sha256": "f5967218341b8d2bdf9335ecf25a48c1bfa339c1e2b4b82c1539f32dc9a517d2"
+    },
+    {
+      "src": "media/desmanthus-virgatus/inat-628138014.jpg",
+      "creator": "(c) Salem De La Luna, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/628138014",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "449fcd993a0e483f0f23fb8e4a882464e23fca46",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
+      "source_review_evidence": "Live iNaturalist observation 344722505, photo 628138014, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 65471a62c49fa1fc1e25672fc9e6777ce5e1c79e5bddbba76924d40fc7cc29db. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus virgatus agrees with the indexed species desmanthus-virgatus; specialist diagnosis and BONAP county nativity remain separate.",
+      "sha256": "65471a62c49fa1fc1e25672fc9e6777ce5e1c79e5bddbba76924d40fc7cc29db"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

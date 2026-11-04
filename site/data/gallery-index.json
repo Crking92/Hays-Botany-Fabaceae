@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 91,
-  "photo_species": 83,
-  "photo_count": 220,
+  "photo_species": 84,
+  "photo_count": 258,
   "entries": {
     "acaciella-angustissima-var-texensis": {
       "count": 0,
@@ -134,43 +134,43 @@
       "first_src": "media/desmanthus-velutinus/archive-pd-velutinus-usda-recon.jpg"
     },
     "desmanthus-virgatus": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/desmanthus-virgatus/virgatus-guadeloupe-face.jpg"
     },
     "desmodium-paniculatum": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/desmodium-paniculatum/inat-312240929.jpg"
     },
     "desmodium-psilophyllum": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/desmodium-psilophyllum/library-review041-ce8aa6357c8acc4.jpg"
     },
     "desmodium-sessilifolium": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/desmodium-sessilifolium/library-review041-0a6382aefa921e2.jpg"
     },
     "erythrina-herbacea": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/erythrina-herbacea/library-review047-d14b7d09dfe972b.jpg"
     },
     "eysenhardtia-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/eysenhardtia-texana/inat-624747526.jpg"
     },
     "galactia-canescens": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/galactia-canescens/inat-636282769.jpg"
     },
     "galactia-texana": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/galactia-texana/historical-nc-inat-158540891.jpg"
     },
     "gleditsia-triacanthos": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/gleditsia-triacanthos/library-review049-438eb39d0a83bdc.jpg"
     },
     "hylodesmum-nudiflorum": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/hylodesmum-nudiflorum/inat-196269807.jpg"
     },
     "indigofera-miniata": {
