@@ -1,4 +1,5 @@
 name: Verify deployed Fabaceae source photos, species cards and original bytes
+# Recheck after Fabaceae 001 synonym-resolved photos; prove newest public gallery and exact bytes.
 on:
   push:
     branches: [main]
