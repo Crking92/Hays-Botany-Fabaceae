@@ -4,8 +4,25 @@
   "genus": "Lupinus",
   "scientific_name": "Lupinus texensis",
   "common_name": "Texas bluebonnet",
-  "look_here_first": "Palmately compound leaves with five or more narrow leaflets; blue pea-like flowers on an upright raceme with a pale or white banner spot. Inspect flower structure and seedpods.",
-  "key_traits": [],
+  "look_here_first": "NOVEMBER–FEBRUARY: Search for a small overwintering bluebonnet seedling or low rosette, often before any blue flowers are visible. The first tiny seed leaves (cotyledons) are NOT the eventual five-or-more-fingered true leaves. Once developed, look for a PALMATELY COMPOUND leaf: five or more narrow leaflets radiate from ONE shared petiole. A sterile seedling or rosette alone may not securely separate Texas bluebonnet from other lupines, so record Lupinus sp. if unsure. SPRING CONFIRMATION: upright racemes of blue pea-like flowers with a pale/white banner spot, then seedpods. Do not require flowers for winter genus recognition.",
+  "key_traits": [
+    {
+      "label": "Winter growth (November–February)",
+      "text": "Seeds germinate after fall moisture; young plants persist through winter before spring bloom. Early seed leaves (cotyledons) can precede distinctive palmate true leaves. Photograph an intact rooted seedling and juvenile leaf separately when available."
+    },
+    {
+      "label": "Preflowering leaf structure",
+      "text": "A true foliage leaf is palmately compound: five or more narrow leaflets join at one petiole, like fingers from a hand. Check that the leaflets share one attachment point rather than being several simple leaves."
+    },
+    {
+      "label": "Species-level caution",
+      "text": "Recognize low winter Lupinus plants without forcing species confidence from vegetative leaves alone. When flower or fruit characters are absent and close lupines cannot be excluded, label Lupinus sp. or provisional identification."
+    },
+    {
+      "label": "Spring confirmation",
+      "text": "On flowering plants, inspect upright blue pea-flower racemes with contrasting pale banner spot; later check the developing pod and overall habit."
+    }
+  ],
   "lookalikes": {
     "names": [],
     "differences": ""
@@ -134,5 +151,5 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "fe4cb89d78a5ec6ffecd1353660abb831ce072e218b07b04095abb22dbcd85a0",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch; winter emergence/seedling phenology: Chicago Botanic Garden Lupinus texensis species profile (https://www.chicagobotanic.org/plant-information/plant-finder/lupinus-texensis-texas-bluebonnet), checked 2026-11-04."
 }
