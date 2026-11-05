@@ -8,6 +8,8 @@ on:
       - 'site/styles.css'
       - 'site/data/family-lesson.json'
       - 'scripts/publish_approved_family_photos.py'
+      - 'scripts/web_display_policy.py'
+      - 'site/data/web-display-optimization.json'
       - 'scripts/test_approved_photo_intake.py'
       - 'scripts/test_fabaceae_family_browser.cjs'
       - '.github/workflows/test-family-lesson-photo-intake.yml'
