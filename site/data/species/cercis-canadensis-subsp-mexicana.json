@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "305e99f9539135a2ef9eaa73408e456d4098c5cc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 12658971, photo 18317052, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4bba43183f3e7e72dab536e11694b0513ec9f0f4d433812df4b4320081129650. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cercis canadensis mexicana agrees with indexed species cercis-canadensis-subsp-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "4bba43183f3e7e72dab536e11694b0513ec9f0f4d433812df4b4320081129650"
+      "sha256": "4bba43183f3e7e72dab536e11694b0513ec9f0f4d433812df4b4320081129650",
+      "display_sha256": "7720a800a92b1b61fb30d73c67b1841511c78a9f78819ba2eeff07d24cb10d05",
+      "display_blob_sha": "0eeeaedf58ea1eb065f4288082f14673eb41218b",
+      "display_original_site_sha256": "4bba43183f3e7e72dab536e11694b0513ec9f0f4d433812df4b4320081129650",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cercis-canadensis-subsp-mexicana/inat-118713964.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c83c7f011991a37b85804fed2a22d40ca9c582d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 211239314, photo 373500418, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ddf7c3bca852af9c2556cc2397acfbbdc15a5e13ece2e143dafbfe4d32d69b8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cercis canadensis mexicana agrees with indexed species cercis-canadensis-subsp-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1ddf7c3bca852af9c2556cc2397acfbbdc15a5e13ece2e143dafbfe4d32d69b8"
+      "sha256": "1ddf7c3bca852af9c2556cc2397acfbbdc15a5e13ece2e143dafbfe4d32d69b8",
+      "display_sha256": "e43bdc482f23ce541e6b7693d58fec2d1f58a3d21ad300a946957fc74d265b88",
+      "display_blob_sha": "5d91f1ba23fb7c96d6c481893e0c53d4568451fa",
+      "display_original_site_sha256": "1ddf7c3bca852af9c2556cc2397acfbbdc15a5e13ece2e143dafbfe4d32d69b8",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cercis-canadensis-subsp-mexicana/inat-55548252.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "456a4be1d6aee5392b4535f8b0e23465deb83dcc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348806254, photo 636205057, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b439e51725956c9960a0df34e56c14bd33adf3fb716a8c0a61731c44916c1569. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cercis canadensis mexicana agrees with indexed species cercis-canadensis-subsp-mexicana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b439e51725956c9960a0df34e56c14bd33adf3fb716a8c0a61731c44916c1569"
+      "sha256": "b439e51725956c9960a0df34e56c14bd33adf3fb716a8c0a61731c44916c1569",
+      "display_sha256": "cbd742bb10409fc2b83b660f7789f6f2551ce83c9d442d73b7393bb4ad27f18c",
+      "display_blob_sha": "0dfe84189d14664898054d08f94b8c634cabee53",
+      "display_original_site_sha256": "b439e51725956c9960a0df34e56c14bd33adf3fb716a8c0a61731c44916c1569",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

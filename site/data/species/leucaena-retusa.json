@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "795c62ae05f6e0d5f6045d1ad4fb4ee0c5247e61",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343055456, photo 624813254, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bc5aeade30401d1a20dee63063e3926db0e4c7707d62561126b5ef0de4d62f04. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Leucaena retusa agrees with the indexed species leucaena-retusa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "bc5aeade30401d1a20dee63063e3926db0e4c7707d62561126b5ef0de4d62f04"
+      "sha256": "bc5aeade30401d1a20dee63063e3926db0e4c7707d62561126b5ef0de4d62f04",
+      "display_sha256": "3bcb0600b1876364afab07d9081a4160370478f846ae5faf6230b15908a35efb",
+      "display_blob_sha": "fd715815ddc67056740402f0ebd8295d103f9bbf",
+      "display_original_site_sha256": "bc5aeade30401d1a20dee63063e3926db0e4c7707d62561126b5ef0de4d62f04",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucaena-retusa/inat-629034737.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0196a337ae8bba47af7059cec326e7514d8e42a9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345186795, photo 629034737, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b207dfeb568ffcf86f6cde0837a0f7c6db50ad3f98e711b7f23f669baf602d54. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Leucaena retusa agrees with the indexed species leucaena-retusa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b207dfeb568ffcf86f6cde0837a0f7c6db50ad3f98e711b7f23f669baf602d54"
+      "sha256": "b207dfeb568ffcf86f6cde0837a0f7c6db50ad3f98e711b7f23f669baf602d54",
+      "display_sha256": "4fdf22b1aa82fc791f2e99d0c9ae332a8859310fbfb2aa4539dfccd7b978c058",
+      "display_blob_sha": "c15bf6de2e0a0b05c863cdc604e427e07077b741",
+      "display_original_site_sha256": "b207dfeb568ffcf86f6cde0837a0f7c6db50ad3f98e711b7f23f669baf602d54",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucaena-retusa/inat-631398904.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6cea5d6a7b9e598b2a046d7ac03c543041495f29",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346384364, photo 631398904, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 47d72d5fbe1e2d43b8ff62bd667c45e054eefe8afc6092383e4a1fa0629c409e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Leucaena retusa agrees with the indexed species leucaena-retusa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "47d72d5fbe1e2d43b8ff62bd667c45e054eefe8afc6092383e4a1fa0629c409e"
+      "sha256": "47d72d5fbe1e2d43b8ff62bd667c45e054eefe8afc6092383e4a1fa0629c409e",
+      "display_sha256": "4312bf42067c78d3a600f65ab6bff5db4cdabe777b45ff4c9c489a6cc96ce3fc",
+      "display_blob_sha": "5a46b8694356d359cf4e8a8eb5e196c4bd23f106",
+      "display_original_site_sha256": "47d72d5fbe1e2d43b8ff62bd667c45e054eefe8afc6092383e4a1fa0629c409e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucaena-retusa/inat-631470717.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "466628eb8a423d35a196fb0891ecd13a41136f52",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346421562, photo 631470717, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4e29e53fa0c3c9df3c42aae47a484bf1686db20b46c460dd021af7692667b1a9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Leucaena retusa agrees with the indexed species leucaena-retusa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4e29e53fa0c3c9df3c42aae47a484bf1686db20b46c460dd021af7692667b1a9"
+      "sha256": "4e29e53fa0c3c9df3c42aae47a484bf1686db20b46c460dd021af7692667b1a9",
+      "display_sha256": "dd225e65d6a809c27651b6cef6a758438838c81c48052215601f1369399a19a2",
+      "display_blob_sha": "7e78ab975a0253f2b963f3c7291a1650f1b4a91d",
+      "display_original_site_sha256": "4e29e53fa0c3c9df3c42aae47a484bf1686db20b46c460dd021af7692667b1a9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucaena-retusa/inat-631575748.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ec61b2645970fb42a674450c81f44ee1bd1e5906",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346475299, photo 631575748, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 187601ab077e9eef22b25a2151956566cab99e0853f6c78d2169a489d3abc707. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Leucaena retusa agrees with the indexed species leucaena-retusa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "187601ab077e9eef22b25a2151956566cab99e0853f6c78d2169a489d3abc707"
+      "sha256": "187601ab077e9eef22b25a2151956566cab99e0853f6c78d2169a489d3abc707",
+      "display_sha256": "dd063fcdd7cb49042f82c1463a13d4920a9a2a752ff570d538509915c7e648fa",
+      "display_blob_sha": "20c7eb2d3d79bbcbf55bd26288d2125018552eaa",
+      "display_original_site_sha256": "187601ab077e9eef22b25a2151956566cab99e0853f6c78d2169a489d3abc707",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

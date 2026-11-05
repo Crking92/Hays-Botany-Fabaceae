@@ -92,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "33caa1d8455698d26a6fe172801ce7b03b7e8693",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 322769838, photo 583956540, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a78d73db18c1532ffe25fa5340e1eb22f7cef928a12ed664baf71a964938404b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea greggii agrees with indexed species dalea-greggii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a78d73db18c1532ffe25fa5340e1eb22f7cef928a12ed664baf71a964938404b"
+      "sha256": "a78d73db18c1532ffe25fa5340e1eb22f7cef928a12ed664baf71a964938404b",
+      "display_sha256": "b7b86ff2244fd3ea957837b7f9a0eaf62eaf41c1adf610532d097cb236a18a5f",
+      "display_blob_sha": "0e5086f4e670f48d32c8d872ffc1e47b7bec0053",
+      "display_original_site_sha256": "a78d73db18c1532ffe25fa5340e1eb22f7cef928a12ed664baf71a964938404b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-greggii/inat-597746889.jpg",
@@ -111,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "452f66f326118943511c0c072b8d4bc811c8a88f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 329727035, photo 597746889, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a2966a98fb58401e20c227fe87c2087b1b023c6b0e387b83de93b691c17d631a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea greggii agrees with indexed species dalea-greggii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a2966a98fb58401e20c227fe87c2087b1b023c6b0e387b83de93b691c17d631a"
+      "sha256": "a2966a98fb58401e20c227fe87c2087b1b023c6b0e387b83de93b691c17d631a",
+      "display_sha256": "07d37e005be3ef3fb400a49425eb76d8038d47f247a5022f96eec7159ec27be2",
+      "display_blob_sha": "f49337d8bf4b98f239d96cb549576355e4670873",
+      "display_original_site_sha256": "a2966a98fb58401e20c227fe87c2087b1b023c6b0e387b83de93b691c17d631a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-greggii/inat-606248866.jpg",
@@ -130,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b5f36b4fc499b6aa7ef881af2356011730a22bae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 333902289, photo 606248866, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77d6d4e0d1b3df5f394802a7d2d6bea76101b6743b908719b647afc2b7769ac6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea greggii agrees with indexed species dalea-greggii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "77d6d4e0d1b3df5f394802a7d2d6bea76101b6743b908719b647afc2b7769ac6"
+      "sha256": "77d6d4e0d1b3df5f394802a7d2d6bea76101b6743b908719b647afc2b7769ac6",
+      "display_sha256": "8700abda361948593b19f4be280146a530d1493247664916a9563f6b73c0957b",
+      "display_blob_sha": "325712af75a491b961a77ec95eb09890c3156d1a",
+      "display_original_site_sha256": "77d6d4e0d1b3df5f394802a7d2d6bea76101b6743b908719b647afc2b7769ac6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-greggii/inat-649060959.jpg",
@@ -149,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ade537d7129864e07f90ecc937e5ff935b561731",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355918593, photo 649060959, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 208674116b176307e4fd098e7ea30c5800598c5160fd3a082bc317b48016f80c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea greggii agrees with indexed species dalea-greggii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "208674116b176307e4fd098e7ea30c5800598c5160fd3a082bc317b48016f80c"
+      "sha256": "208674116b176307e4fd098e7ea30c5800598c5160fd3a082bc317b48016f80c",
+      "display_sha256": "76d997342947236cc148fc4495f88c8386271fdcb9ecec7200b5bdf716bec933",
+      "display_blob_sha": "93bdb20a134c2bc786bca0acf401e245fad3cd4c",
+      "display_original_site_sha256": "208674116b176307e4fd098e7ea30c5800598c5160fd3a082bc317b48016f80c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-greggii/inat-649656644.jpg",
@@ -168,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9b32402c0e4ab4ea596c3e9aa3dc25c739180bab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +196,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356246597, photo 649656644, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e396ff059e926feed5838d1339b34f4d4601074f23ad8a00b1d85f7e5c6f384a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea greggii agrees with indexed species dalea-greggii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e396ff059e926feed5838d1339b34f4d4601074f23ad8a00b1d85f7e5c6f384a"
+      "sha256": "e396ff059e926feed5838d1339b34f4d4601074f23ad8a00b1d85f7e5c6f384a",
+      "display_sha256": "b262e527c5d9dd4fd64d43fcd7c598ac46d512b0f06a472a6b38b127db6d77d6",
+      "display_blob_sha": "0be69673cc4d3f6326521da0f75d3897910452ed",
+      "display_original_site_sha256": "e396ff059e926feed5838d1339b34f4d4601074f23ad8a00b1d85f7e5c6f384a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

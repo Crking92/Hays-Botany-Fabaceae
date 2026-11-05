@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c22b8d5cce8caf28e00942eba7db24a8568c037",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354911952, photo 647392668, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0c56fd57003229af64c96d0d476cde592989169c585de24d57c71988eb3e96dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia minima agrees with original manifest name Rhynchosia minima mapped to indexed species rhynchosia-minima; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0c56fd57003229af64c96d0d476cde592989169c585de24d57c71988eb3e96dd"
+      "sha256": "0c56fd57003229af64c96d0d476cde592989169c585de24d57c71988eb3e96dd",
+      "display_sha256": "7a7cfcea1b2f5d6544b9bbb821f8dcb5c838450e85c69e3c88c18e0f1350cc6e",
+      "display_blob_sha": "da46723a4380c2f9497c32120df8dd229edb0f2f",
+      "display_original_site_sha256": "0c56fd57003229af64c96d0d476cde592989169c585de24d57c71988eb3e96dd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-minima/inat-663339360.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "41420b07ecd8b4bb67d3d7a0f60e48a770c54fb3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 363397368, photo 663339360, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7cf5e215e45584cd942722f61a91e043744620dad8fc256ab8de006415640491. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia minima agrees with original manifest name Rhynchosia minima mapped to indexed species rhynchosia-minima; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "7cf5e215e45584cd942722f61a91e043744620dad8fc256ab8de006415640491"
+      "sha256": "7cf5e215e45584cd942722f61a91e043744620dad8fc256ab8de006415640491",
+      "display_sha256": "6dbe2ebcc41b3fa541ccbb2a8897e0cfdc54d1a7a6c437d2942f257af32a1d7b",
+      "display_blob_sha": "a78b892609661f9719b46820df90441472dfc3d3",
+      "display_original_site_sha256": "7cf5e215e45584cd942722f61a91e043744620dad8fc256ab8de006415640491",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-minima/inat-665156084.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "235f97d62ad9d84b2f407d02a96f9f8d1b02f71f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 364362746, photo 665156084, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4d3aa43795ec3aff2eee894a10ddc5951850482ed91b5e4b1a8d20b09ca09db6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia minima agrees with original manifest name Rhynchosia minima mapped to indexed species rhynchosia-minima; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4d3aa43795ec3aff2eee894a10ddc5951850482ed91b5e4b1a8d20b09ca09db6"
+      "sha256": "4d3aa43795ec3aff2eee894a10ddc5951850482ed91b5e4b1a8d20b09ca09db6",
+      "display_sha256": "ce992f0162212c5cf85bcff32906131ed15371302ca9081de40dc8dc63f1ad0b",
+      "display_blob_sha": "53f0bb43f84adf3d77edf1da2b4a6f3873096f9c",
+      "display_original_site_sha256": "4d3aa43795ec3aff2eee894a10ddc5951850482ed91b5e4b1a8d20b09ca09db6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-minima/inat-669598356.jpg",

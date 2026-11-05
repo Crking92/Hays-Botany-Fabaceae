@@ -89,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0b9fcdc8cdf3e4b3e63a0078abf81e104084b53f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -97,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343557254, photo 625848065, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de24d66dca49daf9342d2ca0f935c585283c6678f927cb04df3c9daaa68b497c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia roemeriana agrees with original manifest name Senegalia roemeriana mapped to indexed species senegalia-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "de24d66dca49daf9342d2ca0f935c585283c6678f927cb04df3c9daaa68b497c"
+      "sha256": "de24d66dca49daf9342d2ca0f935c585283c6678f927cb04df3c9daaa68b497c",
+      "display_sha256": "9fa1703be63a3601ac3d8cd15407b511c8bd24fb83cb0b9270975bc021d9fbb2",
+      "display_blob_sha": "63b76e612fb379971baabf85c230311d6665e849",
+      "display_original_site_sha256": "de24d66dca49daf9342d2ca0f935c585283c6678f927cb04df3c9daaa68b497c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-roemeriana/inat-628435113.jpg",
@@ -108,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd8af76f0c386d13c31d4caefdf2e876dbf0770a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -116,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344879444, photo 628435113, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 933058884ba1372efb4749304f29adc889f3e539573470f1280676044457d939. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia roemeriana agrees with original manifest name Senegalia roemeriana mapped to indexed species senegalia-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "933058884ba1372efb4749304f29adc889f3e539573470f1280676044457d939"
+      "sha256": "933058884ba1372efb4749304f29adc889f3e539573470f1280676044457d939",
+      "display_sha256": "cde08cf3e0d0df35bade6638d795e0fec9a0f8945b67401a1fb328fefffa8080",
+      "display_blob_sha": "caf2e89f5742a5a41a3c2ea6e8f01bc214458e19",
+      "display_original_site_sha256": "933058884ba1372efb4749304f29adc889f3e539573470f1280676044457d939",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-roemeriana/inat-636853685.jpg",
@@ -127,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ae620c68bb3b6554a8e82d402496cb07c6cc44b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -135,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349138708, photo 636853685, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 41333d6bae3b2a36444a3a6c946c6701221df156718f3e97f9aae6e690a5d121. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia roemeriana agrees with original manifest name Senegalia roemeriana mapped to indexed species senegalia-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "41333d6bae3b2a36444a3a6c946c6701221df156718f3e97f9aae6e690a5d121"
+      "sha256": "41333d6bae3b2a36444a3a6c946c6701221df156718f3e97f9aae6e690a5d121",
+      "display_sha256": "dc7bc69774e393da12515f9c897adf3cd99ff399dda0a660476506b24e820a8a",
+      "display_blob_sha": "aeaf52ab0e68c5b7d6f9a576e5669ded202ef465",
+      "display_original_site_sha256": "41333d6bae3b2a36444a3a6c946c6701221df156718f3e97f9aae6e690a5d121",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-roemeriana/inat-647353350.jpg",
@@ -146,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "55b9ef0821c14469ed11ec19c4d38e6bdd3a0fd7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -154,7 +169,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354888818, photo 647353350, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: acadee92f0dbeb6edcac48b445f72ab9e92adacc9b4bddd26b1bf4685b38e1fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia roemeriana agrees with original manifest name Senegalia roemeriana mapped to indexed species senegalia-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "acadee92f0dbeb6edcac48b445f72ab9e92adacc9b4bddd26b1bf4685b38e1fd"
+      "sha256": "acadee92f0dbeb6edcac48b445f72ab9e92adacc9b4bddd26b1bf4685b38e1fd",
+      "display_sha256": "5f1423eab70215b863726299cdc6f5ea6052024d4032aa97ab0ec504a918fb7b",
+      "display_blob_sha": "5aa6235bc7f90db733eb55821de67c760f47b512",
+      "display_original_site_sha256": "acadee92f0dbeb6edcac48b445f72ab9e92adacc9b4bddd26b1bf4685b38e1fd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-roemeriana/inat-648227507.jpg",
@@ -165,7 +185,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "186f19d9530f870b6632aa370f84d6e38a583ac4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -173,7 +193,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355436166, photo 648227507, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 85ff2f4e0ebc632f6b8a775ff4f010db7069e1b46acdfc9175829424b53ae88c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia roemeriana agrees with original manifest name Senegalia roemeriana mapped to indexed species senegalia-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "85ff2f4e0ebc632f6b8a775ff4f010db7069e1b46acdfc9175829424b53ae88c"
+      "sha256": "85ff2f4e0ebc632f6b8a775ff4f010db7069e1b46acdfc9175829424b53ae88c",
+      "display_sha256": "739ae59a8466000dd9e7b98c1019f122fe2852cd26cc7932820ef9e871f3357d",
+      "display_blob_sha": "4b6f30e611d2d8daa43ec61de236b79cf36c2e8c",
+      "display_original_site_sha256": "85ff2f4e0ebc632f6b8a775ff4f010db7069e1b46acdfc9175829424b53ae88c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

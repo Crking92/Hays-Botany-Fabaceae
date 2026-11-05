@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "875b02af170eb7e744ba20b63252f919554a8971",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 110313635, photo 186068075, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1f93200005facb7f5d92e1b22f624fc2462a981e157f4272001daf792f5cc1d6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana leavenworthii agrees with original manifest name Vicia ludoviciana var. leavenworthii mapped to indexed species vicia-ludoviciana-var-leavenworthii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1f93200005facb7f5d92e1b22f624fc2462a981e157f4272001daf792f5cc1d6"
+      "sha256": "1f93200005facb7f5d92e1b22f624fc2462a981e157f4272001daf792f5cc1d6",
+      "display_sha256": "f7d21ff5530c0a268fbe465e4e5924ca9f745861f0e056f6c2a2ee2cc72bf4a6",
+      "display_blob_sha": "c4d5dc437657dbb2277d03748bad1fc64a545e20",
+      "display_original_site_sha256": "1f93200005facb7f5d92e1b22f624fc2462a981e157f4272001daf792f5cc1d6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vicia-ludoviciana-var-leavenworthii/inat-34433616.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "692c7ae1d2e22c900c08dceb97e20d37a85e77c6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 22236506, photo 34433616, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2143961c143cb54ab6b7fdef2f2ccb100532eb26d70a3553657d04b1b24180cd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana leavenworthii agrees with original manifest name Vicia ludoviciana var. leavenworthii mapped to indexed species vicia-ludoviciana-var-leavenworthii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2143961c143cb54ab6b7fdef2f2ccb100532eb26d70a3553657d04b1b24180cd"
+      "sha256": "2143961c143cb54ab6b7fdef2f2ccb100532eb26d70a3553657d04b1b24180cd",
+      "display_sha256": "1899c1a8989335621044cbd7816eee703d841a30570c385bb3dbe2b73051d30b",
+      "display_blob_sha": "57983ad20ce42ddee3a342265b64923a5d2bdbb7",
+      "display_original_site_sha256": "2143961c143cb54ab6b7fdef2f2ccb100532eb26d70a3553657d04b1b24180cd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -114,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c04317d6cd5c6f181a5a0a237a98372e326f4dd2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 138764149, photo 237222935, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 22bc83be4044d96fe493bda2d0f6e5df67463d98e89ca0946f17035c46966b1a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia greggii agrees with original manifest name Senegalia greggii mapped to indexed species senegalia-greggii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "22bc83be4044d96fe493bda2d0f6e5df67463d98e89ca0946f17035c46966b1a"
+      "sha256": "22bc83be4044d96fe493bda2d0f6e5df67463d98e89ca0946f17035c46966b1a",
+      "display_sha256": "15c9249c1352a21fcde36d069c8dc5acfbc48c528866cc6d89cbd5ded1d6e4f4",
+      "display_blob_sha": "84d597adad6920a478e8e3ab63290fdeced2c49b",
+      "display_original_site_sha256": "22bc83be4044d96fe493bda2d0f6e5df67463d98e89ca0946f17035c46966b1a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-greggii/inat-644122604.jpg",
@@ -133,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "59631f6e792aefa3025035906ca55929662f4a02",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 352984856, photo 644122604, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 844dae4f9545679e9d23d50ecd7589be93bdb5e4bec0d6bbbc5702aacc9a01f6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia greggii agrees with original manifest name Senegalia greggii mapped to indexed species senegalia-greggii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "844dae4f9545679e9d23d50ecd7589be93bdb5e4bec0d6bbbc5702aacc9a01f6"
+      "sha256": "844dae4f9545679e9d23d50ecd7589be93bdb5e4bec0d6bbbc5702aacc9a01f6",
+      "display_sha256": "73ea9ccfe761b18a909e247a181ab4514525e8faa1a9d2ed83a5609b33c9b065",
+      "display_blob_sha": "422324b71d5590012b98847537ef1c4bbc96493a",
+      "display_original_site_sha256": "844dae4f9545679e9d23d50ecd7589be93bdb5e4bec0d6bbbc5702aacc9a01f6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-greggii/inat-644379934.jpg",
@@ -152,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a7c4ac8cf30966ac39caa86383d60692cd30762",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +170,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353131953, photo 644379934, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d157183df8aee02f9f4c2403ad087de457e70ba61ba15709b9f187e4d4575913. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia greggii agrees with original manifest name Senegalia greggii mapped to indexed species senegalia-greggii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d157183df8aee02f9f4c2403ad087de457e70ba61ba15709b9f187e4d4575913"
+      "sha256": "d157183df8aee02f9f4c2403ad087de457e70ba61ba15709b9f187e4d4575913",
+      "display_sha256": "ae192d4c42df69d8e0a6cfda3a2227b80d76507a8d97a4988a7494f766282cb7",
+      "display_blob_sha": "55de5f3604e8f580d51394fccf65555c5d659cab",
+      "display_original_site_sha256": "d157183df8aee02f9f4c2403ad087de457e70ba61ba15709b9f187e4d4575913",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-greggii/inat-648451165.jpg",
@@ -171,7 +186,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a4b3a9a80607dd39039f352cfa8ec716d8858d18",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -179,7 +194,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355574085, photo 648451165, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c69ef66989f0cd8d7ce7bb5ae8cf2f0039f8890c4b28039206b70dadee448a28. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia greggii agrees with original manifest name Senegalia greggii mapped to indexed species senegalia-greggii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "c69ef66989f0cd8d7ce7bb5ae8cf2f0039f8890c4b28039206b70dadee448a28"
+      "sha256": "c69ef66989f0cd8d7ce7bb5ae8cf2f0039f8890c4b28039206b70dadee448a28",
+      "display_sha256": "07679d61fa6957486ebe0ddc0e33051cc6f959057f9e63490818ab01e69c6206",
+      "display_blob_sha": "b7f7f9d4314977cdae6991f8633110cc361c3207",
+      "display_original_site_sha256": "c69ef66989f0cd8d7ce7bb5ae8cf2f0039f8890c4b28039206b70dadee448a28",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-greggii/inat-648982505.jpg",
@@ -190,7 +210,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5569913b77bf301bf197014cca70f8f19538e234",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -198,7 +218,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355875426, photo 648982505, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 870e02760d5a2d8c1298ee98249e47ecf5c9196c0378e9ba742b281fe396bc05. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia greggii agrees with original manifest name Senegalia greggii mapped to indexed species senegalia-greggii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "870e02760d5a2d8c1298ee98249e47ecf5c9196c0378e9ba742b281fe396bc05"
+      "sha256": "870e02760d5a2d8c1298ee98249e47ecf5c9196c0378e9ba742b281fe396bc05",
+      "display_sha256": "bdf2a501af21d7611d87f4cffe7d4041fb7a7b659c5ecb57657ba521bd986918",
+      "display_blob_sha": "6972396ac7342766fb49949a03d00b4c5ec35eae",
+      "display_original_site_sha256": "870e02760d5a2d8c1298ee98249e47ecf5c9196c0378e9ba742b281fe396bc05",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

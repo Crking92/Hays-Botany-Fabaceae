@@ -62,7 +62,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f734885c6d2c09a4b42778d55544f955d3d36adc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -70,7 +70,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 223840201, photo 396649908, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ae62e276e318b634d588f8caa98f8896b60151f79de1120cac53da6da2ce2c7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea multiflora agrees with indexed species dalea-multiflora; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6ae62e276e318b634d588f8caa98f8896b60151f79de1120cac53da6da2ce2c7"
+      "sha256": "6ae62e276e318b634d588f8caa98f8896b60151f79de1120cac53da6da2ce2c7",
+      "display_sha256": "4939fc83b6526bd72a7260fff9dd30ea1b7b41b63a81c71fb4061222af5c5875",
+      "display_blob_sha": "8b190392379b20cfd90e10bde94a32969a404b7b",
+      "display_original_site_sha256": "6ae62e276e318b634d588f8caa98f8896b60151f79de1120cac53da6da2ce2c7",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-multiflora/inat-400085331.jpg",
@@ -81,7 +86,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6670641604b4cae44f6ba28fe27220bdd48d1eb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -89,7 +94,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 225643435, photo 400085331, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 29080e972455af2a98ca5e2502b44be4e07b00981dd0d9e8ba55ee72f08077c8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea multiflora agrees with indexed species dalea-multiflora; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "29080e972455af2a98ca5e2502b44be4e07b00981dd0d9e8ba55ee72f08077c8"
+      "sha256": "29080e972455af2a98ca5e2502b44be4e07b00981dd0d9e8ba55ee72f08077c8",
+      "display_sha256": "cfb21c8a915f7762c6ae55fbdc38ae1f2d2ef2a83af1c6b5b4011049821ef859",
+      "display_blob_sha": "95fabeb2d66391a16714c5457153a80142135650",
+      "display_original_site_sha256": "29080e972455af2a98ca5e2502b44be4e07b00981dd0d9e8ba55ee72f08077c8",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-multiflora/inat-400085618.jpg",
@@ -100,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8902f50ac9308bb4e6b20133701f47637109085d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -108,7 +118,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 225643559, photo 400085618, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 09f6fef9c30522beaf8b01e90629ef30270fdca3925d207666bacc8e745751f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea multiflora agrees with indexed species dalea-multiflora; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "09f6fef9c30522beaf8b01e90629ef30270fdca3925d207666bacc8e745751f5"
+      "sha256": "09f6fef9c30522beaf8b01e90629ef30270fdca3925d207666bacc8e745751f5",
+      "display_sha256": "1537d0465e2f6eb5691ae86799a34855947f6679a833909350b242dbda69242c",
+      "display_blob_sha": "9c496ddf6fcb8e76e598ce3c7411ac292e28036b",
+      "display_original_site_sha256": "09f6fef9c30522beaf8b01e90629ef30270fdca3925d207666bacc8e745751f5",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-multiflora/inat-671232632.jpg",
@@ -119,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2a01c3b926586361191a434afe3561bcc559f70c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +142,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367551511, photo 671232632, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9a5b830b1abad869f7f971eb4ac25cdffc309d9d5a00129c15971f5dfb32a686. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea multiflora agrees with indexed species dalea-multiflora; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9a5b830b1abad869f7f971eb4ac25cdffc309d9d5a00129c15971f5dfb32a686"
+      "sha256": "9a5b830b1abad869f7f971eb4ac25cdffc309d9d5a00129c15971f5dfb32a686",
+      "display_sha256": "8a898d058852c68bea84c9b8f86e3e0431989b492178c0f549e47f28f6f8bcd7",
+      "display_blob_sha": "02a0cfd926f5e6d028668d256e2fe1e2161bb431",
+      "display_original_site_sha256": "9a5b830b1abad869f7f971eb4ac25cdffc309d9d5a00129c15971f5dfb32a686",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-multiflora/inat-688220823.jpg",
@@ -138,7 +158,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "48e553ce865ffe66c4b233efc2e8c4260f5ecc59",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -146,7 +166,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 376411585, photo 688220823, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aaabc52ed3840746d46415853398ab4bc043d4bbe13069b2e793c15a9fa6cc80. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea multiflora agrees with indexed species dalea-multiflora; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "aaabc52ed3840746d46415853398ab4bc043d4bbe13069b2e793c15a9fa6cc80"
+      "sha256": "aaabc52ed3840746d46415853398ab4bc043d4bbe13069b2e793c15a9fa6cc80",
+      "display_sha256": "dc4275855f3a487268fafe90ed3b3727e386d7117739f42646e7026169df24de",
+      "display_blob_sha": "fb83609a287d29812c44ae9b8f5d80f1214c6df9",
+      "display_original_site_sha256": "aaabc52ed3840746d46415853398ab4bc043d4bbe13069b2e793c15a9fa6cc80",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

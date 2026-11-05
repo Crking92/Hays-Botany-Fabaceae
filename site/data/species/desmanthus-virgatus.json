@@ -78,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "73121fbb8a80448a61de6ad039d0c5842757a67b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 8561938, photo 11444138, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4f9f02fb599288e6be4bfe403580b7cc412d94b2c69fee128173c6149e9a1dcf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus virgatus agrees with the indexed species desmanthus-virgatus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4f9f02fb599288e6be4bfe403580b7cc412d94b2c69fee128173c6149e9a1dcf"
+      "sha256": "4f9f02fb599288e6be4bfe403580b7cc412d94b2c69fee128173c6149e9a1dcf",
+      "display_sha256": "03064b195eeb234f1e190e8a85bf0555396e5fe011f932734efd16b3fd886431",
+      "display_blob_sha": "96f5d45805e1b4085332b4b95510402bafec6a50",
+      "display_original_site_sha256": "4f9f02fb599288e6be4bfe403580b7cc412d94b2c69fee128173c6149e9a1dcf",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-virgatus/inat-39132231.jpg",
@@ -97,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "11fb1b068a052a93fdf57923b135d68d63886411",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 25276267, photo 39132231, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f99996253a46e91611216d5356614d84808c8fb712c6939af8e9dc9ae6508e6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus virgatus agrees with the indexed species desmanthus-virgatus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "9f99996253a46e91611216d5356614d84808c8fb712c6939af8e9dc9ae6508e6"
+      "sha256": "9f99996253a46e91611216d5356614d84808c8fb712c6939af8e9dc9ae6508e6",
+      "display_sha256": "6f01b3df58840fda04c48696a106036ecd6254b331ac926b3d12413d0806b544",
+      "display_blob_sha": "374ba5be25ccbcea1e4761c809bcc95b2fa8c404",
+      "display_original_site_sha256": "9f99996253a46e91611216d5356614d84808c8fb712c6939af8e9dc9ae6508e6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-virgatus/inat-625190169.jpg",
@@ -116,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d028e86dd0877292f64817bce7c742873f2d4c30",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343234312, photo 625190169, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f5967218341b8d2bdf9335ecf25a48c1bfa339c1e2b4b82c1539f32dc9a517d2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus virgatus agrees with the indexed species desmanthus-virgatus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "f5967218341b8d2bdf9335ecf25a48c1bfa339c1e2b4b82c1539f32dc9a517d2"
+      "sha256": "f5967218341b8d2bdf9335ecf25a48c1bfa339c1e2b4b82c1539f32dc9a517d2",
+      "display_sha256": "afcbcac9ff8686284caca12fab83273e0ce1abc98e306a811f7ac618319c2719",
+      "display_blob_sha": "5324a3c64fc1449c4f7375f76ae870783913907a",
+      "display_original_site_sha256": "f5967218341b8d2bdf9335ecf25a48c1bfa339c1e2b4b82c1539f32dc9a517d2",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-virgatus/inat-628138014.jpg",
@@ -135,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "449fcd993a0e483f0f23fb8e4a882464e23fca46",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344722505, photo 628138014, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 65471a62c49fa1fc1e25672fc9e6777ce5e1c79e5bddbba76924d40fc7cc29db. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus virgatus agrees with the indexed species desmanthus-virgatus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "65471a62c49fa1fc1e25672fc9e6777ce5e1c79e5bddbba76924d40fc7cc29db"
+      "sha256": "65471a62c49fa1fc1e25672fc9e6777ce5e1c79e5bddbba76924d40fc7cc29db",
+      "display_sha256": "82f13ae4587a7a0177bf20e38e4600edb347ff71be8c5084082014d9f95f9953",
+      "display_blob_sha": "da959ad3494722bd5437bff50cce13760b3ff7d7",
+      "display_original_site_sha256": "65471a62c49fa1fc1e25672fc9e6777ce5e1c79e5bddbba76924d40fc7cc29db",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

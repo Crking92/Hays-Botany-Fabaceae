@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "747170f1d1db917eb67b91402cfeb7e2d89937aa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349145225, photo 636867532, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aaeaf7f04746321cbb765989ae773c689bebce4de71abb5dda13a638a7290650. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia pubescens agrees with original manifest name Neptunia pubescens mapped to indexed species neptunia-pubescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "aaeaf7f04746321cbb765989ae773c689bebce4de71abb5dda13a638a7290650"
+      "sha256": "aaeaf7f04746321cbb765989ae773c689bebce4de71abb5dda13a638a7290650",
+      "display_sha256": "eca39d6f5a977def50e304dd446a542809376ab558f0abd427b6e16c8cf129e4",
+      "display_blob_sha": "95c8eecf676b99e8d3fd32bac253b6edbfe99ad9",
+      "display_original_site_sha256": "aaeaf7f04746321cbb765989ae773c689bebce4de71abb5dda13a638a7290650",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-pubescens/inat-641025659.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bbb2aaf500a34754b53fc9daddb08ab5ce73f030",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 351285051, photo 641025659, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad974555255d7f419d30b023c74b936b6780ca8d21b1a710f8ad2db09c675668. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia pubescens agrees with original manifest name Neptunia pubescens mapped to indexed species neptunia-pubescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ad974555255d7f419d30b023c74b936b6780ca8d21b1a710f8ad2db09c675668"
+      "sha256": "ad974555255d7f419d30b023c74b936b6780ca8d21b1a710f8ad2db09c675668",
+      "display_sha256": "6a1cf9a731cfdc8f322eeb343b971ec20d454d72bf1209e933210dafae25aeb0",
+      "display_blob_sha": "677e8446fd91674ed2e288fba0d7bf6384e69ae9",
+      "display_original_site_sha256": "ad974555255d7f419d30b023c74b936b6780ca8d21b1a710f8ad2db09c675668",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-pubescens/inat-645138282.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "14cb7a8b368566c2a9ac428be46f99ae5b767966",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353594720, photo 645138282, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a740aad64d232709d04fced32dbe059ddd48084afc454f49d5836e70ab6f05e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia pubescens agrees with original manifest name Neptunia pubescens mapped to indexed species neptunia-pubescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0a740aad64d232709d04fced32dbe059ddd48084afc454f49d5836e70ab6f05e"
+      "sha256": "0a740aad64d232709d04fced32dbe059ddd48084afc454f49d5836e70ab6f05e",
+      "display_sha256": "069f6bd7ee1632d07085472fabf9757fa7f8923efa8c9ed6bddf9ece4b0bb033",
+      "display_blob_sha": "12a2d741c6d564f4c70acb1784e5116c21562e19",
+      "display_original_site_sha256": "0a740aad64d232709d04fced32dbe059ddd48084afc454f49d5836e70ab6f05e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-pubescens/inat-646830211.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "828c9409b3b6cc44a8eb72337ba8d0ce1463217b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354589684, photo 646830211, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 287a6e614ad450d649defb6211e0b9a39b6273707254d2c7a885221a02a02c1a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia pubescens agrees with original manifest name Neptunia pubescens mapped to indexed species neptunia-pubescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "287a6e614ad450d649defb6211e0b9a39b6273707254d2c7a885221a02a02c1a"
+      "sha256": "287a6e614ad450d649defb6211e0b9a39b6273707254d2c7a885221a02a02c1a",
+      "display_sha256": "01d334764cafb75820bf82741ce9628d3f5ced91833b1bebcd95945e09364616",
+      "display_blob_sha": "87fb7eb667dbfe362ce19d98df90dd8658ee6b71",
+      "display_original_site_sha256": "287a6e614ad450d649defb6211e0b9a39b6273707254d2c7a885221a02a02c1a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-pubescens/inat-648502037.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "92a22ff059ff7ec47d72aeb069174f00832553e5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355604030, photo 648502037, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0e3668bcd8b086c21158f00324c213fa4790127a39860d0305b2df5d901fa042. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia pubescens agrees with original manifest name Neptunia pubescens mapped to indexed species neptunia-pubescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0e3668bcd8b086c21158f00324c213fa4790127a39860d0305b2df5d901fa042"
+      "sha256": "0e3668bcd8b086c21158f00324c213fa4790127a39860d0305b2df5d901fa042",
+      "display_sha256": "955ca74c43f98cf4a28b53af9c0e3574fc9ced7de3a69e3cf5ce5850192a1577",
+      "display_blob_sha": "0383d35974c7719ca3e966d515440e387c43fb5c",
+      "display_original_site_sha256": "0e3668bcd8b086c21158f00324c213fa4790127a39860d0305b2df5d901fa042",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

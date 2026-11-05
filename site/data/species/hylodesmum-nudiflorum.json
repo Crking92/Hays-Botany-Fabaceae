@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9e41bea1c061a96a77348e3e40081f137203f915",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 276396127, photo 496370923, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9dfb229f1d1d6c2fe9df16b8cdc1c8ffa7cb0239ef50687165c507f2d161ecd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Hylodesmum nudiflorum agrees with the indexed species hylodesmum-nudiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a9dfb229f1d1d6c2fe9df16b8cdc1c8ffa7cb0239ef50687165c507f2d161ecd"
+      "sha256": "a9dfb229f1d1d6c2fe9df16b8cdc1c8ffa7cb0239ef50687165c507f2d161ecd",
+      "display_sha256": "9c56181a04a2a4afd6541171b9466f4fb264b71ad0a3a454d9b3416742786a03",
+      "display_blob_sha": "86a688f884452ccb34e4a6d5f766a5e777eeb269",
+      "display_original_site_sha256": "a9dfb229f1d1d6c2fe9df16b8cdc1c8ffa7cb0239ef50687165c507f2d161ecd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hylodesmum-nudiflorum/inat-500218016.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ecc39767c7fa3f962d48663b7dc1fe3d7fb81725",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 278582260, photo 500218016, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e9220475a9a383215ba3f38b3d4c69655ad2b300506ba810a49d677c78b7555. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Hylodesmum nudiflorum agrees with the indexed species hylodesmum-nudiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8e9220475a9a383215ba3f38b3d4c69655ad2b300506ba810a49d677c78b7555"
+      "sha256": "8e9220475a9a383215ba3f38b3d4c69655ad2b300506ba810a49d677c78b7555",
+      "display_sha256": "f96c76d1c0efaa4be16d73651a4c8763845c3ed3a5f8905baa9c0884f9bf6c41",
+      "display_blob_sha": "815bb1efa3c70e00a3735caf807d244bb5050533",
+      "display_original_site_sha256": "8e9220475a9a383215ba3f38b3d4c69655ad2b300506ba810a49d677c78b7555",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hylodesmum-nudiflorum/inat-668979621.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d719e4e00cbb0ce604b553e4c43f1f30d2193282",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 366375393, photo 668979621, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e3007f40483b32eab19ebcd91cb4376058c43dd75830d0d9f2901e5f580da085. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Hylodesmum nudiflorum agrees with the indexed species hylodesmum-nudiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e3007f40483b32eab19ebcd91cb4376058c43dd75830d0d9f2901e5f580da085"
+      "sha256": "e3007f40483b32eab19ebcd91cb4376058c43dd75830d0d9f2901e5f580da085",
+      "display_sha256": "641cd734cd27d2163b58b62cb574eafd2b1ef6e1cab0d5bd8cf184a49f91836c",
+      "display_blob_sha": "da7bc8aac0f53cab90f18d9546355df571aee4db",
+      "display_original_site_sha256": "e3007f40483b32eab19ebcd91cb4376058c43dd75830d0d9f2901e5f580da085",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hylodesmum-nudiflorum/inat-277428709.jpeg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5d7186f92885a396cf3656da8414781a8285200a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 160543936, photo 277428709, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ce78f6eb4e17b8a09707fd3d172da6352a801271492667bb811531ed260206e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Hylodesmum nudiflorum agrees with the indexed species hylodesmum-nudiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6ce78f6eb4e17b8a09707fd3d172da6352a801271492667bb811531ed260206e"
+      "sha256": "6ce78f6eb4e17b8a09707fd3d172da6352a801271492667bb811531ed260206e",
+      "display_sha256": "780a3aa6621cca2f37a72195e6d1fd770ba8c942da811d9cf0ccf1d9acf86384",
+      "display_blob_sha": "b03ec40187f8329a5852e8309867b0d02e9959ea",
+      "display_original_site_sha256": "6ce78f6eb4e17b8a09707fd3d172da6352a801271492667bb811531ed260206e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hylodesmum-nudiflorum/inat-386639357.jpeg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "841e8ad683129f2d2f96067bfbb345bf0307e86a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 218498063, photo 386639357, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a2ba1d5552bcfd861930f7095ebec31ab55ca1a3bdbff0b97fa77279e18ecb4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Hylodesmum nudiflorum agrees with the indexed species hylodesmum-nudiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3a2ba1d5552bcfd861930f7095ebec31ab55ca1a3bdbff0b97fa77279e18ecb4"
+      "sha256": "3a2ba1d5552bcfd861930f7095ebec31ab55ca1a3bdbff0b97fa77279e18ecb4",
+      "display_sha256": "91d66d00302750aca8d53ff55f960df4cd76ccb62675cff11d47db37889080ea",
+      "display_blob_sha": "49f098b1de0156075c2b0e93265c3d7de3d0ef1b",
+      "display_original_site_sha256": "3a2ba1d5552bcfd861930f7095ebec31ab55ca1a3bdbff0b97fa77279e18ecb4",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

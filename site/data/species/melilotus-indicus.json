@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0892fc797c449e70e0e53ada1e41fc54cd2188c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342506373, photo 623738284, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d401431650c4417d7dbd03a73028436fea78428659c2a6602a387fcaa4a022b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus indicus agrees with the indexed species melilotus-indicus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0d401431650c4417d7dbd03a73028436fea78428659c2a6602a387fcaa4a022b"
+      "sha256": "0d401431650c4417d7dbd03a73028436fea78428659c2a6602a387fcaa4a022b",
+      "display_sha256": "fbed1d9df88bb65fc416fe7f33cc88c71f2663476dfb659549b22c7fa55ab6ac",
+      "display_blob_sha": "02af9a8a921388e30bb3627e1b138b1cbbdc944f",
+      "display_original_site_sha256": "0d401431650c4417d7dbd03a73028436fea78428659c2a6602a387fcaa4a022b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melilotus-indicus/inat-625172138.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0471b40edf2e79f955f831f29f0f0bb360edf734",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345203617, photo 629069720, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d71f9c3570652ef25eee9ce3fa5c01ee413b2c51f11d44f0b825c5eeef2db320. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus indicus agrees with the indexed species melilotus-indicus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d71f9c3570652ef25eee9ce3fa5c01ee413b2c51f11d44f0b825c5eeef2db320"
+      "sha256": "d71f9c3570652ef25eee9ce3fa5c01ee413b2c51f11d44f0b825c5eeef2db320",
+      "display_sha256": "5d0b102e0b6523b9ab129bb264b28c39b0f51d21ee509b45ba3fecf15579be44",
+      "display_blob_sha": "9841d5fed6e1c02b028c561e6a0d18f5cd673cda",
+      "display_original_site_sha256": "d71f9c3570652ef25eee9ce3fa5c01ee413b2c51f11d44f0b825c5eeef2db320",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melilotus-indicus/inat-631820004.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b94c68e8dd47b25143a41538df5ae7e0729b60bd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346597366, photo 631820004, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 519e70745d0dc961ed7f13a2948ba0819a0380286cd54e48aaaaaea656a02fc9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus indicus agrees with the indexed species melilotus-indicus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "519e70745d0dc961ed7f13a2948ba0819a0380286cd54e48aaaaaea656a02fc9"
+      "sha256": "519e70745d0dc961ed7f13a2948ba0819a0380286cd54e48aaaaaea656a02fc9",
+      "display_sha256": "b46cdeeea08935a5e1ae85d26b63e3d873045a145ac6a7ba0824dd21cbd185e3",
+      "display_blob_sha": "9a5792efc1bcae939064a0ef4ec7c7be1b105efa",
+      "display_original_site_sha256": "519e70745d0dc961ed7f13a2948ba0819a0380286cd54e48aaaaaea656a02fc9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melilotus-indicus/inat-633753081.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ffb73c501aa5fcc78cb91d3a0ad4e7f34814ac5c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347571610, photo 633753081, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 786f59be98c69eb1d270c5fcff9899ac7db297e06450e8f5e215eba86f4ab141. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus indicus agrees with the indexed species melilotus-indicus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "786f59be98c69eb1d270c5fcff9899ac7db297e06450e8f5e215eba86f4ab141"
+      "sha256": "786f59be98c69eb1d270c5fcff9899ac7db297e06450e8f5e215eba86f4ab141",
+      "display_sha256": "44efb7e13eca70b3dbc03a67a2f31c2b0367b242f7df652ea7b0173c5cb59d98",
+      "display_blob_sha": "f07f487465a5206cb8e788ef58f848708b933c3a",
+      "display_original_site_sha256": "786f59be98c69eb1d270c5fcff9899ac7db297e06450e8f5e215eba86f4ab141",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

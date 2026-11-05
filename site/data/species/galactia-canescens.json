@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fcf07fce26f9c36fe23de0a8432cc26075073e3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348096252, photo 634794834, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d5f550122738a37cde99b6d893e534c3b8e916afd348c9e17ab18f3a29b4337e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Galactia canescens agrees with the indexed species galactia-canescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d5f550122738a37cde99b6d893e534c3b8e916afd348c9e17ab18f3a29b4337e"
+      "sha256": "d5f550122738a37cde99b6d893e534c3b8e916afd348c9e17ab18f3a29b4337e",
+      "display_sha256": "1432f3af31550888fc8c3397539fcaa133dab8e512caf9e275b16edc9d306458",
+      "display_blob_sha": "2632dfaf925043d5b8c0d894151602de8f696977",
+      "display_original_site_sha256": "d5f550122738a37cde99b6d893e534c3b8e916afd348c9e17ab18f3a29b4337e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galactia-canescens/inat-636329951.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ed69d35f6057f506910b12ce51d5b5fcfa8766cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348868143, photo 636329951, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 26dc353977c75af20ab4ab29d4393699958705a3d0a005c83740c4f4b1ccc69b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Galactia canescens agrees with the indexed species galactia-canescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "26dc353977c75af20ab4ab29d4393699958705a3d0a005c83740c4f4b1ccc69b"
+      "sha256": "26dc353977c75af20ab4ab29d4393699958705a3d0a005c83740c4f4b1ccc69b",
+      "display_sha256": "8c1f8f17745a2367b06b24d44cc65ba6691947fc6a6ceab50f26271c2e61104c",
+      "display_blob_sha": "e0018eb5edc550914317ef6af5d355960380770d",
+      "display_original_site_sha256": "26dc353977c75af20ab4ab29d4393699958705a3d0a005c83740c4f4b1ccc69b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galactia-canescens/inat-637378737.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4143936d47ab246d23645ec6c54b44b73e9c66ab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349406248, photo 637378737, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 196916947a107e9679d5f07e6e861e0f0f0817283e49d2aaaba329dc34b1c73f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Galactia canescens agrees with the indexed species galactia-canescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "196916947a107e9679d5f07e6e861e0f0f0817283e49d2aaaba329dc34b1c73f"
+      "sha256": "196916947a107e9679d5f07e6e861e0f0f0817283e49d2aaaba329dc34b1c73f",
+      "display_sha256": "ca465d5cd5c97def5cc90d5cbe061d684a1fb553f35b00838fa3799b221afad2",
+      "display_blob_sha": "0c1b8f7d533d7f5d90bb0beed168e4622c4d7901",
+      "display_original_site_sha256": "196916947a107e9679d5f07e6e861e0f0f0817283e49d2aaaba329dc34b1c73f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galactia-canescens/inat-647439039.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "cd5fb21750c3494c566bcbae7ff163ad359fffac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354938563, photo 647439039, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2dc2028b72ed636a8c8f66dcac19347ce32ed9505dd8a5cf786e0c6a9823242a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Galactia canescens agrees with the indexed species galactia-canescens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2dc2028b72ed636a8c8f66dcac19347ce32ed9505dd8a5cf786e0c6a9823242a"
+      "sha256": "2dc2028b72ed636a8c8f66dcac19347ce32ed9505dd8a5cf786e0c6a9823242a",
+      "display_sha256": "200557e0c5409df3a52826c39fdb949a61954fcfecf0e8095ee33c7b2b321358",
+      "display_blob_sha": "822e49e2f501ee56575f11100ea3e84d3bd0887e",
+      "display_original_site_sha256": "2dc2028b72ed636a8c8f66dcac19347ce32ed9505dd8a5cf786e0c6a9823242a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

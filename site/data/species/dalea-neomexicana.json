@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4edf905c263c221868c9b433f6c18cb57340a1ec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +87,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341989539, photo 622689852, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3129d7e1b42cb8a3f489a5d775e262e62b38ffa652d2f5dad690b481453f882d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea neomexicana agrees with the indexed species dalea-neomexicana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3129d7e1b42cb8a3f489a5d775e262e62b38ffa652d2f5dad690b481453f882d"
+      "sha256": "3129d7e1b42cb8a3f489a5d775e262e62b38ffa652d2f5dad690b481453f882d",
+      "display_sha256": "b152766ef91ae623375a71a25e9477c5aac1c497e44ad20cc59152b63a82c5b6",
+      "display_blob_sha": "b72e60f04c9f50f7b9ad4a47e15169ddd6972d9b",
+      "display_original_site_sha256": "3129d7e1b42cb8a3f489a5d775e262e62b38ffa652d2f5dad690b481453f882d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-neomexicana/inat-628327207.jpg",
@@ -98,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b68f62c2ddd60889de68c8517adde98ad9975247",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +111,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344825291, photo 628327207, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bd079d6fe63f439cc2d8cf52fbe6746baa1ae8c65d8fbb24b21b88d50f690d20. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea neomexicana agrees with the indexed species dalea-neomexicana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "bd079d6fe63f439cc2d8cf52fbe6746baa1ae8c65d8fbb24b21b88d50f690d20"
+      "sha256": "bd079d6fe63f439cc2d8cf52fbe6746baa1ae8c65d8fbb24b21b88d50f690d20",
+      "display_sha256": "0a08f4a62b2e471bc96e519727d408edc9687ffc143be8982d80b613f8902e3c",
+      "display_blob_sha": "fc6786b414cd374d7c326e217a13f2e9947fc8b5",
+      "display_original_site_sha256": "bd079d6fe63f439cc2d8cf52fbe6746baa1ae8c65d8fbb24b21b88d50f690d20",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-neomexicana/inat-628443775.jpg",
@@ -117,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "696e26b9c16893c6edb501a89c05d977c1310181",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +135,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344883975, photo 628443775, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 12c5d920fab42f2256074a15d651247b40a5a5a11a8d50c81ba700e9f058e1c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea neomexicana agrees with the indexed species dalea-neomexicana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "12c5d920fab42f2256074a15d651247b40a5a5a11a8d50c81ba700e9f058e1c0"
+      "sha256": "12c5d920fab42f2256074a15d651247b40a5a5a11a8d50c81ba700e9f058e1c0",
+      "display_sha256": "fb2cf6b2697fe0b494f1e9cdb1eb84e7513ba96c1b08178ed2be92d7d8a0cfde",
+      "display_blob_sha": "9085b6a81296a6a5de2c0f1f69440449cdda2a0e",
+      "display_original_site_sha256": "12c5d920fab42f2256074a15d651247b40a5a5a11a8d50c81ba700e9f058e1c0",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-neomexicana/inat-666203216.jpg",
@@ -136,7 +151,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f3a2742694d9239306068cf0afac6a643a0fbb4b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -144,7 +159,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 364914695, photo 666203216, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11a000a37fb341aeb0e3fdc283a9476e7af5f114bf2206cda2feff30b39dc0d5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea neomexicana agrees with the indexed species dalea-neomexicana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "11a000a37fb341aeb0e3fdc283a9476e7af5f114bf2206cda2feff30b39dc0d5"
+      "sha256": "11a000a37fb341aeb0e3fdc283a9476e7af5f114bf2206cda2feff30b39dc0d5",
+      "display_sha256": "d6dd6d9ad076f4910508a3c29a8f754500c3643b9ce8df04aad8bc693d086ff7",
+      "display_blob_sha": "2dc5c89fd0883611faa60c3cecbd2bc679c94e01",
+      "display_original_site_sha256": "11a000a37fb341aeb0e3fdc283a9476e7af5f114bf2206cda2feff30b39dc0d5",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-neomexicana/inat-668738321.jpg",
@@ -155,7 +175,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "394929e4f1b9f0e77f2ccb6d86493da53e9f45fe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -163,7 +183,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 366242153, photo 668738321, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b538f9cfa88822e4f296567f5898acb44090e99c605bf3f964c72e992f60c3f7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea neomexicana agrees with the indexed species dalea-neomexicana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b538f9cfa88822e4f296567f5898acb44090e99c605bf3f964c72e992f60c3f7"
+      "sha256": "b538f9cfa88822e4f296567f5898acb44090e99c605bf3f964c72e992f60c3f7",
+      "display_sha256": "fb6b163fad6106b12fad1955a2b6e9fbd4535d19cac4de36f764568f63a3c120",
+      "display_blob_sha": "c54e6650c4e1a60b2eb96bd28f230c1ea50bdc0f",
+      "display_original_site_sha256": "b538f9cfa88822e4f296567f5898acb44090e99c605bf3f964c72e992f60c3f7",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

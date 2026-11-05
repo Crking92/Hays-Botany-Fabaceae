@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e5a6f4f6c9e8325aef0727120587e6d2d3a712ac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343017279, photo 624747526, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6bca58fb2c56c86507d48730f15f1fd33cfba6e1519fe812cb564c40b4f94c01. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Eysenhardtia texana agrees with the indexed species eysenhardtia-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6bca58fb2c56c86507d48730f15f1fd33cfba6e1519fe812cb564c40b4f94c01"
+      "sha256": "6bca58fb2c56c86507d48730f15f1fd33cfba6e1519fe812cb564c40b4f94c01",
+      "display_sha256": "b5a070e1d40e40aab8e6f2cf34363456edee79dc3167dcd9967ea75eae581577",
+      "display_blob_sha": "50ded590f2664ad67e4b37f07d71685d9511dac0",
+      "display_original_site_sha256": "6bca58fb2c56c86507d48730f15f1fd33cfba6e1519fe812cb564c40b4f94c01",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eysenhardtia-texana/inat-626773531.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e5dd4b81bd5ee86541ed166e1dd83dc30a1a0d53",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344022440, photo 626773531, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b80388a7ab88494e8c36e47550a3c2af7b431ab521e0da815ad33b600086798f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Eysenhardtia texana agrees with the indexed species eysenhardtia-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b80388a7ab88494e8c36e47550a3c2af7b431ab521e0da815ad33b600086798f"
+      "sha256": "b80388a7ab88494e8c36e47550a3c2af7b431ab521e0da815ad33b600086798f",
+      "display_sha256": "4943b6d669a78b73afa4ed8377a4810711b9e32cc5043b643988eec0a1d53d84",
+      "display_blob_sha": "9440ed581a92d81b2a367d97b215a70e99ab44d6",
+      "display_original_site_sha256": "b80388a7ab88494e8c36e47550a3c2af7b431ab521e0da815ad33b600086798f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eysenhardtia-texana/inat-627605551.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "81c8a35b6fb6951c800cd0a2f1d7843edd975403",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344448315, photo 627605551, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 14976527ca9a536e6cb6f9cb38111e17e05141352f8baa7c5f0547e90b3e53ad. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Eysenhardtia texana agrees with the indexed species eysenhardtia-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "14976527ca9a536e6cb6f9cb38111e17e05141352f8baa7c5f0547e90b3e53ad"
+      "sha256": "14976527ca9a536e6cb6f9cb38111e17e05141352f8baa7c5f0547e90b3e53ad",
+      "display_sha256": "c51bb327d60bdda25cc79f2247a043c52fe67349d4b20ee1bad012decfc803fa",
+      "display_blob_sha": "4a43b2d97160515ec9e83da1460db5caf3e4ce69",
+      "display_original_site_sha256": "14976527ca9a536e6cb6f9cb38111e17e05141352f8baa7c5f0547e90b3e53ad",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eysenhardtia-texana/inat-627738365.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "87f4dc078d8f42dd56a773fbdbd3a1976c8db5e7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344517792, photo 627738365, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1e9e4ed5a069c4f92be942a4fed2d83070b994358225f6bb539e332ccbbd296f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Eysenhardtia texana agrees with the indexed species eysenhardtia-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1e9e4ed5a069c4f92be942a4fed2d83070b994358225f6bb539e332ccbbd296f"
+      "sha256": "1e9e4ed5a069c4f92be942a4fed2d83070b994358225f6bb539e332ccbbd296f",
+      "display_sha256": "3e3386966327d7e5c6434e0ea3cd279d62714fdae66fe9d7b4ed5faa38d6b429",
+      "display_blob_sha": "13ee0596844d8a40459394597faf6cc8920eeb25",
+      "display_original_site_sha256": "1e9e4ed5a069c4f92be942a4fed2d83070b994358225f6bb539e332ccbbd296f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eysenhardtia-texana/inat-630596727.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "204b34c3fbdf80afdc557176455a212d819cd26d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345979007, photo 630596727, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 42deceb0cbff97b4510d99441317339c0f35f3df2b9bfe472c8795da13f9f180. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Eysenhardtia texana agrees with the indexed species eysenhardtia-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "42deceb0cbff97b4510d99441317339c0f35f3df2b9bfe472c8795da13f9f180"
+      "sha256": "42deceb0cbff97b4510d99441317339c0f35f3df2b9bfe472c8795da13f9f180",
+      "display_sha256": "abc32f7210b5f50aebe9780e4850731c88712105be1dc0a7746491924aff80c1",
+      "display_blob_sha": "3429abad29ce9adedb6031e34311089bb1187f5d",
+      "display_original_site_sha256": "42deceb0cbff97b4510d99441317339c0f35f3df2b9bfe472c8795da13f9f180",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

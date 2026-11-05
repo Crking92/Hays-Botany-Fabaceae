@@ -76,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1772ad9f90f14db426718df242094e7ddd682329",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -84,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348163664, photo 634926856, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fd4978b2533837b541de7189cb0a2e4491c6339a6c26df804f363bbd2a4c34f3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa texana agrees with original manifest name Mimosa texana mapped to indexed species mimosa-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "fd4978b2533837b541de7189cb0a2e4491c6339a6c26df804f363bbd2a4c34f3"
+      "sha256": "fd4978b2533837b541de7189cb0a2e4491c6339a6c26df804f363bbd2a4c34f3",
+      "display_sha256": "15c132067daeaa8575e5e703611e5700e3169a23cf56523cb8f9dbbf57620701",
+      "display_blob_sha": "aeea506fe48066b409cf786556116abbf1a16774",
+      "display_original_site_sha256": "fd4978b2533837b541de7189cb0a2e4491c6339a6c26df804f363bbd2a4c34f3",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-texana/inat-635248537.jpg",
@@ -95,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bb79603d52128849c9dd12ba53ea72249d206ee4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348325318, photo 635248537, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bd7d79fa7da5187f612ee09c6ad4da986c420df29f02414f47f3272c0dd35bdc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa texana agrees with original manifest name Mimosa texana mapped to indexed species mimosa-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "bd7d79fa7da5187f612ee09c6ad4da986c420df29f02414f47f3272c0dd35bdc"
+      "sha256": "bd7d79fa7da5187f612ee09c6ad4da986c420df29f02414f47f3272c0dd35bdc",
+      "display_sha256": "8cef76760136baf09bb3fb7fa4db0ab2b266ade2ad1cd8a389686dba905f3b2c",
+      "display_blob_sha": "963f446fb3f949e9a19d45651ee2122a73212b9c",
+      "display_original_site_sha256": "bd7d79fa7da5187f612ee09c6ad4da986c420df29f02414f47f3272c0dd35bdc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-texana/inat-635598757.jpg",
@@ -114,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "de077e2edef7f929bffbd67131ea309f789a91c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348502178, photo 635598757, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc817b5a8168d89a4fedcd4ebf2017f4277f24d0ad25dc7d1c2e2173e1499c02. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa texana agrees with original manifest name Mimosa texana mapped to indexed species mimosa-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "dc817b5a8168d89a4fedcd4ebf2017f4277f24d0ad25dc7d1c2e2173e1499c02"
+      "sha256": "dc817b5a8168d89a4fedcd4ebf2017f4277f24d0ad25dc7d1c2e2173e1499c02",
+      "display_sha256": "21f3aa45f0418b32c8eb80b344d3ad8df0940210b22555b038ed143d783857a1",
+      "display_blob_sha": "4136a4ee86daadb3bca402a0727bce8c38deee67",
+      "display_original_site_sha256": "dc817b5a8168d89a4fedcd4ebf2017f4277f24d0ad25dc7d1c2e2173e1499c02",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-texana/inat-635631332.jpg",
@@ -133,7 +148,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fb0083525318c2cba0be54b3ab6bd2d67e31bd12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +156,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348519980, photo 635631332, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3b9e1f5347ffc43a2fac4ed7220c642f4d524b0008754ce72f02e32371a31be7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa texana agrees with original manifest name Mimosa texana mapped to indexed species mimosa-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3b9e1f5347ffc43a2fac4ed7220c642f4d524b0008754ce72f02e32371a31be7"
+      "sha256": "3b9e1f5347ffc43a2fac4ed7220c642f4d524b0008754ce72f02e32371a31be7",
+      "display_sha256": "d3e32d66f92b0bdf046cb103b3793a503eb8b0cdbbd5cf0bebb4d7c15a64e8a9",
+      "display_blob_sha": "823f7928aee40cedacc83fc82ab7f07eb17e372f",
+      "display_original_site_sha256": "3b9e1f5347ffc43a2fac4ed7220c642f4d524b0008754ce72f02e32371a31be7",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-texana/inat-637172997.jpg",
@@ -152,7 +172,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "25420c118afb90651e9eaba5eda62637abbe2d71",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +180,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349300989, photo 637172997, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ddc12f9592238f09e66f7de2e467b051bc5053140ab6f445a6ac9cfcfd5458ba. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa texana agrees with original manifest name Mimosa texana mapped to indexed species mimosa-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ddc12f9592238f09e66f7de2e467b051bc5053140ab6f445a6ac9cfcfd5458ba"
+      "sha256": "ddc12f9592238f09e66f7de2e467b051bc5053140ab6f445a6ac9cfcfd5458ba",
+      "display_sha256": "dbc0c44fee537dc9153ea2ea986499265417fa8b11232749ef6decc0935b0f43",
+      "display_blob_sha": "395c41497ef894d41e6c0b0e4ac836852453d09d",
+      "display_original_site_sha256": "ddc12f9592238f09e66f7de2e467b051bc5053140ab6f445a6ac9cfcfd5458ba",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

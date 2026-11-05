@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c8b5656d32d5f90c993226d9d10489bec8486637",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345324214, photo 629306776, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 81765f863adb2f16527ed1439f3226c37c45b7b57ebc86a12cd37cde7083ced9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum latestipulatum agrees with original manifest name Pediomelum latestipulatum mapped to indexed species pediomelum-latestipulatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "81765f863adb2f16527ed1439f3226c37c45b7b57ebc86a12cd37cde7083ced9"
+      "sha256": "81765f863adb2f16527ed1439f3226c37c45b7b57ebc86a12cd37cde7083ced9",
+      "display_sha256": "5f2667c294891b624da6d8ad7938dc854fbc31eccce0511fb570a7c1ceb4aa62",
+      "display_blob_sha": "8f7cde31e87b29320abf4279fe411ef166413bc4",
+      "display_original_site_sha256": "81765f863adb2f16527ed1439f3226c37c45b7b57ebc86a12cd37cde7083ced9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-latestipulatum/inat-631626554.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ed9fef16ffd9792749bf60d6292c3e15df622eb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346500985, photo 631626554, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48280359663a1b4e89451be8be9cbb18b946ab1fbad18cc445b6584dcc52a579. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum latestipulatum agrees with original manifest name Pediomelum latestipulatum mapped to indexed species pediomelum-latestipulatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "48280359663a1b4e89451be8be9cbb18b946ab1fbad18cc445b6584dcc52a579"
+      "sha256": "48280359663a1b4e89451be8be9cbb18b946ab1fbad18cc445b6584dcc52a579",
+      "display_sha256": "bebe2f5969e4d0804b3282434b0cbbd3271a91248c87ab1b9b9b1b3f2eeb0255",
+      "display_blob_sha": "6c7cd4db24736cf52ca560961821f05f9d8d2676",
+      "display_original_site_sha256": "48280359663a1b4e89451be8be9cbb18b946ab1fbad18cc445b6584dcc52a579",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-latestipulatum/inat-636859966.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d6af58c64dc60ecf6115a20cc116d9f1b7783431",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349141556, photo 636859966, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 09f2ed45bdc2630abbcf1babbb59df66f29483e9572827c5d0ab6ec40a02ad4f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum latestipulatum agrees with original manifest name Pediomelum latestipulatum mapped to indexed species pediomelum-latestipulatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "09f2ed45bdc2630abbcf1babbb59df66f29483e9572827c5d0ab6ec40a02ad4f"
+      "sha256": "09f2ed45bdc2630abbcf1babbb59df66f29483e9572827c5d0ab6ec40a02ad4f",
+      "display_sha256": "835354b3d6d6605cbd771e80c6d5c5676d48217ecef1e2d4f7c97c9ea165ac8a",
+      "display_blob_sha": "9d4bf66a1ee2c8a61aef7e9589c29ddfc1991307",
+      "display_original_site_sha256": "09f2ed45bdc2630abbcf1babbb59df66f29483e9572827c5d0ab6ec40a02ad4f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-latestipulatum/inat-653201845.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4fc4956a95650f931996f285e62f343e292b4c01",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 358092108, photo 653201845, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1986c67ff5270f3fdc83d99132dc58afef77f1b94ad28231c06f2375a423e268. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum latestipulatum agrees with original manifest name Pediomelum latestipulatum mapped to indexed species pediomelum-latestipulatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1986c67ff5270f3fdc83d99132dc58afef77f1b94ad28231c06f2375a423e268"
+      "sha256": "1986c67ff5270f3fdc83d99132dc58afef77f1b94ad28231c06f2375a423e268",
+      "display_sha256": "de65008f05b4057827e8696a1ef2eb77e0aa1fb7d40aabb0ea42957747110019",
+      "display_blob_sha": "e2b450f28e0cd4cfb58f46d29aa21197ba178fca",
+      "display_original_site_sha256": "1986c67ff5270f3fdc83d99132dc58afef77f1b94ad28231c06f2375a423e268",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-latestipulatum/inat-655959403.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f1b999257b5adbfdf884a32b41c35e1c0cff0b69",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 359520603, photo 655959403, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b9fb3909291f83c5d1a865c32ef856ec1ac944bd2fe66d948358421117c1cf6c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum latestipulatum appressum agrees with original manifest name Pediomelum latestipulatum mapped to indexed species pediomelum-latestipulatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b9fb3909291f83c5d1a865c32ef856ec1ac944bd2fe66d948358421117c1cf6c"
+      "sha256": "b9fb3909291f83c5d1a865c32ef856ec1ac944bd2fe66d948358421117c1cf6c",
+      "display_sha256": "1302e7bb7081317fd89f9c6f8dae6cd6dff8553a15352ffba4c595c118b137ee",
+      "display_blob_sha": "96cb0564d0e78beec5286550942a72be4c2011a6",
+      "display_original_site_sha256": "b9fb3909291f83c5d1a865c32ef856ec1ac944bd2fe66d948358421117c1cf6c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

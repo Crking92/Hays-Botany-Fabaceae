@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0423298c337748a5081ea9707a178d89672d0906",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 113148997, photo 191175676, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2954ce127b773ac4c080cc1c245514201a9468a65a74356a280c28f6879a9e4a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum tenuiflorum agrees with original manifest name Pediomelum tenuiflorum mapped to indexed species pediomelum-tenuiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2954ce127b773ac4c080cc1c245514201a9468a65a74356a280c28f6879a9e4a"
+      "sha256": "2954ce127b773ac4c080cc1c245514201a9468a65a74356a280c28f6879a9e4a",
+      "display_sha256": "53aa9b1c3f3a3f946c9a317c62eb89f65b30ccfbd3fc2bda6c0c9cbc3499ed82",
+      "display_blob_sha": "29e5e84be3fe1041704a465d8e0adece4d3b62cd",
+      "display_original_site_sha256": "2954ce127b773ac4c080cc1c245514201a9468a65a74356a280c28f6879a9e4a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-tenuiflorum/inat-191176764.jpeg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "def11f876576432366443c63486a03e437338244",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 113149580, photo 191176764, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2b5b48ff15d7964e2d4728d80cb7a6d84ceb3e1405634074c46b61a45a9dca0c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum tenuiflorum agrees with original manifest name Pediomelum tenuiflorum mapped to indexed species pediomelum-tenuiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2b5b48ff15d7964e2d4728d80cb7a6d84ceb3e1405634074c46b61a45a9dca0c"
+      "sha256": "2b5b48ff15d7964e2d4728d80cb7a6d84ceb3e1405634074c46b61a45a9dca0c",
+      "display_sha256": "86b25e1d3845b7ef8f6133a6ed184208cd1291d3040525ddd9c4d00535d97fea",
+      "display_blob_sha": "da4a2562f9f75b98fe3894c8a4e043aeafbbb5dc",
+      "display_original_site_sha256": "2b5b48ff15d7964e2d4728d80cb7a6d84ceb3e1405634074c46b61a45a9dca0c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-tenuiflorum/inat-654409084.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "53993514ab1a73564361b13d368769e9b5ebc223",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 358713552, photo 654409084, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4a49a6567015f5cc6d4dba037f456144a8c90cc3b62823c50f050366d58b2144. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum tenuiflorum agrees with original manifest name Pediomelum tenuiflorum mapped to indexed species pediomelum-tenuiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4a49a6567015f5cc6d4dba037f456144a8c90cc3b62823c50f050366d58b2144"
+      "sha256": "4a49a6567015f5cc6d4dba037f456144a8c90cc3b62823c50f050366d58b2144",
+      "display_sha256": "ffb0c99d7991f25ec61f878a1502c2b5261e0a315a3083a332e658e1644a09bd",
+      "display_blob_sha": "62a25f1bf593b34c2ab998242a879c3ee84e7b2d",
+      "display_original_site_sha256": "4a49a6567015f5cc6d4dba037f456144a8c90cc3b62823c50f050366d58b2144",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-tenuiflorum/inat-667336706.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0a4bbcd8afb846a0aa0f1ace6655bbfe6d0e3e0f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 365508206, photo 667336706, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 37aac6b02bd4864cd0fa70935488e8799eb525d0041ca442917b29bb46a1620e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum tenuiflorum agrees with original manifest name Pediomelum tenuiflorum mapped to indexed species pediomelum-tenuiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "37aac6b02bd4864cd0fa70935488e8799eb525d0041ca442917b29bb46a1620e"
+      "sha256": "37aac6b02bd4864cd0fa70935488e8799eb525d0041ca442917b29bb46a1620e",
+      "display_sha256": "938d97e489b324bc632357332787ef76a273edbde34a27429feeed1992f1d1ec",
+      "display_blob_sha": "2e9063a6f652a341078310175020399d6711f112",
+      "display_original_site_sha256": "37aac6b02bd4864cd0fa70935488e8799eb525d0041ca442917b29bb46a1620e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-tenuiflorum/inat-679865359.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b7f4a0ecef80b31d59e345e0ba4d235e06338483",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 372075189, photo 679865359, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aa73e5f10ca7b5849cb9bdaa5ce80ca22b255f945ad4e5b0213c6dab8aa384f8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum tenuiflorum agrees with original manifest name Pediomelum tenuiflorum mapped to indexed species pediomelum-tenuiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "aa73e5f10ca7b5849cb9bdaa5ce80ca22b255f945ad4e5b0213c6dab8aa384f8"
+      "sha256": "aa73e5f10ca7b5849cb9bdaa5ce80ca22b255f945ad4e5b0213c6dab8aa384f8",
+      "display_sha256": "34eb923f0beb2abff1f388f8995bb0dc3d9ea25c7769031209cda8460cb68dab",
+      "display_blob_sha": "277c1afddc84804ba4cdeac74845bda1ec713930",
+      "display_original_site_sha256": "aa73e5f10ca7b5849cb9bdaa5ce80ca22b255f945ad4e5b0213c6dab8aa384f8",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46d03a2ce4f53718eeb00ffa9c4d929f08e09d6b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +87,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 79604188, photo 130400791, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 189c96d6f8bfe3ae8c5d44aaf63d72a0a941daecb28805e1feb3f16c0bb7123d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea tenuis agrees with the indexed species dalea-tenuis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "189c96d6f8bfe3ae8c5d44aaf63d72a0a941daecb28805e1feb3f16c0bb7123d"
+      "sha256": "189c96d6f8bfe3ae8c5d44aaf63d72a0a941daecb28805e1feb3f16c0bb7123d",
+      "display_sha256": "d18aba7c8ff2ae191ec2c3bbdcf8d18b8843ad444f02e2b5e360f343748752c2",
+      "display_blob_sha": "f3263305803bb2121836f6c81f873191ad1169d0",
+      "display_original_site_sha256": "189c96d6f8bfe3ae8c5d44aaf63d72a0a941daecb28805e1feb3f16c0bb7123d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-tenuis/inat-204386165.jpg",
@@ -98,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7aa1e09ae6580e716bd463d25f0eb40de970db0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +111,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 120817647, photo 204386165, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 79733a27e30b5b4de120a8b6c82ea6610fe3b2c58f8aa4b5d00817005362f8ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea tenuis agrees with the indexed species dalea-tenuis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "79733a27e30b5b4de120a8b6c82ea6610fe3b2c58f8aa4b5d00817005362f8ca"
+      "sha256": "79733a27e30b5b4de120a8b6c82ea6610fe3b2c58f8aa4b5d00817005362f8ca",
+      "display_sha256": "4096e2605984649c785cbe1fa45094f5f2e729e42f37f8d54be2a240e2fa9564",
+      "display_blob_sha": "f090f56e2221d00c2c2979e3b510b41d4a70a5ae",
+      "display_original_site_sha256": "79733a27e30b5b4de120a8b6c82ea6610fe3b2c58f8aa4b5d00817005362f8ca",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-tenuis/inat-439083171.jpeg",
@@ -117,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4bdeced454b6229870b92fd8d8458078f8ee2be0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +135,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 246003639, photo 439083171, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8bc45a1f8fc0f6db292bc15a241251169e1b1522221e63cfa160fb2fd8a579b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea tenuis agrees with the indexed species dalea-tenuis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8bc45a1f8fc0f6db292bc15a241251169e1b1522221e63cfa160fb2fd8a579b1"
+      "sha256": "8bc45a1f8fc0f6db292bc15a241251169e1b1522221e63cfa160fb2fd8a579b1",
+      "display_sha256": "a1ae7e78bd2b1b7e1359987412b07601358aa1f3cdfa654467fc8cf9ab7e95db",
+      "display_blob_sha": "2f514fccc0e76100ccde272bf505f7236b634eed",
+      "display_original_site_sha256": "8bc45a1f8fc0f6db292bc15a241251169e1b1522221e63cfa160fb2fd8a579b1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-tenuis/inat-648572595.jpg",
@@ -136,7 +151,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4d8c2ddd97ccf7fd44dad940611f7e598c1ab8e1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -144,7 +159,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355644281, photo 648572595, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 900d90d0c1c756179d1e2ab8b7a806b7cd45844f5b2e6e044d4752a85d28898f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea tenuis agrees with the indexed species dalea-tenuis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "900d90d0c1c756179d1e2ab8b7a806b7cd45844f5b2e6e044d4752a85d28898f"
+      "sha256": "900d90d0c1c756179d1e2ab8b7a806b7cd45844f5b2e6e044d4752a85d28898f",
+      "display_sha256": "5a26c8993e81783fcee81040bb030e33e3cecaff7a424ca1ad15c5bdd4c8491d",
+      "display_blob_sha": "205db8aaac1ecbbda3f8280719fe5dbea5c75db9",
+      "display_original_site_sha256": "900d90d0c1c756179d1e2ab8b7a806b7cd45844f5b2e6e044d4752a85d28898f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -67,7 +67,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ab710374bed360dd1ac49f1d46d83c92583e69b0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +75,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 359583255, photo 656078518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa908d40a03d8533d48a1b6b96de46c6632d3ef73156fdb783a4f2bf66f3bb0f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chamaecrista fasciculata agrees with indexed species chamaecrista-fasciculata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fa908d40a03d8533d48a1b6b96de46c6632d3ef73156fdb783a4f2bf66f3bb0f"
+      "sha256": "fa908d40a03d8533d48a1b6b96de46c6632d3ef73156fdb783a4f2bf66f3bb0f",
+      "display_sha256": "2a2d1467f64b6840bbd14abb873ef6e9ec8969e26d3f8d66718919d2c981a3da",
+      "display_blob_sha": "b37bdb2ce316389d6ccd7937af6c7aafeb07758e",
+      "display_original_site_sha256": "fa908d40a03d8533d48a1b6b96de46c6632d3ef73156fdb783a4f2bf66f3bb0f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaecrista-fasciculata/inat-656109029.jpg",
@@ -86,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ed6a2e06f1e04d4ce4a88f818e8461ad8acbaeea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 359598348, photo 656109029, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ab7c7e5e80ebe8c9e98fe8ba885e6b9d6287a756590b7c4bf0abc87579749082. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chamaecrista fasciculata agrees with indexed species chamaecrista-fasciculata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ab7c7e5e80ebe8c9e98fe8ba885e6b9d6287a756590b7c4bf0abc87579749082"
+      "sha256": "ab7c7e5e80ebe8c9e98fe8ba885e6b9d6287a756590b7c4bf0abc87579749082",
+      "display_sha256": "c48513fe8bd3e82e25fc443da82b4545f7e3091d79f20c7728fd65c6bf48ae0b",
+      "display_blob_sha": "37b4366b7617e090e8f06214bde73f7af89b11df",
+      "display_original_site_sha256": "ab7c7e5e80ebe8c9e98fe8ba885e6b9d6287a756590b7c4bf0abc87579749082",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaecrista-fasciculata/inat-658190155.jpg",
@@ -105,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "11fac62b26f93bbc110b3cedaacda5bf266b7978",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 360695551, photo 658190155, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f43b0c00e49fde25eb2d8afa687e03e111abfedab8c81ccbf0ed815337ba912. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chamaecrista fasciculata agrees with indexed species chamaecrista-fasciculata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5f43b0c00e49fde25eb2d8afa687e03e111abfedab8c81ccbf0ed815337ba912"
+      "sha256": "5f43b0c00e49fde25eb2d8afa687e03e111abfedab8c81ccbf0ed815337ba912",
+      "display_sha256": "7de16da1042fa9fb32acfb2d65ed04351e92ead556677b7fa76c2e067b9ec84b",
+      "display_blob_sha": "ebde20141d1f08275af5a3699a52dadaba50c629",
+      "display_original_site_sha256": "5f43b0c00e49fde25eb2d8afa687e03e111abfedab8c81ccbf0ed815337ba912",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaecrista-fasciculata/inat-662316142.jpg",
@@ -124,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1db4b9e7f5a0351c2ee8b52067b978420be6b52b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +147,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 362861569, photo 662316142, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63114ca1c9f588518342f00570695d4bca4f0134b6fe2d946c15528c0dc4ca32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chamaecrista fasciculata agrees with indexed species chamaecrista-fasciculata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "63114ca1c9f588518342f00570695d4bca4f0134b6fe2d946c15528c0dc4ca32"
+      "sha256": "63114ca1c9f588518342f00570695d4bca4f0134b6fe2d946c15528c0dc4ca32",
+      "display_sha256": "194aefef71c74479796d3cf4229a3d08061d44dd7acf5e8c56f20603277e5a57",
+      "display_blob_sha": "56ddf9ce126f13f6e7d5618b7327967203f92f12",
+      "display_original_site_sha256": "63114ca1c9f588518342f00570695d4bca4f0134b6fe2d946c15528c0dc4ca32",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaecrista-fasciculata/inat-664847979.jpg",
@@ -143,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9101cf355cd1e548f0b5909f61050ac042d8b8dd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -151,7 +171,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 364192851, photo 664847979, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6091b33a47ecce408eaf1f06b679d9eb1fb6875cd402121343676e0bd7fc626d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Chamaecrista fasciculata agrees with indexed species chamaecrista-fasciculata; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6091b33a47ecce408eaf1f06b679d9eb1fb6875cd402121343676e0bd7fc626d"
+      "sha256": "6091b33a47ecce408eaf1f06b679d9eb1fb6875cd402121343676e0bd7fc626d",
+      "display_sha256": "381148dabd536edf53dbabab3d18f5844bba2e15d92aa416ccb4ab3dbb31281a",
+      "display_blob_sha": "00efe67898e57d371a41b1f2d26d8919b2dc60d5",
+      "display_original_site_sha256": "6091b33a47ecce408eaf1f06b679d9eb1fb6875cd402121343676e0bd7fc626d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3bc2be3db7ca17a65b618bd79cfb2e0470961eb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348413026, photo 635422960, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c4ff4466e5fb7d949109a80e6609736f6819f95b4d888638092c3997ca72e759. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia potosina agrees with original manifest name Tephrosia potosina mapped to indexed species tephrosia-potosina; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "c4ff4466e5fb7d949109a80e6609736f6819f95b4d888638092c3997ca72e759"
+      "sha256": "c4ff4466e5fb7d949109a80e6609736f6819f95b4d888638092c3997ca72e759",
+      "display_sha256": "b562eba5ea7696beaf0ada7a4f59da4596a72a5bff5c2a3ad9b6801155559b40",
+      "display_blob_sha": "52b798cf455e6696f19fbb4a48eab22389c2e84d",
+      "display_original_site_sha256": "c4ff4466e5fb7d949109a80e6609736f6819f95b4d888638092c3997ca72e759",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tephrosia-potosina/inat-639666106.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "549d05c572181e32ea62490a5477098a536efa0a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 350574681, photo 639666106, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4c22ba3ff08d34b8003805186dffb8801b6300c2e25808bb148341a8099fd6ee. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia potosina agrees with original manifest name Tephrosia potosina mapped to indexed species tephrosia-potosina; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4c22ba3ff08d34b8003805186dffb8801b6300c2e25808bb148341a8099fd6ee"
+      "sha256": "4c22ba3ff08d34b8003805186dffb8801b6300c2e25808bb148341a8099fd6ee",
+      "display_sha256": "aaff1626cde6442d622c958b2d6259a16c4008e47b000235a85cba7f734eed9b",
+      "display_blob_sha": "40d24d4281190666b7ca9ddd886f436e79b199f8",
+      "display_original_site_sha256": "4c22ba3ff08d34b8003805186dffb8801b6300c2e25808bb148341a8099fd6ee",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tephrosia-potosina/inat-648907569.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "737249655c70dddbe0c97676e80083e5ee852d35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355832438, photo 648907569, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cd507d20c4d9f18500f407029d2e7e946616272e7b1695ce58040802f64a4d10. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia potosina agrees with original manifest name Tephrosia potosina mapped to indexed species tephrosia-potosina; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "cd507d20c4d9f18500f407029d2e7e946616272e7b1695ce58040802f64a4d10"
+      "sha256": "cd507d20c4d9f18500f407029d2e7e946616272e7b1695ce58040802f64a4d10",
+      "display_sha256": "217f92a176c5c86db4524c572315b8d3f6a8e28da82d7e483ef1b0e3a68c5214",
+      "display_blob_sha": "159253fce3e23d2dac038e814f8d4e74b8c57ec1",
+      "display_original_site_sha256": "cd507d20c4d9f18500f407029d2e7e946616272e7b1695ce58040802f64a4d10",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tephrosia-potosina/inat-649424312.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57b511dc6cb188e7e22bea15eff7cebbe6ad43f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 356121223, photo 649424312, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 57d3ba60aa5831b239fa84b4e093f86783d8f316e5e05920ea351bd3d3edce29. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia potosina agrees with original manifest name Tephrosia potosina mapped to indexed species tephrosia-potosina; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "57d3ba60aa5831b239fa84b4e093f86783d8f316e5e05920ea351bd3d3edce29"
+      "sha256": "57d3ba60aa5831b239fa84b4e093f86783d8f316e5e05920ea351bd3d3edce29",
+      "display_sha256": "fe9782283599b16493bc1b34f186370cc2ff3f4e2eb22e8ec383ec5ed35bce56",
+      "display_blob_sha": "1d5fe8ce24256998d90857ecbb76eab3e88309b5",
+      "display_original_site_sha256": "57d3ba60aa5831b239fa84b4e093f86783d8f316e5e05920ea351bd3d3edce29",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

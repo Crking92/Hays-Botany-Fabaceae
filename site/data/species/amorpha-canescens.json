@@ -54,12 +54,17 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "source_blob_sha": "83346d911c5224aea8bffff1d45ca6271c223167",
       "role": "Silky young shoot and pinnately compound leaves with paired narrow leaflets; cultivated botanical garden specimen, not a Hays County occurrence",
-      "modified": "Exact unmodified Wikimedia Commons source original",
+      "modified": "Resized and recompressed web display copy; source note: Exact unmodified Wikimedia Commons source original",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Pinned original SHA1 and CC license confirmed against the exact Wikimedia Commons API file. Species label from original source, not a local voucher.",
       "photo_approved_by": "Automated Commons source metadata review, user-authorized educational publishing",
-      "sha256": "681c6e8ee43659c5a58a97f7b763ec29ea93677df28f2ffbff3dd3646437f9f0"
+      "sha256": "681c6e8ee43659c5a58a97f7b763ec29ea93677df28f2ffbff3dd3646437f9f0",
+      "display_sha256": "375b5ce38d1532757bbb98656f11444251820fd8662c07b4cafefaa545c5f3ee",
+      "display_blob_sha": "70b22a300c664bd3dd4a4db1c7200b9c25c3f414",
+      "display_original_site_sha256": "681c6e8ee43659c5a58a97f7b763ec29ea93677df28f2ffbff3dd3646437f9f0",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-canescens/g3-gbif-4863913577-photo_2.jpg",
@@ -70,12 +75,17 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e5153689292fa0d58cd9fa89014b9b31e914cc7e",
       "role": "Purple flowers with projecting yellow anthers along elongated hairy inflorescences; pinnate foliage in the background.",
-      "modified": "Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
+      "modified": "Resized and recompressed web display copy; source note: Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact downloaded SHA-256 verified. GBIF occurrence 4863913577 was re-read and its exact media URL, image-level license and credited creator matched. Source taxon and specimen label where present compared with existing lesson; visible features screened at contact-sheet and enlarged-image resolution. No independent voucher determination or native-range claim. Existing lesson views compared; this image adds the described complementary view.",
       "photo_approved_by": "Codex automated source and visual review; user-authorized publication",
-      "sha256": "c672805bcde99c6181a79ab7ff34104c4d1422f1abb5c75579de4c34772c7a06"
+      "sha256": "c672805bcde99c6181a79ab7ff34104c4d1422f1abb5c75579de4c34772c7a06",
+      "display_sha256": "687afe1575b62686a120bc8e8dfbbb2749886da1c392183aeeaf31e0fd1eaf06",
+      "display_blob_sha": "039746568368f7e3c9c9bc197587e431b301258d",
+      "display_original_site_sha256": "c672805bcde99c6181a79ab7ff34104c4d1422f1abb5c75579de4c34772c7a06",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-canescens/inat-382986529.jpg",
@@ -86,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ed94235da0e431b2b72e8573c6c22a27d8a24a88",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 216547732, photo 382986529, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 71186e2f6692fef598434bb8748227732a6b94e649b05b27faa64b350fb2a294. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha canescens agrees with indexed species amorpha-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "71186e2f6692fef598434bb8748227732a6b94e649b05b27faa64b350fb2a294"
+      "sha256": "71186e2f6692fef598434bb8748227732a6b94e649b05b27faa64b350fb2a294",
+      "display_sha256": "f9960aeb026e8ba6bd9c5916bb714d2d81e6b0c011daee22883aa7c6b055ed94",
+      "display_blob_sha": "cc0346327b99b9f6d56378daaf5ff9e6c9a13715",
+      "display_original_site_sha256": "71186e2f6692fef598434bb8748227732a6b94e649b05b27faa64b350fb2a294",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-canescens/inat-637171474.jpg",
@@ -105,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79a105f384cf8aeaa5b7f003824b4b7bee2c0e2a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349300143, photo 637171474, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e098d3a692bf00cc2eb648153448b9a545040e22c791b0f352179b9f1e8eb7c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha canescens agrees with indexed species amorpha-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2e098d3a692bf00cc2eb648153448b9a545040e22c791b0f352179b9f1e8eb7c"
+      "sha256": "2e098d3a692bf00cc2eb648153448b9a545040e22c791b0f352179b9f1e8eb7c",
+      "display_sha256": "2b1947b00462ed57b37e41c91b333c7b91dffcd43c87c8b4d917d1520744ad46",
+      "display_blob_sha": "922b1b681a975b5a6ef5721b026b5b02c12a018b",
+      "display_original_site_sha256": "2e098d3a692bf00cc2eb648153448b9a545040e22c791b0f352179b9f1e8eb7c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-canescens/inat-669757762.jpg",
@@ -124,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae874d2e044f1514efe0593521aafd8a23a129b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 366784182, photo 669757762, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a643276dbc0565f9996109db84a7ae94cbcaaae35ec697b7d53ca2581d423c6f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha canescens agrees with indexed species amorpha-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a643276dbc0565f9996109db84a7ae94cbcaaae35ec697b7d53ca2581d423c6f"
+      "sha256": "a643276dbc0565f9996109db84a7ae94cbcaaae35ec697b7d53ca2581d423c6f",
+      "display_sha256": "3a650d3cfd5787eddcac41b130da736dc07900696f93064fb201dbd78be16464",
+      "display_blob_sha": "ae2187438455ce6a4c13af47ba46ce528153b7d3",
+      "display_original_site_sha256": "a643276dbc0565f9996109db84a7ae94cbcaaae35ec697b7d53ca2581d423c6f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-canescens/inat-69975985.jpg",
@@ -143,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "11e35a4b39f3c8ed13f641e48cb5609324bd2011",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -151,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 44134176, photo 69975985, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 296868b1c8b371cf5898c69cc1b8f3deba6292bd63543b553ebd79788319c63b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha canescens agrees with indexed species amorpha-canescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "296868b1c8b371cf5898c69cc1b8f3deba6292bd63543b553ebd79788319c63b"
+      "sha256": "296868b1c8b371cf5898c69cc1b8f3deba6292bd63543b553ebd79788319c63b",
+      "display_sha256": "35745b6771f11953c0dd0b70621fcf98f612d56370d03716d6fc0647dfbcadd6",
+      "display_blob_sha": "6539dbe869b49cf7684b57ad4f0845ae13765961",
+      "display_original_site_sha256": "296868b1c8b371cf5898c69cc1b8f3deba6292bd63543b553ebd79788319c63b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

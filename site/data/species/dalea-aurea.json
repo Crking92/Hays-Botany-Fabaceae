@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "36daa327e7ccc21d0d2eda401618ae223956b061",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 164747591, photo 285091821, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2f8a1c264a6663d8f85b917a56aa71ec74fd2deded9c9780349948de7a4427a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea aurea agrees with indexed species dalea-aurea; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2f8a1c264a6663d8f85b917a56aa71ec74fd2deded9c9780349948de7a4427a1"
+      "sha256": "2f8a1c264a6663d8f85b917a56aa71ec74fd2deded9c9780349948de7a4427a1",
+      "display_sha256": "6f822e50fd4326039b9e052c4e53d4bccd215ed4f7a1fd13d355f2c33b5e7849",
+      "display_blob_sha": "7a512471ee89965ff26e064fbfb38180ff3c289b",
+      "display_original_site_sha256": "2f8a1c264a6663d8f85b917a56aa71ec74fd2deded9c9780349948de7a4427a1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-aurea/inat-671096933.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9d54363b4f1ed34d52690fa0c8606696983aaff9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367479794, photo 671096933, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 409caed91c126158af4ebc430a7707fe769955fc9c44e3c5e9f09ec5ce63e9b9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea aurea agrees with indexed species dalea-aurea; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "409caed91c126158af4ebc430a7707fe769955fc9c44e3c5e9f09ec5ce63e9b9"
+      "sha256": "409caed91c126158af4ebc430a7707fe769955fc9c44e3c5e9f09ec5ce63e9b9",
+      "display_sha256": "c5c2b285f6479c79c3eb20c14aa18f896d5de433e2d7986b2e5d1592acb7f66e",
+      "display_blob_sha": "b1fb4313dc7b33d3e610292a57b05d0218e1c28d",
+      "display_original_site_sha256": "409caed91c126158af4ebc430a7707fe769955fc9c44e3c5e9f09ec5ce63e9b9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-aurea/inat-683495192.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f18aa98d1fecf27a38b35274023d52ef5f18d9c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 373982004, photo 683495192, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 07d12c888d898f3557b6490e4a12e9874a35ec7a79a296df72e4a2fe6a68db33. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea aurea agrees with indexed species dalea-aurea; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "07d12c888d898f3557b6490e4a12e9874a35ec7a79a296df72e4a2fe6a68db33"
+      "sha256": "07d12c888d898f3557b6490e4a12e9874a35ec7a79a296df72e4a2fe6a68db33",
+      "display_sha256": "f1eae5ab70bc08bcbaa469f9285c78d81f13eac7e8d9a0cca18f25eb044247f5",
+      "display_blob_sha": "848033f479ed75e0340b1a54e3503818560d4b18",
+      "display_original_site_sha256": "07d12c888d898f3557b6490e4a12e9874a35ec7a79a296df72e4a2fe6a68db33",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-aurea/inat-685030973.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f1d231bf42788af110e89e09bff94c2ba0b4c908",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 374763307, photo 685030973, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 92a631ee338d9758309327593fe3d3e8bffd9febcefe551f955f234d2a66e4d6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea aurea agrees with indexed species dalea-aurea; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "92a631ee338d9758309327593fe3d3e8bffd9febcefe551f955f234d2a66e4d6"
+      "sha256": "92a631ee338d9758309327593fe3d3e8bffd9febcefe551f955f234d2a66e4d6",
+      "display_sha256": "110c471b7b38ad22954bfce116523fb6dec4d9cea39107b15674ab31addfb187",
+      "display_blob_sha": "5bbf14135c7151508a4e53a71a8aecf88756526b",
+      "display_original_site_sha256": "92a631ee338d9758309327593fe3d3e8bffd9febcefe551f955f234d2a66e4d6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

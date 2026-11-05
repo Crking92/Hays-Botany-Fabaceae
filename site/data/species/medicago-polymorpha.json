@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5224661d5e7eb15115a1c0bf464d3cb249d42b94",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342278339, photo 623271560, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f8ceaec5e5e982155a3a97f203d6edb171cc2697a4da1fd5ec1c60b0f4cdc54. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago polymorpha agrees with the indexed species medicago-polymorpha; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "7f8ceaec5e5e982155a3a97f203d6edb171cc2697a4da1fd5ec1c60b0f4cdc54"
+      "sha256": "7f8ceaec5e5e982155a3a97f203d6edb171cc2697a4da1fd5ec1c60b0f4cdc54",
+      "display_sha256": "14089333c9193b320b1e73f3916320cd5d62c88705942909b6f0628b9f8acce7",
+      "display_blob_sha": "1f591f3060a1b981ca437e2f1a7260728d0ea295",
+      "display_original_site_sha256": "7f8ceaec5e5e982155a3a97f203d6edb171cc2697a4da1fd5ec1c60b0f4cdc54",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-polymorpha/inat-626029089.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "39ab5b291b6c3a9906d900d079998ffa13aa6ac8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343643468, photo 626029089, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d9922ad90396b577f7e40ad875537a1fdbd086baf591f62844cd7a944d0e0ae0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago polymorpha agrees with the indexed species medicago-polymorpha; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d9922ad90396b577f7e40ad875537a1fdbd086baf591f62844cd7a944d0e0ae0"
+      "sha256": "d9922ad90396b577f7e40ad875537a1fdbd086baf591f62844cd7a944d0e0ae0",
+      "display_sha256": "1458c72ad5f741117cdc5447e7a1230e2c805cd800beaf3863a8a69a743cf66e",
+      "display_blob_sha": "efdd2db7878c23cfea461f66c7fa6aad14acaf5d",
+      "display_original_site_sha256": "d9922ad90396b577f7e40ad875537a1fdbd086baf591f62844cd7a944d0e0ae0",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-polymorpha/inat-626496773.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0700bf7060cf0967019264a9a31d2ebcef992d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343883819, photo 626496773, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ef7e4da3b4fe7d184541ada083c08ea37d977918ab5e2a94325aa9969d2e329e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago polymorpha agrees with the indexed species medicago-polymorpha; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ef7e4da3b4fe7d184541ada083c08ea37d977918ab5e2a94325aa9969d2e329e"
+      "sha256": "ef7e4da3b4fe7d184541ada083c08ea37d977918ab5e2a94325aa9969d2e329e",
+      "display_sha256": "b1abcafcf4ceb097d557927bf72cc3ddceeb0fb347c7529e8ba41619581a5f4a",
+      "display_blob_sha": "76c2d4eb35c5149fae81978d130e34a359d3907e",
+      "display_original_site_sha256": "ef7e4da3b4fe7d184541ada083c08ea37d977918ab5e2a94325aa9969d2e329e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-polymorpha/inat-628807889.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8ac7e81f32b8bf9c7461376af9674ecd207feea6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345069375, photo 628807889, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec881936f5459e861ca77150e124ede5e8c847110bf6e0e38ee1d24353f6db58. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago polymorpha agrees with the indexed species medicago-polymorpha; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ec881936f5459e861ca77150e124ede5e8c847110bf6e0e38ee1d24353f6db58"
+      "sha256": "ec881936f5459e861ca77150e124ede5e8c847110bf6e0e38ee1d24353f6db58",
+      "display_sha256": "526bc6b6d3f4464bd196668443ea2baa54375f3829de60544895d33f3c14aecb",
+      "display_blob_sha": "8a31b25cc88208357c18d102696326b20d85a315",
+      "display_original_site_sha256": "ec881936f5459e861ca77150e124ede5e8c847110bf6e0e38ee1d24353f6db58",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

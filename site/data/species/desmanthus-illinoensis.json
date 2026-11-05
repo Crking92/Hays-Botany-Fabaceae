@@ -78,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aed362e7d1b13a587d890d6d700b42ae25121075",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 117671292, photo 198751917, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0020c89b972b7965ce4574f579b494c145bcd6c1c04f0ee1386b098f2beadc2c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus illinoensis agrees with the indexed species desmanthus-illinoensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0020c89b972b7965ce4574f579b494c145bcd6c1c04f0ee1386b098f2beadc2c"
+      "sha256": "0020c89b972b7965ce4574f579b494c145bcd6c1c04f0ee1386b098f2beadc2c",
+      "display_sha256": "b737a0a8744b8177579688b3a435c87ab1cd61a5aba46e2251ffc94b82d1462e",
+      "display_blob_sha": "8c2aa5c4b90229cdda3990c0abd9f480d86a5c98",
+      "display_original_site_sha256": "0020c89b972b7965ce4574f579b494c145bcd6c1c04f0ee1386b098f2beadc2c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-illinoensis/inat-199998452.jpg",
@@ -116,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d1ab941050bc5ac6aaed46d8c8870776cdedd670",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 216623556, photo 383123020, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98fb994cc31ca38ba46cda4a7678cd69767ef33ef610d83ca5b759192f7d6d61. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus illinoensis agrees with the indexed species desmanthus-illinoensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "98fb994cc31ca38ba46cda4a7678cd69767ef33ef610d83ca5b759192f7d6d61"
+      "sha256": "98fb994cc31ca38ba46cda4a7678cd69767ef33ef610d83ca5b759192f7d6d61",
+      "display_sha256": "b71406403b5cc5b92c55f168345bc79f64b7c881e9d817d18bdb86d704baa368",
+      "display_blob_sha": "e1d4cdaee68f5b59794d13a78ea0997e67517c3e",
+      "display_original_site_sha256": "98fb994cc31ca38ba46cda4a7678cd69767ef33ef610d83ca5b759192f7d6d61",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-illinoensis/inat-512918798.jpg",
@@ -135,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da6859415340190a334941acc824df9acc776ed3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 285361388, photo 512918798, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6cbc3a99e89a587bd530ee5a3de1439e74972ab4a0ee24ff6c047e8fbb03b632. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus illinoensis agrees with the indexed species desmanthus-illinoensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6cbc3a99e89a587bd530ee5a3de1439e74972ab4a0ee24ff6c047e8fbb03b632"
+      "sha256": "6cbc3a99e89a587bd530ee5a3de1439e74972ab4a0ee24ff6c047e8fbb03b632",
+      "display_sha256": "550b6a0bf1f9efebe5f8a22af9cd44c9029079ebf7ca91a18a0641722084aede",
+      "display_blob_sha": "e1c7f4ef9f6e11d58789471e53d1be0994ea8abe",
+      "display_original_site_sha256": "6cbc3a99e89a587bd530ee5a3de1439e74972ab4a0ee24ff6c047e8fbb03b632",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-illinoensis/inat-75382840.jpg",
@@ -154,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a288409b0147d3cf7e7f91f5f55cb3c323490c4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -162,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 47527835, photo 75382840, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b1b21012589b6132ce9838a5c46a619b6b38101ddaceabcc056e655ae3f4d548. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus illinoensis agrees with the indexed species desmanthus-illinoensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b1b21012589b6132ce9838a5c46a619b6b38101ddaceabcc056e655ae3f4d548"
+      "sha256": "b1b21012589b6132ce9838a5c46a619b6b38101ddaceabcc056e655ae3f4d548",
+      "display_sha256": "66db458f5ec7e3fe59672d8bdd2be0fdafcb8766cec80d5ae35874644f842750",
+      "display_blob_sha": "2500d2fe95c766aa5bbe1b053dcfff3d46968948",
+      "display_original_site_sha256": "b1b21012589b6132ce9838a5c46a619b6b38101ddaceabcc056e655ae3f4d548",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

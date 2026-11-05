@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d43e294c59b9bc8a2db74c28e33db6fd89d21487",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 333071780, photo 604611403, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d26a0268f24888efc1780611e6ad32f4a57269d9716ce042d6df53bdc749c26a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lupinus texensis agrees with the indexed species lupinus-texensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d26a0268f24888efc1780611e6ad32f4a57269d9716ce042d6df53bdc749c26a"
+      "sha256": "d26a0268f24888efc1780611e6ad32f4a57269d9716ce042d6df53bdc749c26a",
+      "display_sha256": "e964fe31d86cf1be379c085a12159fdf5ef980307fc891072b01909b67978bbb",
+      "display_blob_sha": "7df8288c0186d8db1eea758ab192aef00763f88f",
+      "display_original_site_sha256": "d26a0268f24888efc1780611e6ad32f4a57269d9716ce042d6df53bdc749c26a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lupinus-texensis/inat-605678229.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cc32995862d0d8f6f118a70de7680deac123cbd7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 333600789, photo 605678229, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a99c2480582163f7addbfb1d686c4ff487f1a00eb6e52edeca7faccf33f0c32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lupinus texensis agrees with the indexed species lupinus-texensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1a99c2480582163f7addbfb1d686c4ff487f1a00eb6e52edeca7faccf33f0c32"
+      "sha256": "1a99c2480582163f7addbfb1d686c4ff487f1a00eb6e52edeca7faccf33f0c32",
+      "display_sha256": "0ea21e4f2ef8737fcd5dbc4402ce8020ca215556eb98de6a5a792cac758c64de",
+      "display_blob_sha": "fb1e2490fd44525270dc374cafb66cbe8b3e5a90",
+      "display_original_site_sha256": "1a99c2480582163f7addbfb1d686c4ff487f1a00eb6e52edeca7faccf33f0c32",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lupinus-texensis/inat-606736295.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6b1d95b98b5b3c29b9ea5dbef7fce1cfa706771e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 334142816, photo 606736295, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b1d31bec8d25392ab2abb63a08865ce86ef888d143d1994bcb4cb30f845a78a4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lupinus texensis agrees with the indexed species lupinus-texensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b1d31bec8d25392ab2abb63a08865ce86ef888d143d1994bcb4cb30f845a78a4"
+      "sha256": "b1d31bec8d25392ab2abb63a08865ce86ef888d143d1994bcb4cb30f845a78a4",
+      "display_sha256": "5acf2b83a7beb7db806e33da9ccfd9b8a0de1612af8109a42cd9fb8065b736e6",
+      "display_blob_sha": "a2ca83517f2fa19d34e0c9efb69cce198cd79980",
+      "display_original_site_sha256": "b1d31bec8d25392ab2abb63a08865ce86ef888d143d1994bcb4cb30f845a78a4",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lupinus-texensis/inat-609016949.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "98cd92e2fe82176178a7c606c8ea28a69884cb9f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 335262926, photo 609016949, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e32295e1d2d1fbbe597507bbc40e32435ce2251e22e19e16d40b8fc05e2d55f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lupinus texensis agrees with the indexed species lupinus-texensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "9e32295e1d2d1fbbe597507bbc40e32435ce2251e22e19e16d40b8fc05e2d55f"
+      "sha256": "9e32295e1d2d1fbbe597507bbc40e32435ce2251e22e19e16d40b8fc05e2d55f",
+      "display_sha256": "59ced741db898b27a2f8be7b0281ce850c7c4660cf1422e13b244ac564c69456",
+      "display_blob_sha": "4d96bab609db913f76153cf8394bd495e41ab265",
+      "display_original_site_sha256": "9e32295e1d2d1fbbe597507bbc40e32435ce2251e22e19e16d40b8fc05e2d55f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lupinus-texensis/inat-623638125.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a75c6576021604930cb6e37f3fdef6d9b583f7cc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342458427, photo 623638125, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7307c018ffc3485ebe4d5e4d9f4bcdeede3330676d98aa223061b3672aac24aa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lupinus texensis agrees with the indexed species lupinus-texensis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "7307c018ffc3485ebe4d5e4d9f4bcdeede3330676d98aa223061b3672aac24aa"
+      "sha256": "7307c018ffc3485ebe4d5e4d9f4bcdeede3330676d98aa223061b3672aac24aa",
+      "display_sha256": "945daa961614b4a547bc7cc78845419bd96f0bb3d5f87e9e231bf85406951c24",
+      "display_blob_sha": "b8a959212290b6afc16e9295cdd6129ccdd61c1f",
+      "display_original_site_sha256": "7307c018ffc3485ebe4d5e4d9f4bcdeede3330676d98aa223061b3672aac24aa",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

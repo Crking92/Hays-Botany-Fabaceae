@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1bf1614006fd4ce41bc2e2033babf007fcc343ab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346822737, photo 632264664, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d74317dfae5048a23f311eb3331106057e5bd50af96ea7d90d42e5dafa0d1017. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Erythrina herbacea agrees with the indexed species erythrina-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d74317dfae5048a23f311eb3331106057e5bd50af96ea7d90d42e5dafa0d1017"
+      "sha256": "d74317dfae5048a23f311eb3331106057e5bd50af96ea7d90d42e5dafa0d1017",
+      "display_sha256": "52691b26ef4e8822bda428e2176226effc86c56d1d8d48fb0da365137dd2120d",
+      "display_blob_sha": "fc40aaf7ed75b1780b56d84c45e8fb43faa8a7d1",
+      "display_original_site_sha256": "d74317dfae5048a23f311eb3331106057e5bd50af96ea7d90d42e5dafa0d1017",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/erythrina-herbacea/inat-632264849.jpg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "790794198bdadb0ce609b8d497b34ef826cc269b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346822851, photo 632264849, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e53e982f3338348ea266d95b4379569d27b253579c53d88514d7dc8f7b96635. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Erythrina herbacea agrees with the indexed species erythrina-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8e53e982f3338348ea266d95b4379569d27b253579c53d88514d7dc8f7b96635"
+      "sha256": "8e53e982f3338348ea266d95b4379569d27b253579c53d88514d7dc8f7b96635",
+      "display_sha256": "51f5a9d54ded512870323fbb2ec7031321df8dbb1ad28ab593c441b6a3cf1b06",
+      "display_blob_sha": "5df89391db96bab62c79668db6e388c8bc757e5e",
+      "display_original_site_sha256": "8e53e982f3338348ea266d95b4379569d27b253579c53d88514d7dc8f7b96635",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/erythrina-herbacea/inat-644230712.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ec35d1447b153d678d8ef7112e9a6b6f0a5365d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353047359, photo 644230712, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a242baa7cf7d3d304f18b485206f77f8aa176d6628e7dfaff8e2aa9b2931f8c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Erythrina herbacea agrees with the indexed species erythrina-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1a242baa7cf7d3d304f18b485206f77f8aa176d6628e7dfaff8e2aa9b2931f8c"
+      "sha256": "1a242baa7cf7d3d304f18b485206f77f8aa176d6628e7dfaff8e2aa9b2931f8c",
+      "display_sha256": "cf714f727275f3869c6ba3a8b37427793c0183d0a5e40ab0ef98c2122b57bb0c",
+      "display_blob_sha": "924fb1f4fff61ee4475efeb8ea3d98c13acb868d",
+      "display_original_site_sha256": "1a242baa7cf7d3d304f18b485206f77f8aa176d6628e7dfaff8e2aa9b2931f8c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/erythrina-herbacea/inat-662956911.jpg",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cc585bfa2c89368b2b46a98bfae1f9f5627ec915",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 363196434, photo 662956911, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf6d16218cbcdbc51046ac36173614d1c3f0b4fadf168d42fff07cb7fe4b4d75. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Erythrina herbacea agrees with the indexed species erythrina-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "cf6d16218cbcdbc51046ac36173614d1c3f0b4fadf168d42fff07cb7fe4b4d75"
+      "sha256": "cf6d16218cbcdbc51046ac36173614d1c3f0b4fadf168d42fff07cb7fe4b4d75",
+      "display_sha256": "40a0053906c28f6342292352a52b502d073dd2177fac477f3882420b1be3ae24",
+      "display_blob_sha": "83c4f238610cf3d05433eb6575411ef7de2cfe97",
+      "display_original_site_sha256": "cf6d16218cbcdbc51046ac36173614d1c3f0b4fadf168d42fff07cb7fe4b4d75",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

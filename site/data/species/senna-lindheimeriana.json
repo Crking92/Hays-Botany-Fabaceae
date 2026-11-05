@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "adc5608d45860dfe72a75a553a78556ecc9f8cd8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -57,7 +57,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341618603, photo 621941531, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0d6177bf8ab14298d787a33646d804f804e94de89940b82d0356d7a0b621aff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna lindheimeriana agrees with original manifest name Senna lindheimeriana mapped to indexed species senna-lindheimeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e0d6177bf8ab14298d787a33646d804f804e94de89940b82d0356d7a0b621aff"
+      "sha256": "e0d6177bf8ab14298d787a33646d804f804e94de89940b82d0356d7a0b621aff",
+      "display_sha256": "7dc0500e24c0bf2b805d8b2e9c87e67e880807d1af4b5edcdbe3fd730f3d4266",
+      "display_blob_sha": "dad5c16112041c33c545f0c90b5d6598dc000235",
+      "display_original_site_sha256": "e0d6177bf8ab14298d787a33646d804f804e94de89940b82d0356d7a0b621aff",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-lindheimeriana/inat-622634848.jpg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9166fad6a9c66804715e28c4306f11104d76725a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341962566, photo 622634848, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc37a62aef3a1f9ca1036bee41efbde00a9e386cdf1f26c22163f9f54823bcf3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna lindheimeriana agrees with original manifest name Senna lindheimeriana mapped to indexed species senna-lindheimeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "dc37a62aef3a1f9ca1036bee41efbde00a9e386cdf1f26c22163f9f54823bcf3"
+      "sha256": "dc37a62aef3a1f9ca1036bee41efbde00a9e386cdf1f26c22163f9f54823bcf3",
+      "display_sha256": "624768fee7211dfe37d0be0b4923c291ad697bcc62cd2694238f25b12cf42f46",
+      "display_blob_sha": "025712f09dfef019bf6752123d6752e7ce88ed9d",
+      "display_original_site_sha256": "dc37a62aef3a1f9ca1036bee41efbde00a9e386cdf1f26c22163f9f54823bcf3",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-lindheimeriana/inat-622688056.jpg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d4425b9513f22798a83810c0d1b21b61a3a91504",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341988640, photo 622688056, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6a461d6f240b994ec02296d26267f89193189a3ded7a04ad93e8a3074e344705. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna lindheimeriana agrees with original manifest name Senna lindheimeriana mapped to indexed species senna-lindheimeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6a461d6f240b994ec02296d26267f89193189a3ded7a04ad93e8a3074e344705"
+      "sha256": "6a461d6f240b994ec02296d26267f89193189a3ded7a04ad93e8a3074e344705",
+      "display_sha256": "08a05d1864cfe10e85cc26d8c324c48d46922d61156c27417966242251dc34f1",
+      "display_blob_sha": "417fc28aca20d1a564930bb901f53830bbae5587",
+      "display_original_site_sha256": "6a461d6f240b994ec02296d26267f89193189a3ded7a04ad93e8a3074e344705",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-lindheimeriana/inat-623457677.jpg",
@@ -106,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ebd8b7a3e051c90370c37a74db122baf21ffab2c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342368247, photo 623457677, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1acf75f2583ae290cedcbe899a2e4a3ca8666da1d2aad33aeb5acf9d34cf34bd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna lindheimeriana agrees with original manifest name Senna lindheimeriana mapped to indexed species senna-lindheimeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1acf75f2583ae290cedcbe899a2e4a3ca8666da1d2aad33aeb5acf9d34cf34bd"
+      "sha256": "1acf75f2583ae290cedcbe899a2e4a3ca8666da1d2aad33aeb5acf9d34cf34bd",
+      "display_sha256": "4b4556040afd9180147277c3f8cb415f1ea6ca20b261cc2155615a9122d3f55a",
+      "display_blob_sha": "98c0ab8177505e43260bcb58524cffab45abd5a1",
+      "display_original_site_sha256": "1acf75f2583ae290cedcbe899a2e4a3ca8666da1d2aad33aeb5acf9d34cf34bd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-lindheimeriana/inat-624746639.jpg",
@@ -125,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c78ce73438e1ce1ebf0f6a1f3b718c3c6e903cd7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343016558, photo 624746639, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 680125a4c797dba7b032bb0c97624edf761781e96530328a96062abb0ea0b163. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna lindheimeriana agrees with original manifest name Senna lindheimeriana mapped to indexed species senna-lindheimeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "680125a4c797dba7b032bb0c97624edf761781e96530328a96062abb0ea0b163"
+      "sha256": "680125a4c797dba7b032bb0c97624edf761781e96530328a96062abb0ea0b163",
+      "display_sha256": "9d75aff4d3a396f501de74d7565fd9ec19d6395fe08defcc8196c1489faa6c28",
+      "display_blob_sha": "cf2061897f2d7ff92fd3661091e0c9a7169848f6",
+      "display_original_site_sha256": "680125a4c797dba7b032bb0c97624edf761781e96530328a96062abb0ea0b163",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

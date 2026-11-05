@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7147e81b3c0c51662b81fdcd1bd0d08247634673",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 162201346, photo 280439060, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8d2f976c896bf4f60554cce68dd397208d5681904ca67ff1ff702018a28841b5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia lutea agrees with original manifest name Neptunia lutea mapped to indexed species neptunia-lutea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8d2f976c896bf4f60554cce68dd397208d5681904ca67ff1ff702018a28841b5"
+      "sha256": "8d2f976c896bf4f60554cce68dd397208d5681904ca67ff1ff702018a28841b5",
+      "display_sha256": "591ccf3a51bd24b40e5565ae107984a60f66ecb8bddaac9f92f3c05b2209361e",
+      "display_blob_sha": "63b050966b741563c2fbb1251774bc14c771df53",
+      "display_original_site_sha256": "8d2f976c896bf4f60554cce68dd397208d5681904ca67ff1ff702018a28841b5",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-lutea/inat-280797870.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "058a918e31329ffa4ec8bce7cfb5e0f2051597db",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 162397646, photo 280797870, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 563300b21dd4592b240bddf0a90186ddc402c795326d4c57ac8279810c80df74. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia lutea agrees with original manifest name Neptunia lutea mapped to indexed species neptunia-lutea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "563300b21dd4592b240bddf0a90186ddc402c795326d4c57ac8279810c80df74"
+      "sha256": "563300b21dd4592b240bddf0a90186ddc402c795326d4c57ac8279810c80df74",
+      "display_sha256": "0709c5118166ac1a1b5f64e202b18241c0c1770830a86d786733d78447ddb8e2",
+      "display_blob_sha": "1ee247086cf136796b6927c18f1add5e87b22d6f",
+      "display_original_site_sha256": "563300b21dd4592b240bddf0a90186ddc402c795326d4c57ac8279810c80df74",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-lutea/inat-380331327.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1b7ebc31f3721522570eee73a8618e0e814fe070",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 215138064, photo 380331327, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 69cdda0d67d4cdc5a1cb2eb0e57c182bf509c48a2ef637b77b796634849d6ca2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia lutea agrees with original manifest name Neptunia lutea mapped to indexed species neptunia-lutea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "69cdda0d67d4cdc5a1cb2eb0e57c182bf509c48a2ef637b77b796634849d6ca2"
+      "sha256": "69cdda0d67d4cdc5a1cb2eb0e57c182bf509c48a2ef637b77b796634849d6ca2",
+      "display_sha256": "37dd8b30e6d164cdd021d21de68888e2926c2eebc19a9be9a5d3c2e8917bc095",
+      "display_blob_sha": "812f5cb7e97365964bba0d6d6cea3debf4e399cf",
+      "display_original_site_sha256": "69cdda0d67d4cdc5a1cb2eb0e57c182bf509c48a2ef637b77b796634849d6ca2",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-lutea/inat-380856532.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "490a77f85b9edb76ed3c5878f96928496ef52f28",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 215419462, photo 380856532, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3d1ea86e4df6f8ead7b999675d251d4ba09f4ada82f2aa3e126d53ca885d5325. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia lutea agrees with original manifest name Neptunia lutea mapped to indexed species neptunia-lutea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3d1ea86e4df6f8ead7b999675d251d4ba09f4ada82f2aa3e126d53ca885d5325"
+      "sha256": "3d1ea86e4df6f8ead7b999675d251d4ba09f4ada82f2aa3e126d53ca885d5325",
+      "display_sha256": "2c837ff8c199735a99f30b16fd28a2c27b5f90c1396097ef7c55a816e46a0429",
+      "display_blob_sha": "3d8ed2df324c8eb7f8450c9fa2add131c21e65ec",
+      "display_original_site_sha256": "3d1ea86e4df6f8ead7b999675d251d4ba09f4ada82f2aa3e126d53ca885d5325",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neptunia-lutea/inat-497761055.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e22d2f925b2eb0f8a2e1664311847342e8386643",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 277205261, photo 497761055, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2610908bdfb2342d9a0566bbe50536b3fbf37bae0a95a17aaa804498f564517d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neptunia lutea agrees with original manifest name Neptunia lutea mapped to indexed species neptunia-lutea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2610908bdfb2342d9a0566bbe50536b3fbf37bae0a95a17aaa804498f564517d"
+      "sha256": "2610908bdfb2342d9a0566bbe50536b3fbf37bae0a95a17aaa804498f564517d",
+      "display_sha256": "614427aba05eb815e9074e83c7f9467ac5a85a22c0883c7bbc5d8d85a33dac42",
+      "display_blob_sha": "45a44a13ff53f252fde53c1fb3775fb6b1b70547",
+      "display_original_site_sha256": "2610908bdfb2342d9a0566bbe50536b3fbf37bae0a95a17aaa804498f564517d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

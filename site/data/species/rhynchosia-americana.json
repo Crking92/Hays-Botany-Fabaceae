@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4544e36df84a669e52f419811d20b398c5bd5839",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 98052124, photo 163173358, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da579eb61d1c80468f3bcca7fd6a7f8f1ee9d2c04dd3c698924d074a87841052. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia americana agrees with original manifest name Rhynchosia americana mapped to indexed species rhynchosia-americana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "da579eb61d1c80468f3bcca7fd6a7f8f1ee9d2c04dd3c698924d074a87841052"
+      "sha256": "da579eb61d1c80468f3bcca7fd6a7f8f1ee9d2c04dd3c698924d074a87841052",
+      "display_sha256": "6f3cb1aee87b9d92402555563388f0e9171d8687b317eb1b30ebe1d35ca39d28",
+      "display_blob_sha": "03916372dbbbf7ff374539d215b076181425d5ec",
+      "display_original_site_sha256": "da579eb61d1c80468f3bcca7fd6a7f8f1ee9d2c04dd3c698924d074a87841052",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-americana/inat-340388981.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fab3ecb637e6f7d664fdb21c60c8d0d25c6a489c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 193750192, photo 340388981, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 37d41913e6561726b6e308924a765a8f044fa3e984e7cff6cebae535d1ff675b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia americana agrees with original manifest name Rhynchosia americana mapped to indexed species rhynchosia-americana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "37d41913e6561726b6e308924a765a8f044fa3e984e7cff6cebae535d1ff675b"
+      "sha256": "37d41913e6561726b6e308924a765a8f044fa3e984e7cff6cebae535d1ff675b",
+      "display_sha256": "3f401f2f12bbb562ca5bed52a8993a19b0032dde19cbce9d934eb6f56cf0dbd9",
+      "display_blob_sha": "0d73d4391542b324fb40f512f759a8890f8f328d",
+      "display_original_site_sha256": "37d41913e6561726b6e308924a765a8f044fa3e984e7cff6cebae535d1ff675b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-americana/inat-626364217.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2db6757579da993abec19c5edb442d6971d5f34e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343813985, photo 626364217, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8f377ce674cec9c118bb2836ef26ba3c948902e98d411bbe9728629cba4a0f99. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia americana agrees with original manifest name Rhynchosia americana mapped to indexed species rhynchosia-americana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8f377ce674cec9c118bb2836ef26ba3c948902e98d411bbe9728629cba4a0f99"
+      "sha256": "8f377ce674cec9c118bb2836ef26ba3c948902e98d411bbe9728629cba4a0f99",
+      "display_sha256": "7a668286c7128089ea81b0402a79fbd03871d3a60e86f140e86d0f44a25fa119",
+      "display_blob_sha": "6f615d1d73f4fd00cfa024e8f5c01967d55f019b",
+      "display_original_site_sha256": "8f377ce674cec9c118bb2836ef26ba3c948902e98d411bbe9728629cba4a0f99",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-americana/inat-633895013.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "60d9ce752a715ca295c8644931a1cfdf9b713ed1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347644722, photo 633895013, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ccd442e151189fd5392bead125c69de27f1510865dc5ae6febc646d8197b66cb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia americana agrees with original manifest name Rhynchosia americana mapped to indexed species rhynchosia-americana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ccd442e151189fd5392bead125c69de27f1510865dc5ae6febc646d8197b66cb"
+      "sha256": "ccd442e151189fd5392bead125c69de27f1510865dc5ae6febc646d8197b66cb",
+      "display_sha256": "93845aa949e70a2bf7bdd6f1782f8336ef3f5f144e4b21fadee6cf1d98ead993",
+      "display_blob_sha": "6dc379ac77491e409836a281d81948b43bf2b7bd",
+      "display_original_site_sha256": "ccd442e151189fd5392bead125c69de27f1510865dc5ae6febc646d8197b66cb",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-americana/inat-633940307.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b98648cfaecd0fb2e442ef373fb43615cb056a37",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347667442, photo 633940307, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: aec6e2dfff31fa58234f19384361173002c1941cf3a0d9ca0405c4182d6cd539. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia americana agrees with original manifest name Rhynchosia americana mapped to indexed species rhynchosia-americana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "aec6e2dfff31fa58234f19384361173002c1941cf3a0d9ca0405c4182d6cd539"
+      "sha256": "aec6e2dfff31fa58234f19384361173002c1941cf3a0d9ca0405c4182d6cd539",
+      "display_sha256": "8475f27530273ec1e40890fc6857f95faae4cde3b65ac779af7a0283336cb012",
+      "display_blob_sha": "bb28cd4eaeb85721409cfc09556ba7004843cfb3",
+      "display_original_site_sha256": "aec6e2dfff31fa58234f19384361173002c1941cf3a0d9ca0405c4182d6cd539",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

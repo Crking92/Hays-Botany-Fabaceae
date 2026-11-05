@@ -78,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3c31080d02ef3d6af7730c60dadca9294532a54d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 15387092, photo 23060906, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6e59ede1e0c78fb171b73daa955bfead185958e5756a231f329362a7119f6d61. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia wrightii agrees with original manifest name Senegalia wrightii mapped to indexed species senegalia-wrightii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6e59ede1e0c78fb171b73daa955bfead185958e5756a231f329362a7119f6d61"
+      "sha256": "6e59ede1e0c78fb171b73daa955bfead185958e5756a231f329362a7119f6d61",
+      "display_sha256": "36d543f23960a32640d6725d6b297a3c4c143685572033a25c1a16cb2155d7a5",
+      "display_blob_sha": "bd388d63c293ec383b9d500d5ee562ab874378ea",
+      "display_original_site_sha256": "6e59ede1e0c78fb171b73daa955bfead185958e5756a231f329362a7119f6d61",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-wrightii/inat-391190622.jpeg",
@@ -97,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f60bbf9005fa10970ad25ee5d4f9ebabe670aace",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 220924714, photo 391190622, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 033c6839dfc8ebb1344861a025f4a41a9f5c0cb97147336f6dd2e1b93fe66299. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia wrightii agrees with original manifest name Senegalia wrightii mapped to indexed species senegalia-wrightii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "033c6839dfc8ebb1344861a025f4a41a9f5c0cb97147336f6dd2e1b93fe66299"
+      "sha256": "033c6839dfc8ebb1344861a025f4a41a9f5c0cb97147336f6dd2e1b93fe66299",
+      "display_sha256": "34b0c5cd9c676b3da476cb5b0919f0b00747fa0e1bedd2228a1f6f7a5c2591a7",
+      "display_blob_sha": "72811d38055b9982c01e6772f5828c460df5cf08",
+      "display_original_site_sha256": "033c6839dfc8ebb1344861a025f4a41a9f5c0cb97147336f6dd2e1b93fe66299",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-wrightii/inat-404143381.jpeg",
@@ -116,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9bd16a4a98f074889d0bcc2d8210b9bb51ceb994",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 227791251, photo 404143381, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4a1f87c613ff1f01a2f97c85aeaa2592382de99b60f452ee3690b89f075c0ad1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia wrightii agrees with original manifest name Senegalia wrightii mapped to indexed species senegalia-wrightii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4a1f87c613ff1f01a2f97c85aeaa2592382de99b60f452ee3690b89f075c0ad1"
+      "sha256": "4a1f87c613ff1f01a2f97c85aeaa2592382de99b60f452ee3690b89f075c0ad1",
+      "display_sha256": "cb59e5f43838803981a6dc8192899b55cafac089c77637c0b91d7829d8e5569e",
+      "display_blob_sha": "7f4967ac4a1878294c553e3608cac7109e3dc8f9",
+      "display_original_site_sha256": "4a1f87c613ff1f01a2f97c85aeaa2592382de99b60f452ee3690b89f075c0ad1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-wrightii/inat-645412195.jpg",
@@ -135,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "278c20bda2fbc37e4f92c95437fd63def1bd6292",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353758324, photo 645412195, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e12c66cccc7ae366752fc1e82a16954f2d8c17a1b4f69942e281df55317ec910. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia wrightii agrees with original manifest name Senegalia wrightii mapped to indexed species senegalia-wrightii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e12c66cccc7ae366752fc1e82a16954f2d8c17a1b4f69942e281df55317ec910"
+      "sha256": "e12c66cccc7ae366752fc1e82a16954f2d8c17a1b4f69942e281df55317ec910",
+      "display_sha256": "ddbda167a049cae63bfaaa67157bae601377bdb3453d1d1855a6152fd9639ec4",
+      "display_blob_sha": "d3d0be6618d912a8987de7aff8fe179dd4f3263a",
+      "display_original_site_sha256": "e12c66cccc7ae366752fc1e82a16954f2d8c17a1b4f69942e281df55317ec910",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senegalia-wrightii/inat-647235299.jpg",
@@ -154,7 +174,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eaaa4bf2671709d35b46e3bab3bbffd4a1db2fd1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -162,7 +182,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354822585, photo 647235299, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 816cfa37bae7a285fa097cb4d1201002daa90b8d5f06dca1b212f7ffb731351e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senegalia wrightii agrees with original manifest name Senegalia wrightii mapped to indexed species senegalia-wrightii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "816cfa37bae7a285fa097cb4d1201002daa90b8d5f06dca1b212f7ffb731351e"
+      "sha256": "816cfa37bae7a285fa097cb4d1201002daa90b8d5f06dca1b212f7ffb731351e",
+      "display_sha256": "0262e7b17c71588625fb2595991a9f6914ddb3623e7f88e8d74f0917e08103fc",
+      "display_blob_sha": "ac0a334ab5ccb9f5a10f509dcd85cdf3b85f7fec",
+      "display_original_site_sha256": "816cfa37bae7a285fa097cb4d1201002daa90b8d5f06dca1b212f7ffb731351e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

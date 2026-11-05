@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6436bc6ed03e9040927367ff3bffca8aad503834",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 279389212, photo 501704662, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3577799ad2a7878a7ffc4e82fbf30dfbbdb1b024112f9cc59d9ee2b958d6a702. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago sativa agrees with the indexed species medicago-sativa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3577799ad2a7878a7ffc4e82fbf30dfbbdb1b024112f9cc59d9ee2b958d6a702"
+      "sha256": "3577799ad2a7878a7ffc4e82fbf30dfbbdb1b024112f9cc59d9ee2b958d6a702",
+      "display_sha256": "dd80a91f995f62633cd2072b7b33a9ec76f25d698c7ef3477d567debfe8dd801",
+      "display_blob_sha": "7cdf18a86c5556f0ec22efbb7157704e907b23e2",
+      "display_original_site_sha256": "3577799ad2a7878a7ffc4e82fbf30dfbbdb1b024112f9cc59d9ee2b958d6a702",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-sativa/inat-621143891.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c15e017ee2fdc93249f74668629e40789556bbe7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341233089, photo 621143891, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b7503dc7b1595f765a85311617b6887c18acb5e4d05ecfedf8627226a3468f9d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago sativa agrees with the indexed species medicago-sativa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b7503dc7b1595f765a85311617b6887c18acb5e4d05ecfedf8627226a3468f9d"
+      "sha256": "b7503dc7b1595f765a85311617b6887c18acb5e4d05ecfedf8627226a3468f9d",
+      "display_sha256": "8c7515f4143029fc464d44ec3e484f1acf4ee6857920692cf95d5a690507297f",
+      "display_blob_sha": "13d8a18b012a996058846e922ec28445903c6bff",
+      "display_original_site_sha256": "b7503dc7b1595f765a85311617b6887c18acb5e4d05ecfedf8627226a3468f9d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-sativa/inat-649063217.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ed8bbb1bf6cd4d4f61db38fd9beee1afc7c0d08",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355919879, photo 649063217, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 84353637fe666f2723759cc14bbad45f85cfd1cced6d564948f166a4ba6a8c5a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago sativa agrees with the indexed species medicago-sativa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "84353637fe666f2723759cc14bbad45f85cfd1cced6d564948f166a4ba6a8c5a"
+      "sha256": "84353637fe666f2723759cc14bbad45f85cfd1cced6d564948f166a4ba6a8c5a",
+      "display_sha256": "3793d7ca2d2dc4972ee561569d46f54642274539bf7ff0b68d635325be80eafe",
+      "display_blob_sha": "738cdf94aa0fbc1021c7155bf9f77954760d4106",
+      "display_original_site_sha256": "84353637fe666f2723759cc14bbad45f85cfd1cced6d564948f166a4ba6a8c5a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-sativa/inat-260652173.jpeg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8181a735056021e304db0430e61e689cd6364efc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 151095014, photo 260652173, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a6855eb4f2743f1ce85a8d96449cc1e23a5efb444ec26ebcb4ee8af14848b1d9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago sativa agrees with the indexed species medicago-sativa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a6855eb4f2743f1ce85a8d96449cc1e23a5efb444ec26ebcb4ee8af14848b1d9"
+      "sha256": "a6855eb4f2743f1ce85a8d96449cc1e23a5efb444ec26ebcb4ee8af14848b1d9",
+      "display_sha256": "a98b264154fd52e4a9938f9fc2546dc2574b9400eddbfb1620527b06389af9e7",
+      "display_blob_sha": "1ef2a085b1d620e380160c039d1dd6ef1ee1d1d4",
+      "display_original_site_sha256": "a6855eb4f2743f1ce85a8d96449cc1e23a5efb444ec26ebcb4ee8af14848b1d9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-sativa/inat-367309780.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b3f60115de2f5bb5db7fdc92caf80206b34f282",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 207645651, photo 367309780, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 137a78ee70d5fd6e9109e4ca41de5c22ce797f0a99d9a16a187a23e78bbe2716. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago sativa agrees with the indexed species medicago-sativa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "137a78ee70d5fd6e9109e4ca41de5c22ce797f0a99d9a16a187a23e78bbe2716"
+      "sha256": "137a78ee70d5fd6e9109e4ca41de5c22ce797f0a99d9a16a187a23e78bbe2716",
+      "display_sha256": "73f0cbeff9a20a161e09320630cabd9416009a832e871c7ce1b4cf89f6f246bd",
+      "display_blob_sha": "9916efdab7aedeebcee139eb49b5d1b386472d6c",
+      "display_original_site_sha256": "137a78ee70d5fd6e9109e4ca41de5c22ce797f0a99d9a16a187a23e78bbe2716",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

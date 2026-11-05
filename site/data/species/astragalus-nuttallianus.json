@@ -104,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "094fdb6ba497e67abf3f9133fe4b5b533202f71a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341640806, photo 621988567, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: ee793f40dadf0aa16935c50f18adb6bc64e0e13cab85c826701f80b65a1efcb5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus nuttallianus agrees with indexed species astragalus-nuttallianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ee793f40dadf0aa16935c50f18adb6bc64e0e13cab85c826701f80b65a1efcb5"
+      "sha256": "ee793f40dadf0aa16935c50f18adb6bc64e0e13cab85c826701f80b65a1efcb5",
+      "display_sha256": "5f753f3f098568fc3f5b58a6bbea31d147be056b7a141dda6ed6bb6192c08684",
+      "display_blob_sha": "669a671acf43ea192cdaa4bebe9d560c65f89358",
+      "display_original_site_sha256": "ee793f40dadf0aa16935c50f18adb6bc64e0e13cab85c826701f80b65a1efcb5",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/astragalus-nuttallianus/inat-624340643.jpg",
@@ -142,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d372379d1d92518f32434fd634e40933b499a19a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +155,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343381943, photo 625490569, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f545b2a5e1a4528055923201641f3af595daa31ebae90c7ab745655930a3ce1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus nuttallianus agrees with indexed species astragalus-nuttallianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7f545b2a5e1a4528055923201641f3af595daa31ebae90c7ab745655930a3ce1"
+      "sha256": "7f545b2a5e1a4528055923201641f3af595daa31ebae90c7ab745655930a3ce1",
+      "display_sha256": "3c21431543bc197b92c4a51cd29858255a2a640d5c382189b48c35c4d2e969da",
+      "display_blob_sha": "754adafdc8e9fe7fb63245419845613ba071b206",
+      "display_original_site_sha256": "7f545b2a5e1a4528055923201641f3af595daa31ebae90c7ab745655930a3ce1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/astragalus-nuttallianus/inat-629129885.jpg",
@@ -161,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "78537d63e3cce0f4e4078d8c04cbfb63e8b0f629",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +179,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345231288, photo 629129885, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f79b14632908c6c1edaeaa515ca7a3a799d51c44fea114506e6053df2d47b93. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus nuttallianus agrees with indexed species astragalus-nuttallianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5f79b14632908c6c1edaeaa515ca7a3a799d51c44fea114506e6053df2d47b93"
+      "sha256": "5f79b14632908c6c1edaeaa515ca7a3a799d51c44fea114506e6053df2d47b93",
+      "display_sha256": "af7fc3f2701741ecfd8fe163bef985de2dc2de48501c1c7a90a02e176204c77b",
+      "display_blob_sha": "6eafc1eb88249c6f6142d6b7b2d4cd2c3256dd25",
+      "display_original_site_sha256": "5f79b14632908c6c1edaeaa515ca7a3a799d51c44fea114506e6053df2d47b93",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/astragalus-nuttallianus/inat-632244491.jpg",
@@ -180,7 +195,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a6c936719016c6690d8df71662a8d2bca44e4f33",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -188,7 +203,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346812797, photo 632244491, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ec9995cf0794879e1abac82c6b7cacdff7c731f9d8f87d4f07be628729a88b4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus nuttallianus macilentus agrees with indexed species astragalus-nuttallianus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6ec9995cf0794879e1abac82c6b7cacdff7c731f9d8f87d4f07be628729a88b4"
+      "sha256": "6ec9995cf0794879e1abac82c6b7cacdff7c731f9d8f87d4f07be628729a88b4",
+      "display_sha256": "f58acae6cde2706005e290979fa0acf59c7b903e7d4551146f5d575b9b7a8242",
+      "display_blob_sha": "7729a3f99ebf02ec03dab9e07ecd3c87222b2743",
+      "display_original_site_sha256": "6ec9995cf0794879e1abac82c6b7cacdff7c731f9d8f87d4f07be628729a88b4",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

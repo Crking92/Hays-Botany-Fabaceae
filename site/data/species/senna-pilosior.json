@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a00da20281ff0cd606d92ccaa405d3f5690c87cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 232108855, photo 412019121, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 20651b00f7e07e948500fe4abdf918c314176a2aa3ffc9aedd389099cda31a51. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna pilosior agrees with original manifest name Senna pilosior mapped to indexed species senna-pilosior; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "20651b00f7e07e948500fe4abdf918c314176a2aa3ffc9aedd389099cda31a51"
+      "sha256": "20651b00f7e07e948500fe4abdf918c314176a2aa3ffc9aedd389099cda31a51",
+      "display_sha256": "0e13468f8aa13163ffd112bee94fbc05f375727fc2d86ad06f11d02e77e96f61",
+      "display_blob_sha": "c88953707e34154999fd9fa75a4829ff7f789c8a",
+      "display_original_site_sha256": "20651b00f7e07e948500fe4abdf918c314176a2aa3ffc9aedd389099cda31a51",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-pilosior/inat-426481347.jpeg",
@@ -126,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "af1dda8f99468910408b0ff570ebd97e0facd4bd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341438904, photo 621573145, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d72a76beac222a8d5c7a5d53ee8a37702818bbc6f5decad103f2734b28ae2b76. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna pilosior agrees with original manifest name Senna pilosior mapped to indexed species senna-pilosior; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d72a76beac222a8d5c7a5d53ee8a37702818bbc6f5decad103f2734b28ae2b76"
+      "sha256": "d72a76beac222a8d5c7a5d53ee8a37702818bbc6f5decad103f2734b28ae2b76",
+      "display_sha256": "7ed60e77a7e9641fe09a92a639568c455b4e510c5723e472d0fe9febf1c4df12",
+      "display_blob_sha": "2006f90fb2ef3f4e50db162030a3bbec116fa2a5",
+      "display_original_site_sha256": "d72a76beac222a8d5c7a5d53ee8a37702818bbc6f5decad103f2734b28ae2b76",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-pilosior/inat-622704198.jpg",
@@ -145,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d2377402b5bee35683193634009db7c8f44d3136",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341996334, photo 622704198, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a05a57e4d7080e61f6ecf8c46a6ce731187663d420f20738ede27df275077510. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna pilosior agrees with original manifest name Senna pilosior mapped to indexed species senna-pilosior; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a05a57e4d7080e61f6ecf8c46a6ce731187663d420f20738ede27df275077510"
+      "sha256": "a05a57e4d7080e61f6ecf8c46a6ce731187663d420f20738ede27df275077510",
+      "display_sha256": "3b11e49807ca4362f52af0f1f6f4154693808fd59d8cdcfefbd0744e245037c3",
+      "display_blob_sha": "7d2369efa2973245f53cf0860e9aa20880d3ec45",
+      "display_original_site_sha256": "a05a57e4d7080e61f6ecf8c46a6ce731187663d420f20738ede27df275077510",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-pilosior/inat-642175030.jpg",

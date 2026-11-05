@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "42bb9357a9c475b7a785044d1ba967833ebb3ec9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342504401, photo 623734084, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f0512b63640b98384a6ba64636b784b98f24e453b89e3908dcec4c1a1744cadc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Styphnolobium affine agrees with original manifest name Styphnolobium affine mapped to indexed species styphnolobium-affine; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "f0512b63640b98384a6ba64636b784b98f24e453b89e3908dcec4c1a1744cadc"
+      "sha256": "f0512b63640b98384a6ba64636b784b98f24e453b89e3908dcec4c1a1744cadc",
+      "display_sha256": "0130c54cf6f3e2537454b39c0634124eb87ce80726f689e4117755f3bf87416d",
+      "display_blob_sha": "12a7be32401930407946e3fcf82a154295785520",
+      "display_original_site_sha256": "f0512b63640b98384a6ba64636b784b98f24e453b89e3908dcec4c1a1744cadc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/styphnolobium-affine/inat-623928649.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "536e5b5ad7b6f96b2c0f5df0e79b26a713ee984d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342601291, photo 623928649, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1f5aa52a3cf728a00bf6c717b160a3aa9caf1843b9f0115edce9aaf1027b3105. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Styphnolobium affine agrees with original manifest name Styphnolobium affine mapped to indexed species styphnolobium-affine; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1f5aa52a3cf728a00bf6c717b160a3aa9caf1843b9f0115edce9aaf1027b3105"
+      "sha256": "1f5aa52a3cf728a00bf6c717b160a3aa9caf1843b9f0115edce9aaf1027b3105",
+      "display_sha256": "227522512df46888afdcfcc7b2dd9593b7a65d037489047179078a4681eb2822",
+      "display_blob_sha": "86be5d4c3ecfa15bc4f423169850822748f1c223",
+      "display_original_site_sha256": "1f5aa52a3cf728a00bf6c717b160a3aa9caf1843b9f0115edce9aaf1027b3105",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/styphnolobium-affine/inat-625490782.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b69905175b0b563bed5c8a99edc6f1722b2370ab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343382054, photo 625490782, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ef9fe4d9bb770f899a703734a42f1aa30c5d08dc9142fa43d89b86bdee33f860. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Styphnolobium affine agrees with original manifest name Styphnolobium affine mapped to indexed species styphnolobium-affine; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ef9fe4d9bb770f899a703734a42f1aa30c5d08dc9142fa43d89b86bdee33f860"
+      "sha256": "ef9fe4d9bb770f899a703734a42f1aa30c5d08dc9142fa43d89b86bdee33f860",
+      "display_sha256": "e765d6615e90b532def92dc37c020c0d7ca41830f9fd97e8473688a8c2014428",
+      "display_blob_sha": "83e14e9f7f98c33f36ea3c5e58967faaa913c581",
+      "display_original_site_sha256": "ef9fe4d9bb770f899a703734a42f1aa30c5d08dc9142fa43d89b86bdee33f860",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/styphnolobium-affine/inat-627292377.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d0d84eb5d5b5138b73d2511ef8a1eaff6a58bc40",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344289496, photo 627292377, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0455d1cf285236b01378222751ebd5760adfd9bf22695c3b5a0692f6049075c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Styphnolobium affine agrees with original manifest name Styphnolobium affine mapped to indexed species styphnolobium-affine; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a0455d1cf285236b01378222751ebd5760adfd9bf22695c3b5a0692f6049075c"
+      "sha256": "a0455d1cf285236b01378222751ebd5760adfd9bf22695c3b5a0692f6049075c",
+      "display_sha256": "30d3354b5831da4499a3ca598ea37095ef87a352e2de189aae178e4af7ccb139",
+      "display_blob_sha": "bc009a3ac8349a7f44775a87c0fa786a96438edb",
+      "display_original_site_sha256": "a0455d1cf285236b01378222751ebd5760adfd9bf22695c3b5a0692f6049075c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/styphnolobium-affine/inat-629970559.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8c5bd03dbaa6194f73e9cac0e965706e859401e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345657989, photo 629970559, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a57502c32e793e38085deb2ff7a00c240557c30c815dd9fd04fde7e204e3a6dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Styphnolobium affine agrees with original manifest name Styphnolobium affine mapped to indexed species styphnolobium-affine; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a57502c32e793e38085deb2ff7a00c240557c30c815dd9fd04fde7e204e3a6dd"
+      "sha256": "a57502c32e793e38085deb2ff7a00c240557c30c815dd9fd04fde7e204e3a6dd",
+      "display_sha256": "ad74ffb035768857ba7f726f0f06bc203eac314952f7888e7c9d60dacd2dc903",
+      "display_blob_sha": "9452bdb158f12d7828a68584a3b4ae03192a2aaf",
+      "display_original_site_sha256": "a57502c32e793e38085deb2ff7a00c240557c30c815dd9fd04fde7e204e3a6dd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

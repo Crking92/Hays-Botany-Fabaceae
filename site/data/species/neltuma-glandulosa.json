@@ -93,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05c6cf817e4d2b9d0fc8ee3e428015083895e570",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -101,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342435042, photo 623592025, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a85d2299d80df44ca85344a326f2458b6002fcedc584d4b5a5500d9c17d5fe88. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neltuma glandulosa agrees with original manifest name Neltuma glandulosa mapped to indexed species neltuma-glandulosa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a85d2299d80df44ca85344a326f2458b6002fcedc584d4b5a5500d9c17d5fe88"
+      "sha256": "a85d2299d80df44ca85344a326f2458b6002fcedc584d4b5a5500d9c17d5fe88",
+      "display_sha256": "e66d3e065f1c820360105a0f9e3e749814e7a8722f6375ef5ccb6b442ab7b0ac",
+      "display_blob_sha": "3b070b4d81ae36df6eb7d5007f23f1c27e5f4e26",
+      "display_original_site_sha256": "a85d2299d80df44ca85344a326f2458b6002fcedc584d4b5a5500d9c17d5fe88",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neltuma-glandulosa/inat-623667988.jpg",
@@ -112,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f757f1f8bc5855b7a26f21851f0e0d886b3a5aac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -120,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342472976, photo 623667988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a5281de5d0ceaedbd4696ec83a53f5eb81c43042b01b051c43596928ec1441c3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neltuma glandulosa agrees with original manifest name Neltuma glandulosa mapped to indexed species neltuma-glandulosa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a5281de5d0ceaedbd4696ec83a53f5eb81c43042b01b051c43596928ec1441c3"
+      "sha256": "a5281de5d0ceaedbd4696ec83a53f5eb81c43042b01b051c43596928ec1441c3",
+      "display_sha256": "245b8d683003f81fcb1981e486ae8bb6b43d1fd28335b59a5a5c3b2c6eebbbea",
+      "display_blob_sha": "105c3e36e858a635a24b61387192c712792b49e8",
+      "display_original_site_sha256": "a5281de5d0ceaedbd4696ec83a53f5eb81c43042b01b051c43596928ec1441c3",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neltuma-glandulosa/inat-623672958.jpg",
@@ -131,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "72f80edc797d3e30994adea2c8e84d78463b3777",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -139,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342475556, photo 623672958, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bdbfe2d3cc74e10403dcd83d9500d35dba8306967f2a469c63dde40f4c50bffa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neltuma glandulosa agrees with original manifest name Neltuma glandulosa mapped to indexed species neltuma-glandulosa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "bdbfe2d3cc74e10403dcd83d9500d35dba8306967f2a469c63dde40f4c50bffa"
+      "sha256": "bdbfe2d3cc74e10403dcd83d9500d35dba8306967f2a469c63dde40f4c50bffa",
+      "display_sha256": "55cb1b20fe77d30563f5219e134dcfc066392875be8afe672f95233c67de1bdb",
+      "display_blob_sha": "76059e350f0c4162f52ffe7156b76c4c7033d9dd",
+      "display_original_site_sha256": "bdbfe2d3cc74e10403dcd83d9500d35dba8306967f2a469c63dde40f4c50bffa",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neltuma-glandulosa/inat-623734246.jpg",
@@ -150,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f2fdf315a181bc3a443d7638609fa07c14162779",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -158,7 +173,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342504477, photo 623734246, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b68b92756829594dd9d3cd00b1ad0939a58b814cd08bd7f2a4e92d52972e09f1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neltuma glandulosa agrees with original manifest name Neltuma glandulosa mapped to indexed species neltuma-glandulosa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b68b92756829594dd9d3cd00b1ad0939a58b814cd08bd7f2a4e92d52972e09f1"
+      "sha256": "b68b92756829594dd9d3cd00b1ad0939a58b814cd08bd7f2a4e92d52972e09f1",
+      "display_sha256": "b86dad56ef58c67fc9dd8bbb48385193c65c7ccf1d425ecfcffb5e466be5cec1",
+      "display_blob_sha": "16f269bf5953bfc31705213e7adc09b522fcafa0",
+      "display_original_site_sha256": "b68b92756829594dd9d3cd00b1ad0939a58b814cd08bd7f2a4e92d52972e09f1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/neltuma-glandulosa/inat-624747317.jpg",
@@ -169,7 +189,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "43c83dea69bf0d59f981640c14b3f38ad6819d1c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -177,7 +197,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343017106, photo 624747317, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e18cdae019231aaba8f71a88d610c7dffa89491426812e0a2e5b8e422d12c39e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Neltuma glandulosa agrees with original manifest name Neltuma glandulosa mapped to indexed species neltuma-glandulosa; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e18cdae019231aaba8f71a88d610c7dffa89491426812e0a2e5b8e422d12c39e"
+      "sha256": "e18cdae019231aaba8f71a88d610c7dffa89491426812e0a2e5b8e422d12c39e",
+      "display_sha256": "9c51364af84b714d2b10556e5ee12cf9382647684920b0cbc8989fd12d1a1236",
+      "display_blob_sha": "1da885aa3e96b7bb12fb9d8d030983aabf0332bc",
+      "display_original_site_sha256": "e18cdae019231aaba8f71a88d610c7dffa89491426812e0a2e5b8e422d12c39e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

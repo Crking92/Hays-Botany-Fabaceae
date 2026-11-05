@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b1050c60947840b2742a1161825a66aa57741516",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 2879622, photo 3288865, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a20aadf7b4bf8be32d2d10aebbc93fc70c1d6ef2e67e7e4719ddfd710fe99d3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana ludoviciana agrees with original manifest name Vicia ludoviciana var. ludoviciana mapped to indexed species vicia-ludoviciana-var-ludoviciana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0a20aadf7b4bf8be32d2d10aebbc93fc70c1d6ef2e67e7e4719ddfd710fe99d3"
+      "sha256": "0a20aadf7b4bf8be32d2d10aebbc93fc70c1d6ef2e67e7e4719ddfd710fe99d3",
+      "display_sha256": "aeaee6cdbc543ae20dc2f0f5b0454e0495656281c1ce3ffe0cce881e8fdcd322",
+      "display_blob_sha": "349cfdac0214047bbde7614b3c3f585ca2bdfe37",
+      "display_original_site_sha256": "0a20aadf7b4bf8be32d2d10aebbc93fc70c1d6ef2e67e7e4719ddfd710fe99d3",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

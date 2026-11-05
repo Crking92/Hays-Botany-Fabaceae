@@ -71,7 +71,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "596f980c9b958c05bc00e167f216ae530c3aabd5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +79,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341014377, photo 620693864, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a1fee67e1f311a213c416bf5e68c509e6d7d87b2ae018fd11797d5b43f2e31cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cercis canadensis texensis agrees with indexed species cercis-canadensis-subsp-texensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a1fee67e1f311a213c416bf5e68c509e6d7d87b2ae018fd11797d5b43f2e31cc"
+      "sha256": "a1fee67e1f311a213c416bf5e68c509e6d7d87b2ae018fd11797d5b43f2e31cc",
+      "display_sha256": "9da4baa3b4517ba0e5b7089023abb0ebd71350d23048d797ece363a866036d03",
+      "display_blob_sha": "6a4f969488ae8c7c7ca6628b66259c932fbc3614",
+      "display_original_site_sha256": "a1fee67e1f311a213c416bf5e68c509e6d7d87b2ae018fd11797d5b43f2e31cc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cercis-canadensis-subsp-texensis/inat-624540331.jpg",
@@ -90,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9df06d23041ddf7e3cc7bd82857ab369fe981c8e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +103,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342913240, photo 624540331, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a460d6662115cfe936ea13030027d7cd6df92275f003e5fc3b4a743b5304445d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cercis canadensis texensis agrees with indexed species cercis-canadensis-subsp-texensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a460d6662115cfe936ea13030027d7cd6df92275f003e5fc3b4a743b5304445d"
+      "sha256": "a460d6662115cfe936ea13030027d7cd6df92275f003e5fc3b4a743b5304445d",
+      "display_sha256": "95259df4718b826c677186e12944b2ffd72b08da1e2c03315672e3c23dbd21ea",
+      "display_blob_sha": "2fd2504ff52811ba86883a1977f4b88246c4e656",
+      "display_original_site_sha256": "a460d6662115cfe936ea13030027d7cd6df92275f003e5fc3b4a743b5304445d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cercis-canadensis-subsp-texensis/inat-624660276.jpg",
@@ -109,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae611bf90a031757db885144ab06dada9bbaf3a9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342973463, photo 624660276, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2cc49464df726bec787a4e159414840a6dd03d0ebf42e4a4043b661b0b6a907d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cercis canadensis texensis agrees with indexed species cercis-canadensis-subsp-texensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2cc49464df726bec787a4e159414840a6dd03d0ebf42e4a4043b661b0b6a907d"
+      "sha256": "2cc49464df726bec787a4e159414840a6dd03d0ebf42e4a4043b661b0b6a907d",
+      "display_sha256": "57eb5775cf77fbf774a81961df001bf2766447b69df5110d8823cc6bc5f2ff8b",
+      "display_blob_sha": "dce3471324e07ea4c421e914ff0886a3baed1536",
+      "display_original_site_sha256": "2cc49464df726bec787a4e159414840a6dd03d0ebf42e4a4043b661b0b6a907d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cercis-canadensis-subsp-texensis/inat-630250225.jpg",
@@ -128,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c0bdf9687dbe6fbdad5bbb462d83d04bb557caa8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345803176, photo 630250225, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 090de1be14bbadd5bd24158ca82073213c45f066ccfe7f3ade4278393fb1b2be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Cercis canadensis texensis agrees with indexed species cercis-canadensis-subsp-texensis; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "090de1be14bbadd5bd24158ca82073213c45f066ccfe7f3ade4278393fb1b2be"
+      "sha256": "090de1be14bbadd5bd24158ca82073213c45f066ccfe7f3ade4278393fb1b2be",
+      "display_sha256": "56a4982b89651b82538e5bac14041f2c49b9bec77e629dbe7c3d577079c6080a",
+      "display_blob_sha": "f721fd1b954fe53656c23fbb5113ced66b0d3dde",
+      "display_original_site_sha256": "090de1be14bbadd5bd24158ca82073213c45f066ccfe7f3ade4278393fb1b2be",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cercis-canadensis-subsp-texensis/inat-633424667.jpg",

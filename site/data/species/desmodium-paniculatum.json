@@ -46,7 +46,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "56afd04160bd7720e82913c4e34989832dd613b5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -54,7 +54,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 350944631, photo 640375642, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b1e60cff8de6ba7fa50aa19a0ecb1668a4035ad13f183f51ec45298f0ec1761. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium paniculatum agrees with the indexed species desmodium-paniculatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0b1e60cff8de6ba7fa50aa19a0ecb1668a4035ad13f183f51ec45298f0ec1761"
+      "sha256": "0b1e60cff8de6ba7fa50aa19a0ecb1668a4035ad13f183f51ec45298f0ec1761",
+      "display_sha256": "4367f259a00d032b3000cc4d59f6089c0dff3bc6d1a866ebfc7af490df8037c7",
+      "display_blob_sha": "691d3e49e4fb985d0c20d9425d9c33516860c948",
+      "display_original_site_sha256": "0b1e60cff8de6ba7fa50aa19a0ecb1668a4035ad13f183f51ec45298f0ec1761",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-paniculatum/inat-645424652.jpg",
@@ -65,7 +70,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "42e3471c966bf0f9a642d49ae878f9e775bf3c98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +78,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353765575, photo 645424652, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa204f198815c68e4a63bd62a1ff9c695c5ea3b7d5462d813a4836022aae0919. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium paniculatum agrees with the indexed species desmodium-paniculatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "fa204f198815c68e4a63bd62a1ff9c695c5ea3b7d5462d813a4836022aae0919"
+      "sha256": "fa204f198815c68e4a63bd62a1ff9c695c5ea3b7d5462d813a4836022aae0919",
+      "display_sha256": "79e183020095eaddc1b832a34ac5c306689adb76cfc7b20a6618f8aaa30841d3",
+      "display_blob_sha": "4072fea6eb4636026cb2ee59bba7478ad8b5d6f8",
+      "display_original_site_sha256": "fa204f198815c68e4a63bd62a1ff9c695c5ea3b7d5462d813a4836022aae0919",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-paniculatum/inat-646066120.jpg",
@@ -84,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ff52b51eeb90549b39063a31a89167e1375f94e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +102,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354121112, photo 646066120, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d058f4d8562511d54a6a02b636d40cd7c8062fc29c5d2612a40e8e5b46c1d4ad. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium paniculatum agrees with the indexed species desmodium-paniculatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d058f4d8562511d54a6a02b636d40cd7c8062fc29c5d2612a40e8e5b46c1d4ad"
+      "sha256": "d058f4d8562511d54a6a02b636d40cd7c8062fc29c5d2612a40e8e5b46c1d4ad",
+      "display_sha256": "d0a96db52320a55b57c0182a584656eb3ec3d95ad9900f18994ab2e24b230a91",
+      "display_blob_sha": "0dcfb3d6fb36a40c5cfc2e21a66a476cecce74a0",
+      "display_original_site_sha256": "d058f4d8562511d54a6a02b636d40cd7c8062fc29c5d2612a40e8e5b46c1d4ad",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-paniculatum/inat-647443657.jpg",
@@ -103,7 +118,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e795eba5e42f8de09b0c7e2cbaacd589615692e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +126,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354940746, photo 647443657, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 21cbdbf5dab472799689af0ad9c974690bc73953647d2a422a2820b174db07ff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium paniculatum agrees with the indexed species desmodium-paniculatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "21cbdbf5dab472799689af0ad9c974690bc73953647d2a422a2820b174db07ff"
+      "sha256": "21cbdbf5dab472799689af0ad9c974690bc73953647d2a422a2820b174db07ff",
+      "display_sha256": "8db4d4aa4d1fffc05084bf5acf57743175399f5a7d9ca3d180f5392cf5924685",
+      "display_blob_sha": "c22647282c59e89fb23c29226c1658a8efb42647",
+      "display_original_site_sha256": "21cbdbf5dab472799689af0ad9c974690bc73953647d2a422a2820b174db07ff",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-paniculatum/inat-648450619.jpg",
@@ -122,7 +142,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b917b2ee2618b9f04f852715e064ae9ab079d31d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +150,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355573973, photo 648450619, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8d58ad363e5337d0c5420b674a80700e0cf05ebab7dcc4a4a6a2cb2bed5aea0f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium paniculatum agrees with the indexed species desmodium-paniculatum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8d58ad363e5337d0c5420b674a80700e0cf05ebab7dcc4a4a6a2cb2bed5aea0f"
+      "sha256": "8d58ad363e5337d0c5420b674a80700e0cf05ebab7dcc4a4a6a2cb2bed5aea0f",
+      "display_sha256": "102dd45168ab215c477c246e779784c6c744870286eb507ae0574f4bf02bd176",
+      "display_blob_sha": "efdcda1a0de714eaa1c89ffbad665fbbba60a06e",
+      "display_original_site_sha256": "8d58ad363e5337d0c5420b674a80700e0cf05ebab7dcc4a4a6a2cb2bed5aea0f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "41e4a9d9f223d835c8c2083df126db450a7b80d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346175220, photo 630983146, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 86a8f140843f4b2398f998de721db7fa1a61378bca5be55e73b7b3ad0a3460c2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia lindheimeri agrees with original manifest name Tephrosia lindheimeri mapped to indexed species tephrosia-lindheimeri; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "86a8f140843f4b2398f998de721db7fa1a61378bca5be55e73b7b3ad0a3460c2"
+      "sha256": "86a8f140843f4b2398f998de721db7fa1a61378bca5be55e73b7b3ad0a3460c2",
+      "display_sha256": "2db036e7a69dbfd3ec4acb618751f23ad20ab02a5f138fae7339eee6c294d9ae",
+      "display_blob_sha": "c4eb084819e518160de953b2021bb63213f96d4d",
+      "display_original_site_sha256": "86a8f140843f4b2398f998de721db7fa1a61378bca5be55e73b7b3ad0a3460c2",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tephrosia-lindheimeri/inat-631211427.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e199e43f22fb3361a85cbf3004462d2f4d5529af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346289028, photo 631211427, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6d48bbb44758b044132997777fc85c0e739fb2d7bbed0be7c9bb45356f2876a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia lindheimeri agrees with original manifest name Tephrosia lindheimeri mapped to indexed species tephrosia-lindheimeri; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6d48bbb44758b044132997777fc85c0e739fb2d7bbed0be7c9bb45356f2876a7"
+      "sha256": "6d48bbb44758b044132997777fc85c0e739fb2d7bbed0be7c9bb45356f2876a7",
+      "display_sha256": "3790f1a8356cd7d36ac88028f69ad57e2643346b1d20cd6a5f91cb9c51c0c1a3",
+      "display_blob_sha": "3b8c582461a223768c85e03ef5bf249283706d38",
+      "display_original_site_sha256": "6d48bbb44758b044132997777fc85c0e739fb2d7bbed0be7c9bb45356f2876a7",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tephrosia-lindheimeri/inat-632619862.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bcd265a9ea41eb9d5fd8933c3ad401a667deeb08",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347000587, photo 632619862, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a60185beddf1dcd248a0ce9f219cd940632d88b39bc12ce6e6b7913d6bf3e71. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia lindheimeri agrees with original manifest name Tephrosia lindheimeri mapped to indexed species tephrosia-lindheimeri; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3a60185beddf1dcd248a0ce9f219cd940632d88b39bc12ce6e6b7913d6bf3e71"
+      "sha256": "3a60185beddf1dcd248a0ce9f219cd940632d88b39bc12ce6e6b7913d6bf3e71",
+      "display_sha256": "eaf4d2295eff2f6efa7d9535aabfe788086719f03fe594c30d878f6aed52bcd8",
+      "display_blob_sha": "e6a27aafd69918bc224991636e7a114842b4ad28",
+      "display_original_site_sha256": "3a60185beddf1dcd248a0ce9f219cd940632d88b39bc12ce6e6b7913d6bf3e71",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tephrosia-lindheimeri/inat-635857912.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8f367427da8cd1bcd0194508d2a183e55099e48e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348632422, photo 635857912, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9a1a398250b7846ebb9da88cfb18c241073e1bd409aebfa396cc754c701261c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia lindheimeri agrees with original manifest name Tephrosia lindheimeri mapped to indexed species tephrosia-lindheimeri; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a9a1a398250b7846ebb9da88cfb18c241073e1bd409aebfa396cc754c701261c"
+      "sha256": "a9a1a398250b7846ebb9da88cfb18c241073e1bd409aebfa396cc754c701261c",
+      "display_sha256": "4ad149c03c7a94c8a2c41ac962127477885849724dff88aecb2137989fa374ee",
+      "display_blob_sha": "c1e366e036466813bb95129a4c6ac69bab695039",
+      "display_original_site_sha256": "a9a1a398250b7846ebb9da88cfb18c241073e1bd409aebfa396cc754c701261c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tephrosia-lindheimeri/inat-636279709.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "02e8206e1b82134c0b008547a2344dc9f2352828",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348843623, photo 636279709, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: db5423fb9b8b3926a427f50e4412387b1afa24d6be3549a1ee2851022acf68f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Tephrosia lindheimeri agrees with original manifest name Tephrosia lindheimeri mapped to indexed species tephrosia-lindheimeri; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "db5423fb9b8b3926a427f50e4412387b1afa24d6be3549a1ee2851022acf68f4"
+      "sha256": "db5423fb9b8b3926a427f50e4412387b1afa24d6be3549a1ee2851022acf68f4",
+      "display_sha256": "77e229e1ebbabe3dffaa3f6fb2310513c076e08c0e257b5f19609d4a124b89ff",
+      "display_blob_sha": "63a04bfb20495f0878b5b6cbe96f698feaf383bf",
+      "display_original_site_sha256": "db5423fb9b8b3926a427f50e4412387b1afa24d6be3549a1ee2851022acf68f4",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

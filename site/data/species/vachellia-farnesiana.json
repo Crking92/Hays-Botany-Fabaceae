@@ -101,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9070090f525d65d9dea7328199ada6b36eb403f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341745829, photo 622197741, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 287b66805bb998de08b7d6c69d5cf056675ab187a55d39f2d0ee886769b7c309. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia farnesiana agrees with original manifest name Vachellia farnesiana mapped to indexed species vachellia-farnesiana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "287b66805bb998de08b7d6c69d5cf056675ab187a55d39f2d0ee886769b7c309"
+      "sha256": "287b66805bb998de08b7d6c69d5cf056675ab187a55d39f2d0ee886769b7c309",
+      "display_sha256": "530920b3dda0c9b6746104269723e696a7f02c26424d1a1c4ecccbfab9dee6a3",
+      "display_blob_sha": "f42200ca170053ddb98d6c481a0c9ac162b8f7f0",
+      "display_original_site_sha256": "287b66805bb998de08b7d6c69d5cf056675ab187a55d39f2d0ee886769b7c309",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vachellia-farnesiana/inat-623953919.jpg",
@@ -120,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05917036411d1cdb7fb0affeb8704860b49d4d91",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342613907, photo 623953919, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 22b115d110638e9f42898e6ed0e2f580eafe2649470e9610d9c779cd185273b6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia farnesiana agrees with original manifest name Vachellia farnesiana mapped to indexed species vachellia-farnesiana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "22b115d110638e9f42898e6ed0e2f580eafe2649470e9610d9c779cd185273b6"
+      "sha256": "22b115d110638e9f42898e6ed0e2f580eafe2649470e9610d9c779cd185273b6",
+      "display_sha256": "71d71433ffd93690dd8632a25e8c50c1bc980d526499aa45be10ee49366c884f",
+      "display_blob_sha": "0bede72157640c1833c7165bd6913520a4592dd6",
+      "display_original_site_sha256": "22b115d110638e9f42898e6ed0e2f580eafe2649470e9610d9c779cd185273b6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vachellia-farnesiana/inat-625153041.jpg",
@@ -139,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "52e0c3d4667415879f9f9349c59d079f0f55c44e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343218714, photo 625153041, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f570c95b043d16b1f3e4e05ad1c63e9b955f773f1e996a3e52e5b759fdd6806. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia farnesiana agrees with original manifest name Vachellia farnesiana mapped to indexed species vachellia-farnesiana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "9f570c95b043d16b1f3e4e05ad1c63e9b955f773f1e996a3e52e5b759fdd6806"
+      "sha256": "9f570c95b043d16b1f3e4e05ad1c63e9b955f773f1e996a3e52e5b759fdd6806",
+      "display_sha256": "5aa457a3fce1d76850b328a9c0ba2bf78c5ca1195825ff54fd65f354b85a8cca",
+      "display_blob_sha": "6fcd5656f2519e350826310b5a644180d6b877b5",
+      "display_original_site_sha256": "9f570c95b043d16b1f3e4e05ad1c63e9b955f773f1e996a3e52e5b759fdd6806",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vachellia-farnesiana/inat-628809616.jpg",
@@ -158,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c83e630759862b1b10d8d677673a934155802fd0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -166,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345070302, photo 628809616, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 79090760be798cc30ed869a3f8aa7478d5ac0fe8ada295f8cd0fefdd11592d88. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia farnesiana agrees with original manifest name Vachellia farnesiana mapped to indexed species vachellia-farnesiana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "79090760be798cc30ed869a3f8aa7478d5ac0fe8ada295f8cd0fefdd11592d88"
+      "sha256": "79090760be798cc30ed869a3f8aa7478d5ac0fe8ada295f8cd0fefdd11592d88",
+      "display_sha256": "7cb7831c6508e7904790cbcfea538478022590fd8489bb31dad58ee946265a53",
+      "display_blob_sha": "bfecacde1e0f561b82298b261b4244519d02ec82",
+      "display_original_site_sha256": "79090760be798cc30ed869a3f8aa7478d5ac0fe8ada295f8cd0fefdd11592d88",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

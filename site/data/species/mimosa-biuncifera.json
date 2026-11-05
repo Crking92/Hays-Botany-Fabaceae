@@ -104,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "363047c99252cdabcf06208bc579bd4b5cbbce70",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 358433396, photo 653868125, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0c51658cb6a8a193f2e045022450d721facffe3c4423fcb095586cb61c16ba31. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa biuncifera agrees with the indexed species mimosa-biuncifera; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0c51658cb6a8a193f2e045022450d721facffe3c4423fcb095586cb61c16ba31"
+      "sha256": "0c51658cb6a8a193f2e045022450d721facffe3c4423fcb095586cb61c16ba31",
+      "display_sha256": "0444a89ba649ae7aae013f7bdc9c229643dac594e28e19256259aff0cc6ca3b0",
+      "display_blob_sha": "404f7e9736a822e26a2b664b049fa4c243b139dd",
+      "display_original_site_sha256": "0c51658cb6a8a193f2e045022450d721facffe3c4423fcb095586cb61c16ba31",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

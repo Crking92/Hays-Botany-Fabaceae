@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0b745dbe66b1adfaf579ebd214d3791534360451",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 263812949, photo 473998618, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 10d9dad2516ee1e46594e4aea46d618704ef8f9a93b05b0dfe05ee06b0449aeb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania drummondii agrees with original manifest name Sesbania drummondii mapped to indexed species sesbania-drummondii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "10d9dad2516ee1e46594e4aea46d618704ef8f9a93b05b0dfe05ee06b0449aeb"
+      "sha256": "10d9dad2516ee1e46594e4aea46d618704ef8f9a93b05b0dfe05ee06b0449aeb",
+      "display_sha256": "8e608af088ad4054d9ed45e13a0455eee7d6552364cf40433b6ec425f0c663e1",
+      "display_blob_sha": "86e49523bdd1a5cbe0c965105ae4542f370c5f52",
+      "display_original_site_sha256": "10d9dad2516ee1e46594e4aea46d618704ef8f9a93b05b0dfe05ee06b0449aeb",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sesbania-drummondii/inat-633878902.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0e86d03ac92d1cad8c4adf19d8a493e3f01f958a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347636359, photo 633878902, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4d6813658c447619bcda541e852e4ab3d57107d34b820a98f662196cd1616b32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania drummondii agrees with original manifest name Sesbania drummondii mapped to indexed species sesbania-drummondii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4d6813658c447619bcda541e852e4ab3d57107d34b820a98f662196cd1616b32"
+      "sha256": "4d6813658c447619bcda541e852e4ab3d57107d34b820a98f662196cd1616b32",
+      "display_sha256": "4b30263f902f68e536a3627d78e61e04b5d700200d01a37396efa9ae4e42e390",
+      "display_blob_sha": "34d4e4b9836819afb8e162815909ce69b6951211",
+      "display_original_site_sha256": "4d6813658c447619bcda541e852e4ab3d57107d34b820a98f662196cd1616b32",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sesbania-drummondii/inat-634007069.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bdad911a8b406023ecae3061dab913e15fa8bee9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 366454302, photo 669138044, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1d822378cd22e03b1d049398d64702058d645a2c0a59dada9e9d79f14ff9f266. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania drummondii agrees with original manifest name Sesbania drummondii mapped to indexed species sesbania-drummondii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1d822378cd22e03b1d049398d64702058d645a2c0a59dada9e9d79f14ff9f266"
+      "sha256": "1d822378cd22e03b1d049398d64702058d645a2c0a59dada9e9d79f14ff9f266",
+      "display_sha256": "8de5b52da25ab15f6b6acbf982db4f3788c4d6f65c8959d32f0b9ecad3d03a60",
+      "display_blob_sha": "292dc2887d085385ca81d5b3cdcdc82f21a58695",
+      "display_original_site_sha256": "1d822378cd22e03b1d049398d64702058d645a2c0a59dada9e9d79f14ff9f266",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sesbania-drummondii/inat-721245244.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "970b68495eb1dca46a0a8a425a6ac3581caed70d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 393488251, photo 721245244, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1eb80d1141f3c5755a1419117b215b6956ce4bded83a61e73bb6f4e2564e77a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania drummondii agrees with original manifest name Sesbania drummondii mapped to indexed species sesbania-drummondii; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1eb80d1141f3c5755a1419117b215b6956ce4bded83a61e73bb6f4e2564e77a6"
+      "sha256": "1eb80d1141f3c5755a1419117b215b6956ce4bded83a61e73bb6f4e2564e77a6",
+      "display_sha256": "d6133b574e9b5e963a796094d283305819eba0f0e36b529f4f1294e5e9c860a3",
+      "display_blob_sha": "50ac33e282a0e0e02e12464d3e3b86d8b68753f8",
+      "display_original_site_sha256": "1eb80d1141f3c5755a1419117b215b6956ce4bded83a61e73bb6f4e2564e77a6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

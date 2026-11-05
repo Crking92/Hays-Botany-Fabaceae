@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e723def822cdffeb5ea6e1ab242d2f00ed057262",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 150876154, photo 260238094, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4524e3a0c146fe0c1a2bc455cd4899082c36b6f2d9de42e1cc50d4f53941fd91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha roemeriana agrees with indexed species amorpha-roemeriana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "4524e3a0c146fe0c1a2bc455cd4899082c36b6f2d9de42e1cc50d4f53941fd91"
+      "sha256": "4524e3a0c146fe0c1a2bc455cd4899082c36b6f2d9de42e1cc50d4f53941fd91",
+      "display_sha256": "b6ba7798267f7a4791ce82152aa04bcded092d3f87e8ae0f1217d6bc7c7514ac",
+      "display_blob_sha": "f21231c3ea35798e5b1c1999be0c13e2322d7544",
+      "display_original_site_sha256": "4524e3a0c146fe0c1a2bc455cd4899082c36b6f2d9de42e1cc50d4f53941fd91",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-roemeriana/inat-501268042.jpeg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "dac9a0ae633a6bf85aa1f8d7ba135213b35aa670",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 279152097, photo 501268042, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: dbfb98d84f7d0169db5c3ed67ed22680f3a42d9144418b67f223223b6ca4b3a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha roemeriana agrees with indexed species amorpha-roemeriana; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "dbfb98d84f7d0169db5c3ed67ed22680f3a42d9144418b67f223223b6ca4b3a1"
+      "sha256": "dbfb98d84f7d0169db5c3ed67ed22680f3a42d9144418b67f223223b6ca4b3a1",
+      "display_sha256": "9ae60bfc515b41af11ee3fb13e18d61e6b2f1bb9e3278f8f8fa3152cbae56cbc",
+      "display_blob_sha": "925e1ac43a56bb762b1dad374e63ab3d08da781d",
+      "display_original_site_sha256": "dbfb98d84f7d0169db5c3ed67ed22680f3a42d9144418b67f223223b6ca4b3a1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

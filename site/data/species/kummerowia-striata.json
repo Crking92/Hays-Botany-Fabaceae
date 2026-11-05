@@ -46,7 +46,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8be503fbd693f7a886378509f23c6d159bdf5447",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -54,7 +54,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 17397119, photo 26430478, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a8c6664cc258e7a74bd09a849e6e51b0d8520255c72ae2a189f187b89b11459a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Kummerowia striata agrees with the indexed species kummerowia-striata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a8c6664cc258e7a74bd09a849e6e51b0d8520255c72ae2a189f187b89b11459a"
+      "sha256": "a8c6664cc258e7a74bd09a849e6e51b0d8520255c72ae2a189f187b89b11459a",
+      "display_sha256": "ded89bf2fac78b85ff5379dbd17729bf7e074857596357eab8b01c7da3d0fdba",
+      "display_blob_sha": "bb43f9f83a14ce2164a56a76f40535efdfef1d7e",
+      "display_original_site_sha256": "a8c6664cc258e7a74bd09a849e6e51b0d8520255c72ae2a189f187b89b11459a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/kummerowia-striata/inat-632407841.jpg",
@@ -65,7 +70,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "25f548863b3fba4b724dd6a764ffadd612eb3f1c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +78,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346895800, photo 632407841, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 677aa7b2258fe94eba7aed2d9328d1d2e56684af5488a51701e85e4093fba2dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Kummerowia striata agrees with the indexed species kummerowia-striata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "677aa7b2258fe94eba7aed2d9328d1d2e56684af5488a51701e85e4093fba2dd"
+      "sha256": "677aa7b2258fe94eba7aed2d9328d1d2e56684af5488a51701e85e4093fba2dd",
+      "display_sha256": "74d2e5a8576d3b07e58be4e4b6c2dbf1897d56512fbe4608f027d5805815673b",
+      "display_blob_sha": "9f042c21f6981b309509fe4a11135f618d7d40d4",
+      "display_original_site_sha256": "677aa7b2258fe94eba7aed2d9328d1d2e56684af5488a51701e85e4093fba2dd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/kummerowia-striata/inat-638660910.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8fd432fa553ab45aef6125f2f9fdc45b7b21ef3e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 355873254, photo 648978555, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: adbd177a8926d5773643d061de8469c097aa68d614d2e37a6c28fc607bb611c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Kummerowia striata agrees with the indexed species kummerowia-striata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "adbd177a8926d5773643d061de8469c097aa68d614d2e37a6c28fc607bb611c1"
+      "sha256": "adbd177a8926d5773643d061de8469c097aa68d614d2e37a6c28fc607bb611c1",
+      "display_sha256": "00522d5afe46344201b163b30813a8074a18289d259cc32b36e54288b7551af3",
+      "display_blob_sha": "24e6f7c131458a33583b52a628f9f3c73541340c",
+      "display_original_site_sha256": "adbd177a8926d5773643d061de8469c097aa68d614d2e37a6c28fc607bb611c1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/kummerowia-striata/inat-98460117.jpg",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "30bd131d0a5d75e4344ea97334e22980de8c3fcf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 61521029, photo 98460117, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ce3796b720828842368f5ae92b35ede6293f00b09da98e77adb05e270f8e8668. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Kummerowia striata agrees with the indexed species kummerowia-striata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ce3796b720828842368f5ae92b35ede6293f00b09da98e77adb05e270f8e8668"
+      "sha256": "ce3796b720828842368f5ae92b35ede6293f00b09da98e77adb05e270f8e8668",
+      "display_sha256": "da09f8221bae3b64cc3d2ae8e5a0f0aab8807aa5ac919f0366c9502781b764e5",
+      "display_blob_sha": "aa3d186e835f1e48baf294aed6d88ec96c5a18bc",
+      "display_original_site_sha256": "ce3796b720828842368f5ae92b35ede6293f00b09da98e77adb05e270f8e8668",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c4790987c70fae59a8058abd769ccba8763ed9a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342885503, photo 624486563, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6103239e4907560b2ac19dca6beed59a683f3b4b1d45918b148c8e37480c7335. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Trifolium repens agrees with original manifest name Trifolium repens mapped to indexed species trifolium-repens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6103239e4907560b2ac19dca6beed59a683f3b4b1d45918b148c8e37480c7335"
+      "sha256": "6103239e4907560b2ac19dca6beed59a683f3b4b1d45918b148c8e37480c7335",
+      "display_sha256": "783c57c7ad8f00607ae7724d6573a75492370ccfd908334c8e96b3d970f906e2",
+      "display_blob_sha": "14385ed86abf0bce3756d29984ceead0c7983aec",
+      "display_original_site_sha256": "6103239e4907560b2ac19dca6beed59a683f3b4b1d45918b148c8e37480c7335",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/trifolium-repens/inat-636694725.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5680d2ce6b62ef937bbc896c3f87f3419eb936c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349058551, photo 636694725, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43866ac1a8aa8f9831c155be933cb1c64c19d085a58ce75d95ec9031deed9434. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Trifolium repens agrees with original manifest name Trifolium repens mapped to indexed species trifolium-repens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "43866ac1a8aa8f9831c155be933cb1c64c19d085a58ce75d95ec9031deed9434"
+      "sha256": "43866ac1a8aa8f9831c155be933cb1c64c19d085a58ce75d95ec9031deed9434",
+      "display_sha256": "cdfd7140711bb544d81716a3322034bfc09dd3af86fad56c1ef667ea270aed4b",
+      "display_blob_sha": "9a18256764a8fa428be8a7f00f7b042b347709f1",
+      "display_original_site_sha256": "43866ac1a8aa8f9831c155be933cb1c64c19d085a58ce75d95ec9031deed9434",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/trifolium-repens/inat-637788201.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "10fc199f9915e60dc45b72fe4971132c8ef469ce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349611691, photo 637788201, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a0fc242724395145b6997920605f69dcabba3f96a2cfeada41fd7928acab665. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Trifolium repens agrees with original manifest name Trifolium repens mapped to indexed species trifolium-repens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8a0fc242724395145b6997920605f69dcabba3f96a2cfeada41fd7928acab665"
+      "sha256": "8a0fc242724395145b6997920605f69dcabba3f96a2cfeada41fd7928acab665",
+      "display_sha256": "07d3d4f4e4e38af486452131dc31b7d37c74b8477e6c506f8d02a35c4cc8df52",
+      "display_blob_sha": "9b79b4dc599bd3649da60760707eef7725ab19d1",
+      "display_original_site_sha256": "8a0fc242724395145b6997920605f69dcabba3f96a2cfeada41fd7928acab665",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/trifolium-repens/inat-643098902.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ab81ad13941d5e986fe1f404980a7ef1251b11d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 352350833, photo 643098902, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0df1997ab81c1f97454f18b75d63296b238ed08d890d1260036530eabc3af89a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Trifolium repens agrees with original manifest name Trifolium repens mapped to indexed species trifolium-repens; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0df1997ab81c1f97454f18b75d63296b238ed08d890d1260036530eabc3af89a"
+      "sha256": "0df1997ab81c1f97454f18b75d63296b238ed08d890d1260036530eabc3af89a",
+      "display_sha256": "085a717ecf310ea6898a6685e7ec1cfa26e73fb08d3190dd476999efd1163699",
+      "display_blob_sha": "ee230eb59581e6eb6ec70e628205a680017b9791",
+      "display_original_site_sha256": "0df1997ab81c1f97454f18b75d63296b238ed08d890d1260036530eabc3af89a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

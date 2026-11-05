@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7618a72fe7566f16ce511f2fc22534fad850db3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 11298875, photo 16076023, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2c04672a063cd47463df142602ede54745217f30f092f0c9d35b44532b09a444. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus acuminatus agrees with the indexed species desmanthus-acuminatus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2c04672a063cd47463df142602ede54745217f30f092f0c9d35b44532b09a444"
+      "sha256": "2c04672a063cd47463df142602ede54745217f30f092f0c9d35b44532b09a444",
+      "display_sha256": "e061a2d29638e3a900e0fabf08b3dc7df1429e3d225d46cbf60b16c2ff8b56c2",
+      "display_blob_sha": "008d2dd4fa87aa3c58994e91ec9102b913067d2c",
+      "display_original_site_sha256": "2c04672a063cd47463df142602ede54745217f30f092f0c9d35b44532b09a444",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-acuminatus/inat-16542285.jpeg",
@@ -145,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "71285cd1927e218e5b50d5e34ca3be369080b17f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 367817959, photo 671743112, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c77b1479f2d74bc55ae801553693facab73d2d2f7f91eb89aaee25f8f1a37ad0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus acuminatus agrees with the indexed species desmanthus-acuminatus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "c77b1479f2d74bc55ae801553693facab73d2d2f7f91eb89aaee25f8f1a37ad0"
+      "sha256": "c77b1479f2d74bc55ae801553693facab73d2d2f7f91eb89aaee25f8f1a37ad0",
+      "display_sha256": "be0d52d31355f7d3c5013b145e84c1e7b1deb3fdfec40cb62d356997cb4d156e",
+      "display_blob_sha": "8e9a3879be06d03d3f66087b1b9e11ed638c8d26",
+      "display_original_site_sha256": "c77b1479f2d74bc55ae801553693facab73d2d2f7f91eb89aaee25f8f1a37ad0",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

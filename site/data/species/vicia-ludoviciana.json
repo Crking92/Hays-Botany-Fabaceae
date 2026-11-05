@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "318336e3adb38b2448adff83538fdd9290481a2b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341431646, photo 621558669, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 02b4b30a4d951facc6634137e5abba1d1ac0c6abd84fb690fd2b6cabadb6646b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana agrees with original manifest name Vicia ludoviciana mapped to indexed species vicia-ludoviciana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "02b4b30a4d951facc6634137e5abba1d1ac0c6abd84fb690fd2b6cabadb6646b"
+      "sha256": "02b4b30a4d951facc6634137e5abba1d1ac0c6abd84fb690fd2b6cabadb6646b",
+      "display_sha256": "e52f2e7401e27d8beb83517996c141a6a10ff283fdf7645d00653be41cfa4bf3",
+      "display_blob_sha": "ae95dc9fe34153b926b273aafab664987a19c8a1",
+      "display_original_site_sha256": "02b4b30a4d951facc6634137e5abba1d1ac0c6abd84fb690fd2b6cabadb6646b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vicia-ludoviciana/inat-622882799.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fc9b3cd3303d5299fbef2528bacaa8ce44a771b3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342084542, photo 622882799, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63f0caa5431b9c8ad3858f38e8d79753a36b35682f86cafeb4aca339efcfd509. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana agrees with original manifest name Vicia ludoviciana mapped to indexed species vicia-ludoviciana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "63f0caa5431b9c8ad3858f38e8d79753a36b35682f86cafeb4aca339efcfd509"
+      "sha256": "63f0caa5431b9c8ad3858f38e8d79753a36b35682f86cafeb4aca339efcfd509",
+      "display_sha256": "a6389dc99bdb04f411477115afaefe0a59f59bbab8580ba67eaf504d08d7241f",
+      "display_blob_sha": "d1bdd14490618d5a06d20aa84ec7f4f7c3df5309",
+      "display_original_site_sha256": "63f0caa5431b9c8ad3858f38e8d79753a36b35682f86cafeb4aca339efcfd509",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vicia-ludoviciana/inat-623460177.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d1bc8e69bbfa259b9635d61793c1b3b9fdcddec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342369436, photo 623460177, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d8310cddb0e8d60f9e0c1e5fca1cf4a3470630bec217f1965fe1d5b1a19378c3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana agrees with original manifest name Vicia ludoviciana mapped to indexed species vicia-ludoviciana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d8310cddb0e8d60f9e0c1e5fca1cf4a3470630bec217f1965fe1d5b1a19378c3"
+      "sha256": "d8310cddb0e8d60f9e0c1e5fca1cf4a3470630bec217f1965fe1d5b1a19378c3",
+      "display_sha256": "8345ab6c09728a22b2cad469c73b5b5ce5c7de2823a9d2618c0d5113cceda35a",
+      "display_blob_sha": "326cb332dbde338f849749080c03e97aece83e67",
+      "display_original_site_sha256": "d8310cddb0e8d60f9e0c1e5fca1cf4a3470630bec217f1965fe1d5b1a19378c3",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vicia-ludoviciana/inat-623674789.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d5aee8385b00fadf51a8f370c12fefe65476d11e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342476366, photo 623674789, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0faf3cca8ddeaed74b8b5443b57e7022ea5126b0c8021e796d4ec2ee1c28e917. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vicia ludoviciana agrees with original manifest name Vicia ludoviciana mapped to indexed species vicia-ludoviciana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0faf3cca8ddeaed74b8b5443b57e7022ea5126b0c8021e796d4ec2ee1c28e917"
+      "sha256": "0faf3cca8ddeaed74b8b5443b57e7022ea5126b0c8021e796d4ec2ee1c28e917",
+      "display_sha256": "5600f789041e755564da90d08c7593349e310e22c36a9c69ea1dfbb05d2a5a5f",
+      "display_blob_sha": "109c6b227ed509adcd2ab00cfb8dc8d8f5a812cb",
+      "display_original_site_sha256": "0faf3cca8ddeaed74b8b5443b57e7022ea5126b0c8021e796d4ec2ee1c28e917",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vicia-ludoviciana/inat-625044160.jpg",

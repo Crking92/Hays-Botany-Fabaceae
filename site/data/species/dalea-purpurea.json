@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eacf3771c55b6525109412e2626ab5c8de2ae11c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348952332, photo 636492647, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8c828ad08917ca076ca843c45533c6d8b15d065ed97d72f4aaac36e3dc927b3b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea purpurea agrees with the indexed species dalea-purpurea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8c828ad08917ca076ca843c45533c6d8b15d065ed97d72f4aaac36e3dc927b3b"
+      "sha256": "8c828ad08917ca076ca843c45533c6d8b15d065ed97d72f4aaac36e3dc927b3b",
+      "display_sha256": "7b193342c4a8577446d552e610d538641d3396454e3caa400272e0392d588d6f",
+      "display_blob_sha": "6f76456da46ace3290d2b56db7335453fef23ca5",
+      "display_original_site_sha256": "8c828ad08917ca076ca843c45533c6d8b15d065ed97d72f4aaac36e3dc927b3b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-purpurea/inat-636513639.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ebee05cea622873252f5cc565c5ed04c3b63f5bd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348962848, photo 636513639, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d725c6226db773d99e50dcb5c5e077a73793bf7b598678e4e57dfa45a8803e92. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea purpurea agrees with the indexed species dalea-purpurea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d725c6226db773d99e50dcb5c5e077a73793bf7b598678e4e57dfa45a8803e92"
+      "sha256": "d725c6226db773d99e50dcb5c5e077a73793bf7b598678e4e57dfa45a8803e92",
+      "display_sha256": "aaaa1e0f6dc5b3ac78fc4d7557d3295e3d218802b715c3240aeee4644e954790",
+      "display_blob_sha": "468264bcb61523f6a0d3db41747004c61fdb9c0f",
+      "display_original_site_sha256": "d725c6226db773d99e50dcb5c5e077a73793bf7b598678e4e57dfa45a8803e92",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-purpurea/inat-649443631.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dcd813fa3f3273e6996976590fe9c4c40c3cbea5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 356131357, photo 649443631, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de2e908faf53a6394580f5e33809191d927749bbffb6895df4aebbb89e4878a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea purpurea agrees with the indexed species dalea-purpurea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "de2e908faf53a6394580f5e33809191d927749bbffb6895df4aebbb89e4878a6"
+      "sha256": "de2e908faf53a6394580f5e33809191d927749bbffb6895df4aebbb89e4878a6",
+      "display_sha256": "663784b62cf00609533db6d9829b759b4270b5bfb4c56ca1789610a14110bfe8",
+      "display_blob_sha": "df8d6c0fc1e33a37c917c64a7b2139992dfa17f3",
+      "display_original_site_sha256": "de2e908faf53a6394580f5e33809191d927749bbffb6895df4aebbb89e4878a6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-purpurea/inat-660480035.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "55f10c652141bf7bba0e44f6a1de1c2b834060c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 361888562, photo 660480035, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f5860f4a01aae6c3034e8673523c8d624146bac6993ad4386e0ac2f7a63c250a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dalea purpurea agrees with the indexed species dalea-purpurea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "f5860f4a01aae6c3034e8673523c8d624146bac6993ad4386e0ac2f7a63c250a"
+      "sha256": "f5860f4a01aae6c3034e8673523c8d624146bac6993ad4386e0ac2f7a63c250a",
+      "display_sha256": "fce6274935d6690a6570900b3e32f822364f8a08b5be9de17721dfdfe1604607",
+      "display_blob_sha": "027fd784b168835de64647df574c4e71b40489d3",
+      "display_original_site_sha256": "f5860f4a01aae6c3034e8673523c8d624146bac6993ad4386e0ac2f7a63c250a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

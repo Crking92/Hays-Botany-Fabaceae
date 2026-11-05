@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27f3bcc338df1aa8dec1346c7fb23b233fcca8f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 72831132, photo 118818585, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ca3ea00e1d5b11505a3da9b20e21bcff9645df39e26f2935d4f8582d7bb6ed67. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Robinia pseudoacacia agrees with original manifest name Robinia pseudoacacia mapped to indexed species robinia-pseudoacacia; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ca3ea00e1d5b11505a3da9b20e21bcff9645df39e26f2935d4f8582d7bb6ed67"
+      "sha256": "ca3ea00e1d5b11505a3da9b20e21bcff9645df39e26f2935d4f8582d7bb6ed67",
+      "display_sha256": "60f3967420d1169110734a10728431a5c3979cf061a88e3d953cc679a030619b",
+      "display_blob_sha": "670fb0379157b88d41caed26c158b57e86da6414",
+      "display_original_site_sha256": "ca3ea00e1d5b11505a3da9b20e21bcff9645df39e26f2935d4f8582d7bb6ed67",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/robinia-pseudoacacia/inat-187504556.jpeg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "320d09578e66db4a0b302705e1b1b5f8df0101ba",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 111096711, photo 187504556, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: be9f4b89e28f1bb69bafc36515aaf23b1b3eb97992e090496175bfc5b363f8c9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Robinia pseudoacacia agrees with original manifest name Robinia pseudoacacia mapped to indexed species robinia-pseudoacacia; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "be9f4b89e28f1bb69bafc36515aaf23b1b3eb97992e090496175bfc5b363f8c9"
+      "sha256": "be9f4b89e28f1bb69bafc36515aaf23b1b3eb97992e090496175bfc5b363f8c9",
+      "display_sha256": "a56825e030b3cc5cfabf681800ad0285e88403ed03e4c5dd49f02629a3e14cd7",
+      "display_blob_sha": "e13d42190d37091dcdb103e86b2b18493a7030f3",
+      "display_original_site_sha256": "be9f4b89e28f1bb69bafc36515aaf23b1b3eb97992e090496175bfc5b363f8c9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/robinia-pseudoacacia/inat-623930114.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "58c10e3621f95619aa070dd74182146f2fbf6b76",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342601955, photo 623930114, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a2ec779d27c9e4c7b9de68e581c30da4db1786bd3e35a24b12fd92ec0b5accab. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Robinia pseudoacacia agrees with original manifest name Robinia pseudoacacia mapped to indexed species robinia-pseudoacacia; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a2ec779d27c9e4c7b9de68e581c30da4db1786bd3e35a24b12fd92ec0b5accab"
+      "sha256": "a2ec779d27c9e4c7b9de68e581c30da4db1786bd3e35a24b12fd92ec0b5accab",
+      "display_sha256": "51ca73723eaf5f007071ca2d9a4c012a28131cec4fcf46560e026dfbd8e4f5d8",
+      "display_blob_sha": "759289e191f6ad0cb5a1c4cbc289a7e8a38fa310",
+      "display_original_site_sha256": "a2ec779d27c9e4c7b9de68e581c30da4db1786bd3e35a24b12fd92ec0b5accab",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/robinia-pseudoacacia/inat-631502969.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5f8c512b7b175430a1a1a5351ee3943770e484c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346437619, photo 631502969, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b78abca0dd98caae8f3ececf11b6b7e823d1f23e3bb7b25d0f1db3aff815ec8b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Robinia pseudoacacia agrees with original manifest name Robinia pseudoacacia mapped to indexed species robinia-pseudoacacia; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b78abca0dd98caae8f3ececf11b6b7e823d1f23e3bb7b25d0f1db3aff815ec8b"
+      "sha256": "b78abca0dd98caae8f3ececf11b6b7e823d1f23e3bb7b25d0f1db3aff815ec8b",
+      "display_sha256": "cbb61d1f9872aabf4e8cc48dc0614b0520a295371fd8d18e48db34f3ae9dd79a",
+      "display_blob_sha": "72858e093e77d397b493a6237941a6555c9aa235",
+      "display_original_site_sha256": "b78abca0dd98caae8f3ececf11b6b7e823d1f23e3bb7b25d0f1db3aff815ec8b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/robinia-pseudoacacia/inat-64480397.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb0d3574da187a1f6ec6f75d61cf18c05ca7ce73",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 40676880, photo 64480397, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b36f8c219e1d55e8ad12eca7ab3ba95c89b44fa64654b6db906473bc9b5d08dc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Robinia pseudoacacia agrees with original manifest name Robinia pseudoacacia mapped to indexed species robinia-pseudoacacia; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "b36f8c219e1d55e8ad12eca7ab3ba95c89b44fa64654b6db906473bc9b5d08dc"
+      "sha256": "b36f8c219e1d55e8ad12eca7ab3ba95c89b44fa64654b6db906473bc9b5d08dc",
+      "display_sha256": "de828ca7ca50303233ea20cb1459f1ead8dbf5569abee7b92e6524ebd3df5158",
+      "display_blob_sha": "b6344aed804ae79a8fa2046df971c9fcff216c58",
+      "display_original_site_sha256": "b36f8c219e1d55e8ad12eca7ab3ba95c89b44fa64654b6db906473bc9b5d08dc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4aebbda5a10694bb06ee2a85c34f93400507489d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 66525503, photo 107260828, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a589f4c7a25225f05dd8ad9654e01ae38c3b9085516105610a4772342f38e39e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Bauhinia lunarioides agrees with indexed species bauhinia-lunarioides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "a589f4c7a25225f05dd8ad9654e01ae38c3b9085516105610a4772342f38e39e"
+      "sha256": "a589f4c7a25225f05dd8ad9654e01ae38c3b9085516105610a4772342f38e39e",
+      "display_sha256": "95a6c6a2380bd669826dbe8a281210cb11b1b58821c9dc939a4ecaedbeecdaeb",
+      "display_blob_sha": "37a6763c0ce9ea22faa5e55c1c9fa957ad5b1861",
+      "display_original_site_sha256": "a589f4c7a25225f05dd8ad9654e01ae38c3b9085516105610a4772342f38e39e",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bauhinia-lunarioides/inat-269388007.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "97983bcdbbd0169fb4a776c052fac482e429cbe8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 155821928, photo 269388007, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6230258adbaa8ac8277d3e2755c34c511c92abcfa07080af5cd2f07e3a9c6231. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Bauhinia lunarioides agrees with indexed species bauhinia-lunarioides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "6230258adbaa8ac8277d3e2755c34c511c92abcfa07080af5cd2f07e3a9c6231"
+      "sha256": "6230258adbaa8ac8277d3e2755c34c511c92abcfa07080af5cd2f07e3a9c6231",
+      "display_sha256": "d1bdda6452689cecb2a884642208122df64c65cfa318b29a95c8a5f1f518c346",
+      "display_blob_sha": "6623aafb3bd275e8dfb606921231bc90abc21354",
+      "display_original_site_sha256": "6230258adbaa8ac8277d3e2755c34c511c92abcfa07080af5cd2f07e3a9c6231",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bauhinia-lunarioides/inat-385797379.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3dbd5773dc944ff80b1bbbfa7d4585f6fb701c68",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 205945823, photo 385797379, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 04f7ee11370b8f92b38eb4587468585a71f2ff10f9d7af620c73d5f2f83ae891. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Bauhinia lunarioides agrees with indexed species bauhinia-lunarioides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "04f7ee11370b8f92b38eb4587468585a71f2ff10f9d7af620c73d5f2f83ae891"
+      "sha256": "04f7ee11370b8f92b38eb4587468585a71f2ff10f9d7af620c73d5f2f83ae891",
+      "display_sha256": "4d7bf52e976d40fdbcff52a393a7a2675d3bec08ffe312f450994f51e184e507",
+      "display_blob_sha": "419047392203a423719d988937649022775ac1ab",
+      "display_original_site_sha256": "04f7ee11370b8f92b38eb4587468585a71f2ff10f9d7af620c73d5f2f83ae891",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bauhinia-lunarioides/inat-651253912.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d715783657c83c862d8403409168452ee6247d60",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357088212, photo 651253912, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9594acab0c4974ef6fc4dcdc4e216da0c49f60a3014415008700fdd0cc57fdb1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Bauhinia lunarioides agrees with indexed species bauhinia-lunarioides; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9594acab0c4974ef6fc4dcdc4e216da0c49f60a3014415008700fdd0cc57fdb1"
+      "sha256": "9594acab0c4974ef6fc4dcdc4e216da0c49f60a3014415008700fdd0cc57fdb1",
+      "display_sha256": "c26727bde836c8004b2488ae7139938962fd966118c3faebf287e44bb1a58c26",
+      "display_blob_sha": "b0e87c632a557ec867cd3e9b301861cc93b5353b",
+      "display_original_site_sha256": "9594acab0c4974ef6fc4dcdc4e216da0c49f60a3014415008700fdd0cc57fdb1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

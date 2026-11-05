@@ -71,7 +71,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aad1effaf15e532167210582e45060ba341dd7b3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +79,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341716585, photo 622161941, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ca7aa1ba7dfda904bfcbe1297b3e4092be615b487c5b0582634778dc7f81e031. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus crassicarpus berlandieri agrees with indexed species astragalus-crassicarpus-var-berlandieri; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ca7aa1ba7dfda904bfcbe1297b3e4092be615b487c5b0582634778dc7f81e031"
+      "sha256": "ca7aa1ba7dfda904bfcbe1297b3e4092be615b487c5b0582634778dc7f81e031",
+      "display_sha256": "0202a8ce7a2d897085a1bdd4e662b543bc1e970d840b877418234ee296378876",
+      "display_blob_sha": "8c8fd976005381335811f4c49febbf9cfd4a5e3a",
+      "display_original_site_sha256": "ca7aa1ba7dfda904bfcbe1297b3e4092be615b487c5b0582634778dc7f81e031",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

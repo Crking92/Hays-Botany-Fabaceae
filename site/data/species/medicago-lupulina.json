@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "216ad42fac84cae231670eea31cced5fe5fe99ea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343015356, photo 624744186, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 58e5b0184752c201f8cd8c2033f16792c74767aaade14433c986943f58f2d179. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago lupulina agrees with the indexed species medicago-lupulina; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "58e5b0184752c201f8cd8c2033f16792c74767aaade14433c986943f58f2d179"
+      "sha256": "58e5b0184752c201f8cd8c2033f16792c74767aaade14433c986943f58f2d179",
+      "display_sha256": "17c3258a1b8f7a977e1a6356ab3d8a8b05c18a0efcaddc968430e1f1a2159cbb",
+      "display_blob_sha": "34b158009eb3ce3773c968a5a95758b3cbfc60d8",
+      "display_original_site_sha256": "58e5b0184752c201f8cd8c2033f16792c74767aaade14433c986943f58f2d179",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-lupulina/inat-626050276.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "353075d6d690bd4f75d8a1abba324587e593eb24",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343655494, photo 626050276, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d26c898e50af03c824134874a789945943e35582ce18ba3e1e12ba6a6a5f5367. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago lupulina agrees with the indexed species medicago-lupulina; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d26c898e50af03c824134874a789945943e35582ce18ba3e1e12ba6a6a5f5367"
+      "sha256": "d26c898e50af03c824134874a789945943e35582ce18ba3e1e12ba6a6a5f5367",
+      "display_sha256": "82925a2f321dd7280332026088627d0e2474a08df68c45709859924504b4f921",
+      "display_blob_sha": "2b630ff9281340278faa5cafff8ae61823534ceb",
+      "display_original_site_sha256": "d26c898e50af03c824134874a789945943e35582ce18ba3e1e12ba6a6a5f5367",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/medicago-lupulina/inat-628591888.jpg",
@@ -109,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aad19b3d1f0d74f96302f432bbcf2c3e827ea997",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346837886, photo 632295402, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 21f40699866ceb9491394f1702a71b0ab32c060d4e34130cac97862ad57db4df. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Medicago lupulina agrees with the indexed species medicago-lupulina; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "21f40699866ceb9491394f1702a71b0ab32c060d4e34130cac97862ad57db4df"
+      "sha256": "21f40699866ceb9491394f1702a71b0ab32c060d4e34130cac97862ad57db4df",
+      "display_sha256": "06b4c9bb59645670883136bc3df534532f94a6043fe3e4d90a593ac2ed035fed",
+      "display_blob_sha": "1d65736a54846d4393e3c932391223c66a344b3d",
+      "display_original_site_sha256": "21f40699866ceb9491394f1702a71b0ab32c060d4e34130cac97862ad57db4df",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

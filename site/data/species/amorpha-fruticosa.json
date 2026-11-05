@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8bbe8a4c09ff3a6e46d2d2521cdceb508071e5a9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344801179, photo 628283158, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 892544844d78eba1e13e896a5197ac88c9cb5fa34330930ade9cb015c4cb1037. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha fruticosa agrees with indexed species amorpha-fruticosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "892544844d78eba1e13e896a5197ac88c9cb5fa34330930ade9cb015c4cb1037"
+      "sha256": "892544844d78eba1e13e896a5197ac88c9cb5fa34330930ade9cb015c4cb1037",
+      "display_sha256": "7be9aabb8fff3bcb7db7b95fdff26591438398b7d4b61aef2923e40470372c22",
+      "display_blob_sha": "a9e3f7227b0112f70917f13208ea35a5e27833f1",
+      "display_original_site_sha256": "892544844d78eba1e13e896a5197ac88c9cb5fa34330930ade9cb015c4cb1037",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-fruticosa/inat-628984264.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9a5f3251bdf5c89935bb92f6508b7a84d2b11fc2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345161372, photo 628984264, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e16187aa2708b6634c39dddcc59e98ba864bddbff1fcc7d8e32d2471e082a17. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha fruticosa agrees with indexed species amorpha-fruticosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2e16187aa2708b6634c39dddcc59e98ba864bddbff1fcc7d8e32d2471e082a17"
+      "sha256": "2e16187aa2708b6634c39dddcc59e98ba864bddbff1fcc7d8e32d2471e082a17",
+      "display_sha256": "6ac6bcecb257348a4b1c49db1aceb8be5964fea17c7d2673fafd9303d3c1088a",
+      "display_blob_sha": "a3689b3b5ac8247270bc349d3251854703f50cc3",
+      "display_original_site_sha256": "2e16187aa2708b6634c39dddcc59e98ba864bddbff1fcc7d8e32d2471e082a17",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-fruticosa/inat-629726184.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "47ad40a8139f815c38d48045879a6d4323115a33",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345537026, photo 629726184, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b92876cba1d95b6e4013269b0fda179aed8768602289e5f9e20849e10121cba2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha fruticosa agrees with indexed species amorpha-fruticosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b92876cba1d95b6e4013269b0fda179aed8768602289e5f9e20849e10121cba2"
+      "sha256": "b92876cba1d95b6e4013269b0fda179aed8768602289e5f9e20849e10121cba2",
+      "display_sha256": "8b975fa33c84bedd49835b9cd9654e016b567d69396cbdb6ca8b33b62c582f44",
+      "display_blob_sha": "a191b7ddaec421502e4bfb07766ba843ae2f8a8a",
+      "display_original_site_sha256": "b92876cba1d95b6e4013269b0fda179aed8768602289e5f9e20849e10121cba2",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amorpha-fruticosa/inat-630147338.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7fa5fbb7d6284b57450e407389bb194d37e0874",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345750877, photo 630147338, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 563c1bff799cc6694c91268bcdee8e35f8b554b5a55a0456f157c92e10a0326a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Amorpha fruticosa agrees with indexed species amorpha-fruticosa; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "563c1bff799cc6694c91268bcdee8e35f8b554b5a55a0456f157c92e10a0326a"
+      "sha256": "563c1bff799cc6694c91268bcdee8e35f8b554b5a55a0456f157c92e10a0326a",
+      "display_sha256": "2e4c3f254f36dd666cacb97dd8e4d05328d5b45286d406c99de7b2259c612618",
+      "display_blob_sha": "03088cdc35899fb4f808bb86c15c3754019c6397",
+      "display_original_site_sha256": "563c1bff799cc6694c91268bcdee8e35f8b554b5a55a0456f157c92e10a0326a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

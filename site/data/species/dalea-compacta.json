@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "be3ed120a2d5a3c3112310170363e9eb62c927b3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 118844880, photo 200838834, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0718c9dcbc80242133f2d63831c1bda0cbe48be7416683f5909aa10ec6604ecd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea compacta agrees with indexed species dalea-compacta; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0718c9dcbc80242133f2d63831c1bda0cbe48be7416683f5909aa10ec6604ecd"
+      "sha256": "0718c9dcbc80242133f2d63831c1bda0cbe48be7416683f5909aa10ec6604ecd",
+      "display_sha256": "e3c5176787ba95d6e9944f885e79ce7a9aae8094fc284bbb8ce131a934afb7ed",
+      "display_blob_sha": "6ac558a4f2c9ee917993995d9e7d5dace7e5f9ef",
+      "display_original_site_sha256": "0718c9dcbc80242133f2d63831c1bda0cbe48be7416683f5909aa10ec6604ecd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-compacta/inat-655672663.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "80212ee0bde761ce6c2a8d856fa8f9e507964e31",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 359370708, photo 655672663, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5d717651896e3ed9b3790eab374a9abed7645a241c0d7384f98ea9474220550f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea compacta agrees with indexed species dalea-compacta; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5d717651896e3ed9b3790eab374a9abed7645a241c0d7384f98ea9474220550f"
+      "sha256": "5d717651896e3ed9b3790eab374a9abed7645a241c0d7384f98ea9474220550f",
+      "display_sha256": "c8fcfcac0fed5874cb8c4424b5eaaae4cac67526ead3ada2d08b9c6ae836453f",
+      "display_blob_sha": "188b3966b938c7ab3f07b42f6e13d721b5b92317",
+      "display_original_site_sha256": "5d717651896e3ed9b3790eab374a9abed7645a241c0d7384f98ea9474220550f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-compacta/inat-683495211.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "af996e81d596b5ebc82c057dc3923ec80e049673",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 373982005, photo 683495211, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 46c2df90bd5e0a21ad991708f22beb4d595a763311268f79bb9e3e7c6dc10a9b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea compacta agrees with indexed species dalea-compacta; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "46c2df90bd5e0a21ad991708f22beb4d595a763311268f79bb9e3e7c6dc10a9b"
+      "sha256": "46c2df90bd5e0a21ad991708f22beb4d595a763311268f79bb9e3e7c6dc10a9b",
+      "display_sha256": "8f11b32d7a834f8737331d810d1bc6e02927f85b148c6df2597bf1d4949a9671",
+      "display_blob_sha": "194fa80370477dc3bc92f7b9c79378a60ac751d5",
+      "display_original_site_sha256": "46c2df90bd5e0a21ad991708f22beb4d595a763311268f79bb9e3e7c6dc10a9b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

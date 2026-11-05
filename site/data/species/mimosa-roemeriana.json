@@ -66,7 +66,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cb94635dbb0c4d1dbaaf1736a75407791c3679b4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -74,7 +74,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 76219039, photo 124686427, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bb479c9123c2a72c903e3a7b2a844d5648cacf4fa8e58cfd3a1648ae7d0e3c1f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa roemeriana agrees with original manifest name Mimosa roemeriana mapped to indexed species mimosa-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "bb479c9123c2a72c903e3a7b2a844d5648cacf4fa8e58cfd3a1648ae7d0e3c1f"
+      "sha256": "bb479c9123c2a72c903e3a7b2a844d5648cacf4fa8e58cfd3a1648ae7d0e3c1f",
+      "display_sha256": "d3a9a3ced7c693691912c4f6758f56892b72084733e5f00de4180661a9be193f",
+      "display_blob_sha": "2458c9d0626d63694db10f89916740a1c2e46c1e",
+      "display_original_site_sha256": "bb479c9123c2a72c903e3a7b2a844d5648cacf4fa8e58cfd3a1648ae7d0e3c1f",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-roemeriana/inat-16497106.jpg",
@@ -85,7 +90,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "29528261b726aa4bc8dc925c3d04db7264a3ed05",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +98,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 11554283, photo 16497106, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7ebb59dc1382015573857e3ebc17589f0c530b86ec8b63af962df1d51955c72a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa roemeriana agrees with original manifest name Mimosa roemeriana mapped to indexed species mimosa-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "7ebb59dc1382015573857e3ebc17589f0c530b86ec8b63af962df1d51955c72a"
+      "sha256": "7ebb59dc1382015573857e3ebc17589f0c530b86ec8b63af962df1d51955c72a",
+      "display_sha256": "a0ec121f6908c9f0fe0d2fa4f308eec47305fa4fbb0dd3ac9f45459efc83f4b8",
+      "display_blob_sha": "2150b0fd2c2347a3b309cfab8be48cb04f947690",
+      "display_original_site_sha256": "7ebb59dc1382015573857e3ebc17589f0c530b86ec8b63af962df1d51955c72a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-roemeriana/inat-17811653.jpg",
@@ -104,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e6568851cd6a5084faa585dbb4d5ee6fe9e0cb6d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 12364763, photo 17811653, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8865655eb445f588f8af9c0a19b7db8e7776d3217869e99a0b8ce69e73254178. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa roemeriana agrees with original manifest name Mimosa roemeriana mapped to indexed species mimosa-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "8865655eb445f588f8af9c0a19b7db8e7776d3217869e99a0b8ce69e73254178"
+      "sha256": "8865655eb445f588f8af9c0a19b7db8e7776d3217869e99a0b8ce69e73254178",
+      "display_sha256": "70e0a7ab50f65cacfaca0c15a5037c56ab688b63f10fac5b3d923041bda54678",
+      "display_blob_sha": "09dc37529c15881fefa10a9ddb2ef41b10be392b",
+      "display_original_site_sha256": "8865655eb445f588f8af9c0a19b7db8e7776d3217869e99a0b8ce69e73254178",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-roemeriana/inat-197539597.jpg",
@@ -123,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5f09543030e0b616a51e0532d71a54fd3afa1f75",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 116981140, photo 197539597, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18da7648773a0fb045779fe563d180e5682eac800b778d438901fb3baee68cea. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa roemeriana agrees with original manifest name Mimosa roemeriana mapped to indexed species mimosa-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "18da7648773a0fb045779fe563d180e5682eac800b778d438901fb3baee68cea"
+      "sha256": "18da7648773a0fb045779fe563d180e5682eac800b778d438901fb3baee68cea",
+      "display_sha256": "4d042f4f1ca39e8727ecf9a1f23d358f26ee826f73844fa3e7692880aaf6991e",
+      "display_blob_sha": "6a08036bcb6fbf7627e745e120805c3206ae0767",
+      "display_original_site_sha256": "18da7648773a0fb045779fe563d180e5682eac800b778d438901fb3baee68cea",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-roemeriana/inat-37702828.jpg",
@@ -142,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2a646b64d412b4e258908a890f4b55b964bc0390",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +170,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 24383412, photo 37702828, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4161b10c9ad1cba48976b8f7d06386ec60165c01e356d288021b951c23a2a052. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa roemeriana agrees with original manifest name Mimosa roemeriana mapped to indexed species mimosa-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4161b10c9ad1cba48976b8f7d06386ec60165c01e356d288021b951c23a2a052"
+      "sha256": "4161b10c9ad1cba48976b8f7d06386ec60165c01e356d288021b951c23a2a052",
+      "display_sha256": "2510d4396573f093633b951a52a74a89bb76b06ab7ae21babce3b46fcaa0ff67",
+      "display_blob_sha": "22b49a24ddec61a2ede91c9258f45ddeaa1fbbdf",
+      "display_original_site_sha256": "4161b10c9ad1cba48976b8f7d06386ec60165c01e356d288021b951c23a2a052",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

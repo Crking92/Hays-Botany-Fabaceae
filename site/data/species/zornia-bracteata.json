@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7ed398abf6b530f5f1996ddb59cf2c11342e0a56",
       "role": "General Zornia field photograph; precise diagnostic structures not certified",
-      "modified": "Original source photograph unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source photograph unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first release: exact source rights, photographer, source media bytes and plausible species assignment checked.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Fabaceae_004 source/photo license and hash validation workflow",
       "source_review_evidence": "Live iNaturalist observation 347300298, exact photo 633215281, photographer '(c) Derek Muschalek, some rights reserved (CC BY-NC)', photo-specific license cc-by-nc; original source bytes match supplied ZIP SHA256 bcd7c62ba831a40fb9675e078ca6f7ccf0df16ce601cf8fcd6453239b42f72ad.",
       "taxon_review_evidence": "Uploaded Fabaceae_004 Zornia contact sheet was visually reviewed for a plausible yellow fabaceous flower and foliage; live iNaturalist observation 347300298 reports Zornia bracteata. Specialist identification remains deferred.",
-      "sha256": "bcd7c62ba831a40fb9675e078ca6f7ccf0df16ce601cf8fcd6453239b42f72ad"
+      "sha256": "bcd7c62ba831a40fb9675e078ca6f7ccf0df16ce601cf8fcd6453239b42f72ad",
+      "display_sha256": "acbc2beb452ac672bcf4edc3a011a79b494872c0b18901afe1bbf7055fc2cdb5",
+      "display_blob_sha": "f93dab1491355dc8a5f4a1cefef4a972ef4775ec",
+      "display_original_site_sha256": "bcd7c62ba831a40fb9675e078ca6f7ccf0df16ce601cf8fcd6453239b42f72ad",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zornia-bracteata/inat-634685799.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "982c06661496780f274f1c95219d7e8a12d9fba3",
       "role": "General Zornia field photograph; precise diagnostic structures not certified",
-      "modified": "Original source photograph unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source photograph unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first release: exact source rights, photographer, source media bytes and plausible species assignment checked.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Fabaceae_004 source/photo license and hash validation workflow",
       "source_review_evidence": "Live iNaturalist observation 348038353, exact photo 634685799, photographer '(c) George Afghan, some rights reserved (CC BY-NC)', photo-specific license cc-by-nc; original source bytes match supplied ZIP SHA256 d5736bf38fe31885c6e2af8abb99edd5b5e68f870194453d020a713ff569d906.",
       "taxon_review_evidence": "Uploaded Fabaceae_004 Zornia contact sheet was visually reviewed for a plausible yellow fabaceous flower and foliage; live iNaturalist observation 348038353 reports Zornia bracteata. Specialist identification remains deferred.",
-      "sha256": "d5736bf38fe31885c6e2af8abb99edd5b5e68f870194453d020a713ff569d906"
+      "sha256": "d5736bf38fe31885c6e2af8abb99edd5b5e68f870194453d020a713ff569d906",
+      "display_sha256": "984ac695c2dda35d0e981772f0802edbd74711900ff695f894382653fe46256d",
+      "display_blob_sha": "b37ea3ba63b9507fd00a773fe9636fa13cff3800",
+      "display_original_site_sha256": "d5736bf38fe31885c6e2af8abb99edd5b5e68f870194453d020a713ff569d906",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zornia-bracteata/inat-637228725.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "6ccb71b7324eba896f0dc0dd1c4fa229d522918f",
       "role": "General Zornia field photograph; precise diagnostic structures not certified",
-      "modified": "Original source photograph unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source photograph unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first release: exact source rights, photographer, source media bytes and plausible species assignment checked.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Fabaceae_004 source/photo license and hash validation workflow",
       "source_review_evidence": "Live iNaturalist observation 349329609, exact photo 637228725, photographer '(c) Chet Burrier, some rights reserved (CC BY)', photo-specific license cc-by; original source bytes match supplied ZIP SHA256 ae46ba431ad8fb6b5be9136c91e9e5716645e02bdb27b2a02911597e168c1b79.",
       "taxon_review_evidence": "Uploaded Fabaceae_004 Zornia contact sheet was visually reviewed for a plausible yellow fabaceous flower and foliage; live iNaturalist observation 349329609 reports Zornia bracteata. Specialist identification remains deferred.",
-      "sha256": "ae46ba431ad8fb6b5be9136c91e9e5716645e02bdb27b2a02911597e168c1b79"
+      "sha256": "ae46ba431ad8fb6b5be9136c91e9e5716645e02bdb27b2a02911597e168c1b79",
+      "display_sha256": "5b7917ad85af3aad755fa0c828d09b31c0b8a453944a5521391f3108f7519263",
+      "display_blob_sha": "3fe1d33442685405f5f01deda0e4eec31381841b",
+      "display_original_site_sha256": "ae46ba431ad8fb6b5be9136c91e9e5716645e02bdb27b2a02911597e168c1b79",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zornia-bracteata/inat-640523417.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "60374868f06b076721692b3d06ccf737653d5e87",
       "role": "General Zornia field photograph; precise diagnostic structures not certified",
-      "modified": "Original source photograph unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source photograph unchanged",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first release: exact source rights, photographer, source media bytes and plausible species assignment checked.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Fabaceae_004 source/photo license and hash validation workflow",
       "source_review_evidence": "Live iNaturalist observation 351023759, exact photo 640523417, photographer '(c) Jack Cochran, some rights reserved (CC BY-NC)', photo-specific license cc-by-nc; original source bytes match supplied ZIP SHA256 3ece2b3149c52a819f72843ef6a7179fe0e1229e11caa064618097f8ff4c95b0.",
       "taxon_review_evidence": "Uploaded Fabaceae_004 Zornia contact sheet was visually reviewed for a plausible yellow fabaceous flower and foliage; live iNaturalist observation 351023759 reports Zornia bracteata. Specialist identification remains deferred.",
-      "sha256": "3ece2b3149c52a819f72843ef6a7179fe0e1229e11caa064618097f8ff4c95b0"
+      "sha256": "3ece2b3149c52a819f72843ef6a7179fe0e1229e11caa064618097f8ff4c95b0",
+      "display_sha256": "421f4a9a2d2f85fcaa3fae69cccdd4d9bb48c8f9acdb63e4c496e73e7c13e2ee",
+      "display_blob_sha": "b1763eb6e90e27183544c9718a1b776f9500c2ba",
+      "display_original_site_sha256": "3ece2b3149c52a819f72843ef6a7179fe0e1229e11caa064618097f8ff4c95b0",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zornia-bracteata/inat-647517827.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "22cdddaef967cad7abfc6c79d9d8fe43ef72c69c",
       "role": "General Zornia field photograph; precise diagnostic structures not certified",
-      "modified": "Original source photograph unchanged",
+      "modified": "Resized and recompressed web display copy; source note: Original source photograph unchanged",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first release: exact source rights, photographer, source media bytes and plausible species assignment checked.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Fabaceae_004 source/photo license and hash validation workflow",
       "source_review_evidence": "Live iNaturalist observation 354980648, exact photo 647517827, photographer '(c) Chet Burrier, some rights reserved (CC BY)', photo-specific license cc-by; original source bytes match supplied ZIP SHA256 1249c7559567179678ad90a02005f4e5092e0ae62bce5402e8ae592b647b467c.",
       "taxon_review_evidence": "Uploaded Fabaceae_004 Zornia contact sheet was visually reviewed for a plausible yellow fabaceous flower and foliage; live iNaturalist observation 354980648 reports Zornia bracteata. Specialist identification remains deferred.",
-      "sha256": "1249c7559567179678ad90a02005f4e5092e0ae62bce5402e8ae592b647b467c"
+      "sha256": "1249c7559567179678ad90a02005f4e5092e0ae62bce5402e8ae592b647b467c",
+      "display_sha256": "5e46627942d8287bb1a63cfff6ec97e736bacf06a274687d4f4e5bfa5ef3c266",
+      "display_blob_sha": "d4f92b7e41a6a606cf19f03bd771f9e0cc08844f",
+      "display_original_site_sha256": "1249c7559567179678ad90a02005f4e5092e0ae62bce5402e8ae592b647b467c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

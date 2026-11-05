@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b875101b3c84d09872ebdc982c0fc418ad3b2cdb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 180511184, photo 314446139, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 29af3f7d6e72f2c0e3f2bc1be3d795e6ed4ed253d388a8436acc74663fd36e69. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Strophostyles helvola agrees with original manifest name Strophostyles helvola mapped to indexed species strophostyles-helvola; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "29af3f7d6e72f2c0e3f2bc1be3d795e6ed4ed253d388a8436acc74663fd36e69"
+      "sha256": "29af3f7d6e72f2c0e3f2bc1be3d795e6ed4ed253d388a8436acc74663fd36e69",
+      "display_sha256": "7269d1b09301b00156e3ce276e4f869a739d6887ad389748022c157002b45871",
+      "display_blob_sha": "483f4324dabedfdd6b2ed8647285c4c9c0dbe090",
+      "display_original_site_sha256": "29af3f7d6e72f2c0e3f2bc1be3d795e6ed4ed253d388a8436acc74663fd36e69",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/strophostyles-helvola/inat-315397155.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8b98415cf02a2ec288566512edd265cb72414fd1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 181005320, photo 315397155, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 34450546b782f8d8aef9bf9b7373ea883799fc33be830a4b7634ef9b2ade9c5a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Strophostyles helvola agrees with original manifest name Strophostyles helvola mapped to indexed species strophostyles-helvola; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "34450546b782f8d8aef9bf9b7373ea883799fc33be830a4b7634ef9b2ade9c5a"
+      "sha256": "34450546b782f8d8aef9bf9b7373ea883799fc33be830a4b7634ef9b2ade9c5a",
+      "display_sha256": "68f77afc21ac740a6a5d29b7fe3cdb8c812ef5398683de8f56c32a741a9a94cb",
+      "display_blob_sha": "b632f3086fe504a0dd6c23f12f166f4882204a59",
+      "display_original_site_sha256": "34450546b782f8d8aef9bf9b7373ea883799fc33be830a4b7634ef9b2ade9c5a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/strophostyles-helvola/inat-405084521.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "68b091643e3643e4a7edffa72a31ff98523fc1bf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 228287370, photo 405084521, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 26838fc443f794aa8d056abab0ef7069227df6f79a94e81059e017e4e7ebafed. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Strophostyles helvola agrees with original manifest name Strophostyles helvola mapped to indexed species strophostyles-helvola; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "26838fc443f794aa8d056abab0ef7069227df6f79a94e81059e017e4e7ebafed"
+      "sha256": "26838fc443f794aa8d056abab0ef7069227df6f79a94e81059e017e4e7ebafed",
+      "display_sha256": "1e3718033186dcd185cf6f4e79e5d64f354b4f6ce7ec4027fbd1e52e0bc05631",
+      "display_blob_sha": "5fb1cc99562cde2e5db020a6c65292cac02b4347",
+      "display_original_site_sha256": "26838fc443f794aa8d056abab0ef7069227df6f79a94e81059e017e4e7ebafed",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/strophostyles-helvola/inat-699631740.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9992eba8f97dfd9ea1b675402cab41771a7c4c09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 382313437, photo 699631740, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5347df519b6eb62689a30ebcc9c4cb2058741eb9b086ed6558703e0d72f7b817. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Strophostyles helvola agrees with original manifest name Strophostyles helvola mapped to indexed species strophostyles-helvola; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "5347df519b6eb62689a30ebcc9c4cb2058741eb9b086ed6558703e0d72f7b817"
+      "sha256": "5347df519b6eb62689a30ebcc9c4cb2058741eb9b086ed6558703e0d72f7b817",
+      "display_sha256": "5f9eff062852069c5b63c9b094516c3be3f0d6853653ec3a76cafe1183f4000f",
+      "display_blob_sha": "13d3f691cb801c979855360e36b7c4681297ebaa",
+      "display_original_site_sha256": "5347df519b6eb62689a30ebcc9c4cb2058741eb9b086ed6558703e0d72f7b817",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

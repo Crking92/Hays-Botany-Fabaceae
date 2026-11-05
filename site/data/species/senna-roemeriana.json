@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "627b21cb68d0663c50b897a273e305c6d46a1a04",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344224939, photo 627164884, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 44bbd78b2c4d9718a478b7972caed514004f57dd145b30012ec5d04ff43d48d7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna roemeriana agrees with original manifest name Senna roemeriana mapped to indexed species senna-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "44bbd78b2c4d9718a478b7972caed514004f57dd145b30012ec5d04ff43d48d7"
+      "sha256": "44bbd78b2c4d9718a478b7972caed514004f57dd145b30012ec5d04ff43d48d7",
+      "display_sha256": "f8487f181ebf889b28a0d108ffc11b337487c86c9e16c3fcb1a2891283d0264a",
+      "display_blob_sha": "2aa4409e43664b56204504812a98993b99a43ac8",
+      "display_original_site_sha256": "44bbd78b2c4d9718a478b7972caed514004f57dd145b30012ec5d04ff43d48d7",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-roemeriana/inat-629596230.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "41444df045aaab3e40d816c1d52d3be9062f3b45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345468225, photo 629596230, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 538d8dd038697dea7b8d749c9209add7b64cbf32e808a41cd0f022ce5cb430a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna roemeriana agrees with original manifest name Senna roemeriana mapped to indexed species senna-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "538d8dd038697dea7b8d749c9209add7b64cbf32e808a41cd0f022ce5cb430a6"
+      "sha256": "538d8dd038697dea7b8d749c9209add7b64cbf32e808a41cd0f022ce5cb430a6",
+      "display_sha256": "2b1d58adc8fb14bf98a33150e5b57b531757cecb47200a7e888565916933bb33",
+      "display_blob_sha": "808bafdde287be9c2619f9fc94314650d69d7b68",
+      "display_original_site_sha256": "538d8dd038697dea7b8d749c9209add7b64cbf32e808a41cd0f022ce5cb430a6",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-roemeriana/inat-630431029.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1811085e1fe1f791c299151b134155739dbd7410",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345701648, photo 630431029, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5bccf77766f3db5878281ff778712eb04270f5e55550ce65fc56cbb6659c4d17. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna roemeriana agrees with original manifest name Senna roemeriana mapped to indexed species senna-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "5bccf77766f3db5878281ff778712eb04270f5e55550ce65fc56cbb6659c4d17"
+      "sha256": "5bccf77766f3db5878281ff778712eb04270f5e55550ce65fc56cbb6659c4d17",
+      "display_sha256": "c0dbca26df60aea87d5bb14da3eb2d1ba399f1f2e5c6314e057fa532b59450f1",
+      "display_blob_sha": "6d3421b876bb70ca51bddf8b6a42a34fc0cd8b03",
+      "display_original_site_sha256": "5bccf77766f3db5878281ff778712eb04270f5e55550ce65fc56cbb6659c4d17",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-roemeriana/inat-631594926.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a98a1ae706999dbd7840bdd4bbf1d7e3bd2085d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 346484348, photo 631594926, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e6930781d4784193408199b2b319fe8205000c9b923988b58e78535bab62f70a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna roemeriana agrees with original manifest name Senna roemeriana mapped to indexed species senna-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e6930781d4784193408199b2b319fe8205000c9b923988b58e78535bab62f70a"
+      "sha256": "e6930781d4784193408199b2b319fe8205000c9b923988b58e78535bab62f70a",
+      "display_sha256": "88494db128ca5bcb21bd018df81b20a632cc0f6aa755408c7c8084c0fa0a2a3f",
+      "display_blob_sha": "0237d46f2420c19e1c71bab5a8a4ddc2b2a213bc",
+      "display_original_site_sha256": "e6930781d4784193408199b2b319fe8205000c9b923988b58e78535bab62f70a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/senna-roemeriana/inat-632649557.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b04c739336dd5ebad75ad6d185e90990fbdb35c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347015276, photo 632649557, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc58f2eb6efc9e3fb3bde4515295f696e9599e1dd1d0a8f4ce27d9dfdb8972f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Senna roemeriana agrees with original manifest name Senna roemeriana mapped to indexed species senna-roemeriana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "fc58f2eb6efc9e3fb3bde4515295f696e9599e1dd1d0a8f4ce27d9dfdb8972f4"
+      "sha256": "fc58f2eb6efc9e3fb3bde4515295f696e9599e1dd1d0a8f4ce27d9dfdb8972f4",
+      "display_sha256": "bdccc8a61d09408b3573b236869754382d255a9a38f9ff697c3a3fe9c528d7e2",
+      "display_blob_sha": "d8f78d878b59306b1faca5ea48e5287afa07b794",
+      "display_original_site_sha256": "fc58f2eb6efc9e3fb3bde4515295f696e9599e1dd1d0a8f4ce27d9dfdb8972f4",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

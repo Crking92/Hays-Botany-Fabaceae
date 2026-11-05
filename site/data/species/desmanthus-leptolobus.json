@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "52155310bf1a79d65e5e9210f9c4f2d3a98171ed",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 227649973, photo 403880229, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f771d4d2fc5ba9fe3861ec5caf81e44a7a404f67b5f49fc0c93002e2b816f20. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus leptolobus agrees with the indexed species desmanthus-leptolobus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "5f771d4d2fc5ba9fe3861ec5caf81e44a7a404f67b5f49fc0c93002e2b816f20"
+      "sha256": "5f771d4d2fc5ba9fe3861ec5caf81e44a7a404f67b5f49fc0c93002e2b816f20",
+      "display_sha256": "8c3d96b38096aaea1fa85df10fe43016ee5787d7ee64ea3979361b6eeb94e000",
+      "display_blob_sha": "d144b47c066097c0280e6262ea2bccf9048ba4d1",
+      "display_original_site_sha256": "5f771d4d2fc5ba9fe3861ec5caf81e44a7a404f67b5f49fc0c93002e2b816f20",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-leptolobus/inat-646509015.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9776a8b45e49192fd1ff9068fd55b95aa2453988",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354393540, photo 646509015, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e453954b75caa8e31b3021b3f04258c3ef625ea74d01c1ad16500700b166d1bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus leptolobus agrees with the indexed species desmanthus-leptolobus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e453954b75caa8e31b3021b3f04258c3ef625ea74d01c1ad16500700b166d1bc"
+      "sha256": "e453954b75caa8e31b3021b3f04258c3ef625ea74d01c1ad16500700b166d1bc",
+      "display_sha256": "6456dcafad0b353c89e3a6b407ea02d133ea9a46314483f831354aa58d5c7344",
+      "display_blob_sha": "83e499f0326bd062a214f5e70f62fb535d8912a0",
+      "display_original_site_sha256": "e453954b75caa8e31b3021b3f04258c3ef625ea74d01c1ad16500700b166d1bc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-leptolobus/inat-646818218.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aa3afbe36674e130d3eb6c1a816c62aca6c461f3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354582933, photo 646818218, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7e7762e4da7fe5492f8bbcff11f8e1f4c0e2b93c2210ffabf8c3a95b45c40515. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus leptolobus agrees with the indexed species desmanthus-leptolobus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "7e7762e4da7fe5492f8bbcff11f8e1f4c0e2b93c2210ffabf8c3a95b45c40515"
+      "sha256": "7e7762e4da7fe5492f8bbcff11f8e1f4c0e2b93c2210ffabf8c3a95b45c40515",
+      "display_sha256": "8dfe73dd12ef492d7ccbed05e7d69191c242bb4c36b03de3afd070e23a0a21ae",
+      "display_blob_sha": "0d9f338899a4db06c1edadb7b54253ab67c3dd4a",
+      "display_original_site_sha256": "7e7762e4da7fe5492f8bbcff11f8e1f4c0e2b93c2210ffabf8c3a95b45c40515",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

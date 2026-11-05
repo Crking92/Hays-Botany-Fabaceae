@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "71489b670d1ee5a815bfc663cf158f9b1a89a772",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342021295, photo 622755804, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a12bf3ba44e1cfae6b9705fd267462ad4d59c47bba6d95784e4f1ef77826d5bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Parkinsonia aculeata agrees with original manifest name Parkinsonia aculeata mapped to indexed species parkinsonia-aculeata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a12bf3ba44e1cfae6b9705fd267462ad4d59c47bba6d95784e4f1ef77826d5bc"
+      "sha256": "a12bf3ba44e1cfae6b9705fd267462ad4d59c47bba6d95784e4f1ef77826d5bc",
+      "display_sha256": "c4c9d85d111942b09c32ee8bca1b82eb0a0d1167ca1a254e8abd8cd6864f67ae",
+      "display_blob_sha": "116844d4916af91509a0c255b132cb25fff73ffe",
+      "display_original_site_sha256": "a12bf3ba44e1cfae6b9705fd267462ad4d59c47bba6d95784e4f1ef77826d5bc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parkinsonia-aculeata/inat-623303854.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cb230a5f7de6b31ebf11ab74fbe0e1ff0eb53615",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 342293755, photo 623303854, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c589f59f849f94dd0927d4a398299d11e3e749f47b7c1154db99ed1078ebe5eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Parkinsonia aculeata agrees with original manifest name Parkinsonia aculeata mapped to indexed species parkinsonia-aculeata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "c589f59f849f94dd0927d4a398299d11e3e749f47b7c1154db99ed1078ebe5eb"
+      "sha256": "c589f59f849f94dd0927d4a398299d11e3e749f47b7c1154db99ed1078ebe5eb",
+      "display_sha256": "75da0c8f7afa70e4581937dd8b3c6d948ac8030c64e1140d72c4eee13b0fd32a",
+      "display_blob_sha": "0c960d74ef2adc3995804dcd95b26c4def2b0208",
+      "display_original_site_sha256": "c589f59f849f94dd0927d4a398299d11e3e749f47b7c1154db99ed1078ebe5eb",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parkinsonia-aculeata/inat-625450277.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7c446c824cb6de3b14b465c3cdf6262a5cfe04d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343363098, photo 625450277, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0806a4f2bb112a05af89ef61272c2b3f3d6fd0cc4668835af9d7f794cc46fa0d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Parkinsonia aculeata agrees with original manifest name Parkinsonia aculeata mapped to indexed species parkinsonia-aculeata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "0806a4f2bb112a05af89ef61272c2b3f3d6fd0cc4668835af9d7f794cc46fa0d"
+      "sha256": "0806a4f2bb112a05af89ef61272c2b3f3d6fd0cc4668835af9d7f794cc46fa0d",
+      "display_sha256": "9467836dc52aa351e5a4e37a1509eb1719f2a04d39979f0eb7c1b5bd02e6308d",
+      "display_blob_sha": "5034c5313f16dd5826fe0b2f534c24a10bb70193",
+      "display_original_site_sha256": "0806a4f2bb112a05af89ef61272c2b3f3d6fd0cc4668835af9d7f794cc46fa0d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parkinsonia-aculeata/inat-626478170.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cede417cc1c3b2497cf642f249b69364a8f8eb77",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343872822, photo 626478170, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e97cf04b79409bba9ef9abe655eb48378f88956252f9a843c87318ee35c05f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Parkinsonia aculeata agrees with original manifest name Parkinsonia aculeata mapped to indexed species parkinsonia-aculeata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "9e97cf04b79409bba9ef9abe655eb48378f88956252f9a843c87318ee35c05f4"
+      "sha256": "9e97cf04b79409bba9ef9abe655eb48378f88956252f9a843c87318ee35c05f4",
+      "display_sha256": "1b4ddac1ab8a36cb7856dd5dc9f5c03fd28016d8845311080174593018070aeb",
+      "display_blob_sha": "ecf97929fac6531935ab326459828f6f4d17f753",
+      "display_original_site_sha256": "9e97cf04b79409bba9ef9abe655eb48378f88956252f9a843c87318ee35c05f4",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parkinsonia-aculeata/inat-627589316.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2608f8401b490669fafa61979b0f7ad742019f5b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344439458, photo 627589316, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: df84871cc89cf1bb3ba3464810dfeada386e2b0f7768c8a5b345cd069ac10685. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Parkinsonia aculeata agrees with original manifest name Parkinsonia aculeata mapped to indexed species parkinsonia-aculeata; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "df84871cc89cf1bb3ba3464810dfeada386e2b0f7768c8a5b345cd069ac10685"
+      "sha256": "df84871cc89cf1bb3ba3464810dfeada386e2b0f7768c8a5b345cd069ac10685",
+      "display_sha256": "3b4f6147e76c490e29c26b94b203263795b6ae2658f8560ef22ca69efab87813",
+      "display_blob_sha": "f0207455476b2d9a02ec64c7d259cafda23da1e9",
+      "display_original_site_sha256": "df84871cc89cf1bb3ba3464810dfeada386e2b0f7768c8a5b345cd069ac10685",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

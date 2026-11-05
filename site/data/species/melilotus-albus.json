@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "66461c215a19432e0f6ec2c6b68f5cfc1168befd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347998405, photo 634604840, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ae10b31bb83e8bf3a9289e70fc1c3aae5274cb73cf96517fd765c7bd6007c629. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus albus agrees with the indexed species melilotus-albus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ae10b31bb83e8bf3a9289e70fc1c3aae5274cb73cf96517fd765c7bd6007c629"
+      "sha256": "ae10b31bb83e8bf3a9289e70fc1c3aae5274cb73cf96517fd765c7bd6007c629",
+      "display_sha256": "518b5e52a71f4abf4cda4dd1bbec754d0e18cc9f5f0b7959775e1735736008c5",
+      "display_blob_sha": "590782e47da919247be6b1c091b70a3bdc535e9b",
+      "display_original_site_sha256": "ae10b31bb83e8bf3a9289e70fc1c3aae5274cb73cf96517fd765c7bd6007c629",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melilotus-albus/inat-635020776.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ea35b9f71eb704400154eca38258fbc13bc3c85",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348209946, photo 635020776, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e5dda4a5eb1b631bde811b26be71eccaa8a1a2aa7970b9983eeacf2c28090cbd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus albus agrees with the indexed species melilotus-albus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e5dda4a5eb1b631bde811b26be71eccaa8a1a2aa7970b9983eeacf2c28090cbd"
+      "sha256": "e5dda4a5eb1b631bde811b26be71eccaa8a1a2aa7970b9983eeacf2c28090cbd",
+      "display_sha256": "b9a6e0ebe6c1023641f1b1109d55117d88d058323907ae0f2d84ae6b05c28e8f",
+      "display_blob_sha": "97d03f13b7635275ef67370a9a50e1df1ec5f4d2",
+      "display_original_site_sha256": "e5dda4a5eb1b631bde811b26be71eccaa8a1a2aa7970b9983eeacf2c28090cbd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melilotus-albus/inat-652239807.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "56106652c32a1f21c01115a29963ae70887a3227",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 357596633, photo 652239807, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf2b5ec4a12f95807e003db9f00d4dbfce4094e75bdfedbd2df0a8c02dfc0f89. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus albus agrees with the indexed species melilotus-albus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "cf2b5ec4a12f95807e003db9f00d4dbfce4094e75bdfedbd2df0a8c02dfc0f89"
+      "sha256": "cf2b5ec4a12f95807e003db9f00d4dbfce4094e75bdfedbd2df0a8c02dfc0f89",
+      "display_sha256": "b64d71cd557162f4a2d63f1a5baea60e49155aa2c4cc084275781cc24e788797",
+      "display_blob_sha": "22b4e3cc4af0dcbc6819eec22d5ca9b4cadd2880",
+      "display_original_site_sha256": "cf2b5ec4a12f95807e003db9f00d4dbfce4094e75bdfedbd2df0a8c02dfc0f89",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melilotus-albus/inat-654456836.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2555c904f909b484f9bcf9fe2ae040e9a13688f6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 358737611, photo 654456836, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f62cabeaa4c44e1a02455eabf516ea4c0422d529ce9fca8ded5f69bcd8f065cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus albus agrees with the indexed species melilotus-albus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "f62cabeaa4c44e1a02455eabf516ea4c0422d529ce9fca8ded5f69bcd8f065cc"
+      "sha256": "f62cabeaa4c44e1a02455eabf516ea4c0422d529ce9fca8ded5f69bcd8f065cc",
+      "display_sha256": "806ec0e4d743e449865b1aad6152cde3d3c65183bee35a0c35d66f20d6faee42",
+      "display_blob_sha": "06d79448e83279182826f69d151ded94b36c14b6",
+      "display_original_site_sha256": "f62cabeaa4c44e1a02455eabf516ea4c0422d529ce9fca8ded5f69bcd8f065cc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melilotus-albus/inat-655613576.jpg",
@@ -128,7 +148,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "200d68b664a16fa60c9ca1e4910c6ca2907eee35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +156,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 359342000, photo 655613576, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2f97a6af4ab6aec5443d6fe800b89692398443e6be04196a5d28edb659c48476. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Melilotus albus agrees with the indexed species melilotus-albus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2f97a6af4ab6aec5443d6fe800b89692398443e6be04196a5d28edb659c48476"
+      "sha256": "2f97a6af4ab6aec5443d6fe800b89692398443e6be04196a5d28edb659c48476",
+      "display_sha256": "a93de33ede8f5493a18538046a44847ddde6837d3a5e1f99d621990f4aecb821",
+      "display_blob_sha": "e130e9331a99fd7aa80a37bcf7a787e7092725cf",
+      "display_original_site_sha256": "2f97a6af4ab6aec5443d6fe800b89692398443e6be04196a5d28edb659c48476",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

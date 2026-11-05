@@ -83,12 +83,17 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5edb86ff03a7802ee82763f6103d0b48f7ba3036",
       "role": "Close flowering view showing yellow petals, red-striped hairy green calyces, and narrow leaflets on a hand-held sprig. Does not show whole-plant habit, fruit, or seeds.",
-      "modified": "Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy uses a collision-resistant filename; original filename and file preserved.",
+      "modified": "Resized and recompressed web display copy; source note: Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy uses a collision-resistant filename; original filename and file preserved.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact downloaded SHA-256 verified. GBIF occurrence 6251578315 was re-read; its exact media URL, image-level CC BY 4.0 license and credited creator match the download metadata, and the record has accepted taxonomic status. Close flowering view showing yellow petals, red-striped hairy green calyces, and narrow leaflets on a hand-held sprig. Does not show whole-plant habit, fruit, or seeds. No county or native-range claim is made.",
       "photo_approved_by": "Codex automated source and visual review; user-authorized publication",
-      "sha256": "7b754c6eb8a40484eb57743e6c4169ba5a84d762e49ae737491d1ed1437b3764"
+      "sha256": "7b754c6eb8a40484eb57743e6c4169ba5a84d762e49ae737491d1ed1437b3764",
+      "display_sha256": "93ad4bce2dc0c5ef2120e336d0fc8c693b77ca97059fcc25addb80a66cfb4e9d",
+      "display_blob_sha": "af5c676c81525bf1309776be936b0c72374f5873",
+      "display_original_site_sha256": "7b754c6eb8a40484eb57743e6c4169ba5a84d762e49ae737491d1ed1437b3764",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-hallii/inat-384833954.jpeg",
@@ -99,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b3a4caa0bcc4bd45a321556fcaee981b1b65d639",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 217529053, photo 384833954, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3b02e18dd02840fed1418884f71c2a87e54135e73b8c2bfab7ed12034127c363. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea hallii agrees with indexed species dalea-hallii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "3b02e18dd02840fed1418884f71c2a87e54135e73b8c2bfab7ed12034127c363"
+      "sha256": "3b02e18dd02840fed1418884f71c2a87e54135e73b8c2bfab7ed12034127c363",
+      "display_sha256": "641d2404f1435970b9d01e190739a530e4c32a82458c376282f68ead8adb3e2e",
+      "display_blob_sha": "c7341629241b256ebb7291f6cb3a178f8075426a",
+      "display_original_site_sha256": "3b02e18dd02840fed1418884f71c2a87e54135e73b8c2bfab7ed12034127c363",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-hallii/inat-507583241.jpg",
@@ -118,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "96f9094c177821a5d0534e0e48692dc2d48316a2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 282519459, photo 507583241, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 85c9353ab7894884dc8dcb8bc68eb4b0654157e533cf0e23ab9994b588e5ade5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea hallii agrees with indexed species dalea-hallii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "85c9353ab7894884dc8dcb8bc68eb4b0654157e533cf0e23ab9994b588e5ade5"
+      "sha256": "85c9353ab7894884dc8dcb8bc68eb4b0654157e533cf0e23ab9994b588e5ade5",
+      "display_sha256": "224c1cbcc7f0055088fc9fe510e15bba55c9bdf941f8f4621cfc72db414ca56b",
+      "display_blob_sha": "139c26d86fcfd05d3999a8efb4f46399c8cd71ec",
+      "display_original_site_sha256": "85c9353ab7894884dc8dcb8bc68eb4b0654157e533cf0e23ab9994b588e5ade5",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-hallii/inat-630708306.jpg",
@@ -137,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "8e1457d6b9d5d197a0c93683401e8c2c97cd57f0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346036601, photo 630708306, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c08310ecfae2baf47a2c8383a29845e3160dd7ce3ef693f848d5f4fb1265f480. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea hallii agrees with indexed species dalea-hallii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "c08310ecfae2baf47a2c8383a29845e3160dd7ce3ef693f848d5f4fb1265f480"
+      "sha256": "c08310ecfae2baf47a2c8383a29845e3160dd7ce3ef693f848d5f4fb1265f480",
+      "display_sha256": "0f028fd97d830853587dcffd507137ca2f6e5bcd7518a8077a45c1f1fa4a669e",
+      "display_blob_sha": "cb68add2da45fd6b95359a1853a002b5189346e0",
+      "display_original_site_sha256": "c08310ecfae2baf47a2c8383a29845e3160dd7ce3ef693f848d5f4fb1265f480",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-hallii/inat-646413710.jpg",
@@ -156,7 +176,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da9c8a01a7c8471aa5cbc7aa52f8041ac4aa7123",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -164,7 +184,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354335346, photo 646413710, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1f3ba9ff9e86790705795a4d60f23f74fa50defcc5d163bec8414cfb19382994. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea hallii agrees with indexed species dalea-hallii; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1f3ba9ff9e86790705795a4d60f23f74fa50defcc5d163bec8414cfb19382994"
+      "sha256": "1f3ba9ff9e86790705795a4d60f23f74fa50defcc5d163bec8414cfb19382994",
+      "display_sha256": "83196f6f18e5af502fc97bc7b339a50a29f15e96d62020537b8939906b9590a0",
+      "display_blob_sha": "0a26a50df6d736dd53b85e50557624b82b7b768e",
+      "display_original_site_sha256": "1f3ba9ff9e86790705795a4d60f23f74fa50defcc5d163bec8414cfb19382994",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

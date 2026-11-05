@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c5eca202b6fc4045db2859863e4ee88389d30ab3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 216703232, photo 383279018, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc414a067d1c7703aeab18fb1cb740cd5158f90681a9e73d9ded2cca73fee2bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania herbacea agrees with original manifest name Sesbania herbacea mapped to indexed species sesbania-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "fc414a067d1c7703aeab18fb1cb740cd5158f90681a9e73d9ded2cca73fee2bc"
+      "sha256": "fc414a067d1c7703aeab18fb1cb740cd5158f90681a9e73d9ded2cca73fee2bc",
+      "display_sha256": "d4b61879abe32034480c0a33860c7a1fa73eab68874217927f90313d670afc47",
+      "display_blob_sha": "0b05472575b2017982623714247f4c524be746a9",
+      "display_original_site_sha256": "fc414a067d1c7703aeab18fb1cb740cd5158f90681a9e73d9ded2cca73fee2bc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sesbania-herbacea/inat-505518353.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "23fe495b1b333ed2e979334f1293034fa388ecd7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 281413590, photo 505518353, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: acbc45e7f802ddccf81749c6b61897171cd25ea39bfa2f63026290f9ac805bf4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania herbacea agrees with original manifest name Sesbania herbacea mapped to indexed species sesbania-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "acbc45e7f802ddccf81749c6b61897171cd25ea39bfa2f63026290f9ac805bf4"
+      "sha256": "acbc45e7f802ddccf81749c6b61897171cd25ea39bfa2f63026290f9ac805bf4",
+      "display_sha256": "757e70234e862341b84e1fa8ff6d8cdb03e5e7e44549151349049bc18a2242e1",
+      "display_blob_sha": "a0b9ca72746705b3374ad28a8e3b6847fe4c352e",
+      "display_original_site_sha256": "acbc45e7f802ddccf81749c6b61897171cd25ea39bfa2f63026290f9ac805bf4",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sesbania-herbacea/inat-506002732.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3639403f83bbcc109eb17de5cc1171e70fca9886",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 281667637, photo 506002732, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6811888f0eb285a628a4fb7af4262cb9b2a5d8106864baec437c75c6a357df76. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania herbacea agrees with original manifest name Sesbania herbacea mapped to indexed species sesbania-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6811888f0eb285a628a4fb7af4262cb9b2a5d8106864baec437c75c6a357df76"
+      "sha256": "6811888f0eb285a628a4fb7af4262cb9b2a5d8106864baec437c75c6a357df76",
+      "display_sha256": "14b46db32d0b98415235f43acc95fecb9e349655b4dcf105674ce937e8c5184a",
+      "display_blob_sha": "1316d8942282f7b211dcea11ba590dde70cb26d2",
+      "display_original_site_sha256": "6811888f0eb285a628a4fb7af4262cb9b2a5d8106864baec437c75c6a357df76",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sesbania-herbacea/inat-638840806.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a420cd380c0b5dba6750bc0354549ef6a8ec3b65",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 350153191, photo 638840806, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1d135660ee0282b8ff20ec86d145ba6feecd2a6170abd5a4190aea450d2538e5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania herbacea agrees with original manifest name Sesbania herbacea mapped to indexed species sesbania-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "1d135660ee0282b8ff20ec86d145ba6feecd2a6170abd5a4190aea450d2538e5"
+      "sha256": "1d135660ee0282b8ff20ec86d145ba6feecd2a6170abd5a4190aea450d2538e5",
+      "display_sha256": "129486a48947dc11b190fc81c76a91e93f74a8665eb12903aec49dfa099961b1",
+      "display_blob_sha": "c4bce45c851bef469db032ab48090d83eb738451",
+      "display_original_site_sha256": "1d135660ee0282b8ff20ec86d145ba6feecd2a6170abd5a4190aea450d2538e5",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sesbania-herbacea/inat-677189693.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "151e5d1363339446a7004596088560655ac1e5e3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 370677057, photo 677189693, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f29c5520a60c1655783fdf8b5d1f0ee12dda6bcbda054e78b0d8d40422c90e87. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Sesbania herbacea agrees with original manifest name Sesbania herbacea mapped to indexed species sesbania-herbacea; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "f29c5520a60c1655783fdf8b5d1f0ee12dda6bcbda054e78b0d8d40422c90e87"
+      "sha256": "f29c5520a60c1655783fdf8b5d1f0ee12dda6bcbda054e78b0d8d40422c90e87",
+      "display_sha256": "0b79c6184887c5f776d4184b764848b81490e3fa1ef43861bfcb27f802ca31cb",
+      "display_blob_sha": "51f88a84e8b0a53e830ee613fa1d8251c6dbb6dd",
+      "display_original_site_sha256": "f29c5520a60c1655783fdf8b5d1f0ee12dda6bcbda054e78b0d8d40422c90e87",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

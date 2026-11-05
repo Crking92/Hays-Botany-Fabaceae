@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b993bf04cd14b626a5830c0f6035973e6670d9f0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 91466273, photo 151298762, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e916e6d528c440c7a398bf418ec48978c2c10eedd21046c70fc07b0605d60eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium sessilifolium agrees with the indexed species desmodium-sessilifolium; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2e916e6d528c440c7a398bf418ec48978c2c10eedd21046c70fc07b0605d60eb"
+      "sha256": "2e916e6d528c440c7a398bf418ec48978c2c10eedd21046c70fc07b0605d60eb",
+      "display_sha256": "5c3fefe72f447404c53f24bc379ee4551d61e4c7d9c11644c8a16f023d600b42",
+      "display_blob_sha": "0e45346634b7c6d924ce2f36c23f1a6038752ab8",
+      "display_original_site_sha256": "2e916e6d528c440c7a398bf418ec48978c2c10eedd21046c70fc07b0605d60eb",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-sessilifolium/inat-151486251.jpeg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "edd4762087e4567159f6ec280bd7c2270e21978f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 91567622, photo 151486251, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e513025389d5b44035cb06074cc4b7f3bf30038728fb5d06a7f97a8a7afabd5d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium sessilifolium agrees with the indexed species desmodium-sessilifolium; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e513025389d5b44035cb06074cc4b7f3bf30038728fb5d06a7f97a8a7afabd5d"
+      "sha256": "e513025389d5b44035cb06074cc4b7f3bf30038728fb5d06a7f97a8a7afabd5d",
+      "display_sha256": "d9bb17e6d2e0ada0721a3b4ae1243e7c0079f39716a8078c80328b5a96c391ee",
+      "display_blob_sha": "f5faf36092a89ec5a80defedab24ca9497c8980c",
+      "display_original_site_sha256": "e513025389d5b44035cb06074cc4b7f3bf30038728fb5d06a7f97a8a7afabd5d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

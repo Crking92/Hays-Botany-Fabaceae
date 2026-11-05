@@ -90,7 +90,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "30907665793e3ec4221f22a52ba2a4cf09e4389d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +98,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 350148038, photo 638830390, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad48c0b522eb8851cd1fd309d735cbe8f57054240b09e3039b82600deb0f48fc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus velutinus agrees with the indexed species desmanthus-velutinus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ad48c0b522eb8851cd1fd309d735cbe8f57054240b09e3039b82600deb0f48fc"
+      "sha256": "ad48c0b522eb8851cd1fd309d735cbe8f57054240b09e3039b82600deb0f48fc",
+      "display_sha256": "5ff58065032bddf14545cbb4d25ba25f103992a8f7a3ae34317d7cb1061c8f74",
+      "display_blob_sha": "b6d7e4dccd57435d8d08e9a35aa862b394382645",
+      "display_original_site_sha256": "ad48c0b522eb8851cd1fd309d735cbe8f57054240b09e3039b82600deb0f48fc",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-velutinus/inat-640365759.jpg",
@@ -109,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "650eebdd3ae39d79db24373cac96b16fcaa62173",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 350938505, photo 640365759, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e72ceafd79832385c7c1a4c08baffa7da1e928ffca06555ca9e7add79c1b7de. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus velutinus agrees with the indexed species desmanthus-velutinus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "5e72ceafd79832385c7c1a4c08baffa7da1e928ffca06555ca9e7add79c1b7de"
+      "sha256": "5e72ceafd79832385c7c1a4c08baffa7da1e928ffca06555ca9e7add79c1b7de",
+      "display_sha256": "599c2166e404a4e7658b14abdcff0ebb81c3e66bc641eaed0a2fc67e88badfb0",
+      "display_blob_sha": "9e8f3bdbfea82cbf7e86478d3a7f6b090ff4e8ea",
+      "display_original_site_sha256": "5e72ceafd79832385c7c1a4c08baffa7da1e928ffca06555ca9e7add79c1b7de",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-velutinus/inat-640832000.jpg",
@@ -128,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aea7d8b8935376d20b45078b2ab4a5180ae1eab3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 351185430, photo 640832000, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 111ae135e83e5ba07b36bfffabab11f6028f9170b25cc79d0d9923c1311dbcdd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus velutinus agrees with the indexed species desmanthus-velutinus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "111ae135e83e5ba07b36bfffabab11f6028f9170b25cc79d0d9923c1311dbcdd"
+      "sha256": "111ae135e83e5ba07b36bfffabab11f6028f9170b25cc79d0d9923c1311dbcdd",
+      "display_sha256": "3448587bc87ee67efc470d0cf5d8cf62cf34a728329e5fe27199d251f5f90ace",
+      "display_blob_sha": "09a88d162c328663679ee0f47af61fdcf46302bb",
+      "display_original_site_sha256": "111ae135e83e5ba07b36bfffabab11f6028f9170b25cc79d0d9923c1311dbcdd",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-velutinus/inat-641438695.jpg",
@@ -147,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4625e90cbd2db9faf60dd28f9a72508ff801e05c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -155,7 +170,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 351491350, photo 641438695, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: effbb819d5e3cebbc72dd0de0b1463de4d359bc0992991c98012062186ee14e8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus velutinus agrees with the indexed species desmanthus-velutinus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "effbb819d5e3cebbc72dd0de0b1463de4d359bc0992991c98012062186ee14e8"
+      "sha256": "effbb819d5e3cebbc72dd0de0b1463de4d359bc0992991c98012062186ee14e8",
+      "display_sha256": "e73d551a5fc3a90a4340a9669150bd28845a896a51a7325d57e18cbcfea8009e",
+      "display_blob_sha": "dc05167010c1cb5ab9c8a5fd2ac578ba604878b7",
+      "display_original_site_sha256": "effbb819d5e3cebbc72dd0de0b1463de4d359bc0992991c98012062186ee14e8",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmanthus-velutinus/inat-647531912.jpg",
@@ -166,7 +186,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "105cab6d1caf18c8236c19e1e910a4eecfece6a7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -174,7 +194,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354988662, photo 647531912, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9c25a52fc3009f5807109473983bcf65d7220af62c5f74d9d491dc037cdf5fc8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmanthus velutinus agrees with the indexed species desmanthus-velutinus; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "9c25a52fc3009f5807109473983bcf65d7220af62c5f74d9d491dc037cdf5fc8"
+      "sha256": "9c25a52fc3009f5807109473983bcf65d7220af62c5f74d9d491dc037cdf5fc8",
+      "display_sha256": "2718e19c9704116522c9658d2d85b8d75c7a80a0f433210b5cdd23c05c522593",
+      "display_blob_sha": "0b968440589d1263716a7fc4c1faaef4bc8afb18",
+      "display_original_site_sha256": "9c25a52fc3009f5807109473983bcf65d7220af62c5f74d9d491dc037cdf5fc8",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

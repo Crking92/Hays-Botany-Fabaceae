@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "47fabcb79762132a971928bf2ce958e5048a5095",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 152185945, photo 262687000, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c328e3009e30ff50f2e08abf3ff127fbb0e5fe145e5a3ab70b73a3901310c6c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Gleditsia triacanthos agrees with the indexed species gleditsia-triacanthos; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "5c328e3009e30ff50f2e08abf3ff127fbb0e5fe145e5a3ab70b73a3901310c6c"
+      "sha256": "5c328e3009e30ff50f2e08abf3ff127fbb0e5fe145e5a3ab70b73a3901310c6c",
+      "display_sha256": "e86e46f7aaaeaaef39845b9a737a99232737f46e09a7c604cd706164739499c3",
+      "display_blob_sha": "610751563cc9f2d0560bb8898914932935b8c152",
+      "display_original_site_sha256": "5c328e3009e30ff50f2e08abf3ff127fbb0e5fe145e5a3ab70b73a3901310c6c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gleditsia-triacanthos/inat-364648734.jpeg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "84da28641ec57628a7a5f8f6cfe2acd80dbec07f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 206184366, photo 364648734, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98a16232db4a1b8fe497c8f8083279002ff5b00323712513104c29047deb2717. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Gleditsia triacanthos agrees with the indexed species gleditsia-triacanthos; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "98a16232db4a1b8fe497c8f8083279002ff5b00323712513104c29047deb2717"
+      "sha256": "98a16232db4a1b8fe497c8f8083279002ff5b00323712513104c29047deb2717",
+      "display_sha256": "75963f463e497d4e18752d3d2814a2e4099b07e85153850c903ef2a299103111",
+      "display_blob_sha": "c75b09c269733ae17d094cdf4db97bd3e5d2eb50",
+      "display_original_site_sha256": "98a16232db4a1b8fe497c8f8083279002ff5b00323712513104c29047deb2717",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gleditsia-triacanthos/inat-473431416.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7db6bcaba970769742ffefe1e0552be8986db91d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 263524229, photo 473431416, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3d00366f871bdc095a1c148f74c909ac8d125a5891f2186f9339da5470b54a03. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Gleditsia triacanthos agrees with the indexed species gleditsia-triacanthos; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3d00366f871bdc095a1c148f74c909ac8d125a5891f2186f9339da5470b54a03"
+      "sha256": "3d00366f871bdc095a1c148f74c909ac8d125a5891f2186f9339da5470b54a03",
+      "display_sha256": "995e518a093454c7544f900ad208b8047d75645bd69453dcd119fab06f7e1ad5",
+      "display_blob_sha": "a9a5fa4a33fa2a8d7962d16bb7f3fcbc1b4561ed",
+      "display_original_site_sha256": "3d00366f871bdc095a1c148f74c909ac8d125a5891f2186f9339da5470b54a03",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gleditsia-triacanthos/inat-490346688.jpg",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d8e537112cd3ada7db98c4b440974a6a436f650f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 272552144, photo 490346688, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 97d4bcdf81d7b0652e1b339d25f31b82ce80da09f4f4c15e04f3971168b89bdb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Gleditsia triacanthos agrees with the indexed species gleditsia-triacanthos; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "97d4bcdf81d7b0652e1b339d25f31b82ce80da09f4f4c15e04f3971168b89bdb"
+      "sha256": "97d4bcdf81d7b0652e1b339d25f31b82ce80da09f4f4c15e04f3971168b89bdb",
+      "display_sha256": "674dab615c995cd160ca1a366779fe9b3d484264a831b3ee515c53fdd7e34598",
+      "display_blob_sha": "c5fa9da75e9064a297d4de2d5796f1c68e525271",
+      "display_original_site_sha256": "97d4bcdf81d7b0652e1b339d25f31b82ce80da09f4f4c15e04f3971168b89bdb",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gleditsia-triacanthos/inat-633236759.jpg",
@@ -141,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "166560db18f77709db5013a27f094ba9b931084a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +169,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347311962, photo 633236759, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c4d7bbacb224d515238b3aecec62c38478b2ac6d28f3b4a4746e71ef11ecb4c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Gleditsia triacanthos agrees with the indexed species gleditsia-triacanthos; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "5c4d7bbacb224d515238b3aecec62c38478b2ac6d28f3b4a4746e71ef11ecb4c"
+      "sha256": "5c4d7bbacb224d515238b3aecec62c38478b2ac6d28f3b4a4746e71ef11ecb4c",
+      "display_sha256": "ce3f84dc52b5e7e49f01dd8e3d0094b270e2e0b57218b9b38fa0a2759448a0dc",
+      "display_blob_sha": "6d5c9b000c70eb47599484c8dc4965b289182192",
+      "display_original_site_sha256": "5c4d7bbacb224d515238b3aecec62c38478b2ac6d28f3b4a4746e71ef11ecb4c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

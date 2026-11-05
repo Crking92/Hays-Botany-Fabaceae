@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a6351fc8852f6826f9274b0a39b00c971100efb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 159456053, photo 275499440, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c5b4ac9a046fd5163b49fba1cc0b8f89503b1261775d882876ead0ce5274ea0b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum linearifolium agrees with original manifest name Pediomelum linearifolium mapped to indexed species pediomelum-linearifolium; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "c5b4ac9a046fd5163b49fba1cc0b8f89503b1261775d882876ead0ce5274ea0b"
+      "sha256": "c5b4ac9a046fd5163b49fba1cc0b8f89503b1261775d882876ead0ce5274ea0b",
+      "display_sha256": "837914621cb019797e1b16988d049d4852ac9f18f257341d8d58dcf741d9c97d",
+      "display_blob_sha": "59d2925fe7326dd79d47d3a430d099ea133d8a66",
+      "display_original_site_sha256": "c5b4ac9a046fd5163b49fba1cc0b8f89503b1261775d882876ead0ce5274ea0b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-linearifolium/inat-487261922.jpeg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c1e0ba989b9d524258d45187be42617a6ba4d910",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 367516108, photo 671166742, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2250d78d8dbd0c0bfc5649cc8933f7eb8f3cf8161f79711833cd4ab174e1b6ee. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum linearifolium agrees with original manifest name Pediomelum linearifolium mapped to indexed species pediomelum-linearifolium; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "2250d78d8dbd0c0bfc5649cc8933f7eb8f3cf8161f79711833cd4ab174e1b6ee"
+      "sha256": "2250d78d8dbd0c0bfc5649cc8933f7eb8f3cf8161f79711833cd4ab174e1b6ee",
+      "display_sha256": "a0aba44d56f5defb3aaad95bff170628399cacb56cb50a96dd07b795a1edc96d",
+      "display_blob_sha": "0fc03e924cda302a964d298192b96d4453b78e96",
+      "display_original_site_sha256": "2250d78d8dbd0c0bfc5649cc8933f7eb8f3cf8161f79711833cd4ab174e1b6ee",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-linearifolium/inat-690814220.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e9e2a12b78a7f6ad0006ccc5ce3f49eac8e435b6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 377750223, photo 690814220, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bc5f6bbddb59223c53adaf731a2433917da51e67a92ca4b0620c71a723c4f716. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Pediomelum linearifolium agrees with original manifest name Pediomelum linearifolium mapped to indexed species pediomelum-linearifolium; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "bc5f6bbddb59223c53adaf731a2433917da51e67a92ca4b0620c71a723c4f716"
+      "sha256": "bc5f6bbddb59223c53adaf731a2433917da51e67a92ca4b0620c71a723c4f716",
+      "display_sha256": "ef9aad9771f37ecf3619ca78d97c182481ad8b17d79dfe4d3c69d7fc92e13c9e",
+      "display_blob_sha": "6741a0a2d8d4b8e27f4c6de8aaa6b476cd880424",
+      "display_original_site_sha256": "bc5f6bbddb59223c53adaf731a2433917da51e67a92ca4b0620c71a723c4f716",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pediomelum-linearifolium/inat-74389389.jpg",

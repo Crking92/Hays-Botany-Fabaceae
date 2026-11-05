@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "38612a4465c169d3a6a7da23dc30ed40f9c04327",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 225643877, photo 400086030, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e46c5037e8e7f7960d3428cfdae7ef01c15cc573f730722b8a9ff4f046072f73. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea enneandra agrees with indexed species dalea-enneandra; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "e46c5037e8e7f7960d3428cfdae7ef01c15cc573f730722b8a9ff4f046072f73"
+      "sha256": "e46c5037e8e7f7960d3428cfdae7ef01c15cc573f730722b8a9ff4f046072f73",
+      "display_sha256": "c18add46f233eb024040d69441676a006fc50c35f59ce8418e4abb0fd6e959af",
+      "display_blob_sha": "84acd956872ce31af46cbca340d00c4acd7833bd",
+      "display_original_site_sha256": "e46c5037e8e7f7960d3428cfdae7ef01c15cc573f730722b8a9ff4f046072f73",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-enneandra/inat-400086112.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a7e68d37e0f6bdfd31c00643d792b73fd2214fe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 225643906, photo 400086112, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0011062fac6667d404123c927c0059f1ff3c7da37f44ae746d70361f6506a256. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea enneandra agrees with indexed species dalea-enneandra; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "0011062fac6667d404123c927c0059f1ff3c7da37f44ae746d70361f6506a256"
+      "sha256": "0011062fac6667d404123c927c0059f1ff3c7da37f44ae746d70361f6506a256",
+      "display_sha256": "9b43c953d73e4bd66d7818098c5b6095dba73d770d87de1947f03b375cd5b02b",
+      "display_blob_sha": "362169e06ad2ba4f3a05164985baca4addfe2e1e",
+      "display_original_site_sha256": "0011062fac6667d404123c927c0059f1ff3c7da37f44ae746d70361f6506a256",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-enneandra/inat-682201499.jpg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6026f9e9cc2ea2fc20741faceb869a521826ee1c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 373296530, photo 682201499, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 08185b0f6f77c797e608485ef31208614c50d7836ac68a6f946b97ff832abc69. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea enneandra agrees with indexed species dalea-enneandra; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "08185b0f6f77c797e608485ef31208614c50d7836ac68a6f946b97ff832abc69"
+      "sha256": "08185b0f6f77c797e608485ef31208614c50d7836ac68a6f946b97ff832abc69",
+      "display_sha256": "b8fce1a4ae7f8cc84931a705f1e607e92e550009a48c2a1f17dd841a5312e59e",
+      "display_blob_sha": "6c18d4b91e0d9f2634b9129ca6260a1cb6943b97",
+      "display_original_site_sha256": "08185b0f6f77c797e608485ef31208614c50d7836ac68a6f946b97ff832abc69",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-enneandra/inat-682203042.jpg",
@@ -144,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bdf4d3e02cd02ac635bf77505297f1a48b048fd5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 373297331, photo 682203042, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2143fc6454bfabe30b8c9eed03385d0b2f50e30894756a04f424d6f3630a99fa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea enneandra agrees with indexed species dalea-enneandra; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "2143fc6454bfabe30b8c9eed03385d0b2f50e30894756a04f424d6f3630a99fa"
+      "sha256": "2143fc6454bfabe30b8c9eed03385d0b2f50e30894756a04f424d6f3630a99fa",
+      "display_sha256": "2b0cb21aad683bdce0758082c1c1d63312715b41889b109a3db757b7d946f3ac",
+      "display_blob_sha": "29b38185d958f48784905fcbbe203752a578cdec",
+      "display_original_site_sha256": "2143fc6454bfabe30b8c9eed03385d0b2f50e30894756a04f424d6f3630a99fa",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-enneandra/inat-713505231.jpg",
@@ -163,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e0155b54c8e3a8a9d1f1183c208dbe523b979511",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -171,7 +191,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 389517495, photo 713505231, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7220852facd879783eafa4d03a5e9f7ee5975d90c0b57d3cd7075b5423a22a06. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea enneandra agrees with indexed species dalea-enneandra; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7220852facd879783eafa4d03a5e9f7ee5975d90c0b57d3cd7075b5423a22a06"
+      "sha256": "7220852facd879783eafa4d03a5e9f7ee5975d90c0b57d3cd7075b5423a22a06",
+      "display_sha256": "cfa54c6f77caa4554d52cbc25050c5e876260d1fac9d76de9063018c8fc09aaa",
+      "display_blob_sha": "41331dbc789ab102f989e8b2a78703de98807171",
+      "display_original_site_sha256": "7220852facd879783eafa4d03a5e9f7ee5975d90c0b57d3cd7075b5423a22a06",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

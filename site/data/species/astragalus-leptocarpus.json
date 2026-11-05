@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1104aa3046d1e48667dc4ba547364447a1dce510",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +87,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 268749962, photo 483115737, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec19723bfd9105c66503c40655ac5d8a1bb7eac99e7dccc8ce38208d1d2d94b9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus leptocarpus agrees with indexed species astragalus-leptocarpus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "ec19723bfd9105c66503c40655ac5d8a1bb7eac99e7dccc8ce38208d1d2d94b9"
+      "sha256": "ec19723bfd9105c66503c40655ac5d8a1bb7eac99e7dccc8ce38208d1d2d94b9",
+      "display_sha256": "50681ab3ca4e1ef22171f50ec432163ba4541f2764b11e76f5a1f72c304d8e8b",
+      "display_blob_sha": "4389aeeaba7edc8dd9ee794217567656f9d19fa3",
+      "display_original_site_sha256": "ec19723bfd9105c66503c40655ac5d8a1bb7eac99e7dccc8ce38208d1d2d94b9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/astragalus-leptocarpus/inat-486541918.jpg",
@@ -117,7 +122,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "96c99e19f7045c754a4f9bc71f49b20e0b6a4c28",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +130,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345365365, photo 629379246, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d052657643fd926a534f61ae35b5ca82bc21514a61cc1bdf7bdfc408cc2573ac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus leptocarpus agrees with indexed species astragalus-leptocarpus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "d052657643fd926a534f61ae35b5ca82bc21514a61cc1bdf7bdfc408cc2573ac"
+      "sha256": "d052657643fd926a534f61ae35b5ca82bc21514a61cc1bdf7bdfc408cc2573ac",
+      "display_sha256": "7339305b74410b7a216072bdaec6d77a2a4675cb97f15457fc46c53f4c2c31d0",
+      "display_blob_sha": "daebaad9172997d95d4df7c19fb7964b5f0e0a46",
+      "display_original_site_sha256": "d052657643fd926a534f61ae35b5ca82bc21514a61cc1bdf7bdfc408cc2573ac",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/astragalus-leptocarpus/inat-633223482.jpg",
@@ -136,7 +146,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d1db20539194d8a8b96a21289c1e5f629c4b1916",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -144,7 +154,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347304727, photo 633223482, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7a459c176aa4b8964b89cc8169846cb3b7c6c4a450a6cb5a7014752ae2efcbca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus leptocarpus agrees with indexed species astragalus-leptocarpus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "7a459c176aa4b8964b89cc8169846cb3b7c6c4a450a6cb5a7014752ae2efcbca"
+      "sha256": "7a459c176aa4b8964b89cc8169846cb3b7c6c4a450a6cb5a7014752ae2efcbca",
+      "display_sha256": "b34a666317335a0301e14964612429145c341cd2b87f275dcce630ce6de72657",
+      "display_blob_sha": "1fe5bd53cad28bdadb844876c1047d4c55c4ec1c",
+      "display_original_site_sha256": "7a459c176aa4b8964b89cc8169846cb3b7c6c4a450a6cb5a7014752ae2efcbca",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/astragalus-leptocarpus/inat-633907917.jpg",
@@ -155,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "79093b2666617141ffed60042d804aab04f54fe3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -163,7 +178,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347651521, photo 633907917, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1958bcd89c5066b2fd98451084a5df31cbee72a79f9b32aab8f5f8f8e6fddb50. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Astragalus leptocarpus agrees with indexed species astragalus-leptocarpus; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "1958bcd89c5066b2fd98451084a5df31cbee72a79f9b32aab8f5f8f8e6fddb50"
+      "sha256": "1958bcd89c5066b2fd98451084a5df31cbee72a79f9b32aab8f5f8f8e6fddb50",
+      "display_sha256": "c2a222eea8222699f7b8cc81a9c49f32eb1613d41adec500c979316f6069748c",
+      "display_blob_sha": "b42a5cd24cd4d26a84f5b7dd88a0a1828b9e9f16",
+      "display_original_site_sha256": "1958bcd89c5066b2fd98451084a5df31cbee72a79f9b32aab8f5f8f8e6fddb50",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

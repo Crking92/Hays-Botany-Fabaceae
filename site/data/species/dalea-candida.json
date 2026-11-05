@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "bc7d1d4cc11fb282ef9d1e032ed8ebf4f2c5b4d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 80930344, photo 132681209, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b13f941dedf6e9a62647d2e8cf151fac603fdf4840bcc3612f2fc123f1d00ecb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea candida agrees with indexed species dalea-candida; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "b13f941dedf6e9a62647d2e8cf151fac603fdf4840bcc3612f2fc123f1d00ecb"
+      "sha256": "b13f941dedf6e9a62647d2e8cf151fac603fdf4840bcc3612f2fc123f1d00ecb",
+      "display_sha256": "a2fd065a05de34e297a7e5e6b9195263491def0a80c70de27ade477981aeae61",
+      "display_blob_sha": "a6c49ab13b79062f2f390b59f079f95c2dd6b407",
+      "display_original_site_sha256": "b13f941dedf6e9a62647d2e8cf151fac603fdf4840bcc3612f2fc123f1d00ecb",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-candida/inat-674348255.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "13059e3582bb64b4fa3af55ab5b546f1ad953b6d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 369182680, photo 674348255, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 59511eabb91fd186a6c1ceb006676f327ea512b756f56e774c8f76902a19560b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea candida agrees with indexed species dalea-candida; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "59511eabb91fd186a6c1ceb006676f327ea512b756f56e774c8f76902a19560b"
+      "sha256": "59511eabb91fd186a6c1ceb006676f327ea512b756f56e774c8f76902a19560b",
+      "display_sha256": "1314bfc65e1344c93946ef45e4e3b3ead7e3440da388a2a899f3dd5a9a5df59b",
+      "display_blob_sha": "cb5276b30140990bd22065c69c0b8d5bcb990bf1",
+      "display_original_site_sha256": "59511eabb91fd186a6c1ceb006676f327ea512b756f56e774c8f76902a19560b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -95,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "44db24970166ed698b20bdf8e78fe0c2e011549b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +103,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345719370, photo 630088190, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c353d9971823ba6391722b0e43b9cf7a97680c5f99a2e1937777bc209e05393a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa borealis agrees with the indexed species mimosa-borealis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "c353d9971823ba6391722b0e43b9cf7a97680c5f99a2e1937777bc209e05393a"
+      "sha256": "c353d9971823ba6391722b0e43b9cf7a97680c5f99a2e1937777bc209e05393a",
+      "display_sha256": "ef3856272d0818e967326d7092b2947606d59f95a179a513703d7d80ea09d461",
+      "display_blob_sha": "1db02ba2d0bdd7b96b16497bbb086d0ad119f3d1",
+      "display_original_site_sha256": "c353d9971823ba6391722b0e43b9cf7a97680c5f99a2e1937777bc209e05393a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-borealis/inat-630107933.jpg",
@@ -114,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "929ec9f29d5c9af0ae9172d1a8f2e019686c75a1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345730494, photo 630107933, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a75c9b93f2febf812ae0f7b1faa13f10b7da3d31546f616834afe9aa7525404a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa borealis agrees with the indexed species mimosa-borealis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "a75c9b93f2febf812ae0f7b1faa13f10b7da3d31546f616834afe9aa7525404a"
+      "sha256": "a75c9b93f2febf812ae0f7b1faa13f10b7da3d31546f616834afe9aa7525404a",
+      "display_sha256": "5ea06f6461baef3d0aeb18a5acb07803fec3d3b4f4644cc1962fa4294413f9cd",
+      "display_blob_sha": "4ffcd6301e8d981e6d6558ad3992b3a9dd7cf514",
+      "display_original_site_sha256": "a75c9b93f2febf812ae0f7b1faa13f10b7da3d31546f616834afe9aa7525404a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-borealis/inat-630512629.jpg",
@@ -133,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bcf9f7b240b6b358802abbacd20ef390942edbd6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 345920304, photo 630512629, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9cb7f857c0f3f224c0c29b9a776a2b72e79e94ff73aa02614a90b660b96f2703. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa borealis agrees with the indexed species mimosa-borealis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "9cb7f857c0f3f224c0c29b9a776a2b72e79e94ff73aa02614a90b660b96f2703"
+      "sha256": "9cb7f857c0f3f224c0c29b9a776a2b72e79e94ff73aa02614a90b660b96f2703",
+      "display_sha256": "40f7d3993c23904d34fbafcb4212beeeb397fcd276fa33838993c47be48ef623",
+      "display_blob_sha": "e1046bc4966f88b1d40260344f9f30af43bd1711",
+      "display_original_site_sha256": "9cb7f857c0f3f224c0c29b9a776a2b72e79e94ff73aa02614a90b660b96f2703",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-borealis/inat-632843160.jpg",
@@ -152,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "26682956cbd0e6a9ed0c6929eaafc897fd3a681f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +175,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 347112784, photo 632843160, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4caad27c9f929ae3b19bc260076db7f5a50e8ffe9813b535505bc8b90915cde1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa borealis agrees with the indexed species mimosa-borealis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4caad27c9f929ae3b19bc260076db7f5a50e8ffe9813b535505bc8b90915cde1"
+      "sha256": "4caad27c9f929ae3b19bc260076db7f5a50e8ffe9813b535505bc8b90915cde1",
+      "display_sha256": "f095d3e89591e91759ac2e6f7f139ee07d52dc372aad73d5cf1f527c6b209a22",
+      "display_blob_sha": "87295525a2e1593f3019119df41e3a6a80ee45e3",
+      "display_original_site_sha256": "4caad27c9f929ae3b19bc260076db7f5a50e8ffe9813b535505bc8b90915cde1",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mimosa-borealis/inat-635672796.jpg",
@@ -171,7 +191,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c9ff1b32d7a7740137a646f0fea3b1e6b9760b54",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -179,7 +199,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 348540819, photo 635672796, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f21f48e89ca5864a5ea8fb5bd7d3fb11083e074cf628af6bb06004257352af2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Mimosa borealis agrees with the indexed species mimosa-borealis; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "5f21f48e89ca5864a5ea8fb5bd7d3fb11083e074cf628af6bb06004257352af2"
+      "sha256": "5f21f48e89ca5864a5ea8fb5bd7d3fb11083e074cf628af6bb06004257352af2",
+      "display_sha256": "6449492d93b2666cacb9b51d4677f7ff911ee4e0fe385953c4312b86b0076ebd",
+      "display_blob_sha": "ca20cca9519762867df81f86a2ecb5a231273300",
+      "display_original_site_sha256": "5f21f48e89ca5864a5ea8fb5bd7d3fb11083e074cf628af6bb06004257352af2",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9a188cb4aca30b21f8df91e80204f62065396fb4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 350715816, photo 639946985, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fd1e3b48b5caa6dea0a84763e87adbc9c8ff5ac348040f58066bb6039e23938c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium psilophyllum agrees with the indexed species desmodium-psilophyllum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "fd1e3b48b5caa6dea0a84763e87adbc9c8ff5ac348040f58066bb6039e23938c"
+      "sha256": "fd1e3b48b5caa6dea0a84763e87adbc9c8ff5ac348040f58066bb6039e23938c",
+      "display_sha256": "aaab2cebd97efd4825f5a123c11d0de14f865c48bbd5f78abbfc0eeba63f6d82",
+      "display_blob_sha": "9008f442190405b04d4d17900c176f7061e2ae0b",
+      "display_original_site_sha256": "fd1e3b48b5caa6dea0a84763e87adbc9c8ff5ac348040f58066bb6039e23938c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-psilophyllum/inat-645398364.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a4de207f833b5d42d18eeeaf48f14dcbca00c350",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353750469, photo 645398364, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6651937da9ae75341065c27df6967d90ad694653652756de0e89f1d6a750cb8a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium psilophyllum agrees with the indexed species desmodium-psilophyllum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6651937da9ae75341065c27df6967d90ad694653652756de0e89f1d6a750cb8a"
+      "sha256": "6651937da9ae75341065c27df6967d90ad694653652756de0e89f1d6a750cb8a",
+      "display_sha256": "7bbb7aa0c984c373035636bc1a8a89c08892e8483df983f3e428b95832c228c4",
+      "display_blob_sha": "55d995bac578516d06256968172ea10753d858f7",
+      "display_original_site_sha256": "6651937da9ae75341065c27df6967d90ad694653652756de0e89f1d6a750cb8a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-psilophyllum/inat-645824517.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d1cca88d8e64e0c5caf05f423893441aa546d272",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353988404, photo 645824517, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 35db6b7ebc3f14520946a77ac764b347627f35e1ac386718d7322efb9490f169. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium psilophyllum agrees with the indexed species desmodium-psilophyllum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "35db6b7ebc3f14520946a77ac764b347627f35e1ac386718d7322efb9490f169"
+      "sha256": "35db6b7ebc3f14520946a77ac764b347627f35e1ac386718d7322efb9490f169",
+      "display_sha256": "b79d8e7958755f91e1a078ae1caa599ed443d7649f3e40a2b1a290716619936b",
+      "display_blob_sha": "26666ec3af8704e9e6c35d3ebe6576192cec3e2a",
+      "display_original_site_sha256": "35db6b7ebc3f14520946a77ac764b347627f35e1ac386718d7322efb9490f169",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-psilophyllum/inat-646065973.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "351e8c5050f00763f0409547c0df6bca34b9e296",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354121056, photo 646065973, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3aa8177f6692175aef8e386f31221493d8cd93bab415ff0b589a1a98f2a46b9d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium psilophyllum agrees with the indexed species desmodium-psilophyllum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "3aa8177f6692175aef8e386f31221493d8cd93bab415ff0b589a1a98f2a46b9d"
+      "sha256": "3aa8177f6692175aef8e386f31221493d8cd93bab415ff0b589a1a98f2a46b9d",
+      "display_sha256": "559fb5c4679d6d803cdaa4c6d615c9f87e54b91737cfe3d62f75148e308db845",
+      "display_blob_sha": "5696352848c243735a5d5af875659fb665f8b30a",
+      "display_original_site_sha256": "3aa8177f6692175aef8e386f31221493d8cd93bab415ff0b589a1a98f2a46b9d",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/desmodium-psilophyllum/inat-647418223.jpg",
@@ -128,7 +148,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "721b0a87cf16b18cdc9088e85ed307ecd48ce075",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +156,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354926786, photo 647418223, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: fcddddb87590fbdfc63f77919adad1d9659f88d0f093454711d88f3e6fcee872. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Desmodium psilophyllum agrees with the indexed species desmodium-psilophyllum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "fcddddb87590fbdfc63f77919adad1d9659f88d0f093454711d88f3e6fcee872"
+      "sha256": "fcddddb87590fbdfc63f77919adad1d9659f88d0f093454711d88f3e6fcee872",
+      "display_sha256": "ed5142226d3963bcb903d6a6e5c482e937554198c2fb61b4a5bc0af940f7e204",
+      "display_blob_sha": "ac75f6b65b115e7793168a9328d47acaf804b8a9",
+      "display_original_site_sha256": "fcddddb87590fbdfc63f77919adad1d9659f88d0f093454711d88f3e6fcee872",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

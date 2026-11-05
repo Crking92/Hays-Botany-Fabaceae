@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f2f7250a29683f2a86303076242d948ed245eebe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 352828928, photo 643863576, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 511a9fd2bfbc0efa5041e138250a21e2d8322a76227582c818a72088ea897f6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia senna agrees with original manifest name Rhynchosia senna mapped to indexed species rhynchosia-senna; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "511a9fd2bfbc0efa5041e138250a21e2d8322a76227582c818a72088ea897f6a"
+      "sha256": "511a9fd2bfbc0efa5041e138250a21e2d8322a76227582c818a72088ea897f6a",
+      "display_sha256": "6cd4489dc50c86583e03280e2e3246381692a80e1062a951f9bb286d2f15b72a",
+      "display_blob_sha": "bf3b9287b804347da3572746dba459b95f9f61f8",
+      "display_original_site_sha256": "511a9fd2bfbc0efa5041e138250a21e2d8322a76227582c818a72088ea897f6a",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-senna/inat-646413483.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "40e32be6f6be95520778a17d641762e489584b47",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354335225, photo 646413483, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4752b461a8472efa1afbeb2e0d98060a9ff272f6666f16cae2ab27834e6e0027. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia senna agrees with original manifest name Rhynchosia senna mapped to indexed species rhynchosia-senna; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "4752b461a8472efa1afbeb2e0d98060a9ff272f6666f16cae2ab27834e6e0027"
+      "sha256": "4752b461a8472efa1afbeb2e0d98060a9ff272f6666f16cae2ab27834e6e0027",
+      "display_sha256": "57687be0a30b5c84a333c5d4deb1cc9a39f1cc6659b05e9534111e8bd426bd15",
+      "display_blob_sha": "4ae0992ac6ad26eccba53f3138afb6cfcbd711c4",
+      "display_original_site_sha256": "4752b461a8472efa1afbeb2e0d98060a9ff272f6666f16cae2ab27834e6e0027",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-senna/inat-646905229.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a8d314f98dfb7adaa8c445d22f1f0c088393f80",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354634361, photo 646905229, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 99a7ee30a009d3b56bbb41effbbf8079c4039b982b256b66e9d0b3d00d6c9999. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia senna agrees with original manifest name Rhynchosia senna mapped to indexed species rhynchosia-senna; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "99a7ee30a009d3b56bbb41effbbf8079c4039b982b256b66e9d0b3d00d6c9999"
+      "sha256": "99a7ee30a009d3b56bbb41effbbf8079c4039b982b256b66e9d0b3d00d6c9999",
+      "display_sha256": "c9bd8087549c8a5a3b9877e4dabe7b1c153d46c507a8e5729f59f37b2ca5cb5b",
+      "display_blob_sha": "5c980bd7541e4e7d440ffa466a4c013b2b11580d",
+      "display_original_site_sha256": "99a7ee30a009d3b56bbb41effbbf8079c4039b982b256b66e9d0b3d00d6c9999",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-senna/inat-647285068.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e631350f329852f2f62a179a3e8e3fa792c62096",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 354851841, photo 647285068, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 62f67729c4a445b8119b7f93d699d51b77c2870fb5c4ba58fa6c5b6d45ee7c13. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Rhynchosia senna agrees with original manifest name Rhynchosia senna mapped to indexed species rhynchosia-senna; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "62f67729c4a445b8119b7f93d699d51b77c2870fb5c4ba58fa6c5b6d45ee7c13"
+      "sha256": "62f67729c4a445b8119b7f93d699d51b77c2870fb5c4ba58fa6c5b6d45ee7c13",
+      "display_sha256": "882e2f251b847727f25011d36097e24299b5a62af4cfa4c334edaadfc3d8ebdd",
+      "display_blob_sha": "1a494b92711d1d7c51b4b2ad671f44ac1b5919d9",
+      "display_original_site_sha256": "62f67729c4a445b8119b7f93d699d51b77c2870fb5c4ba58fa6c5b6d45ee7c13",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosia-senna/inat-653234022.jpg",

@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7dad6f2e6598fa8769b4d3e45884c2ea4234b1a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 349144728, photo 636866722, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea9520cc575e52f77c017e33b3de8392fdd559197f55b7f62496d7fdc4bec0fe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lespedeza texana agrees with the indexed species lespedeza-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ea9520cc575e52f77c017e33b3de8392fdd559197f55b7f62496d7fdc4bec0fe"
+      "sha256": "ea9520cc575e52f77c017e33b3de8392fdd559197f55b7f62496d7fdc4bec0fe",
+      "display_sha256": "0915d6ca91ddaada2ef91897d342d08c4fc1257193436d870a0768dfb86463fa",
+      "display_blob_sha": "800c63f5f7e94c922cfbcb61a2b862837a87876c",
+      "display_original_site_sha256": "ea9520cc575e52f77c017e33b3de8392fdd559197f55b7f62496d7fdc4bec0fe",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lespedeza-texana/inat-640162232.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4117e6ebad2805e20b47960e59a799401ca26fd4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 350829206, photo 640162232, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 86257745bba5460c8ade4dac49013d2f089da03752954d46fafe8ab9bf4d6d72. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lespedeza texana agrees with the indexed species lespedeza-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "86257745bba5460c8ade4dac49013d2f089da03752954d46fafe8ab9bf4d6d72"
+      "sha256": "86257745bba5460c8ade4dac49013d2f089da03752954d46fafe8ab9bf4d6d72",
+      "display_sha256": "b566132fe0bcb491e99a625042104ceffe01311a7cfaa8a173332933e0676120",
+      "display_blob_sha": "e88f1244180c3d71582eeaf58d11f23f6a0e5193",
+      "display_original_site_sha256": "86257745bba5460c8ade4dac49013d2f089da03752954d46fafe8ab9bf4d6d72",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lespedeza-texana/inat-645241690.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dd84e6dcb28a0580cfc99faaf4b85e293d9518d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 353658014, photo 645241690, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7bbcd757606b1273b9f2783d881f5897cf7df418c3b1a0e788b3694bfae7ee74. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lespedeza texana agrees with the indexed species lespedeza-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "7bbcd757606b1273b9f2783d881f5897cf7df418c3b1a0e788b3694bfae7ee74"
+      "sha256": "7bbcd757606b1273b9f2783d881f5897cf7df418c3b1a0e788b3694bfae7ee74",
+      "display_sha256": "b7345a23d043d0e48d0ff3fab569e1f716d775f2ffb71ada78451b41958f3d12",
+      "display_blob_sha": "eb3f0a74b376ed19101d3abcc28a2ad30e7724ed",
+      "display_original_site_sha256": "7bbcd757606b1273b9f2783d881f5897cf7df418c3b1a0e788b3694bfae7ee74",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lespedeza-texana/inat-653231732.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6949cd6b60d7dd71a2c34c6ec578ecba2562e889",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 358109731, photo 653231732, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e271d06904d77399b904e8777ccba267e3f90ba24447a9971d9ab647e22d56c9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lespedeza texana agrees with the indexed species lespedeza-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "e271d06904d77399b904e8777ccba267e3f90ba24447a9971d9ab647e22d56c9"
+      "sha256": "e271d06904d77399b904e8777ccba267e3f90ba24447a9971d9ab647e22d56c9",
+      "display_sha256": "81e40664a08eec9e6500d44ef77c74015caad37bd20934744d814dabbd0ec015",
+      "display_blob_sha": "f3b9f3734d1c805e6a3129511cb62b6ab1ddc898",
+      "display_original_site_sha256": "e271d06904d77399b904e8777ccba267e3f90ba24447a9971d9ab647e22d56c9",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lespedeza-texana/inat-653235492.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "35fddab3e55dfabd38eb97e02fb3cac9ce56f8e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 358111456, photo 653235492, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da049a072821f7db2a4846e1185c1536f93cbf54bc905500d159026987d3daff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Lespedeza texana agrees with the indexed species lespedeza-texana; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "da049a072821f7db2a4846e1185c1536f93cbf54bc905500d159026987d3daff"
+      "sha256": "da049a072821f7db2a4846e1185c1536f93cbf54bc905500d159026987d3daff",
+      "display_sha256": "4484098dac98e7db709c5031a7e357409e5a8a2bb2996dc861415285718b87ed",
+      "display_blob_sha": "8e6cd4b4ec27ab9caa3be07e310b259a933d8203",
+      "display_original_site_sha256": "da049a072821f7db2a4846e1185c1536f93cbf54bc905500d159026987d3daff",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -82,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2fcb5569a255efe92ccec040893c9a6279500477",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 341527751, photo 621756568, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: af7ca3bcc0692781f33a672434efc54854aa0d4fa14bfe72df77ba653cd3d638. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia constricta agrees with original manifest name Vachellia constricta mapped to indexed species vachellia-constricta; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "af7ca3bcc0692781f33a672434efc54854aa0d4fa14bfe72df77ba653cd3d638"
+      "sha256": "af7ca3bcc0692781f33a672434efc54854aa0d4fa14bfe72df77ba653cd3d638",
+      "display_sha256": "84a5bcc17ccebe027be510700480d8e4f8f200484b541cc1845e7355c7e3d4b7",
+      "display_blob_sha": "bcd2446f4df0778399e9bb8f6b46c2e66e4e68ca",
+      "display_original_site_sha256": "af7ca3bcc0692781f33a672434efc54854aa0d4fa14bfe72df77ba653cd3d638",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vachellia-constricta/inat-626323009.jpg",
@@ -101,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e522d19a114b443242bab7730b2c281e86bcc97",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 343792258, photo 626323009, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ead2b560a9bbd4ce1673ab645820e45ce9b105f27e33af75d2de9a70a0c4c37b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia constricta agrees with original manifest name Vachellia constricta mapped to indexed species vachellia-constricta; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ead2b560a9bbd4ce1673ab645820e45ce9b105f27e33af75d2de9a70a0c4c37b"
+      "sha256": "ead2b560a9bbd4ce1673ab645820e45ce9b105f27e33af75d2de9a70a0c4c37b",
+      "display_sha256": "552e958c5b8aa5ffd0279f464dcb7982bc05bfb43847a05a1c63ea5274eda20f",
+      "display_blob_sha": "0a3e36d12cdff7f42d53c031e8e92a5a5f571284",
+      "display_original_site_sha256": "ead2b560a9bbd4ce1673ab645820e45ce9b105f27e33af75d2de9a70a0c4c37b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vachellia-constricta/inat-627868684.jpg",
@@ -120,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "025fffc1d8534696e3b5be597951d10e9c4dcdbd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344584032, photo 627868684, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82fb4bc94921478e9775141a49a8c1721861425d09a05dacac2d497ef1fd3faf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia constricta agrees with original manifest name Vachellia constricta mapped to indexed species vachellia-constricta; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "82fb4bc94921478e9775141a49a8c1721861425d09a05dacac2d497ef1fd3faf"
+      "sha256": "82fb4bc94921478e9775141a49a8c1721861425d09a05dacac2d497ef1fd3faf",
+      "display_sha256": "7e479b89da4575ff603d6035ec6d5ee7463a66845d91b48a8408994f54370f69",
+      "display_blob_sha": "7e01dd4a92c0125f660ef42f329656728c2505c9",
+      "display_original_site_sha256": "82fb4bc94921478e9775141a49a8c1721861425d09a05dacac2d497ef1fd3faf",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vachellia-constricta/inat-627869310.jpg",
@@ -139,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5cbbbaa7ef6100a2034d76afd6ddd847c963a57d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 344584439, photo 627869310, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ca4c1b0753072a8db2c8afd4286bc20d20e8f5595616894e0a5f65f5e6b4a977. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia constricta agrees with original manifest name Vachellia constricta mapped to indexed species vachellia-constricta; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "ca4c1b0753072a8db2c8afd4286bc20d20e8f5595616894e0a5f65f5e6b4a977"
+      "sha256": "ca4c1b0753072a8db2c8afd4286bc20d20e8f5595616894e0a5f65f5e6b4a977",
+      "display_sha256": "8ac605b7c20e320298b9c99c20844eabe115d4ff6ea323e927aadd17df7d85fe",
+      "display_blob_sha": "cf5c6f48f29aaf41fcd56913cd6bca0d6d077d99",
+      "display_original_site_sha256": "ca4c1b0753072a8db2c8afd4286bc20d20e8f5595616894e0a5f65f5e6b4a977",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vachellia-constricta/inat-642254062.jpg",
@@ -158,7 +178,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9f6d82d9e0291b82eda1a9b9647fccd2a7d1cda7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -166,7 +186,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 003 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 351907611, photo 642254062, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6a0340065f0dfe26ef465564492f1fbf4b16bcc00efd75223b241d52f2d82f36. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 003 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Vachellia constricta agrees with original manifest name Vachellia constricta mapped to indexed species vachellia-constricta; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "6a0340065f0dfe26ef465564492f1fbf4b16bcc00efd75223b241d52f2d82f36"
+      "sha256": "6a0340065f0dfe26ef465564492f1fbf4b16bcc00efd75223b241d52f2d82f36",
+      "display_sha256": "aaaa326c9ad2034fef44e2850b787158d8d3629463feaa6625001ae79e9af214",
+      "display_blob_sha": "b7eb4736a8eca9b949e57286e8360ebb2c7fe617",
+      "display_original_site_sha256": "6a0340065f0dfe26ef465564492f1fbf4b16bcc00efd75223b241d52f2d82f36",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -112,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eac68ae7c09a28c94357ef583197517021d9a820",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -120,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 251717040, photo 450450416, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9112b6b71f539173b6e73473552cc357ea54f5e2c7e6eab7fe94616431217bd0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea frutescens agrees with indexed species dalea-frutescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "9112b6b71f539173b6e73473552cc357ea54f5e2c7e6eab7fe94616431217bd0"
+      "sha256": "9112b6b71f539173b6e73473552cc357ea54f5e2c7e6eab7fe94616431217bd0",
+      "display_sha256": "00a17b8a9989093af64de870004e9d41a410d7923a5c0be4974bbbca9042950f",
+      "display_blob_sha": "eca1d33ee1167912f4380681ac086981ea090cc3",
+      "display_original_site_sha256": "9112b6b71f539173b6e73473552cc357ea54f5e2c7e6eab7fe94616431217bd0",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-frutescens/inat-593894477.jpg",
@@ -131,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c17d4fd4ac87314fb654d3e5db19501a8f7e227",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -139,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 327792031, photo 593894477, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5b26b674d4d10898b32c903ab8b10ddca38eab4ecf09a27c2ec8cf8727b3121b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea frutescens agrees with indexed species dalea-frutescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "5b26b674d4d10898b32c903ab8b10ddca38eab4ecf09a27c2ec8cf8727b3121b"
+      "sha256": "5b26b674d4d10898b32c903ab8b10ddca38eab4ecf09a27c2ec8cf8727b3121b",
+      "display_sha256": "ee0ec49d244ae8ff47c10c11994984c62cebbdc10c9cd183cecaabcc78260da7",
+      "display_blob_sha": "ac1ec7ae4dda78043f7f37002963012e3ecaf3d7",
+      "display_original_site_sha256": "5b26b674d4d10898b32c903ab8b10ddca38eab4ecf09a27c2ec8cf8727b3121b",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-frutescens/inat-595901050.jpg",
@@ -150,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e580a993f35c7c988c638d1cb44b17e4d642558f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -158,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 328809404, photo 595901050, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fab5af57c96e5ea2b3a41b091dc36a4547bd7117dba9b8134c8f95dfb0788d57. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea frutescens agrees with indexed species dalea-frutescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "fab5af57c96e5ea2b3a41b091dc36a4547bd7117dba9b8134c8f95dfb0788d57"
+      "sha256": "fab5af57c96e5ea2b3a41b091dc36a4547bd7117dba9b8134c8f95dfb0788d57",
+      "display_sha256": "260ed55c9b313a7ff69425d7d02f49bc75af557dcccc4fda618b76c7d706fde0",
+      "display_blob_sha": "b6e201c41df6fa7139c78fb164213022b2d136c0",
+      "display_original_site_sha256": "fab5af57c96e5ea2b3a41b091dc36a4547bd7117dba9b8134c8f95dfb0788d57",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dalea-frutescens/inat-602392953.jpg",
@@ -169,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "031bb486cb70a6bfb9ce8390632a9d5539ebcc82",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -177,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae exact-photo-original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 331990738, photo 602392953, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 092301549072d6a823681aba74fb4bf8a6d69f92ebd4c30245702e6a99c6b5ea. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of the actual ZIP were examined for plausible general plant identity. Live iNaturalist source taxon Dalea frutescens agrees with indexed species dalea-frutescens; full specialist morphological review and BONAP range checks are separate.",
-      "sha256": "092301549072d6a823681aba74fb4bf8a6d69f92ebd4c30245702e6a99c6b5ea"
+      "sha256": "092301549072d6a823681aba74fb4bf8a6d69f92ebd4c30245702e6a99c6b5ea",
+      "display_sha256": "e77d8e08b9689814c6a6ae2692da74dae29dbee9f0d55d700710b14077b11e98",
+      "display_blob_sha": "8db8eca97dd18a7b2d99315d0d5d0aba5ea61caa",
+      "display_original_site_sha256": "092301549072d6a823681aba74fb4bf8a6d69f92ebd4c30245702e6a99c6b5ea",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

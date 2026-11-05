@@ -70,7 +70,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2d0e3b09305131ee1feb23ad7141e0e3dcf86bff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -78,7 +78,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 340798600, photo 620253997, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 815191c185f75900b720e749f417b7ef5e02c4ada28350f3b3834a8210d18611. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dermatophyllum secundiflorum agrees with the indexed species dermatophyllum-secundiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "815191c185f75900b720e749f417b7ef5e02c4ada28350f3b3834a8210d18611"
+      "sha256": "815191c185f75900b720e749f417b7ef5e02c4ada28350f3b3834a8210d18611",
+      "display_sha256": "cec4c8aa13bb934a0984f7d4021dbce484b9caa05760a5c336d841ad2c794a14",
+      "display_blob_sha": "5f4c30cad523bc8b21304a56f4c68ea07d2ffdaa",
+      "display_original_site_sha256": "815191c185f75900b720e749f417b7ef5e02c4ada28350f3b3834a8210d18611",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dermatophyllum-secundiflorum/inat-620320580.jpg",
@@ -89,7 +94,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b6eccd70055b644ee9b06228da4f4344ab89caa4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -97,7 +102,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 340831475, photo 620320580, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: fde0f95947d32d2c1cec42dffea0734927c165acb06a7a987581a9228e0e5442. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dermatophyllum secundiflorum agrees with the indexed species dermatophyllum-secundiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "fde0f95947d32d2c1cec42dffea0734927c165acb06a7a987581a9228e0e5442"
+      "sha256": "fde0f95947d32d2c1cec42dffea0734927c165acb06a7a987581a9228e0e5442",
+      "display_sha256": "57a7f1640329fe9f50c13ac947ed54f8004115401c08ff1e35008fdd2e4af1bb",
+      "display_blob_sha": "4db845de8f373fbc9f32b6a6c84fe7a6b132f9ab",
+      "display_original_site_sha256": "fde0f95947d32d2c1cec42dffea0734927c165acb06a7a987581a9228e0e5442",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dermatophyllum-secundiflorum/inat-620367059.jpg",
@@ -108,7 +118,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "087c5620717910d8f439c0621cafd42832f04623",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -116,7 +126,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 340806227, photo 620367059, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 983e9abffb5bc47aa094e560e49e462a9b4acd17ddd18799cbcc0d0dbccba123. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dermatophyllum secundiflorum agrees with the indexed species dermatophyllum-secundiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "983e9abffb5bc47aa094e560e49e462a9b4acd17ddd18799cbcc0d0dbccba123"
+      "sha256": "983e9abffb5bc47aa094e560e49e462a9b4acd17ddd18799cbcc0d0dbccba123",
+      "display_sha256": "96ebb79e4440f273f2197900890a62df7238a18ad909db69559dbede249d9e77",
+      "display_blob_sha": "90411476868c4ea62b4eb77053befe0dee6991ae",
+      "display_original_site_sha256": "983e9abffb5bc47aa094e560e49e462a9b4acd17ddd18799cbcc0d0dbccba123",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dermatophyllum-secundiflorum/inat-620623577.jpg",
@@ -127,7 +142,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "15ad5d60603771279f895666475dd2ec9c1eba26",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -135,7 +150,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 340979099, photo 620623577, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d80b1e4c789f738cb41190ca571858f3824f17aad64d16755fde248ef3535aec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dermatophyllum secundiflorum agrees with the indexed species dermatophyllum-secundiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "d80b1e4c789f738cb41190ca571858f3824f17aad64d16755fde248ef3535aec"
+      "sha256": "d80b1e4c789f738cb41190ca571858f3824f17aad64d16755fde248ef3535aec",
+      "display_sha256": "baaf1238a233572cc4667b46101f3d82703803a3bc7da894fdf1dd5203786600",
+      "display_blob_sha": "fe219dc999c3a7c83d7331c5bd4e99447dda357b",
+      "display_original_site_sha256": "d80b1e4c789f738cb41190ca571858f3824f17aad64d16755fde248ef3535aec",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/dermatophyllum-secundiflorum/inat-622875294.jpg",
@@ -146,7 +166,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2664250a3d84fa9db3104d03e153b3db24fb854f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -154,7 +174,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fabaceae 002 exact-original and photo-rights verifier",
       "source_review_evidence": "Live iNaturalist observation 340960267, photo 622875294, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9c4737f5708615623849d926a884875b325db82055a462b0bb0c43cb7422264c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four contact sheets of original Fabaceae 002 photos were reviewed for plausible habit, foliage and floral identity. Live source taxon Dermatophyllum secundiflorum agrees with the indexed species dermatophyllum-secundiflorum; specialist diagnosis and BONAP county nativity remain separate.",
-      "sha256": "9c4737f5708615623849d926a884875b325db82055a462b0bb0c43cb7422264c"
+      "sha256": "9c4737f5708615623849d926a884875b325db82055a462b0bb0c43cb7422264c",
+      "display_sha256": "bedc700d1c08ef232afc4437c7c4c32c76110bab07f6f68fa9c55039fa3f9e12",
+      "display_blob_sha": "089d1402649649da7b8abf3d927b88d59f7aae9f",
+      "display_original_site_sha256": "9c4737f5708615623849d926a884875b325db82055a462b0bb0c43cb7422264c",
+      "display_original_archive_commit": "94d034239d14498360d8d3cd72c313f3a07e4e7f",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
