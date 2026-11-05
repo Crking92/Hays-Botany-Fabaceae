@@ -64,6 +64,19 @@ jobs:
                   print("Pages not ready",repr(e),flush=True)
               time.sleep(9)
           else:raise AssertionError("Fabaceae public gallery has not reached current release")
+          # Count equality alone cannot prove Pages switched to new compressed bytes.
+          optimization=site/"data/web-display-optimization.json"
+          if optimization.exists():
+              local_release=optimization.read_bytes()
+              for attempt in range(60):
+                  try:
+                      if fetch(BASE+"data/web-display-optimization.json")==local_release:
+                          break
+                  except Exception as exc:
+                      print("Waiting for exact optimized Pages generation",repr(exc),flush=True)
+                  time.sleep(9)
+              else:
+                  raise AssertionError("Fabaceae optimized public site has not deployed yet")
           catalog=json.loads(fetch(BASE+"data/collection-index.json"))
           assert len(catalog["entries"])==expected["species"]
           paths=set();photographed=0;panels=0
