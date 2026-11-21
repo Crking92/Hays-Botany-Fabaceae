@@ -1,0 +1,25 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Desmanthus illinoensis",
+  "printed_page": 652,
+  "habitat_source_reported": "Ditches, stream bottoms, fields, roadsides, and low areas; often clay soils",
+  "flowering_source_reported": "Late May–June, sporadically to September",
+  "morphology_source_reported": {
+    "stem_habit": "Erect or spreading",
+    "height_cm": "20–150",
+    "petiole_length_mm": "2–10",
+    "fruit_length_to_width_ratio": "3–4",
+    "fruit_arrangement": "Tightly clustered",
+    "key_head_flower_count": "20–70",
+    "key_fruit_shape": "Strongly sickle-shaped",
+    "key_fruit_length_mm": "15–32",
+    "key_fruit_width_mm": "4.5–7"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "This book does not alone establish occurrence or nativity in Hays County.",
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
+  ]
+}
