@@ -1,0 +1,21 @@
+{
+  "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea aurea",
+  "printed_page": 646,
+  "habitat_source_reported": "Silty or gravelly limestone soils",
+  "flowering_source_reported": "Late May–July, sporadically to September",
+  "morphology_source_reported": {
+    "stem_habit": "Spreading to usually erect",
+    "stem_length_cm": "30–75",
+    "leaflets_per_leaf": "5(–7)",
+    "leaflet_length_mm": "10–20",
+    "leaflet_surface": "Pubescent",
+    "petal_color": "Yellow"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "Does not establish occurrence or nativity in Hays County",
+    "Historic taxonomy and measurements must be checked before use in identification scoring"
+  ]
+}
