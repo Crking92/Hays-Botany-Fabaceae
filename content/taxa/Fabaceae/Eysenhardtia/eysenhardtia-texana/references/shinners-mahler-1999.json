@@ -1,0 +1,29 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Eysenhardtia texana",
+  "printed_page": 658,
+  "habitat_source_reported": "Limestone hillsides",
+  "flowering_source_reported": "April–September",
+  "morphology_source_reported": {
+    "habit": "Largely glabrous, unarmed shrub to 3 m tall",
+    "leaves": "Crowded, once pinnately compound",
+    "leaflet_count": "15–47",
+    "leaflet_length_mm": "(3–)5–12",
+    "leaflet_shape": "Oblong",
+    "leaflet_glands": "Gland-dotted, aromatic",
+    "stipules": "Thread-like, persistent",
+    "inflorescence": "Terminal erect slender spike-like racemes, solitary or panicled",
+    "flowers": "Sweet-scented, 4–5 separate white to pale-yellow petals",
+    "stamens": "10, diadelphous"
+  },
+  "historical_synonyms_reported": [
+    "Eysenhardtia angustifolia Pennell"
+  ],
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "This book does not alone establish occurrence or nativity in Hays County.",
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
+  ]
+}
