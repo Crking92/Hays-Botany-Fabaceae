@@ -1,0 +1,21 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Amorpha roemeriana",
+  "printed_page": 626,
+  "habitat_source_reported": "Source reports reaching Travis County just south of the flora's study area",
+  "flowering_source_reported": null,
+  "morphology_source_reported": {
+    "leaflet_underside_veins": "Inconspicuous",
+    "leaflet_length_mm": "15–40",
+    "inflorescence_length_cm": "10–20",
+    "comparison": "Similar to Amorpha paniculata; differentiated by undersurface leaflet venation, leaflet length and inflorescence length"
+  },
+  "source_scope_note": "Brief comparison treatment, not a full morphological description.",
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "This book does not alone establish occurrence or nativity in Hays County.",
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
+  ]
+}
