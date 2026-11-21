@@ -1,0 +1,20 @@
+{
+  "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Desmanthus acuminatus",
+  "printed_page": 652,
+  "habitat_source_reported": "Gravelly or sandy ground",
+  "flowering_source_reported": "April–May (sometimes into fall)",
+  "morphology_source_reported": {
+    "stem_habit": "Sprawling, decumbent or ascending",
+    "stem_length_cm": "Usually 20–60",
+    "petiole_length_mm": "3–6",
+    "flowers_per_head": "6–13",
+    "fruit_length_mm": "Approximately 30–50"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "Does not establish occurrence or nativity in Hays County",
+    "Historic taxonomy and measurements must be checked before use in identification scoring"
+  ]
+}
