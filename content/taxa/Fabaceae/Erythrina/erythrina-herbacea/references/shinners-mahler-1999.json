@@ -1,0 +1,30 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Erythrina herbacea",
+  "printed_page": 658,
+  "habitat_source_reported": "Native to sandy woods of southeastern and eastern Texas; source also describes escape from cultivation in Tarrant County",
+  "flowering_source_reported": "April–June",
+  "morphology_source_reported": {
+    "habit": "Subshrub or shrub dying to ground in winter in north-central Texas",
+    "stem_habit": "Prickly, 0.5–2+ m tall",
+    "leaves": "Alternate, pinnately compound with 3 leaflets",
+    "leaflets": "Hastately 3-lobed to widely deltoid; (2–)4–13 cm long, glabrous or nearly so",
+    "inflorescence": "Terminal long-pedunculate raceme",
+    "pedicel_length_mm": "3–9",
+    "calyx_length_mm": "5–11.5",
+    "corolla": "Scarlet, narrow and elongate",
+    "standard_petal_length_mm": "30–53",
+    "wing_and_keel_length_mm": "5.5–13",
+    "stamens": "10, usually diadelphous",
+    "fruit_length_cm": "7–15(–21)",
+    "fruit_width_cm": "1.2–1.6",
+    "seeds": "Scarlet, 5–13 mm long"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "This book does not alone establish occurrence or nativity in Hays County.",
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
+  ]
+}
