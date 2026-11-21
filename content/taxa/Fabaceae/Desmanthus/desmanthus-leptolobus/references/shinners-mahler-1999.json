@@ -1,0 +1,24 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Desmanthus leptolobus",
+  "printed_page": 652,
+  "habitat_source_reported": "Prairies and open ground; clayey, rocky or less often sandy soils, sometimes lawns",
+  "flowering_source_reported": "Late May–June",
+  "morphology_source_reported": {
+    "stem_habit": "Prostrate to suberect",
+    "stem_length_cm": "60–100",
+    "leaflet_shape": "Essentially linear or narrowly elliptic",
+    "petiole_length_mm": "2–5",
+    "key_flower_count_per_head": "4–12",
+    "key_fruit_shape": "Nearly straight",
+    "key_fruit_length_mm": "35–70",
+    "key_fruit_width_mm": "2–3"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "This book does not alone establish occurrence or nativity in Hays County.",
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
+  ]
+}
