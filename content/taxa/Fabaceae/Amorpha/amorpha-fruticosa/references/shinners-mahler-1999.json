@@ -1,0 +1,24 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Amorpha fruticosa",
+  "printed_page": 626,
+  "habitat_source_reported": "Stream banks, chiefly limestone areas",
+  "flowering_source_reported": "Apr–May",
+  "morphology_source_reported": {
+    "habit": "Much-branched shrub, to 3 m tall",
+    "foliage": "Dark green",
+    "leaflet_count": "9–21(–31)",
+    "leaflet_hairs": "Pubescent at least on veins of lower surfaces",
+    "racemes": "Solitary or in clusters of 2–4",
+    "calyx_length_mm": "ca. 3–5",
+    "standard_petal_length_mm": "5–6",
+    "standard_petal_color": "Dark blue to reddish purple"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "This book does not alone establish occurrence or nativity in Hays County.",
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
+  ]
+}
