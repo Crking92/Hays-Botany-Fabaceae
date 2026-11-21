@@ -1,0 +1,25 @@
+{
+  "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Prosopis glandulosa",
+  "printed_page": 688,
+  "habitat_source_reported": "Various soils",
+  "flowering_source_reported": "Late April–May, sometimes later",
+  "morphology_source_reported": {
+    "growth_habit": "Shrub or small tree",
+    "rooting": "Deep roots",
+    "spines": "Small, stout, straight spines at enlarged nodes",
+    "leaves": "Twice even-pinnately compound",
+    "leaflets": "Glabrous",
+    "inflorescence": "Drooping short-peduncled racemes",
+    "flower_color": "Yellowish white",
+    "stamens": "10, separate",
+    "fruit_length_cm": "(5–)7–20",
+    "fruit_shape": "Constricted between seeds"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "Does not establish occurrence or nativity in Hays County",
+    "Historic taxonomy and measurements must be checked before use in identification scoring"
+  ]
+}
