@@ -1,0 +1,24 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Desmanthus velutinus",
+  "printed_page": 652,
+  "habitat_source_reported": "Rocky limestone outcrops",
+  "flowering_source_reported": "May–June and September–October; sporadically July–August",
+  "morphology_source_reported": {
+    "stem_habit": "Spreading to erect",
+    "stem_length_cm": "20–50",
+    "pinnae_pairs_per_leaf": "3–7",
+    "petiole_length_mm": "4–12",
+    "flowers_per_head": "15–33",
+    "stamen_count": "10",
+    "fruit_shape": "Straight",
+    "fruit_length_mm": "ca. 30–80"
+  },
+  "status": "source_transcribed_not_independently_corroborated",
+  "cautions": [
+    "This book does not alone establish occurrence or nativity in Hays County.",
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
+  ]
+}
