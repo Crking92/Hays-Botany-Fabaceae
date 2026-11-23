@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Pediomelum cuspidatum (Pursh) Rydb.",
+  "printed_page": 684,
+  "source_reported_historical_synonyms": [
+    "Psoralea cuspidata Pursh"
+  ],
+  "morphology_source_reported": {
+    "habit": "Freely branched stems, decumbent or ascending, sometimes erect, to 80 cm",
+    "leaves": "Gland-dotted; broadly lanceolate to rhombic, elliptic or obovate leaflets, generally 20–50 mm long and (6–)10–24 mm wide [species key]",
+    "flowers": "Often sweet-clover-scented, 12–20 mm long; blue or purplish",
+    "fruit_body_length_mm": "6–8",
+    "fruit_beak_length_mm": "To 2",
+    "fruits": "Gland-dotted; body completely enclosed by calyx"
+  },
+  "habitat_source_reported": "Clayey, rocky, sandy prairies",
+  "flowering_source_reported": "Late Apr–May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
