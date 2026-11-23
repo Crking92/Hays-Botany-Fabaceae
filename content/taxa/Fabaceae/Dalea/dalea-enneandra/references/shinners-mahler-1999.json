@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea enneandra",
+  "printed_page": 648,
+  "source_reported_historical_synonyms": [
+    "Dalea laxiflora Pursh",
+    "Dalea enneandra var. pumila (Shinners) B.L.Turner"
+  ],
+  "morphology_source_reported": {
+    "stems": "20–150 cm tall, bushy-branched above",
+    "roots": "Tough, woody orange root",
+    "leaves": "Usually 5–9 glabrous, narrow-linear to oblong leaflets, 5–12 mm long",
+    "flowers": "Pale-yellow keel; white standard and wings",
+    "calyx": "Teeth prominently white-pilose",
+    "varietal_note": "Historical var. pumila described as compact, generally 20–30 cm tall, with shorter denser inflorescences"
+  },
+  "habitat_source_reported": "Rocky, sandy or silty soils",
+  "flowering_source_reported": "Jun–Jul",
+  "taxonomic_reference_checked_url": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora authors discuss possible recognition of var. pumila despite lumped treatment",
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
