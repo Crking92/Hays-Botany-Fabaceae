@@ -19,6 +19,18 @@
   "status": "source_transcribed_not_independently_corroborated",
   "cautions": [
     "This book does not alone establish occurrence or nativity in Hays County.",
-    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
-  ]
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources.",
+    "Flora key p.652: 5–18 pinna pairs; 5 stamens; fruit at least ca. seven times longer than wide and readily splits along both sutures; nearly straight."
+  ],
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "checked_source_key_and_taxon_scope",
+    "printed_pages": [
+      651,
+      652
+    ],
+    "findings": [
+      "Flora key p.652: 5–18 pinna pairs; 5 stamens; fruit at least ca. seven times longer than wide and readily splits along both sutures; nearly straight."
+    ]
+  }
 }
