@@ -1,0 +1,29 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "status": "source_transcribed_not_independently_corroborated",
+  "evidence_scope": "Factual structured summary of printed species treatment and diagnostic key, not independently verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name concepts need separate modern taxonomic corroboration before scoring",
+    "Regional habitat and range statements do not establish Hays County nativity"
+  ],
+  "source_name": "Astragalus leptocarpus",
+  "printed_page": 632,
+  "morphology_source_reported": {
+    "growth_habit": "Annual; inconspicuously appressed-pubescent or glabrous",
+    "stem_length_cm": "3–20(–35)",
+    "stems": "Erect, ascending or decumbent",
+    "inflorescence": "Racemes with 2–7(–12) flowers",
+    "flowers": "Purple-blue petals, drying violet; central standard and upper wing/keel surfaces often white",
+    "fruits": "Straight to slightly curved, linear",
+    "fruit_width_mm": "2.2–3.1(–3.5)",
+    "fruit_length_mm": "20–37 (key)",
+    "ovules": "20–26 (key)",
+    "standard_length_mm": "8.3–12 (key)",
+    "diagnostic_characters": "Closely resembles A. nuttallianus complex; comparatively longer pods, glabrous ovary versus var. trichocarpus, retuse leaflets versus var. pleianthus"
+  },
+  "habitat_source_reported": "Sandy open woods or calcareous clays",
+  "flowering_source_reported": "Apr"
+}
