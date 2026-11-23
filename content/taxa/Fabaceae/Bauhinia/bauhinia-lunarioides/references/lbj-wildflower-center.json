@@ -1,0 +1,26 @@
+{
+  "source_citation": "Lady Bird Johnson Wildflower Center, University of Texas at Austin, Native Plant Database, Bauhinia lunarioides; record modified 2026-09-30",
+  "source_url": "https://www.wildflower.org/plants/result.php?id_plant=BALU",
+  "source_name": "Bauhinia lunarioides A. Gray ex S. Watson",
+  "source_reported_synonyms": [
+    "Bauhinia congesta",
+    "Bauhinia jermyana",
+    "Casparea congesta",
+    "Casparea jermyana"
+  ],
+  "morphology_source_reported": {
+    "growth_habit": "Deciduous perennial, single- or multi-stemmed shrub or small tree, 6–12 feet high",
+    "bark": "Silvery gray",
+    "leaves": "Alternate, small light-green, deeply cleft",
+    "flowers": "White to pale pink, orchid-like and fragrant, clustered with projecting stamens",
+    "fruit": "Flattened legume"
+  },
+  "habitat_source_reported": "Limestone-hill canyons and arroyos; well-drained substrates; cited in Kinney, Presidio, and Gillespie or Llano counties",
+  "flowering_source_reported": "Mar–May, sometimes again after heavy summer or fall rain",
+  "status": "secondary_authoritative_source_extracted_not_identification_verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Not directly treated in uploaded 1999 Flora; independent regional secondary source used",
+    "Site's listed county data are not BONAP county-level validation for project target"
+  ]
+}
