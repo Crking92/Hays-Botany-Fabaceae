@@ -1,0 +1,24 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Lespedeza texana Britton",
+  "printed_page": 670,
+  "morphology_source_reported": {
+    "growth_habit": "Perennial herb (genus description)",
+    "stem_length_m": "To 1.5",
+    "leaves": "Leaflets to 3.5 cm long, leathery, gray-green beneath",
+    "stipule_length_mm": "(3–)4–8",
+    "flowers": "Purple corollas",
+    "fruit_length_mm": "4–7",
+    "diagnostic_characters": "Resembles L. repens but with coriaceous leaflets, gray-green beneath, and relatively long stipules"
+  },
+  "habitat_source_reported": "Clay soil on or near limestone outcrops",
+  "flowering_source_reported": "Late May–Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
