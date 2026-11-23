@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Mimosa latidens (Small) B.L. Turner",
+  "printed_page": 678,
+  "source_reported_historical_synonyms": [
+    "Mimosa quadrivalvis var. latidens (Small) Barneby",
+    "Schrankia latidens (Small) K. Schum."
+  ],
+  "morphology_source_reported": {
+    "growth_habit": "Sprawling or trailing perennial herb [genus]",
+    "leaves": "Usually (1–)2–3 pinna pairs; ultimate leaflets fold at night or when touched",
+    "stipule_length_mm": "1–3(–4)",
+    "flowers": "Petals united to about halfway, conspicuous pink filaments",
+    "fruits": "Mostly 4-sided to nearly cylindrical, 2–4 mm wide [key]; not strongly flattened",
+    "diagnostic_characters": "Sandy-soil trailing sensitive-briar with more cylindrical pods, as contrasted with flattened fruit of M. roemeriana"
+  },
+  "habitat_source_reported": "Sandy soil and sandy loam",
+  "flowering_source_reported": "Apr–Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora recognizes species rank and discusses competing Mimosa quadrivalvis varietal classification; retain as historical-source concept, not independent modern taxonomy",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
