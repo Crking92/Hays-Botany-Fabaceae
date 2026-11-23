@@ -1,0 +1,19 @@
+{
+  "source_citation": "Barneby taxonomic monograph via New York Botanical Garden",
+  "source_url": "https://sweetgum.nybg.org/science/world-flora/monographs-details/?irn=16069",
+  "source_name": "Dalea neomexicana",
+  "morphology_source_reported": {
+    "habit": "Diffuse prostrate tufted perennial from yellow root",
+    "stems": "Usually 3–35 cm, silky hairs spreading or retrorse",
+    "leaves": "Usually 4–7 pairs of leaflets, 2.5–8 mm long, lower surfaces with rows of glands",
+    "inflorescence": "Ovoid to oblong raceme, hairy axis 1–6 cm",
+    "flowers": "Calyx 4.7–8(–8.8) mm, hairs conspicuous; banner whitish or yellowish with changing reddish eye and darker keel",
+    "fruit": "Pod 2.3–3 mm, lustrous brown seeds 1.7–2.4 mm"
+  },
+  "flowering_source_reported": null,
+  "status": "supplementary_source_extracted_pending_independent_morphology_review",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Monograph's infraspecific variability not fully reviewed; detailed species characters source-transcribed, not verified"
+  ]
+}
