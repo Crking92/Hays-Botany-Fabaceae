@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "status": "source_transcribed_not_independently_corroborated",
+  "evidence_scope": "Factual structured summary of printed species treatment and diagnostic key, not independently verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name concepts need separate modern taxonomic corroboration before scoring",
+    "Regional habitat and range statements do not establish Hays County nativity",
+    "Flora treats variety texensis; existing repository synonym crosswalk maps it to current subspecies texensis",
+    "Flower and fruit dimensions belong to C. canadensis species-level treatment and may overlap other subspecies"
+  ],
+  "source_name": "Cercis canadensis var. texensis",
+  "printed_page": 640,
+  "morphology_source_reported": {
+    "growth_habit": "Small thornless deciduous tree, frequently multi-trunked",
+    "leaves": "Leaf blades thick, leathery, cordate to cordate-reniform, wider than long; shiny, deep green and distinctly glaucous above",
+    "flowering_phenology": "Flowers before leaves expand; cauliflorous (genus-level)",
+    "flowers": "Purple-red, rarely white; clusters of 2–6; petals ca. 9–12 mm long (species-level)",
+    "stamens": "10 fertile, separate (species-level)",
+    "fruits": "Flat, slightly stipitate, 4–10 cm long × 8–18 mm wide (species-level)",
+    "diagnostic_characters": "Contrasts with var. canadensis in thick glossy wider-than-long rounded foliage versus thinner dull leaves"
+  },
+  "habitat_source_reported": "Rocky limestone slopes",
+  "flowering_source_reported": "Mar–Apr (species-level)"
+}
