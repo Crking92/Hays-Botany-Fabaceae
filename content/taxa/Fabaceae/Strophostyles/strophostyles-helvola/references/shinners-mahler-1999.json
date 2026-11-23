@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Strophostyles helvula (L.) Elliott",
+  "printed_page": 698,
+  "source_reported_historical_synonyms": [
+    "Phaseolus helvula L."
+  ],
+  "morphology_source_reported": {
+    "habit": "Trailing or twining annual vine [genus]",
+    "stems": "Glabrous to pilose",
+    "leaves": "Ovate, sparse strigose leaflets 3–6.5 cm long, often 3-lobed or indented along margins",
+    "peduncle_length_cm": "(5–)10–30",
+    "calyx_length_mm": "Ca. 4–5, including longest lobe",
+    "flowers": "Keel strongly incurved, darkened toward tip",
+    "seeds": "Thick felty covering, in contrast with shiny seeds of S. leiosperma"
+  },
+  "habitat_source_reported": "Sandy open ground",
+  "flowering_source_reported": "Jul–Oct",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora deliberately spells Strophostyles helvula, noting that S. helvola is sometimes used; verify modern orthography before merging names",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
