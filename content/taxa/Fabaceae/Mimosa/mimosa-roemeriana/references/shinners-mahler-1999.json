@@ -1,0 +1,29 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Mimosa roemeriana Scheele",
+  "printed_page": 678,
+  "source_reported_historical_synonyms": [
+    "Mimosa quadrivalvis var. platycarpa (A. Gray) Barneby",
+    "Schrankia roemeriana (Scheele) Blank."
+  ],
+  "morphology_source_reported": {
+    "growth_habit": "Sprawling or trailing prickly perennial",
+    "stem_length_m": "Usually 0.3–1",
+    "leaves": "Usually 4–5 pinna pairs, leaflets sensitive to touch/night movement",
+    "stipule_length_mm": "3–6",
+    "flowers": "Petals united nearly halfway; conspicuous pink filaments",
+    "fruits": "Flattened mature fruit 4–6 mm wide, 3–6 times wider than thick [key]; lower stems rounded or five-sided [key]",
+    "diagnostic_characters": "Flattened rather than nearly four-sided mature pods distinguish from M. latidens"
+  },
+  "habitat_source_reported": "Rocky limestone slopes, occasionally sandy soils",
+  "flowering_source_reported": "Apr–Jul",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical M. quadrivalvis variety relationship requires taxonomic reconciliation",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
