@@ -1,0 +1,16 @@
+{
+  "source_citation": "Royal Botanic Gardens Kew, Plants of the World Online",
+  "source_url": "https://powo.science.kew.org/taxon/162024-2",
+  "source_name": "Mimosa texana",
+  "morphology_source_reported": {
+    "habit": "Subshrub or shrub of desert and dry shrubland"
+  },
+  "flowering_source_reported": null,
+  "status": "supplementary_source_extracted_pending_independent_morphology_review",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Kew accepts Mimosa texana; synonyms include Mimosa borealis var. texana",
+    "Kew accepts varieties filipes and texana; full diagnostic morphology not established",
+    "State-level Texas nativity not Hays County BONAP county proof"
+  ]
+}
