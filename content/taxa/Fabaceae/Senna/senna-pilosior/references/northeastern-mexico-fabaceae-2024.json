@@ -5,15 +5,30 @@
   "morphology_source_reported": {
     "flowers": "Petals 8.5–10 mm long; anthers constricted immediately below terminal symmetrical pore",
     "reproductive": "Ovules 16–26, seeds in one series",
-    "diagnostic_note": "Identification key distinguishes from nearby taxa using persistent sepals and anther/ovule characters"
+    "diagnostic_note": "Identification key distinguishes from nearby taxa using persistent sepals and anther/ovule characters",
+    "growth_habit": "Herbaceous perennial",
+    "stems": "Pubescent with simple retrorse hairs, gland-like hairs, and stiff setae",
+    "leaflets": "One pair per leaf; 1.3–1.8 times as long as wide",
+    "petiolar_gland": "Gland at insertion of leaflet pair",
+    "sepals": "Persist as immature fruit develops, contrasted with deciduous sepals of S. durangensis",
+    "flower_petals_length_mm": "8.5–10",
+    "anthers": "Constricted immediately below a symmetric terminal pollen pore",
+    "ovules_per_ovary": "16–26",
+    "seeds": "One series",
+    "fruit": "Erect, with hairs and stiff bristles, persists after dehiscence; 2–4 cm long; published width 0.5–8 cm likely transcription/unit issue, withheld"
   },
-  "habitat_source_reported": null,
+  "habitat_source_reported": "Desert scrubland 600–1450 m in northeastern Mexico region (not a Texas county habitat assessment)",
   "flowering_source_reported": null,
-  "status": "partial_diagnostic_morphology_pending_full_treatment",
+  "status": "expanded_species_morphology_qa_measurement_hold",
   "nativity_bonap_status": "not_assessed_separately",
   "cautions": [
     "Partial morphology from published key, not full species treatment",
     "Historical synonym Cassia pilosior and Cassia bauhinioides var. pilosior require precise author-name review",
-    "Do not transfer characters to other Senna species or infer locality"
-  ]
+    "Do not transfer characters to other Senna species or infer locality",
+    "Source prints fruit 2–4 × 0.5–8 cm: second dimension suspected typographic anomaly; width withheld.",
+    "No Texas flowering period documented in this treatment.",
+    "Do not treat region-level southern Texas nativity as BONAP Hays county evidence"
+  ],
+  "source_treatment_location": "Plants 2024 13(17):2477, Senna taxon treatment and key",
+  "qa_verified_at": "2026-11-23"
 }
