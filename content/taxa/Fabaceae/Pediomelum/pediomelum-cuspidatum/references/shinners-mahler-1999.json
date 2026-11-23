@@ -13,7 +13,8 @@
     "flowers": "Often sweet-clover-scented, 12–20 mm long; blue or purplish",
     "fruit_body_length_mm": "6–8",
     "fruit_beak_length_mm": "To 2",
-    "fruits": "Gland-dotted; body completely enclosed by calyx"
+    "fruits": "Gland-dotted; body completely enclosed by calyx",
+    "leaflet_shape_source": "Broadly lanceolate to rhombic, elliptic or obovate; 2–3(–5) times as long as wide [key p. 684]"
   },
   "habitat_source_reported": "Clayey, rocky, sandy prairies",
   "flowering_source_reported": "Late Apr–May",
@@ -22,5 +23,13 @@
   "cautions": [
     "Historical taxon concept requires reconciliation before identification-scoring use",
     "Regional habitat does not establish local BONAP nativity"
-  ]
+  ],
+  "additional_source_pages": {
+    "genus_and_key": 683,
+    "leaflet_key_and_species_treatment": 684
+  },
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "key_and_species_character_provenance_checked"
+  }
 }
