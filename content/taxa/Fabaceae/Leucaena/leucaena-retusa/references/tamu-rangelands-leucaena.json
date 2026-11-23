@@ -1,0 +1,19 @@
+{
+  "source_citation": "Texas A&M AgriLife Plants of Texas Rangelands",
+  "source_url": "https://rangeplants.tamu.edu/plant/little-leaf-lead-tree-golden-ball-lead-tree/",
+  "source_name": "Leucaena retusa",
+  "morphology_source_reported": {
+    "habit": "Shrub or small tree to 7.6 m",
+    "bark": "Gray-brown smooth becoming scaly",
+    "leaves": "Bipinnate, 2–5 pairs of pinnae with 3–8 pairs of oblong blue-green leaflets",
+    "flowers": "Bright yellow globose heads 2.5–3 cm diameter",
+    "fruit": "Thin pods 10–25 cm long, green then brown, numerous seeds"
+  },
+  "flowering_source_reported": "Spring to October intermittently after rain",
+  "status": "supplementary_source_extracted_pending_independent_morphology_review",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "TAMU source gives incompatible inch/cm conversion for leaflet size; that particular measurement withheld",
+    "Rocky dry limestone sites, county nativity not confirmed"
+  ]
+}
