@@ -11,6 +11,21 @@
     "Taxon and historical nomenclature only: no species-specific diagnostic morphology supported by these sources",
     "Synonym Cracca potosina (Brandegee) Standl. listed by ITIS",
     "Current Kew range Texas to northeastern Mexico is not county-level BONAP validation",
-    "HOLD: needs species treatment for roots, stems, leaves, flower and fruit dimensions, habitat and phenology"
-  ]
+    "HOLD: needs species treatment for roots, stems, leaves, flower and fruit dimensions, habitat and phenology",
+    "World Flora Online generic Tephrosia morphology is not species-specific and cannot be copied into this taxon's diagnostic traits.",
+    "Primary protologue Brandegee 1912 p.272 identified as the next source target."
+  ],
+  "accepted_name": "Tephrosia potosina Brandegee",
+  "taxon_crosswalk_status": "accepted_name_and_basionym_authority_checked",
+  "original_description_lead": {
+    "publication": "Brandegee (1912), University of California Publications in Botany 4:272",
+    "ipni_url": "https://www.ipni.org/n/250405-2",
+    "status": "original_protologue_not_yet_extracted"
+  },
+  "source_taxonomic_summary": {
+    "life_cycle": "perennial (Kew POWO)",
+    "biome": "desert or dry shrubland (Kew POWO)",
+    "range": "Texas to northeastern Mexico, not county-level nativity evidence"
+  },
+  "qa_verified_at": "2026-11-23"
 }
