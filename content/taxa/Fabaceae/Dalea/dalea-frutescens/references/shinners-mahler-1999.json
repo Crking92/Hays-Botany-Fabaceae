@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea frutescens",
+  "printed_page": 648,
+  "source_reported_historical_synonyms": [
+    "Dalea frutescens var. laxa B.L.Turner"
+  ],
+  "morphology_source_reported": {
+    "growth_habit": "Small shrub, 30–80(–120) cm tall",
+    "leaves": "13–17 glabrous leaflets, 1.5–3.5(–5) mm long",
+    "flowers": "Purplish petals; short, few-flowered spikes",
+    "bracts": "Conspicuously gland-dotted",
+    "calyx": "Lobes shorter than tube; tube glabrous",
+    "ecological_note": "Recorded host of parasitic Pilostyles thurberi in north-central Texas"
+  },
+  "habitat_source_reported": "Rocky and disturbed sites",
+  "flowering_source_reported": "Apr–Sep",
+  "taxonomic_reference_checked_url": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
