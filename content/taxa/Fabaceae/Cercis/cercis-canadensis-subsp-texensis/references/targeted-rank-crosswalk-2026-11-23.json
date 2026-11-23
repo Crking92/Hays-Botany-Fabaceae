@@ -1,0 +1,17 @@
+{
+  "record_type": "targeted_taxonomic_rank_reconciliation",
+  "date": "2026-11-23",
+  "species_id": "cercis-canadensis-subsp-texensis",
+  "source_name_in_1999_flora": "Cercis canadensis var. texensis",
+  "modern_repository_name": "Cercis canadensis subsp. texensis (S.Watson) A.E.Murray",
+  "decision": "Kew POWO accepts subspecies rank and explicitly lists the flora's varietal name as synonym; historical variety morphological data retained with its original name and source page 640",
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:920638-1",
+    "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=525444"
+  ],
+  "alternative_classification": "ITIS accepts rank variety rather than subspecies; this is rank difference within the mapped taxon, not evidence of a different field diagnosis",
+  "scope_warning": "Do not assign species-level flower and pod dimensions as distinctive subspecies-level characters",
+  "status": "TAXONOMIC_RANK_CROSSWALK_RESOLVED_WITH_AUTHORITY_DIFFERENCE_RECORDED",
+  "bonap": "DEFERRED",
+  "preservation": "Additive-only research; no photo or species changes"
+}
