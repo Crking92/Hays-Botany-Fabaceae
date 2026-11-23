@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Mimosa aculeaticarpa Ortega var. biuncifera (Benth.) Barneby",
+  "printed_page": 678,
+  "source_reported_historical_synonyms": [
+    "Mimosa biuncifera Benth."
+  ],
+  "morphology_source_reported": {
+    "growth_habit": "Rounded or somewhat spindly woody shrub, ca. 1 m tall",
+    "stems": "Straight to distinctly zigzag",
+    "leaves": "Twice even-pinnately compound [genus]; 4–8 pairs of pinnae [key branch]",
+    "flowers": "Petals fused halfway or more; whitish filaments faintly pink [key branch]",
+    "fruits": "35 mm long or shorter; mostly 3–4 mm broad and with marginal recurved prickles [key branch]",
+    "diagnostic_characters": "Armed shrub with frequently zigzag stems and conspicuous prickles on fruit margins"
+  },
+  "habitat_source_reported": "Calcareous or sandy rocky openings, also alluvial soils",
+  "flowering_source_reported": "May–Aug",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Repository name Mimosa biuncifera is historical synonym cited explicitly in Flora, which treats it as var. biuncifera under M. aculeaticarpa",
+    "Current rank/accepted name needs independent Kew POWO review",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
