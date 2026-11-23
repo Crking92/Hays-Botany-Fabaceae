@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Sophora affinis Torr. & A. Gray",
+  "printed_page": 697,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "habit": "Usually a small tree; deciduous with thin foliage [Sophora identification key]",
+    "leaves": "Odd-pinnate, 13–19 leaflets on developed leaves [key]",
+    "inflorescence": "Drooping racemes, conspicuous flowers partly obscured by new foliage",
+    "flowers": "Corollas 11–14 mm long; white standard changing pink, keel rose- to lavender-pink [key]",
+    "fruits": "Beadlike, irregularly constricted pods usually with 2–6 fertile segments, black when ripe and ca. 7–8 mm thick [key]",
+    "seeds": "Brown, ca. 5 mm long"
+  },
+  "habitat_source_reported": "Rocky limestone slopes and ravines",
+  "flowering_source_reported": "Apr–early May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "The source uses Sophora affinis, while inventory uses Styphnolobium affine; historical genus transfer requires independent confirmation",
+    "Source reports toxic seeds; no independent toxicology assessment",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
