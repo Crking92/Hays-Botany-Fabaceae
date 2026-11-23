@@ -1,0 +1,18 @@
+{
+  "source_citation": "Kwantlen Polytechnic University Plant Database",
+  "source_url": "https://plantdatabase.kpu.ca/Plant/lobe",
+  "source_name": "Lotus berthelotii",
+  "morphology_source_reported": {
+    "habit": "Spreading matlike perennial subshrub, often cultivated as annual",
+    "leaves": "3–5 narrow softly hairy leaflets 1–2 cm long, about 1 mm wide",
+    "flowers": "Narrow orange to red flowers 2–4 cm long, about 5–8 mm wide",
+    "fruit": "Legume, often absent in horticulture"
+  },
+  "flowering_source_reported": "May–Jun in horticulture",
+  "status": "supplementary_source_extracted_pending_independent_morphology_review",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Kew native range Canary Islands, not native to project range",
+    "Horticultural blooming months not Texas field phenology"
+  ]
+}
