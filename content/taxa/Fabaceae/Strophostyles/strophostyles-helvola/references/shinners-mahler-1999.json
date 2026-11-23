@@ -18,11 +18,17 @@
   },
   "habitat_source_reported": "Sandy open ground",
   "flowering_source_reported": "Jul–Oct",
-  "status": "source_transcribed_not_independently_corroborated",
+  "status": "taxon_spelling_verified_morphology_transcribed",
   "nativity_bonap_status": "not_assessed_separately",
   "cautions": [
-    "1999 Flora deliberately spells Strophostyles helvula, noting that S. helvola is sometimes used; verify modern orthography before merging names",
-    "Taxon concepts require independent name reconciliation before identification scoring",
+    "1999 Flora uses Strophostyles helvula, documented as an orthographic variant of currently accepted S. helvola by ITIS and Kew; preserved as source_name.",
     "Regional occurrence is not evidence of local BONAP nativity"
-  ]
+  ],
+  "accepted_name": "Strophostyles helvola (L.) Elliott",
+  "taxon_crosswalk_status": "orthographic_variant_confirmed",
+  "taxonomic_reference_urls": [
+    "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30145530-2",
+    "https://www.itis.gov/servlet/SingleRpt/SingleRpt?print_version=PRT&search_topic=TSN&search_value=505392&source=to_print"
+  ],
+  "qa_verified_at": "2026-11-23"
 }
