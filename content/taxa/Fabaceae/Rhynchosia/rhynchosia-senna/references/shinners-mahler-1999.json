@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Rhynchosia senna Gillies ex Hook. var. texana (Torr. & A. Gray) M.C. Johnst.",
+  "printed_page": 691,
+  "source_reported_historical_synonyms": [
+    "Rhynchosia senna var. angustifolia (A. Gray) Grear",
+    "Rhynchosia texana Torr. & A. Gray"
+  ],
+  "morphology_source_reported": {
+    "habit": "Minutely pubescent, stems to 70 cm long",
+    "leaflets": "4–18 mm wide, ovate-lanceolate or elliptic to narrowly oblong",
+    "calyx": "Half the corolla length",
+    "flowers": "Yellow, often reddish or brownish tinged",
+    "fruits": "Scimitar-shaped, 11–19 mm long",
+    "diagnostics": "1–3 flowers in leaf axils, in contrast to elongate flower racemes of R. minima [key]"
+  },
+  "habitat_source_reported": "Gravelly or rocky limestone soils",
+  "flowering_source_reported": "Jun–Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora treats only var. texana; morphology cannot automatically be assigned to every R. senna variety",
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
