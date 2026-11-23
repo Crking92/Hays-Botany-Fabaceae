@@ -1,0 +1,25 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Melilotus albus Medik.",
+  "printed_page": 676,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Annual or biennial; 0.5–2 m tall",
+    "leaves": "Trifoliolate, toothed toward leaflet apex [genus treatment]; fragrant when crushed",
+    "inflorescence": "Elongate spike-like racemes [genus treatment]",
+    "flowers": "White petals; corolla 3.6–5.2 mm long [key]; standard conspicuously longer than wings [key]",
+    "fruits": "Indehiscent, 1–2 seeded [genus]; 2.5–4 mm long [key]"
+  },
+  "habitat_source_reported": "Roadsides, railroads and disturbed sites",
+  "flowering_source_reported": "May–Jun",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora notes M. albus was sometimes lumped under M. officinalis; treated separately here",
+    "Flora reports Eurasian introduction",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
