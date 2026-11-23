@@ -1,0 +1,19 @@
+{
+  "source_citation": "2024 review, The Fabaceae in Northeastern Mexico: Caesalpinioideae excluding Mimoseae, Cercidoideae and Detarioideae (Plants 13(17):2477); name checked against Kew POWO",
+  "source_url": "https://www.mdpi.com/2223-7747/13/17/2477",
+  "source_name": "Senna pilosior (B.L.Rob.) H.S.Irwin & Barneby",
+  "morphology_source_reported": {
+    "flowers": "Petals 8.5–10 mm long; anthers constricted immediately below terminal symmetrical pore",
+    "reproductive": "Ovules 16–26, seeds in one series",
+    "diagnostic_note": "Identification key distinguishes from nearby taxa using persistent sepals and anther/ovule characters"
+  },
+  "habitat_source_reported": null,
+  "flowering_source_reported": null,
+  "status": "partial_diagnostic_morphology_pending_full_treatment",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Partial morphology from published key, not full species treatment",
+    "Historical synonym Cassia pilosior and Cassia bauhinioides var. pilosior require precise author-name review",
+    "Do not transfer characters to other Senna species or infer locality"
+  ]
+}
