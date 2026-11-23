@@ -1,0 +1,30 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Neptunia lutea (Leavenw.) Benth.",
+  "printed_page": 680,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Unarmed perennial, prostrate and vine-like",
+    "stem_length_m": "To 2",
+    "pubescence": "Usually dense minute stem hairs",
+    "foliage": "Blue-green, twice evenly pinnate; leaflets sensitive to touch",
+    "leaflet_pairs_per_pinna": "8–18",
+    "inflorescence": "Short ca. 2 cm heads on erect axillary stalks",
+    "flowers_per_bud_head": "30–60",
+    "flowers": "All stamens anther-bearing; ten free stamens with deep yellow filaments; separate petals",
+    "calyx_length_mm": "1–2",
+    "fruit_length_cm": "2.5–5",
+    "fruit_width_mm": "10–15",
+    "fruit_stipe_length_mm": "4–15"
+  },
+  "habitat_source_reported": "Disturbed ground in various soils; some preference for sandy clay",
+  "flowering_source_reported": "Mid-May–Jun, sporadically later",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
