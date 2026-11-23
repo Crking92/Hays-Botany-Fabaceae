@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Chamaecrista fasciculata",
+  "printed_page": 642,
+  "source_reported_historical_synonyms": [
+    "Cassia chamaecrista L.",
+    "Cassia fasciculata Michx."
+  ],
+  "morphology_source_reported": {
+    "growth_habit": "Annual; height to ca. 1 m",
+    "leaves": "Two-ranked, usually 8–20 pairs of leaflets, slightly touch-sensitive",
+    "petiolar_gland": "Sessile or short-stalked, disk-like, ca. 1.5 mm across, near middle of petiole to lower leaflet pair",
+    "flowers": "Yellow petals; upper four with basal reddish marking; lower petal larger; anthers yellow and/or purple",
+    "fruit_length_source_printed": "5–7 mm (suspect printed error; not approved as a species measurement)"
+  },
+  "habitat_source_reported": "Open woods, prairies, disturbed sites, often sandy",
+  "flowering_source_reported": "Jun–Oct",
+  "taxonomic_reference_checked_url": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Source prints fruits 5–7 mm long; appears inconsistent with pod morphology; withheld from verified numerical fruit traits pending independent source check",
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
