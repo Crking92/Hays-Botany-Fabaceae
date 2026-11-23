@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Vicia ludoviciana subsp. ludoviciana",
+  "printed_page": 707,
+  "source_reported_historical_synonyms": [
+    "Vicia exigua Nutt.",
+    "Vicia ludoviciana var. texana (Torr. & A. Gray) Shinners"
+  ],
+  "morphology_source_reported": {
+    "habit": "Glabrate or sparsely pubescent annual [species]",
+    "stem_length_cm": "10–100 [species]",
+    "peduncles": "Flowers open after peduncle elongates; mostly 3–8.5 cm long in flower, usually longer than half subtending leaf; elongates little in fruit",
+    "raceme_flower_count": "1–19",
+    "corolla_color": "Pinkish white to deep bluish purple",
+    "leaflet_count": "7–10(–13)"
+  },
+  "habitat_source_reported": "Rocky or sandy soils, open woods and roadsides",
+  "flowering_source_reported": "Late Mar–early May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora treats subsp. ludoviciana, inventory has variety-level record; keep historic rank separation explicit",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
