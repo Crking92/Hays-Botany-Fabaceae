@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "status": "source_transcribed_not_independently_corroborated",
+  "evidence_scope": "Factual structured summary of printed species treatment and diagnostic key, not independently verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name concepts need separate modern taxonomic corroboration before scoring",
+    "Regional habitat and range statements do not establish Hays County nativity"
+  ],
+  "source_name": "Astragalus plattensis",
+  "printed_page": 635,
+  "morphology_source_reported": {
+    "growth_habit": "Perennial; usually largely decumbent; comparatively pubescent throughout",
+    "roots": "Older plants develop slender rhizomes (genus key)",
+    "flowers": "Sweet-scented; standard yellowish-white through lavender or rosy-lavender; keel lavender to red-purple with dark tip",
+    "ovary": "Pubescent",
+    "fruit_width_mm": "10–13 (key)",
+    "calyx_length_mm": "7–10 (key pathway)",
+    "corolla_length_mm": "12–20 (key pathway)",
+    "diagnostic_characters": "Densely gray-pubescent ovaries and fruits, slender rhizomes in older plants, versus glabrous ovary/fruit in A. crassicarpus"
+  },
+  "habitat_source_reported": "Sandy or rocky prairies or open woods",
+  "flowering_source_reported": "Late Mar–mid-Jul"
+}
