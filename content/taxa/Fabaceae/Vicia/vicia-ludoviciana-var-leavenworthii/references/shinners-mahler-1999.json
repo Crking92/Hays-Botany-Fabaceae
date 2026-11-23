@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Vicia ludoviciana subsp. leavenworthii (Torr. & A. Gray) Lassetter & C.R. Gunn",
+  "printed_page": 707,
+  "source_reported_historical_synonyms": [
+    "Vicia leavenworthii Torr. & A. Gray"
+  ],
+  "morphology_source_reported": {
+    "habit": "Glabrate to sparsely pubescent annual [species]",
+    "stem_length_cm": "10–100 [species]",
+    "peduncles": "Flowers open before peduncle elongation; at flowering 0.5–3.5 cm long and 1/8–1/2 as long as subtending leaf; at fruit 2–8.5 cm",
+    "raceme_flower_count": "1–5(–6)",
+    "corolla_color": "Pinkish white to light lavender",
+    "leaflet_count": "(7–)11–15(–17)"
+  },
+  "habitat_source_reported": "Rocky, clayey or occasionally sandy prairies and roadsides",
+  "flowering_source_reported": "Apr–May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora treats as subspecies, inventory as variety; rank crosswalk is provisional and not a claim that every current taxonomy recognizes same rank",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
