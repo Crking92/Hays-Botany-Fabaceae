@@ -1,0 +1,30 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Kummerowia striata (Thunb.) Schindl.",
+  "printed_page": 665,
+  "morphology_source_reported": {
+    "growth_habit": "Low annual; prostrate to erect; freely branched",
+    "stem_length_cm": "10–40(–50)",
+    "pubescence": "Stem hairs retrorse (genus key), becoming nearly glabrous in age",
+    "leaves": "Palmately trifoliolate (genus description), leaflet margins usually conspicuously spreading-ciliate",
+    "main_stem_petiole_length_mm": "1–3",
+    "calyx": "Lobes usually ciliate",
+    "corolla_length_mm": "4.5–6",
+    "flowers": "Rose-violet standard, white wings and keel, keel often purple-tipped",
+    "fruit_length_mm": "3–4",
+    "fruit_calyx_cover": "Calyx covers half to three quarters of mature fruit",
+    "diagnostic_characters": "Retrorse stem hairs vs. antrorse hairs in K. stipulacea"
+  },
+  "habitat_source_reported": "Naturalized sandy roadsides, pastures and open woods",
+  "flowering_source_reported": "Jun–Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Source documents introduction from China and Japan; not a native-plant endorsement",
+    "Historical synonym Lespedeza striata (Thunb.) Hook. & Arn.",
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
