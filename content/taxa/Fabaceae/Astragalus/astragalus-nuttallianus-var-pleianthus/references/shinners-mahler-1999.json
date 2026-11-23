@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "status": "source_transcribed_not_independently_corroborated",
+  "evidence_scope": "Factual structured summary of printed species treatment and diagnostic key, not independently verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name concepts need separate modern taxonomic corroboration before scoring",
+    "Regional habitat and range statements do not establish Hays County nativity",
+    "Flora explicitly discusses alternative species rank Astragalus pleianthus (Shinners) Isely; taxonomy unresolved without current accepted-name check"
+  ],
+  "source_name": "Astragalus nuttallianus var. pleianthus",
+  "printed_page": 634,
+  "morphology_source_reported": {
+    "growth_habit": "Annual as treated within A. nuttallianus species complex",
+    "stem_length_cm": "To 35(–45) (species-level range)",
+    "flowers": "Relatively large for complex; racemes mostly 4–10-flowered",
+    "standard_length_mm": "Mostly 7–9",
+    "fruits": "Consistently glabrous",
+    "raceme_axis_length_cm": "0.8(–1.2) or less in fruit (varietal key pathway)",
+    "diagnostic_characters": "At least some upper leaflets obtuse to subacute; keel triangular to narrowly deltoid at apex; comparatively larger flowers and more-flowered racemes than var. austrinus/trichocarpus"
+  },
+  "habitat_source_reported": "Calcareous soils; prairies and open woodlands",
+  "flowering_source_reported": "Mar–May"
+}
