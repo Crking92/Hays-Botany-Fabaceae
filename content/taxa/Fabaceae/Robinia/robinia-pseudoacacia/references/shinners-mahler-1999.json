@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Robinia pseudoacacia L.",
+  "printed_page": 692,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Deciduous tree, 20–30 m tall, colonial by root sprouts",
+    "bark": "Furrowed",
+    "leaves": "Odd-pinnately compound with 7–19 leaflets [genus]; nighttime drooping leaflets reported",
+    "young_tissue": "Young stems and leaves glabrous [species key]",
+    "flowers": "Fragrant white flowers 1.5–2.5 cm long, ca. 10–35 in pendent axillary racemes",
+    "fruits": "Compressed linear-oblong pods 5–10 cm long [genus + species]",
+    "spines": "Usually stipular spines [species key]"
+  },
+  "habitat_source_reported": "Sandy roadsides and fencerows",
+  "flowering_source_reported": "Mar–May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora describes species native to eastern USA and its colonial spread; not evidence of Hays County BONAP nativity",
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
