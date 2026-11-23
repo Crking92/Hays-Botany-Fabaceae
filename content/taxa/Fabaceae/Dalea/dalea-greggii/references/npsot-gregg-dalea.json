@@ -1,0 +1,17 @@
+{
+  "source_citation": "Native Plant Society of Texas",
+  "source_url": "https://www.npsot.org/posts/native-plant/dalea-greggii/",
+  "source_name": "Dalea greggii",
+  "morphology_source_reported": {
+    "habit": "Low perennial trailing herbaceous groundcover, height 0.33–0.75 ft, spread 2–4 ft",
+    "leaves": "Silvery blue-green compound leaves",
+    "flowers": "Small purple pea-shaped flowers in clusters",
+    "fruit": "Small legume"
+  },
+  "flowering_source_reported": "May–Sep (Texas native plant horticultural summary)",
+  "status": "supplementary_source_extracted_pending_independent_morphology_review",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Desert and rocky Chihuahuan range rather than demonstrated Hays County native; do not infer local nativity"
+  ]
+}
