@@ -1,0 +1,16 @@
+{
+  "source_citation": "Royal Botanic Gardens Kew Plants of the World Online; ITIS Tephrosia potosina taxon report",
+  "source_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A250405-2",
+  "source_name": "Tephrosia potosina Brandegee",
+  "morphology_source_reported": {},
+  "habitat_source_reported": null,
+  "flowering_source_reported": null,
+  "status": "taxonomic_reference_only_morphology_hold",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Taxon and historical nomenclature only: no species-specific diagnostic morphology supported by these sources",
+    "Synonym Cracca potosina (Brandegee) Standl. listed by ITIS",
+    "Current Kew range Texas to northeastern Mexico is not county-level BONAP validation",
+    "HOLD: needs species treatment for roots, stems, leaves, flower and fruit dimensions, habitat and phenology"
+  ]
+}
