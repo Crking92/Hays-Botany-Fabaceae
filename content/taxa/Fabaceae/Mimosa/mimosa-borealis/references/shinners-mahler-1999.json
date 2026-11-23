@@ -1,0 +1,23 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Mimosa borealis A. Gray",
+  "printed_page": 678,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Rounded woody shrub, usually ca. 1(–2.5) m tall",
+    "stems": "Generally straight",
+    "leaves": "Twice even-pinnately compound; 1–4(–5) pinna pairs per leaf [key]",
+    "flowers": "Very fragrant; petals separate; filaments distinctly pink, fading pale [key]",
+    "fruits": "25–50 mm long; mature fruit 6–8 mm broad, typically few or no marginal prickles [key]"
+  },
+  "habitat_source_reported": "Sandy or rocky open woodland and open ground",
+  "flowering_source_reported": "Apr–May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
