@@ -1,0 +1,24 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Rhynchosia americana (Houst. ex Mill.) Metz",
+  "printed_page": 691,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "leaves": "Single kidney-shaped (reniform) leaflet; distinguishes it from the north-central Texas Rhynchosia species",
+    "growth_habit": "Not documented in the Flora's brief species mention",
+    "flowers": "Not documented in species mention",
+    "fruits": "Not documented in species mention"
+  },
+  "habitat_source_reported": "Mentioned from Fayette County southeast of the Flora region; no detailed habitat given",
+  "flowering_source_reported": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Only incidental mention, not a full species description; additional authoritative source needed before defining a full trait profile",
+    "Flowering period absent in cited source",
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
