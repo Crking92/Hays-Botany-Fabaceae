@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Pediomelum linearifolium (Torr. & A. Gray) J.W. Grimes",
+  "printed_page": 686,
+  "source_reported_historical_synonyms": [
+    "Psoralea linearifolia Torr. & A. Gray",
+    "Psoralidium linearifolium (Torr. & A. Gray) Rydb."
+  ],
+  "morphology_source_reported": {
+    "habit": "Plant to 170 cm tall, branching above",
+    "pubescence": "Glabrate or inconspicuously appressed-pubescent",
+    "leaves": "Linear leaflets, 1–4(–6) mm wide; leaves and fruits gland-dotted",
+    "inflorescence": "Slender, loose, drooping racemes",
+    "flowers": "8–10 mm long, blue to purplish petals",
+    "fruit_total_length_mm": "8–10.5",
+    "fruit_beak_length_mm": "To 3.5, broad"
+  },
+  "habitat_source_reported": "Rocky prairies or open ground, principally limestone",
+  "flowering_source_reported": "Late May–Jun, sporadically later",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
