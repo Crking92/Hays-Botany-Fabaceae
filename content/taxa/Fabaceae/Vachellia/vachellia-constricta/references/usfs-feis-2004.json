@@ -1,0 +1,25 @@
+{
+  "source_citation": "Gucker, Corey L. (2004), Vachellia constricta, whitethorn acacia, USDA Forest Service Fire Effects Information System. DOI:10.2737/feis-species-review-vaccon",
+  "source_url": "https://research.fs.usda.gov/feis/species-reviews/vaccon",
+  "source_name": "Vachellia constricta (Benth.) Seigler & Ebinger",
+  "source_reported_synonyms": [
+    "Acacia constricta Benth."
+  ],
+  "morphology_source_reported": {
+    "growth_habit": "Drought- and cold-tolerant deciduous shrub, to 6 m",
+    "stems": "Straight, paired nodal spines, 3–6 mm long",
+    "leaves": "Compound, usually 2.5–5 cm long; FEIS says 3–6 leaflet pairs, exact leaf unit/pinna definition should be clarified from identification flora",
+    "nectaries": "Extrafloral nectar glands on leaf rachises",
+    "roots": "Resprouts from root crown following topkill",
+    "reproduction": "Reproduces by seed"
+  },
+  "habitat_source_reported": "Arid slopes, mesas, canyons, seasonally wet washes, floodplains and drainages; often sandy/loamy soils with caliche",
+  "flowering_source_reported": "Typically Apr–Jun; possible second flowering Jul–Oct depending on conditions",
+  "status": "secondary_authoritative_source_extracted_not_identification_verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "FEIS explicitly states its description was not written as an identification key",
+    "1999 Flora does not include a dedicated treatment for Acacia/Vachellia constricta",
+    "State-level native status is not evidence for Hays County target range"
+  ]
+}
