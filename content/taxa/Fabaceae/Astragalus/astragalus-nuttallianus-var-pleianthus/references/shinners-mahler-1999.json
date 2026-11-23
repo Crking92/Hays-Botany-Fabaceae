@@ -8,7 +8,9 @@
   "cautions": [
     "Historical name concepts need separate modern taxonomic corroboration before scoring",
     "Regional habitat and range statements do not establish Hays County nativity",
-    "Flora explicitly discusses alternative species rank Astragalus pleianthus (Shinners) Isely; taxonomy unresolved without current accepted-name check"
+    "Flora explicitly discusses alternative species rank Astragalus pleianthus (Shinners) Isely; taxonomy unresolved without current accepted-name check",
+    "Flora p.634 places var. pleianthus on key branch with triangular to narrowly deltoid keel tips, at least some unnotched leaflets, racemes usually 4–10 flowers.",
+    "Historical flora says other authors elevate this variety to Astragalus pleianthus; modern rank must be reconciled."
   ],
   "source_name": "Astragalus nuttallianus var. pleianthus",
   "printed_page": 634,
@@ -22,5 +24,16 @@
     "diagnostic_characters": "At least some upper leaflets obtuse to subacute; keel triangular to narrowly deltoid at apex; comparatively larger flowers and more-flowered racemes than var. austrinus/trichocarpus"
   },
   "habitat_source_reported": "Calcareous soils; prairies and open woodlands",
-  "flowering_source_reported": "Mar–May"
+  "flowering_source_reported": "Mar–May",
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "checked_source_key_and_taxon_scope",
+    "printed_pages": [
+      634
+    ],
+    "findings": [
+      "Flora p.634 places var. pleianthus on key branch with triangular to narrowly deltoid keel tips, at least some unnotched leaflets, racemes usually 4–10 flowers.",
+      "Historical flora says other authors elevate this variety to Astragalus pleianthus; modern rank must be reconciled."
+    ]
+  }
 }
