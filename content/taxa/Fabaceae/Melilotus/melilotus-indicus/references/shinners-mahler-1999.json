@@ -1,0 +1,25 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Melilotus indicus (L.) All.",
+  "printed_page": 676,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Annual, 0.1–0.6 m tall",
+    "leaves": "Trifoliolate, apically toothed [genus treatment]",
+    "flowers": "Yellow corollas, 1.7–2.4(–3) mm long [key]",
+    "flowers_per_raceme": "10–60",
+    "stipules": "Broad clasping bases with short auricles [key]",
+    "fruits": "Flattened, nearly orbicular to ovoid; 1.5–2.5 mm long [key]"
+  },
+  "habitat_source_reported": "Roadsides, pastures, disturbed sites",
+  "flowering_source_reported": "Apr–May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora documents introduction from Mediterranean region and southern Asia",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
