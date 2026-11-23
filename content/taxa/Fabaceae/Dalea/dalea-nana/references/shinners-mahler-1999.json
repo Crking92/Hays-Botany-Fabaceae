@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea nana",
+  "printed_page": 650,
+  "source_reported_historical_synonyms": [
+    "Dalea nana var. carnescens Kearney & Peebles",
+    "Dalea nana var. nana"
+  ],
+  "morphology_source_reported": {
+    "stems": "Decumbent to ascending, 10–30 cm tall",
+    "leaves": "5–9 pubescent leaflets, 5–15 mm long",
+    "flowers": "Yellow petals",
+    "varietal_diagnosis": "var. carnescens: narrower bracts 1.2–2 mm wide, permanently dense spikes with hidden axis, vase-shaped calyx tube 1.6–2.4 mm diameter; var. nana: broad bracts 2–4 mm wide, spikes loosen with axis partially exposed, campanulate calyx tube 2.2–3 mm diameter"
+  },
+  "habitat_source_reported": "Sandy, rocky or gravelly areas, prairies and roadsides; varieties differ in limestone/sand preference",
+  "flowering_source_reported": "Late Mar–Sep",
+  "taxonomic_reference_checked_url": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Varietal distinctions retained and should not be mistaken for universal species characters",
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
