@@ -14,7 +14,12 @@
     "flowers": "18–26 mm long, blue, lavender or purple petals",
     "fruit_body_length_mm": "5–6.5",
     "fruit_beak_length_mm": "5–6, slender",
-    "variety_diagnostics": "Var. appressum with appressed stem hairs; var. latestipulatum with erect stem hairs; Flora calls pubescence the only consistent distinction"
+    "variety_diagnostics": "Var. appressum with appressed stem hairs; var. latestipulatum with erect stem hairs; Flora calls pubescence the only consistent distinction",
+    "additional_key_characters": {
+      "peduncles": "Shorter than or equal to subtending petioles [species branch key p. 683]",
+      "stipules": "Usually 2.5–7 mm wide, elliptic-lanceolate to falcate-oblanceolate or orbicular [key p. 683]",
+      "inflorescence": "Dense spike-like racemes 2–4 cm thick [key p. 683]"
+    }
   },
   "habitat_source_reported": "Rocky or sandy prairies",
   "flowering_source_reported": "Apr–mid-May",
@@ -23,6 +28,16 @@
   "cautions": [
     "Flora states other size characters overlap between varieties; do not generalize varietal pubescence as a species-wide state",
     "Historical taxon concept requires reconciliation before identification-scoring use",
-    "Regional habitat does not establish local BONAP nativity"
-  ]
+    "Regional habitat does not establish local BONAP nativity",
+    "Internal key ambiguity: printed p. 683 also places species at a branch describing spreading pilose stems, but p. 686 explicitly differentiates var. appressum from var. latestipulatum based on appressed vs erect hairs; key must not override variety-specific treatment.",
+    "Do not treat key characters from different decision paths as simultaneously obligatory until rechecked."
+  ],
+  "additional_source_pages": {
+    "genus_and_species_key": 683,
+    "species_description_and_varieties": 686
+  },
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "source_paths_tagged_variety_ambiguity_held"
+  }
 }
