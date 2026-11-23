@@ -1,0 +1,24 @@
+{
+  "source_citation": "Bob Harms, University of Texas Plant Resources Center, NW Hays County native Mimosa field comparison (online)",
+  "source_url": "https://w3.biosci.utexas.edu/prc/DigFlora/Mimosa/mimosa-dif.html",
+  "local_context_url": "https://w3.biosci.utexas.edu/prc/DigFlora/Mimosa/mimosa-top.html",
+  "source_name": "Mimosa texana (A.Gray) Small",
+  "morphology_source_reported": {
+    "growth_habit": "Woody shrub in NW Hays County",
+    "stems": "Darker with brownish-red new growth, zigzag as contrasted with straight grayish M. borealis",
+    "prickles": "Narrow, downward-recurved and commonly aligned directly beneath petioles at leaf nodes; M. borealis prickles scattered more randomly",
+    "leaves": "(1–)1–5(–6) pinna pairs, 3–9(–10) leaflet pairs; counts overlap with M. borealis and not reliable for separation",
+    "flowers": "Globose pale-pink flower heads; petals fused, in contrast to separate petals in M. borealis; flower color unreliable",
+    "phenology": "Local observations report later bloom than M. borealis and some flowering after summer rain",
+    "fruits": "Compared with M. borealis; source notes stalked larger pods of M. borealis but does not provide numerical M. texana pod dimensions"
+  },
+  "habitat_source_reported": "Observed growing naturally in NW Hays County, Texas",
+  "status": "local_comparative_morphology_qa_research_not_scoring_ready",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Independent Hays County field observation is not BONAP county-level confirmation",
+    "Leaflet counts and flower color overlap species and cannot alone be diagnostic",
+    "Source photographs do not have publication rights verified and must not be copied to website yet",
+    "Maintain distinctions from other Mimosa biuncifera historical concepts"
+  ]
+}
