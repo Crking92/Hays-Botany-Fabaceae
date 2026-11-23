@@ -1,0 +1,25 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Trifolium repens L.",
+  "printed_page": 706,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "habit": "Glabrous mat-forming perennial",
+    "leaflet_length_mm": "Usually 10–20(–30)",
+    "petiole_length_cm": "5–20",
+    "flower_head_diameter_mm": "10–30",
+    "corolla_length_mm": "6–12",
+    "flowers": "White or pinkish"
+  },
+  "habitat_source_reported": "Naturalized lawns, roadsides, disturbed areas",
+  "flowering_source_reported": "Apr–May, sporadically later",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora explicitly identifies European introduction and does not support local-native classification",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
