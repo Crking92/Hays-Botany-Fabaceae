@@ -24,7 +24,8 @@
     "Kew POWO recognizes Dalea compacta and var. pubescens as accepted taxon concepts",
     "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review",
     "SOURCE SCOPE: Flora p.648 treats var. pubescens, not an unrestricted species description. Do not apply its traits to all varieties of D. compacta.",
-    "Flora lists historical names Dalea helleri Shinners and Petalostemon pulcherrimus (A. Heller) A. Heller."
+    "Flora lists historical names Dalea helleri Shinners and Petalostemon pulcherrimus (A. Heller) A. Heller.",
+    "Kew confirms var. pubescens as currently accepted; species-inventory row remains broader than the source's varietal concept."
   ],
   "qa_audit": {
     "date": "2026-11-23",
@@ -36,5 +37,9 @@
       "SOURCE SCOPE: Flora p.648 treats var. pubescens, not an unrestricted species description. Do not apply its traits to all varieties of D. compacta.",
       "Flora lists historical names Dalea helleri Shinners and Petalostemon pulcherrimus (A. Heller) A. Heller."
     ]
-  }
+  },
+  "taxon_crosswalk_status": "variety_currently_accepted_kew_powo",
+  "taxonomic_reference_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A76089-2",
+  "reconciliation_status": "variety_name_resolved_species_scope_hold",
+  "reconciliation_checked_at": "2026-11-23"
 }
