@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Gleditsia triacanthos L.",
+  "printed_page": 660,
+  "morphology_source_reported": {
+    "growth_habit": "Deciduous tree to 30(–45) m",
+    "thorns": "Long stout branched thorns on trunk; predominantly simple on branches, sometimes absent; 6–15(–40) cm long",
+    "leaves": "Once- or twice-pinnately compound; once-pinnate leaves with 10–14 leaflet pairs; twice-pinnate leaves with 2–8 pinna pairs",
+    "flowers": "Small; petals 4–6 mm long; lateral catkin-like racemes (genus-level)",
+    "fruit": "Flattened often twisted/contorted many-seeded pod, 10–40 cm long (key), 2–4 cm wide; sweet pulp around seeds",
+    "seed_diameter_mm": "Less than 10",
+    "diagnostic_characters": "Numerous large branched thorns and long, twisted many-seeded pods vs. the shorter few-seeded pods of G. aquatica"
+  },
+  "habitat_source_reported": "Stream bottoms and disturbed sandy slopes/open ground",
+  "flowering_source_reported": "Apr",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora prints leaflet length 1.5–3(–3.5) mm; possible unit typo; excluded from accepted size field pending source reconciliation",
+    "Flower length derived from species paragraph; inflorescence form from genus treatment",
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
