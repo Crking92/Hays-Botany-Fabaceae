@@ -15,6 +15,20 @@
   "status": "source_transcribed_not_independently_corroborated",
   "cautions": [
     "Does not establish occurrence or nativity in Hays County",
-    "Historic taxonomy and measurements must be checked before use in identification scoring"
-  ]
+    "Historic taxonomy and measurements must be checked before use in identification scoring",
+    "Flora key p.651: young stems glabrous except on angles; 2–4(–5) pinna pairs; 10 stamens; conspicuously hairy stipules; flattened petiolar gland wider than petiole; sickle-shaped fruits; red cylindrical or turnip-shaped taproot.",
+    "Flora p.652 recognizes species separately from Desmanthus virgatus var. acuminatus, following Luckow (1993)."
+  ],
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "checked_source_key_and_taxon_scope",
+    "printed_pages": [
+      651,
+      652
+    ],
+    "findings": [
+      "Flora key p.651: young stems glabrous except on angles; 2–4(–5) pinna pairs; 10 stamens; conspicuously hairy stipules; flattened petiolar gland wider than petiole; sickle-shaped fruits; red cylindrical or turnip-shaped taproot.",
+      "Flora p.652 recognizes species separately from Desmanthus virgatus var. acuminatus, following Luckow (1993)."
+    ]
+  }
 }
