@@ -1,0 +1,162 @@
+{
+  "project": "Hays Botany — Fabaceae targeted botanical reconciliation and finalization",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Fabaceae",
+  "branch": "staging/fabaceae-metadata",
+  "scope": "Source-backed botanical taxonomy and morphology reconciliation only; no full re-extraction, photo editing, publication, identification scoring, BONAP or county-distribution work.",
+  "inventory_species": 91,
+  "source_reference_files_verified": 93,
+  "species_with_at_least_one_source_file": 91,
+  "completion_policy": {
+    "source_coverage": "complete_for_current_inventory",
+    "taxonomic_reconciliation": "nine specifically documented taxon-name/crosswalk issues resolved; not a blanket check of all 91",
+    "full_morphology_finalization": "not certified for any whole species across all characters by this targeted closeout; existing extraction records are preserved with their individual verification statuses",
+    "publication": "no photo or website release attempted",
+    "nativity": "deferred without review"
+  },
+  "resolved_taxonomic_crosswalks": [
+    {
+      "id": "mimosa-biuncifera",
+      "accepted": "Mimosa biuncifera Benth.",
+      "historical": "Mimosa aculeaticarpa var. biuncifera",
+      "authority": "Kew POWO https://powo.science.kew.org/taxon/161536-2"
+    },
+    {
+      "id": "astragalus-nuttallianus-var-pleianthus",
+      "accepted": "Astragalus nuttallianus var. pleianthus (Shinners) Barneby",
+      "historical": "Astragalus pleianthus",
+      "authority": "Kew POWO FNA 2023 https://powo.science.kew.org/taxon/25341-2"
+    },
+    {
+      "id": "dalea-compacta",
+      "accepted": "Dalea compacta Spreng. with source specifically var. pubescens",
+      "historical": "Dalea compacta var. pubescens (A.Gray) Barneby",
+      "authority": "Kew POWO https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A76089-2",
+      "hold": "Variety-specific morphology does not automatically define species"
+    },
+    {
+      "id": "vicia-ludoviciana-var-ludoviciana",
+      "accepted": "Vicia ludoviciana var. ludoviciana",
+      "historical": "V. ludoviciana subsp. ludoviciana",
+      "authority": "Kew POWO https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77208424-1",
+      "hold": "Historic rank/name resolved; concept transfer not assumed without morphology comparison"
+    },
+    {
+      "id": "senna-pilosior",
+      "accepted": "Senna pilosior (B.L.Rob.) H.S.Irwin & Barneby",
+      "historical": "Cassia pilosior",
+      "authority": "Kew POWO https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A518356-1",
+      "hold": "Questionable fruit width and absence of Texas phenology"
+    },
+    {
+      "id": "pediomelum-tenuiflorum",
+      "accepted": "Pediomelum tenuiflorum",
+      "historical": "Psoralidium tenuiflorum",
+      "authority": "Kew POWO (prior QA Pass 1)"
+    },
+    {
+      "id": "strophostyles-helvola",
+      "accepted": "Strophostyles helvola",
+      "historical": "Strophostyles helvula",
+      "authority": "Kew POWO/ITIS (prior QA Pass 1)"
+    },
+    {
+      "id": "styphnolobium-affine",
+      "accepted": "Styphnolobium affine",
+      "historical": "Sophora affinis",
+      "authority": "Kew POWO (prior QA Pass 1)"
+    },
+    {
+      "id": "vicia-ludoviciana-var-leavenworthii",
+      "accepted": "Vicia ludoviciana var. leavenworthii",
+      "historical": "Vicia ludoviciana subsp. leavenworthii",
+      "authority": "Kew POWO (prior QA Pass 1)"
+    }
+  ],
+  "resolved_source_issues": [
+    {
+      "id": "gleditsia-triacanthos",
+      "finding": "1999 Flora species treatment is printed page 662, identification key printed page 660; citation corrected",
+      "remaining": "Unusually small source leaflet-length units retained as a hold"
+    },
+    {
+      "id": "medicago-lupulina",
+      "finding": "1999 Flora keys species as annual, replacing earlier 'annual or short-lived perennial' source transcription"
+    },
+    {
+      "id": "vicia-ludoviciana",
+      "finding": "Flora p.707 also keys 1–2-flowered racemes to this species; flowering versus fruiting peduncle-stage variation preserved"
+    },
+    {
+      "id": "desmanthus-virgatus",
+      "finding": "Flora species account permits straight or slightly sickle-shaped fruit, even though key says straight"
+    },
+    {
+      "id": "dalea-candida",
+      "finding": "Flora says described varieties intergrade; morphological key differences preserved but not asserted absolute"
+    }
+  ],
+  "outstanding_botanical_conflicts": [
+    {
+      "id": "gleditsia-triacanthos",
+      "issue": "Flora printed leaflet units appear erroneous (mm vs cm)",
+      "status": "measurement_held"
+    },
+    {
+      "id": "senna-pilosior",
+      "issue": "2024 source fruit-width dimension appears erroneous; morphology partially complete",
+      "status": "measurement_held"
+    },
+    {
+      "id": "mimosa-texana",
+      "issue": "Var. texana pod width internally inconsistent in external Spanish treatment; prior PDF page-image verification incomplete",
+      "status": "measurement_and_page_validation_held"
+    },
+    {
+      "id": "pediomelum-latestipulatum",
+      "issue": "Varietal pubescence differs across branches of the 1999 identification key and variety treatment",
+      "status": "key_scope_held"
+    },
+    {
+      "id": "dalea-compacta",
+      "issue": "1999 flora only describes var. pubescens; repository entry spans species",
+      "status": "species_to_variety_trait_scope_held"
+    },
+    {
+      "id": "vicia-ludoviciana-var-ludoviciana",
+      "issue": "Historic subspecies vs modern varietal concepts need morphological concept comparison before scoring",
+      "status": "rank_scope_held"
+    },
+    {
+      "id": "tephrosia-potosina",
+      "issue": "Species diagnosis not extracted; genus-level generic features cannot replace species characters",
+      "status": "missing_primary_species_treatment"
+    }
+  ],
+  "remaining_material_source_gaps": [
+    {
+      "id": "tephrosia-potosina",
+      "needs": "Species-specific full morphology (root, stems, leaves, flowers, fruits, habit and phenology)",
+      "lead": "Brandegee 1912 University of California Publications in Botany vol.4 p.272; protologue not yet transcribed"
+    },
+    {
+      "id": "rhynchosia-americana",
+      "needs": "Full species treatment; 1999 flora only mentions its single reniform leaflet",
+      "lead": "Authoritative regional flora/FNA species description"
+    },
+    {
+      "id": "senna-pilosior",
+      "needs": "Reliable fruit width and Texas phenology",
+      "lead": "Check 2024 published key/monograph against original 1975 Irwin & Barneby treatment"
+    }
+  ],
+  "status_counts": {
+    "source_covered_species": 91,
+    "fully_botanically_certified_species_by_this_closeout": 0,
+    "documented_name_reconciliations_closed": 9,
+    "documented_open_conflict_species": 7,
+    "material_gap_species": 3
+  },
+  "stop_condition": "Targeted conflict review completed to extent currently supported. No generic full audit or further review passes authorized. Remain in source-documented state until source-specific new evidence resolves holds.",
+  "provenance": "Counts verified from GitHub research-branch tree after targeted updates. Individual source records remain canonical; this file is only a consolidated handoff and does not overwrite prior audits or source data."
+}
