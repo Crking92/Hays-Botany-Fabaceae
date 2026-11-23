@@ -1,0 +1,24 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Galactia canescens (Scheele) Benth.",
+  "printed_page": 660,
+  "morphology_source_reported": {
+    "stems": "Trailing, not twining; appressed-pubescent, to 2 m long",
+    "leaves": "Elliptic to orbicular-ovate leaflets; lower surface prominently reticulate-veined (key)",
+    "inflorescences": "2–7 racemes per node (key)",
+    "corolla_length_mm": "9–12",
+    "flowers": "Pinkish; aboveground flowers set fruit",
+    "fruits": "Small, peanut-like single-seeded underground fruits from cleistogamous flowers, in addition to aboveground fruits",
+    "diagnostic_characters": "Underground cleistogamous flowers and fruits; conspicuous underside venation; non-twining stems"
+  },
+  "habitat_source_reported": "Sandy soils, including deep sand",
+  "flowering_source_reported": "May–Jun",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
