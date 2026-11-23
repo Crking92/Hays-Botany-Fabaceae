@@ -1,0 +1,17 @@
+{
+  "record_type": "targeted_taxonomic_rank_reconciliation",
+  "date": "2026-11-23",
+  "species_id": "cercis-canadensis-subsp-mexicana",
+  "modern_repository_name": "Cercis canadensis subsp. mexicana (Rose) A.E.Murray",
+  "alternate_source_name": "Cercis canadensis var. mexicana (Rose) M.Hopkins",
+  "decision": "Kew POWO accepts subspecies rank, lists variety rank as synonym. Existing Oregon State morphology explicitly uses varietal name and can be retained as source-reported evidence, with rank reconciled.",
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:52649-2",
+    "https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=525443"
+  ],
+  "alternative_classification": "ITIS retains accepted variety rank",
+  "scope_warning": "Oregon State source notes potential overlap/competing delimitation with Texas redbud; do not treat foliage claims as infallible species-ID discriminator without further comparison",
+  "status": "TAXONOMIC_RANK_CROSSWALK_RESOLVED_WITH_DIAGNOSTIC_OVERLAP_RETAINED",
+  "bonap": "DEFERRED",
+  "preservation": "Additive research only; photo sources and species descriptions unchanged"
+}
