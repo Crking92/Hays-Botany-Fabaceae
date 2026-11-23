@@ -16,7 +16,11 @@
     "petal_length_mm": "2.5–4",
     "fruits": "Bur-like, coiled 2–5 turns, with hooked prickles generally present",
     "fruit_diameter_mm_excluding_prickles": "4–6",
-    "fruit_prickle_length_mm": "Usually 2–3, rarely absent"
+    "fruit_prickle_length_mm": "Usually 2–3, rarely absent",
+    "growth_habit": "Annual [1999 Flora key, p. 674]",
+    "stipules": "Upper stipules divided more than halfway to base [key, p. 674]",
+    "pedicels": "Shorter than calyx lobes, some flowers nearly sessile [key, p. 674]",
+    "leaflet_spot": "No prominent central purple-red mark [key p. 674; contrast with M. arabica]"
   },
   "habitat_source_reported": "Sandy, less often clayey, pastures, lawns and roadsides",
   "flowering_source_reported": "Apr–early May",
@@ -26,5 +30,15 @@
     "1999 Flora documents Eurasian introduction",
     "Source morphology has not been independently corroborated or approved for identification scoring",
     "Regional habitat and distribution do not establish Hays County nativity"
-  ]
+  ],
+  "additional_source_pages": {
+    "identification_key": 674,
+    "species_description_start": 674,
+    "species_description_end": 676
+  },
+  "qa_audit": {
+    "date": "2026-11-23",
+    "scope": "Key + treatment checked; avoid confusing adjoining illustration page 675 with treatment",
+    "status": "source_pages_reconciled"
+  }
 }
