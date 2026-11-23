@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Psoralidium tenuiflorum (Pursh) Rydb.",
+  "printed_page": 690,
+  "source_reported_historical_synonyms": [
+    "Psoralea tenuiflora Pursh"
+  ],
+  "morphology_source_reported": {
+    "habit": "Much-branched perennial herb, erect to ascending stems 40–60(–120) cm tall",
+    "pubescence": "Stems, blade undersides and inflorescences strigose with noticeable white hairs",
+    "leaves": "Usually trifoliolate, rarely 5 leaflets basally; leaflets 10–50 mm long, up to 6(–12) mm wide, narrow elliptic to oblong; conspicuously gland-dotted on both surfaces",
+    "stipules": "Gland-dotted",
+    "inflorescence": "Many crowded flowers in erect to drooping racemes",
+    "flowers": "Corollas usually 5–7 mm long; calyces heavily gland-dotted",
+    "fruits": "7–9 mm long, densely gland-dotted, not cross-wrinkled and exserted from the calyx"
+  },
+  "habitat_source_reported": "Sandy or rocky prairies, open woods, roadsides",
+  "flowering_source_reported": "Apr–Jul, sporadically later",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora uses genus Psoralidium, not inventory genus Pediomelum. Provisional crosswalk based on epithet and description; confirm modern accepted combination independently before scoring",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
