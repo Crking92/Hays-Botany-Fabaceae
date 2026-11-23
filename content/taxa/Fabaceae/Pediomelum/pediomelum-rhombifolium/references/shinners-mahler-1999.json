@@ -1,0 +1,29 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Pediomelum rhombifolium (Torr. & A. Gray) Rydb.",
+  "printed_page": 686,
+  "source_reported_historical_synonyms": [
+    "Psoralea rhombifolia Torr. & A. Gray"
+  ],
+  "morphology_source_reported": {
+    "habit": "Normally prostrate stems to 100 cm long",
+    "pubescence": "Sparse to dense gray hairs",
+    "root": "Not tuberously enlarged",
+    "leaves": "Variable leaflets ca. 10–30 mm wide; pinnately trifoliolate [key], without glands",
+    "inflorescence": "Axillary erect peduncles 2–12 cm long; inconspicuous bracts",
+    "flowers": "5–8(–10) mm long; genus key gives brick-red to salmon-pink for this species",
+    "fruit_body_length_mm": "8–11",
+    "fruit_beak_length_mm": "6–8",
+    "diagnostics": "Only source-region species with pinnately trifoliolate, glandless foliage and usually prostrate stems [key]"
+  },
+  "habitat_source_reported": "Sandy streambanks, roadsides and disturbed places",
+  "flowering_source_reported": "May–Jul; sporadically to Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
