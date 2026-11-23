@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Senna roemeriana (Scheele) H.S. Irwin & Barneby",
+  "printed_page": 696,
+  "source_reported_historical_synonyms": [
+    "Cassia roemeriana Scheele"
+  ],
+  "morphology_source_reported": {
+    "habit": "Perennial 0.3–0.6 m tall arising from thick woody root",
+    "stems": "Pubescent, gray-green",
+    "leaves": "One pair of leaflets per leaf, pubescent; lanceolate leaflets 7–12 mm wide [key]",
+    "flowers": "2–5 per peduncle [key]; upper 3 stamens much reduced",
+    "fruits": "Turgid, 20–30 cm long",
+    "diagnostics": "One pair of leaflets distinguishes from most Senna; wider leaflets and clustered flowers distinguish from S. pumilio"
+  },
+  "habitat_source_reported": "Limestone outcrops",
+  "flowering_source_reported": "Apr–May, sparingly Jun–Aug, again Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora reports potential livestock toxicity; no independent validation of toxicology",
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
