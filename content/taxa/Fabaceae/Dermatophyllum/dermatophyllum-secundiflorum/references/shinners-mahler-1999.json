@@ -1,0 +1,25 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Sophora secundiflora (Ortega) Lag. ex DC.",
+  "printed_page": 697,
+  "morphology_source_reported": {
+    "growth_habit": "Usually shrub; evergreen; unarmed",
+    "leaves": "Odd-pinnately compound; coriaceous, with 5–11 leaflets (Sophora key)",
+    "flowers": "Deep violet-blue petals; racemes; corolla 15–16 mm long",
+    "fruits": "Torulose/knobby, 1–4 fertile segments; brown at maturity; 10–20 mm thick (key)",
+    "seeds": "Bright red, 10–15 mm diameter",
+    "diagnostic_characters": "Evergreen leathery leaves with 5–11 leaflets vs. thin deciduous leaves of Sophora affinis"
+  },
+  "habitat_source_reported": "Rocky limestone slopes",
+  "flowering_source_reported": "Mar",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Source uses Sophora secundiflora; repository's existing taxonomic crosswalk lists this as a synonym of Dermatophyllum secundiflorum",
+    "Poisonous seeds and flowers reported in Flora; source warnings are not toxicology validation",
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
