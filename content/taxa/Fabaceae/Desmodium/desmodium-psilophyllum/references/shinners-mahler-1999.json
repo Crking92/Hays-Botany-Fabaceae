@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Desmodium psilophyllum Schltdl.",
+  "printed_page": 656,
+  "morphology_source_reported": {
+    "growth_habit": "Ascending to erect",
+    "stem_height_m": "To 0.5(–0.9)",
+    "pubescence": "Minute and inconspicuous on stems",
+    "leaves": "Apparently simple, with one leaflet; leaflet 3.3–5.5 cm long and 1–2 cm wide",
+    "petiole_length_mm": "6–9",
+    "inflorescence": "Loose raceme",
+    "pedicel_length_mm": "4–10",
+    "flowers": "Pink or lavender-pink corollas",
+    "fruit_segment_length_mm": "4–4.5",
+    "diagnostic_characters": "Single leaflet instead of the usual trifoliolate leaves of related Desmodium"
+  },
+  "habitat_source_reported": "Stream banks and rocky slopes",
+  "flowering_source_reported": "May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical synonym Desmodium wrightii A.Gray recorded in treatment",
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
