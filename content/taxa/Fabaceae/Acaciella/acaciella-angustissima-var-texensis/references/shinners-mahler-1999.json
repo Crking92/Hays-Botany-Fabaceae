@@ -1,0 +1,30 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Acacia angustissima (Mill.) Kuntze var. hirta (Nutt.) B.L. Rob.",
+  "printed_page": 624,
+  "source_reported_historical_synonyms": [
+    "Acacia hirta Nutt."
+  ],
+  "taxon_crosswalk_status": "corroborated_by_kew_powo",
+  "taxonomic_crosswalk_note": "Acacia angustissima var. hirta synonym of Acaciella angustissima var. texensis confirmed by Kew POWO",
+  "taxonomic_reference_checked_url": "https://powo.science.kew.org/taxon/404-2",
+  "morphology_source_reported": {
+    "habit": "Unarmed herbaceous perennial or low subshrub, ca. 1 m or less [genus key]",
+    "root": "Creeping woody root",
+    "leaves": "Bipinnate; 6–16 pairs of pinnae, sensitive leaflets that fold on touch, rain or at night",
+    "petiolar_gland": "Absent [key]",
+    "flowers": "Cream-white staminal filaments; solitary or few axillary and terminal globose heads in erect leafy racemes",
+    "fruits": "Flat, 5–7 cm long and 6–10 mm broad [key]"
+  },
+  "habitat_source_reported": "Prairies on calcareous clay; also sand",
+  "flowering_source_reported": "Late May–early Jul",
+  "status": "source_transcribed_with_taxonomic_crosswalk_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Do not infer Hays County nativity from Flora regional statements",
+    "Morphology not independently corroborated or approved for ID scoring",
+    "For Senegalia greggii / wrightii, var-level 1999 morphology must remain segregated by current taxon"
+  ]
+}
