@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Desmodium sessilifolium (Torr.) Torr. & A. Gray",
+  "printed_page": 656,
+  "morphology_source_reported": {
+    "growth_habit": "Ascending-erect to erect; branched above",
+    "stem_height_m": "0.5–1(–2)",
+    "pubescence": "Dense spreading hairs on stems, dense soft hairs beneath leaflets",
+    "leaves": "Sessile or subsessile; leaflets (3–)4–8 cm long, 5–10 mm wide and 4–10 times longer than broad; prominent raised veinlets beneath",
+    "pedicel_length_mm": "2–5",
+    "corolla_length_mm": "ca. 5",
+    "flowers": "Pale lavender to reddish purple or near-white, withering greenish",
+    "fruit_segments": "2(–3), each 4.5–6 mm long",
+    "diagnostic_characters": "Narrow, subsessile leaves with strongly raised veinlets and densely hairy lower surfaces"
+  },
+  "habitat_source_reported": "Sandy or rocky open woods, roadsides, fields",
+  "flowering_source_reported": "Late May–Jul, less freely to Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
