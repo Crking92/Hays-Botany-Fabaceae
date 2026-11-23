@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea candida",
+  "printed_page": 648,
+  "source_reported_historical_synonyms": [
+    "Petalostemon candidus Michx. (var. candida historical synonym)"
+  ],
+  "morphology_source_reported": {
+    "stems": "Spreading to ascending, 30–100 cm long",
+    "leaves": "5–9 glabrous leaflets, 10–30 mm long, linear-lanceolate to oblanceolate, acute to obtuse",
+    "flowers": "White petals",
+    "calyx": "Usually ring of small glands near apex",
+    "varietal_diagnosis": "var. candida lateral leaflets mostly >2 mm wide, spikes stay dense; var. oligophylla lateral leaflets mostly <2 mm wide, spikes loosen and expose axis"
+  },
+  "habitat_source_reported": "Prairies and open woods on sandy, rocky or clayey soils",
+  "flowering_source_reported": "Late May–early Jul",
+  "taxonomic_reference_checked_url": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora states two varieties intergrade and their distinctness is questionable",
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
