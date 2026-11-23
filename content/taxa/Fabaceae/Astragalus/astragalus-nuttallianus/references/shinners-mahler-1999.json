@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "status": "source_transcribed_not_independently_corroborated",
+  "evidence_scope": "Factual structured summary of printed species treatment and diagnostic key, not independently verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name concepts need separate modern taxonomic corroboration before scoring",
+    "Regional habitat and range statements do not establish Hays County nativity",
+    "Habitat and phenology here apply specifically to the typical variety; not necessarily every variety"
+  ],
+  "source_name": "Astragalus nuttallianus",
+  "printed_page": 634,
+  "morphology_source_reported": {
+    "growth_habit": "Annual, glabrous to pubescent (genus key also allows perennial route)",
+    "stem_length_cm": "To 35(–45)",
+    "stems": "Erect to decumbent",
+    "flowers": "Pinkish to purple with variable white markings, sometimes whitish",
+    "fruits": "Variable among varieties",
+    "fruit_length_mm": "12–26",
+    "fruit_width_mm": "1.8–3.5",
+    "diagnostic_characters": "Highly variable species complex; distinguish constituent varieties using leaflet apices, standard dimensions, keel tip, raceme elongation and fruit hair"
+  },
+  "habitat_source_reported": "Disturbed ground, mostly limestone (var. nuttallianus)",
+  "flowering_source_reported": "Mar–Jun (var. nuttallianus)"
+}
