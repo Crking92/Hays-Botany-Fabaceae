@@ -8,7 +8,8 @@
   "cautions": [
     "Historical name concepts need separate modern taxonomic corroboration before scoring",
     "Regional habitat and range statements do not establish Hays County nativity",
-    "Habitat and phenology here apply specifically to the typical variety; not necessarily every variety"
+    "Habitat and phenology here apply specifically to the typical variety; not necessarily every variety",
+    "Flora p.634 habitat 'disturbed ground, mostly limestone' and flowering Mar–Jun are specifically under var. nuttallianus; cannot assume for entire A. nuttallianus complex."
   ],
   "source_name": "Astragalus nuttallianus",
   "printed_page": 634,
@@ -23,5 +24,15 @@
     "diagnostic_characters": "Highly variable species complex; distinguish constituent varieties using leaflet apices, standard dimensions, keel tip, raceme elongation and fruit hair"
   },
   "habitat_source_reported": "Disturbed ground, mostly limestone (var. nuttallianus)",
-  "flowering_source_reported": "Mar–Jun (var. nuttallianus)"
+  "flowering_source_reported": "Mar–Jun (var. nuttallianus)",
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "checked_source_key_and_taxon_scope",
+    "printed_pages": [
+      634
+    ],
+    "findings": [
+      "Flora p.634 habitat 'disturbed ground, mostly limestone' and flowering Mar–Jun are specifically under var. nuttallianus; cannot assume for entire A. nuttallianus complex."
+    ]
+  }
 }
