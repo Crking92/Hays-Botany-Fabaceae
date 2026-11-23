@@ -18,11 +18,17 @@
   },
   "habitat_source_reported": "Sandy or rocky prairies, open woods, roadsides",
   "flowering_source_reported": "Apr–Jul, sporadically later",
-  "status": "source_transcribed_not_independently_corroborated",
+  "status": "taxon_crosswalk_verified_morphology_transcribed",
   "nativity_bonap_status": "not_assessed_separately",
   "cautions": [
-    "Flora uses genus Psoralidium, not inventory genus Pediomelum. Provisional crosswalk based on epithet and description; confirm modern accepted combination independently before scoring",
-    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Historical Psoralidium tenuiflorum synonym crosswalk confirmed by Kew POWO and USDA GRIN; morphology remains Flora-sourced and pending independent QA.",
     "Regional occurrence is not evidence of local BONAP nativity"
-  ]
+  ],
+  "taxon_crosswalk_status": "accepted_name_confirmed_powo_and_usda_grin",
+  "accepted_name": "Pediomelum tenuiflorum (Pursh) A.N.Egan",
+  "taxonomic_reference_urls": [
+    "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60453080-2",
+    "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=509309"
+  ],
+  "qa_verified_at": "2026-11-23"
 }
