@@ -1,0 +1,30 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Desmodium paniculatum (L.) DC.",
+  "printed_page": 656,
+  "morphology_source_reported": {
+    "growth_habit": "Ascending-spreading to erect",
+    "stem_height_m": "0.3–1(–1.5)",
+    "branching": "Usually few, long, broadly spreading branches",
+    "leaflet_length_cm": "2–5(–6)",
+    "leaflet_length_to_width_ratio": "Usually 3–8",
+    "leaves": "Glossy dark-green upper leaflet surface",
+    "petiole_length_mm": "(10–)20–50",
+    "pedicel_length_mm": "Usually 6–12",
+    "corolla_length_mm": "6–7(–8)",
+    "flowers": "Lilac to purple",
+    "fruit_segments": "3–5; each 3.5–7 mm long",
+    "diagnostic_characters": "Long narrow leaflets; not densely velvety beneath; few broad-spreading branches"
+  },
+  "habitat_source_reported": "Low woods, fencerows, open ground",
+  "flowering_source_reported": "Jun–Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical synonym Desmodium dichromum Shinners lumped within species in 1999 treatment",
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
