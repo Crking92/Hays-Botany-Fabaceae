@@ -10,7 +10,9 @@
     "stem_length_cm": "10–100",
     "corolla_length_mm": "4.5–8",
     "taxon_division": "Flora distinguishes two intergrading subspecies by peduncle elongation timing, raceme flower number and leaflet counts",
-    "diagnostics": "subsp. leavenworthii: early opening before peduncle extension, typically (7–)11–15(–17) leaflets; subsp. ludoviciana: after peduncle extension, 7–10(–13) leaflets"
+    "diagnostics": "subsp. leavenworthii: early opening before peduncle extension, typically (7–)11–15(–17) leaflets; subsp. ludoviciana: after peduncle extension, 7–10(–13) leaflets",
+    "genus_level_field_signs": "Vetch tendrils at rachis tips, once-pinnate leaves, unwinged stems [genus account, p.706]; not uniquely diagnostic for V. ludoviciana",
+    "flora_species_key": "Racemes 1–19 flowered, corollas 4–8 mm; 1–2 flowered racemes may still key to V. ludoviciana if leaves with 8–18 leaflets [p.707]"
   },
   "habitat_source_reported": "Varies by subspecies: rocky, clayey or sandy prairies and roadsides / rocky or sandy woods and roadsides",
   "flowering_source_reported": "Late Mar–May (combined documented subspecies windows)",
@@ -19,6 +21,15 @@
   "cautions": [
     "Subspecies intergrade in 1999 Flora and repository also has variety-level entries; preserve ranks and reconcile before using identification traits",
     "Taxon concepts require independent name reconciliation before identification scoring",
-    "Regional occurrence is not evidence of local BONAP nativity"
-  ]
+    "Regional occurrence is not evidence of local BONAP nativity",
+    "Do not incorrectly exclude 1–2-flowered Vicia ludoviciana based on the first key branch listing 3–19 flowers; the later branch includes 1–2-flowered plants."
+  ],
+  "additional_source_pages": {
+    "genus_description": 706,
+    "species_key_and_treatment": 707
+  },
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "key_branch_nonexclusive_ambiguity_flagged"
+  }
 }
