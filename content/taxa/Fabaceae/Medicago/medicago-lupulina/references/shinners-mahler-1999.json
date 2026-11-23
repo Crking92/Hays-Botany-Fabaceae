@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Medicago lupulina L.",
+  "printed_page": 674,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Annual or short-lived perennial [genus treatment; life cycle not specified in species paragraph]",
+    "stems": "Ascending or trailing, to 100 cm long",
+    "leaflet_length_mm": "10–20",
+    "raceme_length_mm": "7–10",
+    "flowers_per_raceme": "8–20(–50)",
+    "fruits": "Curved/kidney-shaped, with one partial coil",
+    "fruit_diameter_mm": "2–3"
+  },
+  "habitat_source_reported": "Planted pasture; naturalized on roadsides, lawns and waste places",
+  "flowering_source_reported": "Apr–May, less commonly to Jul",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora reports introduction from Eurasia; botanical morphology does not establish local nativity",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
