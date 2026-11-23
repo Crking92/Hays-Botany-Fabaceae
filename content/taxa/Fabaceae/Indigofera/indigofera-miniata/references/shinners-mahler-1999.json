@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Indigofera miniata Ortega",
+  "printed_page": 664,
+  "morphology_source_reported": {
+    "growth_habit": "Perennial from tough taproot, appressed-pubescent",
+    "stems": "Ascending to prostrate, freely branched, to 50 cm long",
+    "leaves": "Once-pinnately compound, 5–9 leaflets; stipules nearly filiform",
+    "inflorescence": "Peduncled, spike-like racemes in axils and terminally",
+    "calyx": "Sepals acuminate, divided almost to base",
+    "flowers": "Light brick-red to salmon-rose; standard abruptly reflexed near base",
+    "fruits": "10–40 mm long, 2–3 mm diameter",
+    "petal_length_mm_by_variety": "var. leptosepala: 8–11(–20); var. miniata: 6–8"
+  },
+  "habitat_source_reported": "Sandy or rocky prairies and open woods",
+  "flowering_source_reported": "Mid-May–Jun, less freely to Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "The Flora reports intergradation between varieties; measurements are varietal, not species-universal",
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
