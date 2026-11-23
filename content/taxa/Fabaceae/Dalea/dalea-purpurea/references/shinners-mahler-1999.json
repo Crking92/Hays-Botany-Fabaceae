@@ -1,0 +1,25 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea purpurea",
+  "printed_page": 650,
+  "source_reported_historical_synonyms": [
+    "Petalostemon purpureus (Vent.) Rydb."
+  ],
+  "morphology_source_reported": {
+    "stems": "Erect to ascending, 20–90 cm tall, simple to sparsely branched above",
+    "leaves": "Usually five linear leaflets, 8–20 mm long, glabrous to villous",
+    "inflorescence": "Well-developed spikes usually 10–13 mm thick in fruit (printed unit inferred from context; confirm source)",
+    "flowers": "Purple petals"
+  },
+  "habitat_source_reported": "Sandy prairies",
+  "flowering_source_reported": "Jun–early Jul",
+  "taxonomic_reference_checked_url": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora's fruiting spike thickness lacks an explicit unit in printed text; do not use as validated numerical field",
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
