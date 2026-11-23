@@ -1,0 +1,18 @@
+{
+  "source_citation": "Oregon State University Department of Horticulture",
+  "source_url": "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis-var-mexicana",
+  "source_name": "Cercis canadensis var. mexicana",
+  "morphology_source_reported": {
+    "habit": "Deciduous multistemmed rounded shrub or small tree, 1.5–4 m",
+    "leaves": "Alternate simple leathery glossy green leaves to 7.5 cm with undulate margins",
+    "flowers": "Wine-red",
+    "fruit": "Pods to 10 cm"
+  },
+  "flowering_source_reported": null,
+  "status": "supplementary_source_extracted_pending_independent_morphology_review",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Kew accepts subsp. mexicana; Oregon State uses var. mexicana",
+    "Oregon State flags competing delimitation against Texas redbud"
+  ]
+}
