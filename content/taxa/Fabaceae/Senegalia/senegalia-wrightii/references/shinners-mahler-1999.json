@@ -1,0 +1,29 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Acacia greggii A. Gray var. wrightii (Benth.) Isely",
+  "printed_page": 625,
+  "source_reported_historical_synonyms": [
+    "Acacia wrightii Benth."
+  ],
+  "taxon_crosswalk_status": "corroborated_by_kew_powo",
+  "taxonomic_crosswalk_note": "Kew POWO accepts Senegalia wrightii and synonymizes Acacia greggii var. wrightii",
+  "taxonomic_reference_checked_url": "https://powo.science.kew.org/taxon/234376-2",
+  "morphology_source_reported": {
+    "habit": "Spiny shrub/small tree (1–)2–3 m tall [species account]",
+    "stems": "Recurved prickles generally along internodes [species]",
+    "leaves": "1–3 pairs of pinnae [species], leaflets 5–9(–12) mm long [varietal key]",
+    "flowers": "Fragrant with cream-white stamens [species], inflorescence commonly over 5 cm long [varietal key]",
+    "fruits": "5–8 cm long, 15–20 mm wide [species], straight-margined or somewhat constricted, not twisted [varietal key]"
+  },
+  "habitat_source_reported": "Rocky, gravelly or sandy soil similar to var. greggii",
+  "flowering_source_reported": "Apr–early Jun",
+  "status": "source_transcribed_with_taxonomic_crosswalk_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Do not infer Hays County nativity from Flora regional statements",
+    "Morphology not independently corroborated or approved for ID scoring",
+    "For Senegalia greggii / wrightii, var-level 1999 morphology must remain segregated by current taxon"
+  ]
+}
