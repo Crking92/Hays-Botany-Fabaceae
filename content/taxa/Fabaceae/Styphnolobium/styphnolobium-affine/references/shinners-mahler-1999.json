@@ -18,9 +18,13 @@
   "status": "source_transcribed_not_independently_corroborated",
   "nativity_bonap_status": "not_assessed_separately",
   "cautions": [
-    "The source uses Sophora affinis, while inventory uses Styphnolobium affine; historical genus transfer requires independent confirmation",
+    "Kew accepts Styphnolobium affine and explicitly lists Sophora affinis as synonym; species-level morphology requires independent QA",
     "Source reports toxic seeds; no independent toxicology assessment",
     "Taxon concepts require independent name reconciliation before identification scoring",
     "Regional occurrence is not evidence of local BONAP nativity"
-  ]
+  ],
+  "accepted_name": "Styphnolobium affine (Torr. & A.Gray) Walp.",
+  "taxon_crosswalk_status": "accepted_name_confirmed_kew_powo",
+  "taxonomic_reference_url": "https://powo.science.kew.org/taxon/519718-1",
+  "qa_verified_at": "2026-11-23"
 }
