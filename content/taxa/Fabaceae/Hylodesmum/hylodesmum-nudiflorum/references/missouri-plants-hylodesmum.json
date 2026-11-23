@@ -1,0 +1,19 @@
+{
+  "source_citation": "MissouriPlants species treatment",
+  "source_url": "https://www.missouriplants.com/Hylodesmum_nudiflorum_page.html",
+  "source_name": "Hylodesmum nudiflorum",
+  "morphology_source_reported": {
+    "habit": "Perennial with short sometimes woody rootstock",
+    "stems": "Vegetative and generally leafless flowering shoots separate, to 50 cm",
+    "leaves": "Trifoliolate in apparent whorl near vegetative stem apex, terminal leaflet 3–8.5 by 2–6 cm",
+    "flowers": "Pink rarely white corollas 5–9 mm, pedicels 8–20 mm",
+    "fruit": "Loment with 1–4 segments each 7–9 by 4–5 mm"
+  },
+  "flowering_source_reported": "Jun–Aug in Missouri",
+  "status": "supplementary_source_extracted_pending_independent_morphology_review",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name Desmodium nudiflorum verified by Kew",
+    "Habitat and bloom timing are Missouri-specific, cannot infer Hays County"
+  ]
+}
