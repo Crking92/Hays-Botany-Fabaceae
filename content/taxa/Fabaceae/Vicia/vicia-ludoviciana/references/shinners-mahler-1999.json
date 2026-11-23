@@ -1,0 +1,24 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Vicia ludoviciana Nutt.",
+  "printed_page": 707,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "habit": "Glabrate or sparsely pubescent annual",
+    "stem_length_cm": "10–100",
+    "corolla_length_mm": "4.5–8",
+    "taxon_division": "Flora distinguishes two intergrading subspecies by peduncle elongation timing, raceme flower number and leaflet counts",
+    "diagnostics": "subsp. leavenworthii: early opening before peduncle extension, typically (7–)11–15(–17) leaflets; subsp. ludoviciana: after peduncle extension, 7–10(–13) leaflets"
+  },
+  "habitat_source_reported": "Varies by subspecies: rocky, clayey or sandy prairies and roadsides / rocky or sandy woods and roadsides",
+  "flowering_source_reported": "Late Mar–May (combined documented subspecies windows)",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Subspecies intergrade in 1999 Flora and repository also has variety-level entries; preserve ranks and reconcile before using identification traits",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
