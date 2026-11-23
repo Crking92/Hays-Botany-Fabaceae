@@ -21,8 +21,13 @@
   "nativity_bonap_status": "not_assessed_separately",
   "cautions": [
     "Repository name Mimosa biuncifera is historical synonym cited explicitly in Flora, which treats it as var. biuncifera under M. aculeaticarpa",
-    "Current rank/accepted name needs independent Kew POWO review",
     "Source morphology has not been independently corroborated or approved for identification scoring",
-    "Regional habitat and distribution do not establish Hays County nativity"
-  ]
+    "Regional habitat and distribution do not establish Hays County nativity",
+    "Kew currently accepts M. biuncifera and treats the Flora's M. aculeaticarpa var. biuncifera as a synonym. Preserve the original 1999 source name; morphometric equivalence to all historical concepts requires specimen context."
+  ],
+  "accepted_name": "Mimosa biuncifera Benth.",
+  "taxon_crosswalk_status": "resolved_kew_powo",
+  "taxonomic_reference_url": "https://powo.science.kew.org/taxon/161536-2",
+  "reconciliation_status": "taxonomic_name_resolved_morphology_not_finally_approved",
+  "reconciliation_checked_at": "2026-11-23"
 }
