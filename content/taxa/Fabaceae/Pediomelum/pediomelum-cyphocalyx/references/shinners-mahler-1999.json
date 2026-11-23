@@ -13,7 +13,8 @@
     "flowers": "Similar to P. cuspidatum; colors and length not directly repeated in species account",
     "fruit_body_length_mm": "5–6",
     "fruit_beak_length_mm": "To ca. 4; pubescent",
-    "fruits": "Gland-dotted with glabrous body enclosed in calyx"
+    "fruits": "Gland-dotted with glabrous body enclosed in calyx",
+    "leaflet_shape_source": "Linear-lanceolate to narrowly oblong-lanceolate [key p. 684]"
   },
   "habitat_source_reported": "Limestone outcrops",
   "flowering_source_reported": "Late May–Jun",
@@ -23,5 +24,13 @@
     "Do not infer flower metrics from statement 'similar to P. cuspidatum'",
     "Historical taxon concept requires reconciliation before identification-scoring use",
     "Regional habitat does not establish local BONAP nativity"
-  ]
+  ],
+  "additional_source_pages": {
+    "genus_and_key": 683,
+    "leaflet_key_and_species_treatment": 684
+  },
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "species_vs_key_character_provenance_checked"
+  }
 }
