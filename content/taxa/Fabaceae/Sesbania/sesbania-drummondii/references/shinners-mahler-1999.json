@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Sesbania drummondii (Rydb.) Cory",
+  "printed_page": 696,
+  "source_reported_historical_synonyms": [
+    "Daubentonia drummondii Rydb."
+  ],
+  "morphology_source_reported": {
+    "habit": "Subshrub, woody below, to 3 m tall",
+    "leaves": "Once evenly pinnate, numerous leaflets 2–3 cm long [genus]",
+    "flowers": "Yellow or orange-yellow, often red-striped; axillary racemes [genus]",
+    "fruits": "Four-sided conspicuously four-winged pod with short apical beak; stipe 1–1.5 cm long",
+    "seeds": "Usually 3–7 per fruit",
+    "diagnosis": "Distinctive four-winged pod versus narrow unwinged pod of S. herbacea"
+  },
+  "habitat_source_reported": "Moist low ground",
+  "flowering_source_reported": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "No flowering period stated in the species paragraph; do not infer it",
+    "Source reports seeds toxic to livestock and humans; this is historical toxicity reporting, not a safety assessment",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
