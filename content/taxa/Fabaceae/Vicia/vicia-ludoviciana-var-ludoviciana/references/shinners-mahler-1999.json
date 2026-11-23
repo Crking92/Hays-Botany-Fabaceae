@@ -14,7 +14,9 @@
     "peduncles": "Flowers open after peduncle elongates; mostly 3–8.5 cm long in flower, usually longer than half subtending leaf; elongates little in fruit",
     "raceme_flower_count": "1–19",
     "corolla_color": "Pinkish white to deep bluish purple",
-    "leaflet_count": "7–10(–13)"
+    "leaflet_count": "7–10(–13)",
+    "flowering_peduncle_length_cm": "Mostly 3–8.5 [subsp. ludoviciana key, p.707]",
+    "fruiting_peduncles": "Approximately same length as in flowering stage [p.707]"
   },
   "habitat_source_reported": "Rocky or sandy soils, open woods and roadsides",
   "flowering_source_reported": "Late Mar–early May",
@@ -23,6 +25,15 @@
   "cautions": [
     "1999 Flora treats subsp. ludoviciana, inventory has variety-level record; keep historic rank separation explicit",
     "Taxon concepts require independent name reconciliation before identification scoring",
-    "Regional occurrence is not evidence of local BONAP nativity"
-  ]
+    "Regional occurrence is not evidence of local BONAP nativity",
+    "Peduncle length comparison must use flowering vs fruiting stage, not single raw length; the two subspecies intergrade."
+  ],
+  "additional_source_pages": {
+    "genus": 706,
+    "subspecies_key_and_treatment": 707
+  },
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "flower_versus_fruit_stage_explicit"
+  }
 }
