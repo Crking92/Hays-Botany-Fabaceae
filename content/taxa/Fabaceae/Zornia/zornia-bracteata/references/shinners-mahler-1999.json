@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Zornia bracteata J.F. Gmel.",
+  "printed_page": 710,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "habit": "Glabrous perennial herb from deep tough vertically or obliquely branched root",
+    "stems": "Prostrate to decumbent or ascending, 20–80 cm long",
+    "leaves": "Palmately compound, 4 leaflets usually 1–3 cm long, inconspicuously dotted; petiole length similar to leaflet length",
+    "inflorescence": "Long-peduncled axillary spikes with 3–10 well-spaced flowers",
+    "bracts": "Conspicuous paired elliptic-ovate bracts 7–15 mm long enclosing each flower",
+    "petals": "Yellow to orange, 9–14 mm long",
+    "stamens": "10",
+    "fruits": "Bristly pods 10–20 mm long, break into 2–6 segments",
+    "diagnosis": "Combination of 4 leaflets, large paired bracts and bristly jointed pods"
+  },
+  "habitat_source_reported": "Sandy open woods and open areas, often low ground",
+  "flowering_source_reported": "Apr–Jun",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
