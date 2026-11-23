@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea compacta var. pubescens",
+  "printed_page": 648,
+  "source_reported_historical_synonyms": [
+    "Dalea helleri Shinners",
+    "Petalostemon pulcherrimus (A.Heller) A.Heller"
+  ],
+  "morphology_source_reported": {
+    "stems": "Erect, 30–70 cm tall",
+    "leaves": "3–7 leaflets, 10–25 mm long, glabrous or sparsely pubescent",
+    "inflorescence": "Spikes usually 10–14 mm thick (thinner on small regrowth after mowing)",
+    "flowers": "Purplish petals"
+  },
+  "habitat_source_reported": "Prairies on clay and limestone",
+  "flowering_source_reported": "Jun–early Jul",
+  "taxonomic_reference_checked_url": "https://powo.science.kew.org/taxon/490608-1",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Only var. pubescens treated in Flora; do not generalize all measurements to species-level Dalea compacta",
+    "Kew POWO recognizes Dalea compacta and var. pubescens as accepted taxon concepts",
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
