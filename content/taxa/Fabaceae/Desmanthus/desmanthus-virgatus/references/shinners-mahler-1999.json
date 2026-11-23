@@ -19,6 +19,20 @@
   "status": "source_transcribed_not_independently_corroborated",
   "cautions": [
     "This book does not alone establish occurrence or nativity in Hays County.",
-    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources."
-  ]
+    "Do not use these traits in identification scoring without reviewing taxon concept and stronger or newer sources.",
+    "Flora key p.651 calls pods straight, but species account p.652 says straight or slightly falcate; do not exclude slightly curved pods.",
+    "Flora p.651: stipules usually glabrous, petiolar glands small and round, root brown cylindrical; contrasted with D. acuminatus."
+  ],
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "checked_source_key_and_taxon_scope",
+    "printed_pages": [
+      651,
+      652
+    ],
+    "findings": [
+      "Flora key p.651 calls pods straight, but species account p.652 says straight or slightly falcate; do not exclude slightly curved pods.",
+      "Flora p.651: stipules usually glabrous, petiolar glands small and round, root brown cylindrical; contrasted with D. acuminatus."
+    ]
+  }
 }
