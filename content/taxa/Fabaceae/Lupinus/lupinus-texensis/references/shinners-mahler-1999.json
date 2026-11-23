@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Lupinus texensis Hook.",
+  "printed_page": 672,
+  "morphology_source_reported": {
+    "growth_habit": "Winter annual to 60 cm tall",
+    "stems": "Pilose, hairs appressed or ascending",
+    "leaves": "Long-petioled, palmately compound, 4–7 lanceolate to oblanceolate leaflets, nearly glabrous above; apices obtuse to acute or shortly pointed",
+    "inflorescence": "Erect terminal racemes with conspicuous white pointed tips from hairy unopened buds",
+    "calyx_length_mm": "6–8",
+    "flowers": "Deep blue petals, rarely white; standard with white central spot changing magenta-red, with yellow-green dots",
+    "fruit_length_cm": "ca. 2.5–4.2",
+    "fruits": "Conspicuously hairy",
+    "diagnostic_characters": "Distinct white pointed raceme tips and noninflated straight wing petals contrasted with L. subcarnosus"
+  },
+  "habitat_source_reported": "Rocky limestone soils and clay",
+  "flowering_source_reported": "Apr–May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora describes Texas endemism and roadside cultivation, but neither confirms BONAP county evidence",
+    "Historical name and morphology require independent corroboration before identification scoring",
+    "Regional distribution statements do not prove Hays County nativity"
+  ]
+}
