@@ -1,0 +1,32 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "status": "source_transcribed_not_independently_corroborated",
+  "evidence_scope": "Factual structured summary of printed species treatment and diagnostic key, not independently verified",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Historical name concepts need separate modern taxonomic corroboration before scoring",
+    "Regional habitat and range statements do not establish Hays County nativity",
+    "Source treats only var. leucophaea; repository species-level identity is broader and cannot inherit this variety's full characters without verification",
+    "Source prints stipules 10–40 cm long, potentially a typographic unit error; withheld pending primary-page verification"
+  ],
+  "source_name": "Baptisia bracteata var. leucophaea",
+  "printed_page": 638,
+  "morphology_source_reported": {
+    "growth_habit": "Herbaceous perennial (genus treatment), low, often broader than tall, densely pubescent",
+    "height_cm": "21–36",
+    "stems": "Branching at or near ground",
+    "leaves": "Palmately 3-foliolate (genus treatment); central leaflet 30–60 mm long",
+    "inflorescence": "Reclining or pendent racemes; cream-colored petals (key)",
+    "floral_bract_length_mm": "10–30; persistent",
+    "pedicel_length_mm": "15–35",
+    "corolla_length_mm": "25–38",
+    "fruit_length_cm": "(2–)3–4(–5)",
+    "fruit_width_cm": "1.5–2.5",
+    "fruits": "Black, tapering into narrow beak; pubescent, rarely glabrate later",
+    "diagnostic_characters": "Dense foliage hairs and pendent flower racemes below leaves distinguish from other local Baptisia in key"
+  },
+  "habitat_source_reported": "Sandy open woods, prairies, pastures and roadsides",
+  "flowering_source_reported": "Late Mar–Apr"
+}
