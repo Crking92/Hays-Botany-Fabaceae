@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Parkinsonia aculeata L.",
+  "printed_page": 682,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Shrub or small tree to ca. 12 m",
+    "branches": "Green, prominently armed with sharp spines",
+    "leaves": "Bipinnately compound with 2(–4) pinnae; green flattened pinna rachis; leaflets 2–5(–9) mm long",
+    "inflorescence": "Racemes",
+    "petal_length_mm": "8–13",
+    "flowers": "Yellow petals, 10 separate inconspicuous stamens",
+    "fruits": "Usually 5–10 cm long, constricted between seeds"
+  },
+  "habitat_source_reported": "Low sandy or gravelly limestone areas",
+  "flowering_source_reported": "Spring–fall",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora explicitly describes uncertainty about whether Texas populations are indigenous or adventive; BONAP county nativity requires separate review",
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
