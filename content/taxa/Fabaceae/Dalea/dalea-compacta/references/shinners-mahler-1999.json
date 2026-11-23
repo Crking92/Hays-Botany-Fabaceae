@@ -2,7 +2,7 @@
   "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
   "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
   "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
-  "source_name": "Dalea compacta var. pubescens",
+  "source_name": "Dalea compacta Spreng. var. pubescens (A. Gray) Barneby",
   "printed_page": 648,
   "source_reported_historical_synonyms": [
     "Dalea helleri Shinners",
@@ -22,6 +22,19 @@
   "cautions": [
     "Only var. pubescens treated in Flora; do not generalize all measurements to species-level Dalea compacta",
     "Kew POWO recognizes Dalea compacta and var. pubescens as accepted taxon concepts",
-    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
-  ]
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review",
+    "SOURCE SCOPE: Flora p.648 treats var. pubescens, not an unrestricted species description. Do not apply its traits to all varieties of D. compacta.",
+    "Flora lists historical names Dalea helleri Shinners and Petalostemon pulcherrimus (A. Heller) A. Heller."
+  ],
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "checked_source_key_and_taxon_scope",
+    "printed_pages": [
+      648
+    ],
+    "findings": [
+      "SOURCE SCOPE: Flora p.648 treats var. pubescens, not an unrestricted species description. Do not apply its traits to all varieties of D. compacta.",
+      "Flora lists historical names Dalea helleri Shinners and Petalostemon pulcherrimus (A. Heller) A. Heller."
+    ]
+  }
 }
