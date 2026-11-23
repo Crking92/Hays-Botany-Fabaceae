@@ -20,8 +20,12 @@
   "status": "source_transcribed_not_independently_corroborated",
   "nativity_bonap_status": "not_assessed_separately",
   "cautions": [
-    "1999 Flora treats as subspecies, inventory as variety; rank crosswalk is provisional and not a claim that every current taxonomy recognizes same rank",
+    "Kew accepts varietal rank and synonymizes 1999 Flora's subsp. leavenworthii; species-level morphology requires independent QA",
     "Taxon concepts require independent name reconciliation before identification scoring",
     "Regional occurrence is not evidence of local BONAP nativity"
-  ]
+  ],
+  "accepted_name": "Vicia ludoviciana var. leavenworthii (Torr. & A.Gray) Broich",
+  "taxon_crosswalk_status": "accepted_name_confirmed_kew_powo",
+  "taxonomic_reference_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60446051-2",
+  "qa_verified_at": "2026-11-23"
 }
