@@ -1,0 +1,31 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Acacia farnesiana (L.) Willd.",
+  "printed_page": 624,
+  "source_reported_historical_synonyms": [
+    "Acacia smallii Isely",
+    "Acacia minuta subsp. densiflora (Alexander ex Small) Beauch. (historic Texas concept)"
+  ],
+  "taxon_crosswalk_status": "corroborated_by_kew_powo",
+  "taxonomic_crosswalk_note": "Kew POWO confirms Acacia farnesiana synonym of Vachellia farnesiana; 1999 Flora discusses older Texas species concepts",
+  "taxonomic_reference_checked_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1099713-2",
+  "morphology_source_reported": {
+    "habit": "Spiny shrub or small tree, usually 2–4 m tall",
+    "leaves": "Bipinnate, with 2–6 pinna pairs [key]",
+    "spines": "Straight paired stipular spines [key]",
+    "petiole": "Usually bears small circular gland",
+    "flowers": "Fragrant globose yellow heads, bright yellow filaments [key]",
+    "fruits": "Usually (2–)3–8 cm long, approximately round in cross-section [key]"
+  },
+  "habitat_source_reported": "Chiefly sandy or silty ground",
+  "flowering_source_reported": "Mar–Apr",
+  "status": "source_transcribed_with_taxonomic_crosswalk_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Do not infer Hays County nativity from Flora regional statements",
+    "Morphology not independently corroborated or approved for ID scoring",
+    "For Senegalia greggii / wrightii, var-level 1999 morphology must remain segregated by current taxon"
+  ]
+}
