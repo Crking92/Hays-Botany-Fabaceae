@@ -27,8 +27,14 @@
     "Do not transfer characters to other Senna species or infer locality",
     "Source prints fruit 2–4 × 0.5–8 cm: second dimension suspected typographic anomaly; width withheld.",
     "No Texas flowering period documented in this treatment.",
-    "Do not treat region-level southern Texas nativity as BONAP Hays county evidence"
+    "Do not treat region-level southern Texas nativity as BONAP Hays county evidence",
+    "Kew confirms author citation (B.L.Rob.) H.S.Irwin & Barneby; the 2024 treatment uses an expanded basionym attribution in the synonym discussion. Preserve each source's own authorship statement."
   ],
   "source_treatment_location": "Plants 2024 13(17):2477, Senna taxon treatment and key",
-  "qa_verified_at": "2026-11-23"
+  "qa_verified_at": "2026-11-23",
+  "accepted_name": "Senna pilosior (B.L.Rob.) H.S.Irwin & Barneby",
+  "taxon_crosswalk_status": "accepted_name_confirmed_kew_powo",
+  "taxonomic_reference_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A518356-1",
+  "reconciliation_status": "taxonomic_name_resolved_species_morphology_partially_held",
+  "reconciliation_checked_at": "2026-11-23"
 }
