@@ -1,0 +1,25 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Tephrosia lindheimeri A. Gray",
+  "printed_page": 700,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "leaflet_count": "(5–)7–15(–19)",
+    "leaflet_length_mm": "11–37",
+    "flower_length_mm": "7–21",
+    "flowers": "Rose-purple corolla; standard with white spot near base",
+    "fruit_length_mm": "25–50",
+    "fruit_width_mm": "7–8.5"
+  },
+  "habitat_source_reported": "Sandy areas",
+  "flowering_source_reported": "Apr–Sep",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora reports Texas endemism but local county nativity remains unassessed",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
