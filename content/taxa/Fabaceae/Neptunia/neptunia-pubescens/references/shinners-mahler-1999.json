@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Neptunia pubescens Benth.",
+  "printed_page": 680,
+  "source_reported_historical_synonyms": [],
+  "morphology_source_reported": {
+    "growth_habit": "Species treatment is diagnostic comparison with N. lutea, not a complete description",
+    "leaflet_pairs_per_pinna": "14–43",
+    "flowers_per_bud_head": "20–30",
+    "flowers": "Upper head flowers with anther-bearing stamens; lower smaller flowers with staminodes",
+    "calyx_length_mm": "2–2.7",
+    "fruit_stipe_length_mm": "0–4(–5)",
+    "varietal_comparison": "var. pubescens fruit stipe longer than calyx, fruit tapered to stipe, 3–6 pinna pairs; var. microcarpa stipe usually shorter than calyx, fruit rounded to stipe, usually 2–3 pinna pairs"
+  },
+  "habitat_source_reported": "Primarily southeastern coastal plain; historical flora discusses near-Travis records",
+  "flowering_source_reported": null,
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Only abbreviated comparative treatment, not a full morphology, habitat or phenology profile",
+    "Flora cites both var. microcarpa and var. pubescens; taxon-rank assignments unresolved",
+    "No flowering period supplied in source treatment",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
