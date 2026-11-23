@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Pediomelum latestipulatum (Shinners) Mahler",
+  "printed_page": 686,
+  "source_reported_historical_synonyms": [
+    "Psoralea latestipulata Shinners (historical basionym of species; shown under var. latestipulatum)"
+  ],
+  "morphology_source_reported": {
+    "habit": "Erect stems 7–18(–45) cm tall",
+    "root": "Rootstock usually turnip-shaped",
+    "leaves": "Leaflets usually elliptic to oblanceolate, 5–15 mm wide; leaves and fruits gland-dotted",
+    "flowers": "18–26 mm long, blue, lavender or purple petals",
+    "fruit_body_length_mm": "5–6.5",
+    "fruit_beak_length_mm": "5–6, slender",
+    "variety_diagnostics": "Var. appressum with appressed stem hairs; var. latestipulatum with erect stem hairs; Flora calls pubescence the only consistent distinction"
+  },
+  "habitat_source_reported": "Rocky or sandy prairies",
+  "flowering_source_reported": "Apr–mid-May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora states other size characters overlap between varieties; do not generalize varietal pubescence as a species-wide state",
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
