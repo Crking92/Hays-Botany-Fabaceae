@@ -6,13 +6,17 @@
   "printed_page": 674,
   "source_reported_historical_synonyms": [],
   "morphology_source_reported": {
-    "growth_habit": "Annual or short-lived perennial [genus treatment; life cycle not specified in species paragraph]",
+    "growth_habit": "Annual [species placed in annual branch of 1999 Flora identification key, printed p. 674]",
     "stems": "Ascending or trailing, to 100 cm long",
     "leaflet_length_mm": "10–20",
     "raceme_length_mm": "7–10",
     "flowers_per_raceme": "8–20(–50)",
     "fruits": "Curved/kidney-shaped, with one partial coil",
-    "fruit_diameter_mm": "2–3"
+    "fruit_diameter_mm": "2–3",
+    "stipules": "Shallowly toothed [key, p. 674]",
+    "pubescence": "Stems and leaflets pubescent [key, p. 674]",
+    "petals": "Yellow, 1.5–2 mm long [key, p. 674]",
+    "prickles": "Ovary and fruits without prickles [key, p. 674]"
   },
   "habitat_source_reported": "Planted pasture; naturalized on roadsides, lawns and waste places",
   "flowering_source_reported": "Apr–May, less commonly to Jul",
@@ -21,6 +25,12 @@
   "cautions": [
     "Flora reports introduction from Eurasia; botanical morphology does not establish local nativity",
     "Source morphology has not been independently corroborated or approved for identification scoring",
-    "Regional habitat and distribution do not establish Hays County nativity"
-  ]
+    "Regional habitat and distribution do not establish Hays County nativity",
+    "QA correction: previous 'short-lived perennial' assertion contradicted the Flora key; annual is keyed explicitly"
+  ],
+  "qa_audit": {
+    "date": "2026-11-23",
+    "scope": "Original species treatment and dichotomous key, printed page 674",
+    "status": "key_vs_species_reconciled"
+  }
 }
