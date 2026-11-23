@@ -1,0 +1,26 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Dalea tenuis",
+  "printed_page": 651,
+  "source_reported_historical_synonyms": [
+    "Dalea stanfieldii (Small) Shinners",
+    "Petalostemon tenuis (J.M.Coult.) A.Heller"
+  ],
+  "morphology_source_reported": {
+    "stems": "Erect or ascending, 15–50 cm tall, glabrous or inconspicuously pubescent, widely branched",
+    "leaves": "3–5 glabrous or nearly glabrous leaflets, 5–12 mm long",
+    "inflorescence": "Fruit-stage spikes 10–30 mm long on slender 1.5–15 cm peduncles",
+    "flowers": "Pink-purple petals",
+    "diagnostic_characters": "Long slender peduncles versus the essentially sessile spikes of Dalea reverchonii"
+  },
+  "habitat_source_reported": "Eroding limestone slopes",
+  "flowering_source_reported": "Jun",
+  "taxonomic_reference_checked_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A76388-2",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Does not establish Hays County occurrence or nativity; do not export to identification scoring without taxon review"
+  ]
+}
