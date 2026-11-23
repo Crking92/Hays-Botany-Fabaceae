@@ -1,0 +1,28 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Sesbania herbacea (Mill.) McVaugh",
+  "printed_page": 696,
+  "source_reported_historical_synonyms": [
+    "Emerus herbacea Mill.",
+    "Sesbania exaltata (Raf.) Rydb. ex A.W. Hill (source places question mark before synonym)"
+  ],
+  "morphology_source_reported": {
+    "habit": "Large freely branched annual to 4 m tall",
+    "leaves": "Once evenly pinnate, numerous leaflets [genus]",
+    "flowers": "Yellow; axillary racemes [genus]",
+    "fruits": "Long and narrow, glabrous, with thickened sutures; beak 5–10 mm long; stipe 0–4 mm",
+    "seeds": "30–40 per fruit",
+    "diagnosis": "Long narrow unwinged pods vs. 4-winged pods of S. drummondii"
+  },
+  "habitat_source_reported": "Disturbed places",
+  "flowering_source_reported": "Jul–Oct",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Source explicitly questions certain older synonyms and explains historical use of Sesbania exaltata; nomenclature requires modern taxonomic confirmation",
+    "Taxon concepts require independent name reconciliation before identification scoring",
+    "Regional occurrence is not evidence of local BONAP nativity"
+  ]
+}
