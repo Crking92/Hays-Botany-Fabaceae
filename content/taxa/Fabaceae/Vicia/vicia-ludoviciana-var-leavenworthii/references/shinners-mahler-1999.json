@@ -13,7 +13,9 @@
     "peduncles": "Flowers open before peduncle elongation; at flowering 0.5–3.5 cm long and 1/8–1/2 as long as subtending leaf; at fruit 2–8.5 cm",
     "raceme_flower_count": "1–5(–6)",
     "corolla_color": "Pinkish white to light lavender",
-    "leaflet_count": "(7–)11–15(–17)"
+    "leaflet_count": "(7–)11–15(–17)",
+    "fruiting_peduncle_length_cm": "2–8.5 [subsp. leavenworthii key, p.707]",
+    "flowering_peduncle_length_cm": "0.5–3.5 [subsp. leavenworthii key, p.707]"
   },
   "habitat_source_reported": "Rocky, clayey or occasionally sandy prairies and roadsides",
   "flowering_source_reported": "Apr–May",
@@ -22,10 +24,19 @@
   "cautions": [
     "Kew accepts varietal rank and synonymizes 1999 Flora's subsp. leavenworthii; species-level morphology requires independent QA",
     "Taxon concepts require independent name reconciliation before identification scoring",
-    "Regional occurrence is not evidence of local BONAP nativity"
+    "Regional occurrence is not evidence of local BONAP nativity",
+    "Peduncle length changes strongly from flowering to fruiting; season and stage are mandatory when using lengths to discriminate this variety."
   ],
   "accepted_name": "Vicia ludoviciana var. leavenworthii (Torr. & A.Gray) Broich",
   "taxon_crosswalk_status": "accepted_name_confirmed_kew_powo",
   "taxonomic_reference_url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60446051-2",
-  "qa_verified_at": "2026-11-23"
+  "qa_verified_at": "2026-11-23",
+  "additional_source_pages": {
+    "genus": 706,
+    "subspecies_key_and_treatment": 707
+  },
+  "qa_audit": {
+    "date": "2026-11-23",
+    "status": "flower_versus_fruit_stage_explicit"
+  }
 }
