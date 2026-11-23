@@ -1,0 +1,30 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Medicago polymorpha L.",
+  "printed_page": 674,
+  "source_reported_historical_synonyms": [
+    "Medicago hispida Gaertn.",
+    "Medicago polymorpha var. vulgaris (Benth.) Shinners"
+  ],
+  "morphology_source_reported": {
+    "stems": "Decumbent to ascending, 5–50 cm long",
+    "leaflet_length_mm": "6–15",
+    "leaflets": "Terminal leaflet relatively long-stalked",
+    "flowers_per_headlike_raceme": "(1–)3–5(–8)",
+    "petal_length_mm": "2.5–4",
+    "fruits": "Bur-like, coiled 2–5 turns, with hooked prickles generally present",
+    "fruit_diameter_mm_excluding_prickles": "4–6",
+    "fruit_prickle_length_mm": "Usually 2–3, rarely absent"
+  },
+  "habitat_source_reported": "Sandy, less often clayey, pastures, lawns and roadsides",
+  "flowering_source_reported": "Apr–early May",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "1999 Flora documents Eurasian introduction",
+    "Source morphology has not been independently corroborated or approved for identification scoring",
+    "Regional habitat and distribution do not establish Hays County nativity"
+  ]
+}
