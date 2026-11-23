@@ -1,0 +1,27 @@
+{
+  "source_citation": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "source_pdf": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "source_url": "https://fwbg.org/science-conservation/brit-press/illustrated-flora-of-north-central-texas-online/",
+  "source_name": "Rhynchosia minima (L.) DC.",
+  "printed_page": 691,
+  "source_reported_historical_synonyms": [
+    "Rhynchosia minima var. diminifolia Walraven"
+  ],
+  "morphology_source_reported": {
+    "habit": "Trailing or twining perennial with thickened or branched roots [genus description]; minutely pubescent",
+    "raceme_length_cm": "Usually 4.5–16.5",
+    "flower_color": "Yellow, sometimes brown-tinged",
+    "corolla_length_mm": "4–7",
+    "fruits": "Scimitar-shaped, 12–20 mm long, 3–4.5 mm wide",
+    "diagnostics": "Conspicuous racemes with 5–15 flowers [key], rather than 1–3 axillary flowers of R. senna"
+  },
+  "habitat_source_reported": "Clay soils",
+  "flowering_source_reported": "Apr–Dec",
+  "status": "source_transcribed_not_independently_corroborated",
+  "nativity_bonap_status": "not_assessed_separately",
+  "cautions": [
+    "Flora cites specimen no farther north than Travis County in historical area coverage",
+    "Historical taxon concept requires reconciliation before identification-scoring use",
+    "Regional habitat does not establish local BONAP nativity"
+  ]
+}
