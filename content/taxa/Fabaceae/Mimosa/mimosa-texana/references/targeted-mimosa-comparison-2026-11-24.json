@@ -1,0 +1,52 @@
+{
+  "record_type": "targeted_botanical_reconciliation",
+  "date": "2026-11-24",
+  "inventory_taxon": "Mimosa texana (A.Gray) Small",
+  "scope": "Taxonomic split, morphological variation, field-identification evidence; no county-level distribution analysis",
+  "prior_records_checked": [
+    "content/taxa/Fabaceae/Mimosa/mimosa-texana/species.json",
+    "content/taxa/Fabaceae/Mimosa/mimosa-biuncifera/references/shinners-mahler-1999.json"
+  ],
+  "findings": [
+    {
+      "issue": "Distinguish M. texana from M. biuncifera without treating the latter as a synonym",
+      "decision": "Preserve M. texana as distinct from M. biuncifera. Original Barneby & Isely 1986 split is explained by UT Plant Resources Center; historical M. aculeaticarpa var. biuncifera corresponds to biuncifera, not texana.",
+      "references": [
+        "https://w3.biosci.utexas.edu/prc/DigFlora/Mimosa/M_biuncif.html",
+        "https://powo.science.kew.org/taxon/162024-2"
+      ]
+    },
+    {
+      "issue": "Competing numerical descriptions for leaf-pinna and leaflet count",
+      "decision": "Document rather than silently normalize: Barneby & Isely (1986) as excerpted by UT: pinnae 1–4 pairs and longest pinna at most 7 leaflet pairs; UT's discussion citing Barneby 1991 reports M. texana 1–5(–6) pairs of pinnae and 3–9(–10) leaflet pairs. Thus broad population descriptions and a narrow comparison key differ. Do not use seven leaflets as an absolute cutoff.",
+      "references": [
+        "https://w3.biosci.utexas.edu/prc/DigFlora/Mimosa/M_biuncif.html",
+        "https://w3.biosci.utexas.edu/prc/DigFlora/Mimosa/mimosa-dif.html",
+        "https://www.worldfloraonline.org/taxon/wfo-0000177023"
+      ]
+    },
+    {
+      "issue": "Field ID against M. borealis and M. aculeaticarpa var. biuncifera",
+      "decision": "Favor combination of prickle placement, flower corolla lobing, pod structure. In UT Hays field comparison M. texana often has a prickle aligned below petiole; M. borealis prickles more randomly along stem. M. borealis petals separate nearly to base, M. texana petals united; M. aculeaticarpa var. biuncifera has more strongly constricted pod margins and more infrastipular prickles. These are tendencies, not single-character guarantees.",
+      "references": [
+        "https://w3.biosci.utexas.edu/prc/DigFlora/Mimosa/mimosa-dif.html",
+        "https://w3.biosci.utexas.edu/prc/DigFlora/Mimosa/M_biuncif.html"
+      ]
+    },
+    {
+      "issue": "Historical and accepted scientific name",
+      "decision": "Kew accepts Mimosa texana; Mimosa borealis var. texana is an explicitly listed homotypic synonym. Other older names listed by LBJ Wildflower Center should be retained as source-attributed alternatives rather than used to merge taxa.",
+      "references": [
+        "https://powo.science.kew.org/taxon/162024-2",
+        "https://www.wildflower.org/plants/result.php?id_plant=MITE6"
+      ]
+    }
+  ],
+  "status": "TAXONOMY_AND_DIAGNOSTIC_SCOPE_RECONCILED; CHARACTERS_NOT_ADDED_TO_PUBLIC_ID_SCORING",
+  "pending": [
+    "Any edit to the learner's absolute seven-pair threshold should be backed by comparison design and provenance in a separate integration pass.",
+    "No specimen-level reidentification attempted; all existing photographs and image credits preserved."
+  ],
+  "bonap": "EXPLICITLY_DEFERRED",
+  "integrity": "Additive research only; no species.json/photo/gallery changes"
+}
