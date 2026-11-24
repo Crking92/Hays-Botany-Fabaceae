@@ -1,0 +1,45 @@
+{
+  "source": {
+    "authors": "Estrada Castillón et al.",
+    "year": 2025,
+    "title": "The Fabaceae in Northeastern Mexico (Subfamily Papilionoideae, Tribes Amorpheae, Brongniartieae, and Dalbergieae)",
+    "journal": "Plants 14(5), 789",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11902552/",
+    "doi": "10.3390/plants14050789"
+  },
+  "bonap_review": "DEFERRED_BY_OWNER",
+  "provenance_note": "New research record; preserves preexisting source extracts, species JSON, photographic files, licenses and attribution; no learner scoring or public site changes.",
+  "record_type": "targeted_infraspecific_source_reconciliation",
+  "inventory_name": "Dalea neomexicana (A.Gray) Cory",
+  "previous_source": "references/nybg-barneby-monograph.json",
+  "gap_addressed": "Existing monograph summary flags unreviewed infraspecific variability; 2025 regional study supplies a differential key for three varieties.",
+  "source_treatment_location": "Dalea identification key couplets 6–8 and three varietal treatments near web lines 633–654",
+  "varieties_directly_reported": {
+    "var_neomexicana": {
+      "leaflet_margin": "Strongly undulate because of submarginal glands",
+      "submarginal_glands_mm": "0.2–0.3 diameter",
+      "leaflet_pubescence": "Both surfaces pubescent",
+      "pedicel_glands_mm": "0.15–0.4 long",
+      "calyx_teeth_mm": "3.5–5.7",
+      "flower_colors": "Bicolored white and crimson or lilac"
+    },
+    "var_longipila": {
+      "leaflet_margin": "Entire, not strongly wavy",
+      "submarginal_glands_mm": "0.1–0.2 diameter",
+      "leaflet_pubescence": "Both surfaces pubescent",
+      "pedicel_glands_mm": "0.15–0.4 long",
+      "calyx_teeth_mm": "3.5–5.7",
+      "flower_colors": "Bicolored white and crimson or lilac"
+    },
+    "var_megaladenia": {
+      "adaxial_pubescence": "Upper leaflet surface glabrous or hairy only at margins",
+      "pedicel_glands_mm": "0.5–0.7 long",
+      "calyx_teeth_mm": "3.5 or shorter",
+      "calyx_glands": "Absent or inconspicuous"
+    }
+  },
+  "reconciliation": "2025 key corroborates why earlier Barneby monograph cautioned variability. Do not assign measurements specific to one variety to an undifferentiated D. neomexicana specimen.",
+  "source_limitation": "Regional treatment covers northeastern Mexican varieties and supplies varietal differentials; this does not identify the variety of project photographs or prove all varieties occur in Hays County.",
+  "integration_flag": "Replace any absolute 'purple-violet only' learner criterion with source-attributed bicolored corolla possibility; exact variety remains unresolved",
+  "status": "VARIETAL_CHARACTERS_RECONCILED_TO_MODERN_TREATMENT_SPECIMEN_VAR_UNKNOWN"
+}
