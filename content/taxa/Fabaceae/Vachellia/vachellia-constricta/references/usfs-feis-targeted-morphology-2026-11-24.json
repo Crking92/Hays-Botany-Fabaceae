@@ -1,0 +1,40 @@
+{
+  "record_type": "targeted_authoritative_secondary_morphology",
+  "review_date": "2026-11-24",
+  "inventory_name": "Vachellia constricta (Benth.) Seigler & Ebinger",
+  "source": {
+    "citation": "Gucker, Corey L. 2004. Vachellia constricta, whitethorn acacia. Fire Effects Information System. USDA Forest Service.",
+    "url": "https://research.fs.usda.gov/feis/species-reviews/vaccon",
+    "doi": "10.2737/feis-species-review-vaccon",
+    "sections": [
+      "Taxonomy",
+      "Botanical Description",
+      "Seasonal Development"
+    ]
+  },
+  "name_reconciliation": {
+    "accepted_name": "Vachellia constricta",
+    "documented_synonym": "Acacia constricta Benth.",
+    "cross_check": "Kew POWO also lists Acacia constricta as synonym",
+    "kew_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60441207-2",
+    "status": "ALREADY_RECORDED_IN_SPECIES_JSON; SECONDARY_SOURCE_CORROBORATED"
+  },
+  "source_reported_morphology": {
+    "growth_habit": "Deciduous shrub, up to 6 m tall",
+    "spines": "Straight, paired at nodes, 3–6 mm",
+    "leaves": "Compound, 2.5–5 cm long in Forest Service review; mentions 3–6 paired leaf units without clarifying pinnae versus leaflets",
+    "extrafloral_nectaries": "Reported along leaf rachises",
+    "fruit": "Legume with woody/papery walls, constricted or compressed tightly between seeds",
+    "seed": "Oblong and flattened, approximately 5–6 mm long and 3 mm wide",
+    "flowering": "Spring and sometimes summer/fall in Southwestern US; not Hays-specific"
+  },
+  "source_qualification": "FEIS explicitly warns its botanical description is not intended as an identification key; use as morphology corroboration only, not hard-coded diagnostic thresholds.",
+  "decision": "Species-specific morphology gap in 1999 regional flora addressed through named USFS review; taxonomic synonym corroborated.",
+  "status": "SECONDARY_MORPHOLOGY_CORROBORATED_NOT_FINAL_DIAGNOSTIC_QA",
+  "remaining": [
+    "Verify leaflet/pinna terminology with a proper dichotomous flora before learner trait scoring.",
+    "Do not transfer desert-region phenology to Hays County."
+  ],
+  "bonap": "DEFERRED",
+  "preservation": "Additive research file; species record, photos, credits and gallery unchanged"
+}
