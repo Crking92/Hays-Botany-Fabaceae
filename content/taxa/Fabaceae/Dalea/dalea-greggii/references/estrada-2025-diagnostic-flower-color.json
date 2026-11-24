@@ -1,0 +1,35 @@
+{
+  "source": {
+    "authors": "Estrada Castillón et al.",
+    "year": 2025,
+    "title": "The Fabaceae in Northeastern Mexico (Subfamily Papilionoideae, Tribes Amorpheae, Brongniartieae, and Dalbergieae)",
+    "journal": "Plants 14(5), 789",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11902552/",
+    "doi": "10.3390/plants14050789"
+  },
+  "bonap_review": "DEFERRED_BY_OWNER",
+  "provenance_note": "New research record; preserves preexisting source extracts, species JSON, photographic files, licenses and attribution; no learner scoring or public site changes.",
+  "record_type": "targeted_morphology_source_reconciliation",
+  "inventory_name": "Dalea greggii A.Gray",
+  "previous_source": "references/npsot-gregg-dalea.json",
+  "gap_addressed": "Prior horticultural source calls it trailing herbaceous groundcover with purple flowers; technical 2025 treatment describes a silvery-villous low scrambling subshrub with bicolored pea flowers.",
+  "morphology_directly_reported": {
+    "habit": "Small scandent subshrub; branches arch, then root upon touching the ground, forming colonies up to approximately 1 m across",
+    "indumentum": "Silvery-villous hairs",
+    "leaflets": "2–4 pairs per leaf",
+    "flower_spikes": "Compact, globose to elongated-cylindrical, generally 0.5–3 cm long",
+    "corolla": "Bicolored; banner begins pale yellow or cream and reddens with age; wings and keel pink or purple",
+    "stamens": 10
+  },
+  "differentiation": {
+    "Dalea_gypsophila": "Similar rooting behavior but D. gypsophila has white papillae on leaflets; D. greggii has silvery-villous pubescence and lacks those white papillae.",
+    "Dalea_frutescens": "D. frutescens may occasionally root at stem tips but has glabrous rather than silvery-villous branch surfaces."
+  },
+  "reconciliation": "Not a reliable species-level contradiction: horticultural 'purple flowers' describes the visual impression, whereas the technical treatment separates banner versus wing/keel colors. 'Trailing groundcover' is horticultural habit; 'subshrub' describes woody character. Preserve both attributions; prefer source-specified individual petal colors in diagnostic material.",
+  "unresolved": [
+    "No specimen/photo-level test performed; do not relabel current photos by petal color without viewing actual image",
+    "No county-level evaluation or BONAP range determination"
+  ],
+  "status": "HABIT_AND_BICOLORED_FLOWERS_CORROBORATED_PREVIOUS_SUMMARY_REFINED",
+  "integration_flag": "Future learner should teach spreading silvery rooting stems and bicolored flowers, not purple-only absolute rule"
+}
