@@ -1,0 +1,30 @@
+{
+  "record_type": "targeted_nomenclature_reconciliation",
+  "review_date": "2026-11-24",
+  "inventory_taxon": "Tephrosia potosina Brandegee",
+  "existing_records_checked": [
+    "content/taxa/Fabaceae/Tephrosia/tephrosia-potosina/species.json"
+  ],
+  "finding": "Accepted name Tephrosia potosina Brandegee is supported by Kew POWO and ITIS. Cracca potosina (Brandegee) Standl. is a synonym. This resolves the historical-name crosswalk only, not its species-level morphology.",
+  "references": [
+    {
+      "authority": "Kew Plants of the World Online",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:250405-2"
+    },
+    {
+      "authority": "ITIS accepted taxon report",
+      "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=26992"
+    },
+    {
+      "authority": "IPNI nomenclatural record",
+      "url": "https://www.ipni.org/n/250405-2"
+    }
+  ],
+  "status": "ACCEPTED_NAME_AND_SYNONYM_RESOLVED_MORPHOLOGY_SOURCE_GAP_REMAINS",
+  "unresolved": [
+    "No species-specific authoritative morphology treatment was established in this focused pass; do not import genus-wide morphology as verified species-level description.",
+    "Current image in species.json remains provisional; no independent taxon/image verification performed."
+  ],
+  "bonap": "DEFERRED",
+  "preservation": "Additive reference only; no site, photos, or source files changed"
+}
