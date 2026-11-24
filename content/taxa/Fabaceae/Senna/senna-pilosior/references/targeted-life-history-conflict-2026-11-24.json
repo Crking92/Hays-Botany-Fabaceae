@@ -1,0 +1,29 @@
+{
+  "record_type": "targeted_authoritative_source_conflict",
+  "review_date": "2026-11-24",
+  "inventory_name": "Senna pilosior (B.L.Rob. ex J.F.Macbr.) H.S.Irwin & Barneby",
+  "existing_species_json_checked": true,
+  "issue": "Life history conflict: published sources disagree despite matching accepted taxon.",
+  "sources": [
+    {
+      "authority": "Kew Plants of the World Online",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:518356-1",
+      "statement": "Annual herb"
+    },
+    {
+      "authority": "The Fabaceae in Northeastern Mexico (2024), Plants 13(17):2477",
+      "url": "https://www.mdpi.com/2223-7747/13/17/2477",
+      "statement": "Herbaceous perennial",
+      "other_taxon_specific_characters": "Stems with retrorse simple hairs, gland-like hairs and stiff setae; exactly one leaflet pair, leaflets 1.3–1.8 times longer than broad; gland at leaflet insertion; erect pod ca. 2–4 cm with pubescence and persistent sepals"
+    }
+  ],
+  "decision": "GENUINE SOURCE CONFLICT REMAINS. Do not infer annual/perennial state or score life history in learner. Preserve both authority-specific statements with dates; independent specimen study would be necessary to settle biology.",
+  "verified_without_conflict": [
+    "Both authorities use Senna pilosior as accepted species.",
+    "The published 2024 species treatment supplies the documented single leaflet pair and mixture of retrorse hairs and setae, matching previously saved species.json diagnostics."
+  ],
+  "status": "MORPHOLOGY_RECONFIRMED_LIFE_HISTORY_CONFLICT_DOCUMENTED",
+  "no_repeat_instruction": "Do not reopen this documented Kew-versus-2024 disagreement without new primary evidence or correction.",
+  "bonap": "DEFERRED",
+  "preservation": "Additive research only; original species.json including previously held conflict remains unchanged"
+}
