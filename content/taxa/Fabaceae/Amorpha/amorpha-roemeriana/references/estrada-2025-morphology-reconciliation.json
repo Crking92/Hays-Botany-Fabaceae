@@ -1,0 +1,39 @@
+{
+  "source": {
+    "authors": "Estrada Castillón et al.",
+    "year": 2025,
+    "title": "The Fabaceae in Northeastern Mexico (Subfamily Papilionoideae, Tribes Amorpheae, Brongniartieae, and Dalbergieae)",
+    "journal": "Plants 14(5), 789",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11902552/",
+    "doi": "10.3390/plants14050789"
+  },
+  "bonap_review": "DEFERRED_BY_OWNER",
+  "provenance_note": "New research record; preserves preexisting source extracts, species JSON, photographic files, licenses and attribution; no learner scoring or public site changes.",
+  "record_type": "targeted_authoritative_species_treatment",
+  "inventory_name": "Amorpha roemeriana Scheele",
+  "previous_source": "references/shinners-mahler-1999.json",
+  "gap_addressed": "1999 flora supplies a brief comparison, not a full treatment. This 2025 treatment gives species-level vegetative, floral and fruit characters.",
+  "source_treatment_location": "Taxonomic Treatment, Amorpha roemeriana, text near published web lines 290–299",
+  "morphology_directly_reported": {
+    "habit": "Shrub, approximately 1–2.8 m tall",
+    "stems_and_leaves": "Densely pulverulent, sometimes glabrous; gland-dotted",
+    "leaves": "5–20 cm long; 7–15 leaflets, each ca. 1–3.5 cm long, oblong to elliptic, bicolored; leaflet margins smooth or crenulate",
+    "inflorescences": "Loose racemes, ca. 5–18 cm long",
+    "calyx": "Funnel-shaped, with apical gland dots and triangular to toothlike lobes",
+    "flowers": "A single purplish banner petal, ca. 5–6 mm long, often emarginate; stamens ca. 10 mm long",
+    "fruit": "Oblong legume, ca. 6–7 mm long, glabrous to minutely strigillose and gland-dotted at apex"
+  },
+  "nomenclature": {
+    "accepted": "Amorpha roemeriana Scheele",
+    "synonym": "Amorpha texana Buckley",
+    "crosscheck": "Kew Plants of the World Online accepts A. roemeriana and lists A. texana as synonym",
+    "kew_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080190-2"
+  },
+  "scope_limits": [
+    "Measurements from northeastern Mexico taxonomic treatment; do not substitute as proof of Hays-specific phenotype or distribution",
+    "The 2025 treatment's basionym sequence has an apparent chronological anomaly, so preserve original published text but do not promote a basionym assertion without nomenclatural check",
+    "Earlier 1999 comparative leaf venation details remain cited separately"
+  ],
+  "status": "SPECIES_MORPHOLOGY_GAP_ADDRESSED_NAME_CROSSWALK_CORROBORATED",
+  "integration_flag": "Use source-stated species characters with caution; no public learner edits made"
+}
