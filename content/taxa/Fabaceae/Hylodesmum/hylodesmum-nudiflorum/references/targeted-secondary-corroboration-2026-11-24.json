@@ -1,0 +1,31 @@
+{
+  "record_type": "targeted_evidence_gap_reconciliation",
+  "date": "2026-11-24",
+  "inventory_name": "Hylodesmum nudiflorum (L.) H.Ohashi & R.R.Mill",
+  "previous_research": "references/missouri-plants-hylodesmum.json",
+  "taxonomy": {
+    "accepted_name": "Hylodesmum nudiflorum",
+    "synonym": "Desmodium nudiflorum DC.",
+    "authority": "Kew Plants of the World Online",
+    "source_url": "https://powo.science.kew.org/taxon/1014619-1",
+    "status": "RECONFIRMED_NOT_NEW_TAXON_CONFLICT"
+  },
+  "independent_morphology_corroboration": {
+    "source": "North Carolina State Extension Plant Toolbox, Hylodesmum nudiflorum",
+    "url": "https://plants.ces.ncsu.edu/plants/hylodesmum-nudiflorum/common-name/panicled-leaf-tick-trefoil/",
+    "traits": [
+      "Leafy vegetative stalks and generally leafless flowering stalks are distinct",
+      "Leaves comprise three leaflets clustered near leafy shoot's apex",
+      "Rose-purple flowers grouped on the largely leafless stalk",
+      "Fruits are loments divided into 1–4 segments, bearing hooked hairs"
+    ],
+    "caveat": "Extension's structured section labels fruit type 'capsule' but its specific description correctly calls it a legume-derived loment; retain loment, not capsule, for Fabaceae diagnostic data."
+  },
+  "unresolved": [
+    "Exact flower/fruit measurements only present in earlier MissouriPlants record; do not label them independently corroborated by this source",
+    "Regional ecology and flowering times in Missouri or North Carolina cannot be transferred to Hays County"
+  ],
+  "status": "NAME_RESOLVED_INDEPENDENT_DIAGNOSTIC_HABIT_CORROBORATED",
+  "bonap": "DEFERRED",
+  "preservation": "Additive research record; no existing species/photo fields modified"
+}
